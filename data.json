@@ -2280,7 +2280,7 @@
           "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
         }
       },
-      "tier": "基础资料",
+      "tier": "景点攻略",
       "lowCrowd": false,
       "mobility": "未核实",
       "updated": "2026-10-16",
@@ -2291,8 +2291,11 @@
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "date": "2018-12-26 16:07:34",
-        "caption": "潮州古城所在地区参考实景 · 原文件：Paifangjie_(cropped).jpg",
-        "modified": "网页展示时裁切，色彩未修改"
+        "caption": "潮州牌坊街参考实景",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Paifang Street, Chaozhou · reference photo"
+        }
       },
       "en": {
         "name": "Chaozhou Ancient City",
@@ -2300,6 +2303,22 @@
         "description": "Link Paifang Street, Guangji Bridge and Chaozhou food into a walkable city visit.",
         "transport": "Connect from Chaoshan high-speed station; walk in the historic core.",
         "food": "Beef hotpot; rice noodles; gongfu tea"
+      },
+      "city": "潮州",
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "古城街区与广济桥、寺庙或馆舍分开核对收费；本轮不把城墙评价当作全部古城口碑。",
+        "opening": "街巷与收费场馆各有开放安排；过桥、灯光及表演时间需临行确认。",
+        "reservation": "按所选场馆官方渠道核实预约和境外证件；不要仅依靠短视频时刻表。",
+        "route": "编辑建议牌坊街—甲第巷—韩江岸线分半天慢走；广济桥过桥另留时间并核对开闭。",
+        "accessibility": "石阶、坡道或海岸路段需按实际体力选择，连续无障碍路线尚未完整核实。",
+        "en": {
+          "admission": "Street access and admission to Guangji Bridge, temples or museums must be checked separately. Wall reviews do not cover the entire old city.",
+          "opening": "Streets and ticketed venues keep different hours. Recheck bridge, lighting and performance schedules.",
+          "reservation": "Confirm venue booking and overseas-document arrangements through official channels.",
+          "route": "Editorial half-day walk: Paifang Street, Jiadi Lane and the Hanjiang riverfront. Confirm bridge access separately.",
+          "accessibility": "Choose steps, slopes and coastal stretches according to fitness. Continuous accessible routes have not been fully checked."
+        }
       }
     },
     {
@@ -2307,29 +2326,94 @@
       "region": "广东",
       "regionFull": "广东省",
       "area": "华南",
-      "name": "连南瑶族自治县",
-      "theme": "县域探索",
-      "location": "广东省",
-      "description": "广东省县域旅行备选，详细交通、开放状态、实景和消费资料仍待逐项补核。",
-      "food": "牛肉火锅、粿条、工夫茶",
+      "name": "连南千年瑶寨",
+      "theme": "古村古建",
+      "location": "清远市 · 连南瑶族自治县三排镇南岗村",
+      "description": "依山层叠的排瑶村寨与峰林相望，可看古寨街巷和瑶族文化演出；坡道与石阶较多。",
+      "food": "特色菜与具体门店价格将在广东美食批次单独核对；本轮不新增未经核对的店铺推荐。",
       "season": "春秋冬",
-      "transport": "具体交通与接驳方式待核实。",
+      "transport": "到连南县城后还需往三排镇南岗村接驳；山下停车场与核心寨区之间的交通、收费另确认。",
       "budget": 320,
       "budgetStatus": "编辑估算",
-      "days": 2,
-      "wiki": null,
-      "sources": [],
-      "reviews": null,
-      "tier": "待调研",
-      "lowCrowd": true,
+      "days": 1,
+      "wiki": "Liannan Yao Autonomous County",
+      "sources": [
+        {
+          "url": "https://www.liannan.gov.cn/wlwz/dwzsk/wtjy/content/mpost_1688583.html",
+          "title": "连南政府：A级景区与千年瑶寨",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/liannan2941/1409681.html",
+          "title": "携程：千年瑶寨（平台信息与可见评价）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：Liannan Yao Autonomous County（地理与背景资料）",
+          "url": "https://en.wikipedia.org/wiki/Liannan_Yao_Autonomous_County",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/liannan2941/1409681.html",
+        "checked": "2026-10-16",
+        "samples": [
+          {
+            "author": "YoYo_6H0B6V1O",
+            "date": "2026-08-27",
+            "url": "https://you.ctrip.com/sight/liannan2941/1409681.html"
+          }
+        ],
+        "positive": "携程用户 YoYo_6H0B6V1O（2026-08-27）：提到山景、层叠古寨和民俗演出。",
+        "negative": "本轮可见评论多为相近的正面描述，未完成负面样本和跨平台验证，不能据此判断普遍口碑。",
+        "ticket": "首道票、演出和山下接驳可能分开计费；现行官方总价本轮未确认。",
+        "en": {
+          "positive": "Ctrip user YoYo_6H0B6V1O (2026-08-27): Highlighted mountain views, hillside buildings and cultural performances.",
+          "negative": "Visible comments are predominantly similar positive descriptions; negative sampling and cross-platform verification remain incomplete.",
+          "ticket": "Admission, shows and shuttles may be charged separately; a current official total was not confirmed."
+        }
+      },
+      "tier": "景点攻略",
+      "lowCrowd": false,
       "mobility": "未核实",
       "updated": "2026-10-16",
       "en": {
-        "name": "Liannan Yao Autonomous County",
-        "location": "County-level discovery lead",
-        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
-        "transport": "Transport routes and local connections have not yet been verified.",
-        "food": "Local specialties and individual restaurants still need research."
+        "name": "Liannan Millennium Yao Village",
+        "location": "Nangang Village, Sanpai, Liannan County, Qingyuan",
+        "description": "A hillside Pai Yao village with layered houses, karst views and cultural performances. Expect slopes and stone steps.",
+        "food": "Local dishes, individual restaurants and prices will be researched in a separate Guangdong food update.",
+        "transport": "Transfer from Liannan town to Nangang Village in Sanpai. Confirm parking-to-village shuttles and their charges."
+      },
+      "city": "清远",
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "首道票、演出和山下接驳可能分开计费；现行官方总价本轮未确认。",
+        "opening": "平台不同时点展示的演出排期有差异；“全天”不保证晚间售票、表演和接驳均可用。",
+        "reservation": "先致电0763-3175788核对当天节目、日夜票与接驳安排，再决定是否留宿。",
+        "route": "编辑建议半天沿寨内开放石阶上行，按体力回程；若住一晚，先核对行李搬运和回程车辆。",
+        "accessibility": "石阶、坡道或海岸路段需按实际体力选择，连续无障碍路线尚未完整核实。",
+        "en": {
+          "admission": "Admission, shows and shuttles may be charged separately; a current official total was not confirmed.",
+          "opening": "Different platform snapshots show different performance schedules. All-day listing does not guarantee evening ticketing or shuttles.",
+          "reservation": "Call +86 763 3175788 to confirm shows, ticket coverage and transfers before deciding on an overnight stay.",
+          "route": "Editorial plan: half a day on open village lanes, turning back as needed. For overnight stays, confirm luggage handling and return transport.",
+          "accessibility": "Choose steps, slopes and coastal stretches according to fitness. Continuous accessible routes have not been fully checked."
+        }
+      },
+      "image": {
+        "path": "assets/d181.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:%E5%8D%83%E5%B9%B4%E7%91%B6%E5%AF%A8%E5%8D%97%E5%B2%97%E6%8E%9220151004_-_panoramio_(54).jpg",
+        "author": "Qiu Mao",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "date": "Taken on 4 October 2015",
+        "caption": "连南南岗千年瑶寨参考实景",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Nangang Millennium Yao Village · reference photo"
+        }
       }
     },
     {
@@ -2337,29 +2421,82 @@
       "region": "广东",
       "regionFull": "广东省",
       "area": "华南",
-      "name": "南澳县",
-      "theme": "县域探索",
-      "location": "广东省",
-      "description": "广东省县域旅行备选，详细交通、开放状态、实景和消费资料仍待逐项补核。",
-      "food": "牛肉火锅、粿条、工夫茶",
+      "name": "南澳岛",
+      "theme": "海岛海岸",
+      "location": "汕头市 · 南澳县，后宅与青澳湾等片区",
+      "description": "海岛县的海湾、渔港与历史点位分布较广；青澳湾在岛东端，适合分两天游览，不照搬旧轮渡攻略。",
+      "food": "特色菜与具体门店价格将在广东美食批次单独核对；本轮不新增未经核对的店铺推荐。",
       "season": "春秋冬",
-      "transport": "具体交通与接驳方式待核实。",
+      "transport": "从汕头经南澳大桥进岛，再分段安排岛内交通；台风或拥堵时可能管制，公交班次与桥费出行前核实。",
       "budget": 320,
       "budgetStatus": "编辑估算",
       "days": 2,
-      "wiki": null,
-      "sources": [],
+      "wiki": "Nan'ao Island",
+      "sources": [
+        {
+          "url": "https://www.gd.gov.cn/zjgd/lyxx/lydt/content/post_165310.html",
+          "title": "广东政府：南澳岛海岛县背景",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://www.nanaodao.org/jingdian/scenic003-3.html",
+          "title": "南澳岛旅游网站：青澳湾位置",
+          "type": "旅游资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/nanaocounty958/17810.html",
+          "title": "携程：南澳岛（含过时方位与渡船信息，需谨慎）（平台信息与可见评价）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：Nan'ao County（地理与背景资料）",
+          "url": "https://en.wikipedia.org/wiki/Nan%27ao_County",
+          "type": "百科资料"
+        }
+      ],
       "reviews": null,
-      "tier": "待调研",
-      "lowCrowd": true,
+      "tier": "景点攻略",
+      "lowCrowd": false,
       "mobility": "未核实",
       "updated": "2026-10-16",
       "en": {
-        "name": "Nan’ao County",
-        "location": "County-level discovery lead",
-        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
-        "transport": "Transport routes and local connections have not yet been verified.",
-        "food": "Local specialties and individual restaurants still need research."
+        "name": "Nan’ao Island",
+        "location": "Houzhai and Qing’ao Bay areas, Nan’ao County, Shantou",
+        "description": "An island county with dispersed bays, fishing ports and heritage stops. Qing’ao Bay is in the east; allow two days rather than following outdated ferry itineraries.",
+        "food": "Local dishes, individual restaurants and prices will be researched in a separate Guangdong food update.",
+        "transport": "Reach the island via Nan’ao Bridge from Shantou, then plan local transfers. Check bridge restrictions, tolls and bus schedules before travel."
+      },
+      "city": "汕头",
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "岛内景点分别核对票价，桥费、停车、游船不属于同一张景区门票；本轮未确认现行完整费用。",
+        "opening": "开放海岸与场馆时间不同；恶劣天气、封桥与海滩管制优先于平台“全天”说明。",
+        "reservation": "先确认桥梁和住宿退改，再查目标景点预约；不保证境外手机号或证件可在所有小程序使用。",
+        "route": "编辑建议两天：后宅与沿途一段海岸；另一天青澳湾与附近开放点位。公交或自驾按实时情况安排。",
+        "accessibility": "石阶、坡道或海岸路段需按实际体力选择，连续无障碍路线尚未完整核实。",
+        "en": {
+          "admission": "Check each attraction separately. Bridge tolls, parking and boats are not part of one admission ticket.",
+          "opening": "Coastal access differs from venue hours. Bridge and beach restrictions override all-day platform listings.",
+          "reservation": "Confirm bridge access and accommodation cancellation terms, then attraction bookings. Overseas phone/document support varies.",
+          "route": "Editorial two-day outline: Houzhai and one coastal stretch, then Qing’ao Bay and nearby open stops. Adapt to local transport.",
+          "accessibility": "Choose steps, slopes and coastal stretches according to fitness. Continuous accessible routes have not been fully checked."
+        }
+      },
+      "image": {
+        "path": "assets/d182.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:20230203_Nan%27ao_Bridge.jpg",
+        "author": "Windmemories",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2023-02-03 18:07:11",
+        "caption": "南澳大桥参考实景（进岛交通，非青澳湾）",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Nan’ao Bridge · reference photo of island access, not Qing’ao Bay"
+        }
       }
     },
     {
@@ -4002,6 +4139,1052 @@
         "transport": "Transport routes and local connections have not yet been verified.",
         "food": "Local specialties and individual restaurants still need research."
       }
+    },
+    {
+      "id": "gd001",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "广州",
+      "name": "陈家祠",
+      "theme": "历史人文",
+      "location": "广州市 · 荔湾区中山七路恩龙里34号",
+      "description": "把木雕、砖雕、灰塑和陶塑放在同一座岭南祠堂里细看，适合安排半天的老城文化行程。",
+      "food": "特色菜与具体门店价格将在广东美食批次单独核对；本轮不新增未经核对的店铺推荐。",
+      "season": "春秋冬",
+      "transport": "广州地铁陈家祠站下车，再按出口指引步行；与老城街区搭配，避免跨城赶场。",
+      "budget": 280,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Chen Clan Ancestral Hall",
+      "sources": [
+        {
+          "url": "https://www.gz.gov.cn/attachment/7/7882/7882495/6514109.pdf",
+          "title": "广州市政府定价景区目录：陈家祠、白云山票价",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://wglj.gz.gov.cn/ztmb/gzhyn/ajjq/4a/content/post_9773088.html",
+          "title": "广州文旅：陈家祠建筑与工艺",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/guangzhou152/6772/s0-d-d-p5.html",
+          "title": "携程：陈家祠（平台信息与可见评价）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：Chen Clan Ancestral Hall（地理与背景资料）",
+          "url": "https://en.wikipedia.org/wiki/Chen_Clan_Ancestral_Hall",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/guangzhou152/6772/s0-d-d-p5.html",
+        "checked": "2026-10-16",
+        "samples": [
+          {
+            "author": "沁馨宝宝",
+            "date": "2026-03-27",
+            "url": "https://you.ctrip.com/sight/guangzhou152/6772/s0-d-d-p5.html"
+          }
+        ],
+        "positive": "携程用户 沁馨宝宝（2026-03-27）：提到雕饰细节和多种传统工艺，建议留出时间细看。",
+        "negative": "本轮可见样本偏正面，未完成差评抽样；不能据此推断没有拥挤或服务问题。",
+        "ticket": "成人首道票 CNY 10，依据广州市政府定价目录；优惠资格与免费日另查官方预约页。",
+        "en": {
+          "positive": "Ctrip user 沁馨宝宝 (2026-03-27): Highlighted decorative details and traditional crafts, encouraging an unhurried visit.",
+          "negative": "Visible samples skew positive; negative reviews have not been systematically sampled.",
+          "ticket": "Adult admission CNY 10 in the Guangzhou government price list. Check eligibility and free-day booking separately."
+        }
+      },
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Chen Clan Ancestral Hall",
+        "location": "Liwan District, Guangzhou",
+        "description": "A richly decorated Lingnan ancestral hall for a relaxed half-day focused on traditional crafts.",
+        "transport": "Take the metro to Chen Clan Academy station and follow local exit signs. Combine it with nearby old-city streets.",
+        "food": "Local dishes, individual restaurants and prices will be researched in a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "成人首道票 CNY 10，依据广州市政府定价目录；优惠资格与免费日另查官方预约页。",
+        "opening": "平台列示淡季9:00–17:30、17:00停止入场，旺季延至18:00；周二闭馆（法定节假日例外），出发前向博物馆复核。",
+        "reservation": "通过“广东民间工艺博物馆”官方渠道核对预约；境外证件录入办法本轮未确认。",
+        "route": "先看正门与屋脊装饰，再循展厅、庭院慢行；编辑建议留2–3小时，讲解服务现场确认。",
+        "accessibility": "台阶、坡度与连续无障碍路线未完整核实，请联系景区确认；所列路线为编辑建议。",
+        "en": {
+          "admission": "Adult admission CNY 10 in the Guangzhou government price list. Check eligibility and free-day booking separately.",
+          "opening": "The platform lists 09:00–17:30 in the low season, last entry 17:00, and later summer closing. Tuesday closure has holiday exceptions; confirm with the museum.",
+          "reservation": "Check booking through the Guangdong Folk Arts Museum. Acceptance of overseas documents has not been confirmed.",
+          "route": "Start with the entrance and roof decorations, then explore halls and courtyards. Editorial allowance: 2–3 hours; confirm guided tours locally.",
+          "accessibility": "Steps, gradients and continuous accessible routes have not been fully checked. Contact the venue; routes shown are editorial suggestions."
+        }
+      },
+      "image": {
+        "path": "assets/gd001.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Chen_Clan_Ancestral_Hall_2025.06_02.jpg",
+        "author": "Shujianyang",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2025-06-07 10:26:39",
+        "caption": "陈家祠参考实景",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Chen Clan Ancestral Hall · reference photo"
+        }
+      }
+    },
+    {
+      "id": "gd002",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "广州",
+      "name": "白云山",
+      "theme": "自然山水",
+      "location": "广州市 · 白云区广园中路801号一带",
+      "description": "城市里的山林步道与观景平台，可按体力选择山顶公园或继续登摩星岭；不同园区收费分开。",
+      "food": "特色菜与具体门店价格将在广东美食批次单独核对；本轮不新增未经核对的店铺推荐。",
+      "season": "春秋冬",
+      "transport": "先确定南门、西门等入口，再规划公共交通；山脚到登山起点仍需步行，不把索道视为全程无台阶。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Baiyun Mountain",
+      "sources": [
+        {
+          "url": "https://www.gz.gov.cn/attachment/7/7882/7882495/6514109.pdf",
+          "title": "广州市政府定价景区目录：陈家祠、白云山票价",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://www.baiyunshan.com.cn/",
+          "title": "白云山官网：公告、导览与购票",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/guangzhou152/6766.html",
+          "title": "携程：白云山（平台信息与可见评价）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：Baiyun Mountain（地理与背景资料）",
+          "url": "https://en.wikipedia.org/wiki/Baiyun_Mountain",
+          "type": "百科资料"
+        },
+        {
+          "title": "维基百科：白云山 (广州市)（地理与背景资料）",
+          "url": "https://zh.wikipedia.org/wiki/%E7%99%BD%E4%BA%91%E5%B1%B1_%28%E5%B9%BF%E5%B7%9E%E5%B8%82%29",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Baiyun Mountain",
+        "location": "Baiyun District, Guangzhou",
+        "description": "An urban mountain escape with woodland paths and viewpoints. Choose a shorter visit or extend to Moxing Ridge; separate areas may charge separately.",
+        "transport": "Choose your entrance before planning transport. Allow for walking to trailheads; a cable car does not guarantee a step-free visit.",
+        "food": "Local dishes, individual restaurants and prices will be researched in a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "政府目录列首道票 CNY 5；摩星岭另 CNY 5，索道上行25、下行20。均为目录参考，其他园区与项目另核实。",
+        "opening": "平台列示南门、西门全天，北门7:00–22:00；园中项目、索道与恶劣天气安排另查官网。",
+        "reservation": "使用景区官网“预约购票”入口，核对所买票是否包含摩星岭或其他园区。",
+        "route": "半天只选一个入口与一段主线：山脚—山顶公园—原路或确认后的出口返回；登摩星岭另留体力。",
+        "accessibility": "台阶、坡度与连续无障碍路线未完整核实，请联系景区确认；所列路线为编辑建议。",
+        "en": {
+          "admission": "Government-listed reference: main admission CNY 5, Moxing Ridge CNY 5 extra; cable car CNY 25 up / 20 down. Confirm other areas and services separately.",
+          "opening": "The platform lists all-day south/west gates and a 07:00–22:00 north gate. Check individual facilities, cable cars and weather closures on the official site.",
+          "reservation": "Use the official booking link and check whether your ticket covers Moxing Ridge or other gardens.",
+          "route": "For half a day, choose one entrance and a single route to the summit park. Add Moxing Ridge only with enough time and energy.",
+          "accessibility": "Steps, gradients and continuous accessible routes have not been fully checked. Contact the venue; routes shown are editorial suggestions."
+        }
+      },
+      "image": {
+        "path": "assets/gd002.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Guangzhou_Baiyun_Mountain_20230515.150422.jpg",
+        "author": "古海岸遗址",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2023-05-15 15:04:22",
+        "caption": "白云山参考实景",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Baiyun Mountain · reference photo"
+        }
+      }
+    },
+    {
+      "id": "gd003",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "深圳",
+      "name": "大鹏所城",
+      "theme": "古村古建",
+      "location": "深圳市 · 大鹏新区大鹏街道鹏城社区",
+      "description": "从城门、街巷和将军府外观读明清海防历史，可与较场尾安排在同一片区慢逛。",
+      "food": "特色菜与具体门店价格将在广东美食批次单独核对；本轮不新增未经核对的店铺推荐。",
+      "season": "春秋冬",
+      "transport": "深圳市区到大鹏半岛需额外接驳，按当天地图查询公交或包车；节假日自驾预约政策须另查。",
+      "budget": 320,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Dapeng Fortress",
+      "sources": [
+        {
+          "url": "https://www.sz.gov.cn/ztfw/gysy/wyw_183970/ywzsk_184570/content/post_11080891.html",
+          "title": "深圳政府：大鹏所城文物保护身份",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://wtl.sz.gov.cn/xxgk/qt/lypc/content/post_11132584.html",
+          "title": "深圳文旅：大鹏所城—较场尾片区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/shenzhen26/50528.html",
+          "title": "携程：大鹏所城（平台信息与可见评价）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：Dapeng Fortress（地理与背景资料）",
+          "url": "https://en.wikipedia.org/wiki/Dapeng_Fortress",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/shenzhen26/50528.html",
+        "checked": "2026-10-16",
+        "samples": [
+          {
+            "author": "陌染MM",
+            "date": "2026-07-16",
+            "url": "https://you.ctrip.com/sight/shenzhen26/50528.html"
+          }
+        ],
+        "positive": "携程用户 陌染MM（2026-07-16）：记录带家人参观古建筑和历史街巷的体验。",
+        "negative": "Herta_Han（2021-08-03）提到周末拥挤；是较旧个体经验，不代表当天客流。",
+        "ticket": "街区与内部展馆、活动的收费范围本轮未取得统一官方价目，不把“全天开放”理解为全部免费。",
+        "en": {
+          "positive": "Ctrip user 陌染MM (2026-07-16): Described a family visit focused on historic buildings and lanes.",
+          "negative": "Herta_Han (2021-08-03) reported weekend crowds; this older individual experience is not a live crowd report.",
+          "ticket": "No complete official price list was obtained. All-day street access does not establish free entry to every exhibition or event."
+        }
+      },
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Dapeng Fortress",
+        "location": "Dapeng New District, Shenzhen",
+        "description": "Explore a historic coastal fortress through its gates, lanes and former officers’ residences; nearby Jiaochangwei can fit the same local outing.",
+        "transport": "Allow a separate transfer from central Shenzhen to the Dapeng Peninsula. Check current buses and any holiday driving reservations.",
+        "food": "Local dishes, individual restaurants and prices will be researched in a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "街区与内部展馆、活动的收费范围本轮未取得统一官方价目，不把“全天开放”理解为全部免费。",
+        "opening": "平台列街区全天；展馆与文物建筑各自开放，夜间到访不保证能进室内。",
+        "reservation": "展馆、讲解、节日活动分别核对，先确认所需场馆再出发。",
+        "route": "编辑建议城门—老街—将军府周边2–3小时，再按体力去较场尾；不把半岛其他海岸全部塞入同一天。",
+        "accessibility": "台阶、坡度与连续无障碍路线未完整核实，请联系景区确认；所列路线为编辑建议。",
+        "en": {
+          "admission": "No complete official price list was obtained. All-day street access does not establish free entry to every exhibition or event.",
+          "opening": "The platform lists all-day access to the streets. Individual buildings and exhibitions may close earlier.",
+          "reservation": "Confirm individual exhibitions, tours and holiday events before setting out.",
+          "route": "Editorial route: gates, old lanes and residence exteriors over 2–3 hours; add Jiaochangwei if comfortable. Keep other peninsula stops for another day.",
+          "accessibility": "Steps, gradients and continuous accessible routes have not been fully checked. Contact the venue; routes shown are editorial suggestions."
+        }
+      },
+      "image": {
+        "path": "assets/gd003.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E%E5%8D%97%E9%97%A8%E4%B8%9C%E8%B7%AF.jpg",
+        "author": "Iswzo",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2021-04-11 09:02:49",
+        "caption": "大鹏所城参考实景",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Dapeng Fortress · reference photo"
+        }
+      }
+    },
+    {
+      "id": "gd004",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "深圳",
+      "name": "仙湖植物园",
+      "theme": "自然山水",
+      "location": "深圳市 · 罗湖区莲塘街道仙湖路160号",
+      "description": "湖区、植物专类园和山地道路串起科普与散步路线；不要只按寺庙打卡安排整座植物园。",
+      "food": "特色菜与具体门店价格将在广东美食批次单独核对；本轮不新增未经核对的店铺推荐。",
+      "season": "春秋冬",
+      "transport": "导航至植物园入口后步行或使用园内交通；社会车辆不得进入，公交与观光车另付费、另查运行。",
+      "budget": 280,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Fairy Lake Botanical Garden",
+      "sources": [
+        {
+          "url": "https://cgj.sz.gov.cn/xsmh/xhzwy/wxsp/",
+          "title": "仙湖植物园官方：售票、优惠与入园规定",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://www.sz.gov.cn/szzt2010/gysz/csgy/content/post_10829402.html",
+          "title": "深圳政府：仙湖植物园地形与园区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/shenzhen26/2783.html",
+          "title": "携程：仙湖植物园（平台信息与可见评价）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：Fairy Lake Botanical Garden（地理与背景资料）",
+          "url": "https://en.wikipedia.org/wiki/Fairy_Lake_Botanical_Garden",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/shenzhen26/2783.html",
+        "checked": "2026-10-16",
+        "samples": [
+          {
+            "author": "～亮亮～",
+            "date": "2026-05-23",
+            "url": "https://you.ctrip.com/sight/shenzhen26/2783.html"
+          }
+        ],
+        "positive": "携程用户 ～亮亮～（2026-05-23）：认为湖山环境适合散步，并采用乘车上山、慢慢走下来的方式。",
+        "negative": "一条行程经验不保证所有植物园区都开放，网友所报车价也不作为现价。",
+        "ticket": "官方售票页成人 CNY 15；页面半票 CNY 5。具体年龄、证件及免票条件以该页和预约确认为准。",
+        "en": {
+          "positive": "Ctrip user ～亮亮～ (2026-05-23): Enjoyed the garden setting and used an uphill shuttle followed by a walk down.",
+          "negative": "One itinerary does not establish that every collection is open; reported shuttle prices are not live quotes.",
+          "ticket": "Official booking page: adult CNY 15; reduced ticket CNY 5. Check exact age, document and exemption requirements."
+        }
+      },
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Fairy Lake Botanical Garden",
+        "location": "Luohu District, Shenzhen",
+        "description": "A hillside botanical garden combining a lake, specialist plant collections and educational walks.",
+        "transport": "Travel to the garden entrance, then walk or use internal transport. Private vehicles are prohibited; check shuttle services separately.",
+        "food": "Local dishes, individual restaurants and prices will be researched in a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "官方售票页成人 CNY 15；页面半票 CNY 5。具体年龄、证件及免票条件以该页和预约确认为准。",
+        "opening": "平台列6:00–21:30，部分时段免费；本轮不据此保证所有展区、温室同时间开放。极端天气可能闭园。",
+        "reservation": "官方明确仅在“深圳市仙湖植物园”“美丽深圳”官方微信公众号购买电子门票；不要通过不明代购。",
+        "route": "编辑建议半天只选湖区与一两处植物专类园；上坡多时乘车辅助，按开放情况调整。",
+        "accessibility": "台阶、坡度与连续无障碍路线未完整核实，请联系景区确认；所列路线为编辑建议。",
+        "en": {
+          "admission": "Official booking page: adult CNY 15; reduced ticket CNY 5. Check exact age, document and exemption requirements.",
+          "opening": "The platform lists 06:00–21:30 and some free periods. Individual collections and glasshouses may differ; severe weather can close the garden.",
+          "reservation": "Official notice directs electronic ticket purchases to the garden or Beautiful Shenzhen official WeChat accounts.",
+          "route": "Editorial half-day plan: the lake plus one or two plant collections. Use available shuttles for uphill sections and adapt to current openings.",
+          "accessibility": "Steps, gradients and continuous accessible routes have not been fully checked. Contact the venue; routes shown are editorial suggestions."
+        }
+      },
+      "image": {
+        "path": "assets/gd004.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Hongfa_Temple,_Shenzhen_044.jpg",
+        "author": "Huangdan2060",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "date": "2016-06-09 10:22:36",
+        "caption": "仙湖植物园内弘法寺参考实景（非全部园区）",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Hongfa Temple inside Fairy Lake Botanical Garden · reference photo of one site"
+        }
+      }
+    },
+    {
+      "id": "gd005",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "江门",
+      "name": "开平碉楼·自力村",
+      "theme": "古村古建",
+      "location": "江门市 · 开平市塘口镇自力村",
+      "description": "侨乡碉楼与田园村落结合，适合细看建筑与居住历史。自力村只是开平碉楼与村落的一部分。",
+      "food": "特色菜与具体门店价格将在广东美食批次单独核对；本轮不新增未经核对的店铺推荐。",
+      "season": "春秋冬",
+      "transport": "抵开平后还需往塘口镇乡村接驳，村落分散；预先确认回程车，不默认所有遗产点步行可达。",
+      "budget": 350,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Kaiping Diaolou and Villages",
+      "sources": [
+        {
+          "url": "https://www.gd.gov.cn/gdywdt/zwzt/whlyhdzn/gddt/content/post_2535253.html",
+          "title": "广东省文旅：开平碉楼背景",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whc.unesco.org/en/list/1112/",
+          "title": "UNESCO：开平碉楼与村落",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/kaiping525/136208.html",
+          "title": "携程：自力村碉楼群（平台信息与可见评价）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：Diaolou（地理与背景资料）",
+          "url": "https://en.wikipedia.org/wiki/Diaolou",
+          "type": "百科资料"
+        },
+        {
+          "title": "维基百科：开平碉楼（地理与背景资料）",
+          "url": "https://zh.wikipedia.org/wiki/%E5%BC%80%E5%B9%B3%E7%A2%89%E6%A5%BC",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/kaiping525/136208.html",
+        "checked": "2026-10-16",
+        "samples": [
+          {
+            "author": "匿名用户",
+            "date": "2025-11-09",
+            "url": "https://you.ctrip.com/sight/kaiping525/136208.html"
+          }
+        ],
+        "positive": "携程用户 匿名用户（2025-11-09）：欣赏中西合璧碉楼和较安静的村落景观。",
+        "negative": "本轮未完成差评抽样，且页面有临时闭园提示；历史好评不能证明今天可入园。",
+        "ticket": "本轮未取得现行官方单村票与联票完整价目；不要把网友提到的楼内参观理解为村落免门票。",
+        "en": {
+          "positive": "Ctrip user 匿名用户 (2025-11-09): Appreciated the mixed architectural styles and quiet village setting.",
+          "negative": "Negative sampling is incomplete and the page has a closure notice; older positive reviews do not prove current access.",
+          "ticket": "Current official single-site and combined prices were not obtained. A visitor’s mention of free building access does not prove free village admission."
+        }
+      },
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Kaiping Diaolou · Zili Village",
+        "location": "Tangkou, Kaiping, Jiangmen",
+        "description": "Watchtowers and rural scenery reveal the history of an emigrant community. Zili is one component of the wider Kaiping heritage landscape.",
+        "transport": "Arrange a local transfer from Kaiping to Tangkou. Heritage villages are dispersed; secure return transport.",
+        "food": "Local dishes, individual restaurants and prices will be researched in a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "本轮未取得现行官方单村票与联票完整价目；不要把网友提到的楼内参观理解为村落免门票。",
+        "opening": "平台同时显示日常9:10–17:50与“自力村临时闭园”提示，状态冲突；出发前电话0750-2679078复核。",
+        "reservation": "确认开园后再购票，分清自力村、立园及其他村落的联票范围。",
+        "route": "编辑建议单村半天，看村落外观与开放碉楼；若加立园则留全天并安排车辆，闭园时不进入封闭区域。",
+        "accessibility": "台阶、坡度与连续无障碍路线未完整核实，请联系景区确认；所列路线为编辑建议。",
+        "en": {
+          "admission": "Current official single-site and combined prices were not obtained. A visitor’s mention of free building access does not prove free village admission.",
+          "opening": "The platform shows both regular 09:10–17:50 hours and a temporary-closure notice. Resolve this conflict before travel: +86 750 2679078.",
+          "reservation": "Confirm reopening first, then check exactly which villages and gardens any combined ticket includes.",
+          "route": "Editorial plan: half a day for one village and accessible towers. Allow a full day and transport if adding Li Garden; respect closures.",
+          "accessibility": "Steps, gradients and continuous accessible routes have not been fully checked. Contact the venue; routes shown are editorial suggestions."
+        }
+      },
+      "image": {
+        "path": "assets/gd005.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Zili_Village_Yunhuan_Lou_0005.jpg",
+        "author": "Stefan Fussan",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "date": "2016-10-06",
+        "caption": "开平碉楼·自力村参考实景",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Kaiping Diaolou · Zili Village · reference photo"
+        }
+      }
+    },
+    {
+      "id": "gd006",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "韶关",
+      "name": "丹霞山",
+      "theme": "自然山水",
+      "location": "韶关市 · 仁化县丹霞山景区",
+      "description": "红色砂岩峰林与锦江构成地质景观，长老峰、阳元石等片区应按体力分开安排。",
+      "food": "特色菜与具体门店价格将在广东美食批次单独核对；本轮不新增未经核对的店铺推荐。",
+      "season": "春秋冬",
+      "transport": "到韶关或丹霞山周边铁路站后仍需公路接驳；先确认住宿位置、景区门口与内部交通。",
+      "budget": 380,
+      "budgetStatus": "编辑估算",
+      "days": 2,
+      "wiki": "Mount Danxia",
+      "sources": [
+        {
+          "url": "https://dxs.sg.gov.cn/",
+          "title": "丹霞山管理机构官网：开放与保护区公告",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/renhua959/69257565.html",
+          "title": "携程：丹霞山索道（评价仅覆盖子项目）（平台信息与可见评价）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：Mount Danxia（地理与背景资料）",
+          "url": "https://en.wikipedia.org/wiki/Mount_Danxia",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/renhua959/69257565.html",
+        "checked": "2026-10-16",
+        "samples": [
+          {
+            "author": "马氏",
+            "date": "2023-09-03",
+            "url": "https://you.ctrip.com/sight/renhua959/69257565.html"
+          }
+        ],
+        "positive": "携程用户 马氏（2023-09-03）：在索道子项目页谈到不同峰景和游船视角。",
+        "negative": "同一评价认为索道行程较短；样本仅对应索道页面，不能外推整座景区服务。",
+        "ticket": "景区大门票、索道、游船分别核对；本轮未取得可确认的现行官方完整价目。",
+        "en": {
+          "positive": "Ctrip user 马氏 (2023-09-03): Mentioned varied peak views and a boat perspective on the cable-car sub-attraction page.",
+          "negative": "The same review found the cable-car ride short. This sample concerns a sub-attraction, not all park services.",
+          "ticket": "Verify main admission, cable car and boat fees separately. A complete current official tariff was not obtained."
+        }
+      },
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Danxia Mountain",
+        "location": "Renhua County, Shaoguan",
+        "description": "Red sandstone formations and the Jinjiang River create a distinctive landscape. Split the mountain’s sectors across a comfortable itinerary.",
+        "transport": "Allow a road transfer after your rail arrival. Confirm accommodation, the correct entrance and internal transport.",
+        "food": "Local dishes, individual restaurants and prices will be researched in a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "景区大门票、索道、游船分别核对；本轮未取得可确认的现行官方完整价目。",
+        "opening": "官网有临时闭园与保护区公告；索道和游船不等于山路全天开放，出发前复核当天公告。",
+        "reservation": "只走正式开放游线，不把网友的野路或穿越路线直接作为攻略。",
+        "route": "编辑建议两天：一天长老峰片区，一天另一开放片区或锦江游船；登高与看日出由天气、体力决定。",
+        "accessibility": "台阶、坡度与连续无障碍路线未完整核实，请联系景区确认；所列路线为编辑建议。",
+        "en": {
+          "admission": "Verify main admission, cable car and boat fees separately. A complete current official tariff was not obtained.",
+          "opening": "Check official temporary closures and protected-area notices. Cable-car or boat hours do not establish trail access.",
+          "reservation": "Use officially open routes; do not copy informal off-trail routes from visitor posts.",
+          "route": "Editorial two-day outline: Changlao Peak sector, then another open sector or a river cruise. Sunrise hikes depend on weather and fitness.",
+          "accessibility": "Steps, gradients and continuous accessible routes have not been fully checked. Contact the venue; routes shown are editorial suggestions."
+        }
+      },
+      "image": {
+        "path": "assets/gd006.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:39002-Danxiashan_(48989060302).jpg",
+        "author": "xiquinhosilva",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "date": "2019-06-22 13:29",
+        "caption": "丹霞山参考实景",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Danxia Mountain · reference photo"
+        }
+      }
+    },
+    {
+      "id": "gd007",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "肇庆",
+      "name": "肇庆七星岩",
+      "theme": "自然山水",
+      "location": "肇庆市 · 端州区七星路1号一带",
+      "description": "湖面、石灰岩峰与石刻相结合；可选择沿湖慢行，也可按体力加登岩和洞穴项目。",
+      "food": "特色菜与具体门店价格将在广东美食批次单独核对；本轮不新增未经核对的店铺推荐。",
+      "season": "春秋冬",
+      "transport": "先选七星岩景区的具体入口；牌坊广场与景区内部不是同一个检票点，肇庆东站到市区还需接驳。",
+      "budget": 320,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Seven Star Crags",
+      "sources": [
+        {
+          "url": "https://www.gd.gov.cn/zjgd/lyxx/lydt/content/post_110913.html",
+          "title": "广东政府：七星岩与鼎湖山（2018年背景，旧费用不沿用）",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/zhaoqing269/142169.html",
+          "title": "携程：七星岩（平台信息与可见评价）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：Seven Star Crags（地理与背景资料）",
+          "url": "https://en.wikipedia.org/wiki/Seven_Star_Crags",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Seven Star Crags, Zhaoqing",
+        "location": "Duanzhou District, Zhaoqing",
+        "description": "Lakes, limestone peaks and inscriptions offer a choice between a lakeside walk and more demanding rock or cave visits.",
+        "transport": "Choose a specific entrance. The landmark archway square is not the same as an internal ticket gate; Zhaoqing East station needs a transfer.",
+        "food": "Local dishes, individual restaurants and prices will be researched in a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "现行首道票、洞穴、游船与年卡范围须官方复核，本轮不采用旧文章中的船价当作报价。",
+        "opening": "平台列日场8:00–18:00、夜场19:00–22:30，但停止入场字段不一致；按当天公告确认。",
+        "reservation": "预订时核对日场、夜场及附加项目，不把夜游票当全天票。",
+        "route": "编辑建议半天沿湖选线，石室岩或洞穴按开放情况加一项；全程步行前留返程体力。",
+        "accessibility": "台阶、坡度与连续无障碍路线未完整核实，请联系景区确认；所列路线为编辑建议。",
+        "en": {
+          "admission": "Confirm admission, cave visits, boats and annual passes separately. Older boat prices are not current quotes.",
+          "opening": "The platform lists day and evening sessions but inconsistent last-entry information. Confirm the intended session directly.",
+          "reservation": "Check day/evening access and add-ons; an evening ticket may not cover a daytime visit.",
+          "route": "Editorial half-day plan: a lakeside route plus one rock or cave stop if open. Keep enough energy for the return walk.",
+          "accessibility": "Steps, gradients and continuous accessible routes have not been fully checked. Contact the venue; routes shown are editorial suggestions."
+        }
+      },
+      "image": {
+        "path": "assets/gd007.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%83%E6%98%9F%E5%B2%A9%E8%BF%9C%E7%9C%BA.JPG",
+        "author": "Jeffery Law",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2014-10-04 16:44:57",
+        "caption": "肇庆七星岩参考实景",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Seven Star Crags, Zhaoqing · reference photo"
+        }
+      }
+    },
+    {
+      "id": "gd008",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "东莞",
+      "name": "东莞可园博物馆",
+      "theme": "古村古建",
+      "location": "东莞市 · 莞城区可园路32号",
+      "description": "把清代岭南园林与博物馆展览放在一起参观；古建筑区和综合馆区的票务不同。",
+      "food": "特色菜与具体门店价格将在广东美食批次单独核对；本轮不新增未经核对的店铺推荐。",
+      "season": "春秋冬",
+      "transport": "导航至可园博物馆，核对南北门；用市内公交或出租车接驳，具体线路出发当天查询。",
+      "budget": 250,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Keyuan",
+      "sources": [
+        {
+          "url": "https://dgkeyuan.org/article/1762.html",
+          "title": "可园博物馆：2026年参观指南",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://dgkeyuan.org/",
+          "title": "可园博物馆官网：开放时间与公告",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/dongguan212/69265865.html",
+          "title": "携程：可园博物馆（平台信息与可见评价）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：Keyuan（地理与背景资料）",
+          "url": "https://en.wikipedia.org/wiki/Keyuan",
+          "type": "百科资料"
+        },
+        {
+          "title": "维基百科：东莞可园（地理与背景资料）",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%9C%E8%8E%9E%E5%8F%AF%E5%9B%AD",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Keyuan Museum, Dongguan",
+        "location": "Guancheng, Dongguan",
+        "description": "A compact Lingnan garden and museum collection. The historic garden and exhibition complex have different admission arrangements.",
+        "transport": "Navigate to Keyuan Museum and check the entrance. Confirm current local buses or use a taxi.",
+        "food": "Local dishes, individual restaurants and prices will be researched in a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "2026-01-04官方指南：古建筑区 CNY 8，综合馆区全年免费；优惠与节假日票价另按指南核对。",
+        "opening": "平日9:00–17:30，法定节假日及寒暑假8:30–17:30；17:00停止进园并清场；周二闭馆（节假日除外）。",
+        "reservation": "团体15人以上需提前至少3个工作日联系；散客以最新官方指南及入馆提示为准。",
+        "route": "编辑建议2–3小时，先古园再综合展馆；想听讲解可抵馆后问当日集合点与场次。",
+        "accessibility": "台阶、坡度与连续无障碍路线未完整核实，请联系景区确认；所列路线为编辑建议。",
+        "en": {
+          "admission": "Official guide dated 2026-01-04: historic garden CNY 8; exhibition complex free. Check concession and holiday rules in the guide.",
+          "opening": "Regular hours 09:00–17:30; holidays and school vacations 08:30–17:30. Entry stops and clearing begins at 17:00. Closed Tuesdays except holidays.",
+          "reservation": "Groups of 15 or more should contact the museum at least three working days ahead. Check current individual-entry instructions.",
+          "route": "Editorial allowance: 2–3 hours, historic garden followed by the exhibitions. Ask staff about that day’s guided-tour meeting points.",
+          "accessibility": "Steps, gradients and continuous accessible routes have not been fully checked. Contact the venue; routes shown are editorial suggestions."
+        }
+      },
+      "image": {
+        "path": "assets/gd008.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Keyuan6.jpg",
+        "author": "Citibay",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "date": "",
+        "caption": "东莞可园博物馆参考实景",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Keyuan Museum, Dongguan · reference photo"
+        },
+        "dateStatus": "unknown"
+      }
+    },
+    {
+      "id": "gd009",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "湛江",
+      "name": "湖光岩",
+      "theme": "自然山水",
+      "location": "湛江市 · 麻章区湖光镇",
+      "description": "以玛珥湖与火山地质遗迹为主，适合环湖观察和地质科普；不沿用“全球只有两座”等夸张说法。",
+      "food": "特色菜与具体门店价格将在广东美食批次单独核对；本轮不新增未经核对的店铺推荐。",
+      "season": "春秋冬",
+      "transport": "从湛江市区另行安排至湖光岩的往返接驳，先核对入口与回程车；不要只预留高铁到站时间。",
+      "budget": 300,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Huguangyan",
+      "sources": [
+        {
+          "url": "https://www.zhanjiang.gov.cn/zjwl/content/post_1371640.html",
+          "title": "湛江政府：湖光岩地质与景观",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://www.zhanjiang.gov.cn/zjsfw/bmdh/hgy/zwgk/bmwj/content/post_1787027.html",
+          "title": "湖光岩：2023年价格优惠办法（历史参考）",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://www.zhanjiang.gov.cn/zjsfw/bmdh/hgy/zwgk/tzgg/content/post_2147227.html",
+          "title": "湖光岩：2026年春节限期开放公告",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：Huguangyan（地理与背景资料）",
+          "url": "https://en.wikipedia.org/wiki/Huguangyan",
+          "type": "百科资料"
+        },
+        {
+          "title": "维基百科：湖光岩（地理与背景资料）",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B9%96%E5%85%89%E5%B2%A9",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Huguangyan Maar Lake",
+        "location": "Huguang Town, Mazhang District, Zhanjiang",
+        "description": "A maar lake with volcanic geology, suitable for lakeside observation and earth-science learning.",
+        "transport": "Arrange round-trip transport from Zhanjiang and confirm your entrance and return vehicle.",
+        "food": "Local dishes, individual restaurants and prices will be researched in a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "2023年官方优惠办法记载普通成人票 CNY 50，属于历史参考；现行票价、游览车及其他项目另查。",
+        "opening": "2026春节公告的7:30–16:45和夜场仅适用于2月11日–3月8日；不能作为10月开放承诺，现行时间待复核。",
+        "reservation": "官方“湖光岩风景区”公众号或游客中心0759-2819197确认当日政策。",
+        "route": "编辑建议半天沿湖选择往返段，搭配开放的地质展陈；不默认环湖全线、车辆或馆舍都开放。",
+        "accessibility": "台阶、坡度与连续无障碍路线未完整核实，请联系景区确认；所列路线为编辑建议。",
+        "en": {
+          "admission": "A 2023 official policy records standard adult admission at CNY 50. This is historical reference; reconfirm current admission and vehicles.",
+          "opening": "The 2026 Spring Festival hours applied only to February 11–March 8. They do not confirm October hours; check current opening.",
+          "reservation": "Confirm the day’s arrangements via the official Huguangyan WeChat account or +86 759 2819197.",
+          "route": "Editorial half-day plan: choose a manageable lakeside out-and-back walk and an open geology exhibit. Confirm route and facility access.",
+          "accessibility": "Steps, gradients and continuous accessible routes have not been fully checked. Contact the venue; routes shown are editorial suggestions."
+        }
+      },
+      "image": {
+        "path": "assets/gd009.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Huguangyan_Maar_Lake.jpg",
+        "author": "ViaHarry",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2026-07-13 09:35:10",
+        "caption": "湖光岩参考实景",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Huguangyan Maar Lake · reference photo"
+        }
+      }
+    },
+    {
+      "id": "gd010",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "阳江",
+      "name": "海陵岛",
+      "theme": "海岛海岸",
+      "location": "阳江市 · 海陵岛闸坡、十里银滩一带",
+      "description": "以滨海休闲为主，闸坡、大角湾、十里银滩与海上丝绸之路博物馆是不同游览点，需分段安排。",
+      "food": "特色菜与具体门店价格将在广东美食批次单独核对；本轮不新增未经核对的店铺推荐。",
+      "season": "春秋冬",
+      "transport": "阳江铁路站抵达后再接驳到岛上，住宿分散；先选住闸坡还是银滩片区，再核对交通。",
+      "budget": 380,
+      "budgetStatus": "编辑估算",
+      "days": 2,
+      "wiki": "Hailing Island",
+      "sources": [
+        {
+          "url": "https://www.gd.gov.cn/zjgd/lyxx/lydt/content/post_82760.html",
+          "title": "广东政府：海陵岛背景（2018）",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/yangjiang363/23038.html",
+          "title": "携程：海陵岛（平台信息与可见评价）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：Hailing Island（地理与背景资料）",
+          "url": "https://en.wikipedia.org/wiki/Hailing_Island",
+          "type": "百科资料"
+        },
+        {
+          "title": "维基百科：海陵岛（地理与背景资料）",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B5%B7%E9%99%B5%E5%B2%9B",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/yangjiang363/23038.html",
+        "checked": "2026-10-16",
+        "samples": [
+          {
+            "author": "YoYo_3Q6R5N5F",
+            "date": "2025-10-08",
+            "url": "https://you.ctrip.com/sight/yangjiang363/23038.html"
+          }
+        ],
+        "positive": "携程用户 YoYo_3Q6R5N5F（2025-10-08）：回访时认可海景，记录了带孩子玩沙的经历。",
+        "negative": "同条评价也提到免费沙滩垃圾、车辆活动管理和餐饮选择问题；不能据一条点评概括全岛。",
+        "ticket": "海岛不是一张通票景区；浴场、博物馆、度假区和水上项目分别收费，本轮未核实统一现价。",
+        "en": {
+          "positive": "Ctrip user YoYo_3Q6R5N5F (2025-10-08): On a repeat visit, enjoyed sea views and a family sand-play outing.",
+          "negative": "The same review raised beach litter, vehicle management and limited food variety; it cannot characterize the whole island.",
+          "ticket": "There is no single all-island ticket. Bathing areas, museums, resorts and water activities have separate charges."
+        }
+      },
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Hailing Island",
+        "location": "Zhapo and Shili Yintan, Hailing Island, Yangjiang",
+        "description": "A coastal break with distinct stops at Zhapo, Dajiao Bay, Shili Yintan and the Maritime Silk Road Museum.",
+        "transport": "Transfer from Yangjiang railway station to the island. Choose your accommodation area before arranging local travel.",
+        "food": "Local dishes, individual restaurants and prices will be researched in a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "海岛不是一张通票景区；浴场、博物馆、度假区和水上项目分别收费，本轮未核实统一现价。",
+        "opening": "开放海岸与经营性设施时间不同；泳区开放、海况及台风停业按现场管理和当天公告。",
+        "reservation": "博物馆与度假区项目通过各自官方渠道预约，不把海岛免费进入当作所有设施免费。",
+        "route": "编辑建议两天：一天闸坡与海岸，一天博物馆或另一段海湾；只在开放、有管理的水域开展活动。",
+        "accessibility": "台阶、坡度与连续无障碍路线未完整核实，请联系景区确认；所列路线为编辑建议。",
+        "en": {
+          "admission": "There is no single all-island ticket. Bathing areas, museums, resorts and water activities have separate charges.",
+          "opening": "Coastal public areas and commercial facilities keep different hours. Check managed swimming areas, sea conditions and weather closures.",
+          "reservation": "Book museums and resort activities through their own channels; public island access does not mean all attractions are free.",
+          "route": "Editorial two-day outline: Zhapo and the coast, then a museum or another bay. Use only open, managed areas for water activities.",
+          "accessibility": "Steps, gradients and continuous accessible routes have not been fully checked. Contact the venue; routes shown are editorial suggestions."
+        }
+      },
+      "image": {
+        "path": "assets/gd010.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Yangjiang_Hailing_Dao_Dajiao_Wan_2013.09.15_08-02-15.jpg",
+        "author": "Zhangzhugang",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2013-09-15 08:02:15",
+        "caption": "海陵岛参考实景",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Hailing Island · reference photo"
+        }
+      }
+    },
+    {
+      "id": "gd011",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "惠州",
+      "name": "惠州西湖",
+      "theme": "自然山水",
+      "location": "惠州市 · 惠城区平湖、苏堤一带",
+      "description": "以城中湖景和东坡文化串联散步路线；首次可只走平湖核心区，不必试图一日走遍所有湖区。",
+      "food": "特色菜与具体门店价格将在广东美食批次单独核对；本轮不新增未经核对的店铺推荐。",
+      "season": "春秋冬",
+      "transport": "导航至平湖门等明确入口，抵惠州不同铁路站后的市内接驳距离不同；临行查询公交。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Huizhou West Lake",
+      "sources": [
+        {
+          "url": "https://www.gd.gov.cn/zjgd/lyxx/lydt/content/post_160037.html",
+          "title": "广东政府：惠州西湖山水与历史",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/huizhou213/22852.html",
+          "title": "携程：惠州西湖（平台信息与可见评价）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：Huizhou West Lake（地理与背景资料）",
+          "url": "https://en.wikipedia.org/wiki/Huizhou_West_Lake",
+          "type": "百科资料"
+        },
+        {
+          "title": "维基百科：惠州西湖（地理与背景资料）",
+          "url": "https://zh.wikipedia.org/wiki/%E6%83%A0%E5%B7%9E%E8%A5%BF%E6%B9%96",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/huizhou213/22852.html",
+        "checked": "2026-10-16",
+        "samples": [
+          {
+            "author": "走遍天下XZ",
+            "date": "2025-11-21",
+            "url": "https://you.ctrip.com/sight/huizhou213/22852.html"
+          }
+        ],
+        "positive": "携程用户 走遍天下XZ（2025-11-21）：建议聚焦平湖核心区，认可城中湖景与苏堤沿线。",
+        "negative": "hj****70的可见评论提到半天步行较累（日期未显示）；另有用户船价与页面介绍不一致，不据此报价。",
+        "ticket": "平台游客称核心湖区可免费散步；游船、展馆、车辆另核实，不把用户所报船价当现行报价。",
+        "en": {
+          "positive": "Ctrip user 走遍天下XZ (2025-11-21): Recommended focusing on Pinghu and appreciated the central-city lake and Sudi.",
+          "negative": "Another visible reviewer, hj****70, found a half-day walk tiring (date not shown). Boat prices also conflict across the page.",
+          "ticket": "Visitors describe free walks in the core lake area. Confirm boat, exhibition and vehicle charges separately; reported boat prices are not current quotes."
+        }
+      },
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Huizhou West Lake",
+        "location": "Pinghu and Sudi, Huicheng District, Huizhou",
+        "description": "A city-lake walk with Su Dongpo cultural connections. Start with the Pinghu core instead of attempting every lake in one day.",
+        "transport": "Choose a definite entrance such as Pinghu Gate. Transfer distances vary by railway station; check current city transport.",
+        "food": "Local dishes, individual restaurants and prices will be researched in a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "平台游客称核心湖区可免费散步；游船、展馆、车辆另核实，不把用户所报船价当现行报价。",
+        "opening": "平台列8:00–22:00、21:30停止入园；子场馆与游船时间另行核对。",
+        "reservation": "先确认想去的纪念馆或船码头是否另有预约要求。",
+        "route": "编辑建议平湖门—苏堤—孤山周边半天慢走，按体力折返；不默认泗洲塔可登塔。",
+        "accessibility": "台阶、坡度与连续无障碍路线未完整核实，请联系景区确认；所列路线为编辑建议。",
+        "en": {
+          "admission": "Visitors describe free walks in the core lake area. Confirm boat, exhibition and vehicle charges separately; reported boat prices are not current quotes.",
+          "opening": "The platform lists 08:00–22:00, last entry 21:30. Individual venues and boats may differ.",
+          "reservation": "Check whether your chosen memorial venue or boat service requires a separate booking.",
+          "route": "Editorial half-day walk: Pinghu Gate, Sudi and the Gushan area, returning according to fitness. Do not assume Sizhou Pagoda can be climbed.",
+          "accessibility": "Steps, gradients and continuous accessible routes have not been fully checked. Contact the venue; routes shown are editorial suggestions."
+        }
+      },
+      "image": {
+        "path": "assets/gd011.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Huizhou_West_Lake.jpg",
+        "author": "travel oriented",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "date": "2018-10-07 20:33:27",
+        "caption": "惠州西湖参考实景",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Huizhou West Lake · reference photo"
+        }
+      }
     }
   ],
   "foods": [
@@ -4187,5 +5370,17 @@
     }
   ],
   "budgetNote": "编辑规划估算，人民币／人／天；按普通双人间两人分摊住宿，包含餐饮、当地交通与门票预留。不是实时价格；独自一人、儿童、节假日和具体房型需在预算表中调整。港澳台预算以人民币规划，不代表实时汇率。",
-  "budgetNoteEn": "Editorial planning allowances in CNY per person per day cover accommodation, meals, local transport and admission. The base assumes two people sharing a double room. Return travel is separate. Solo rooms, child discounts, holidays and actual room choices need adjustment. Currency conversions are indicative and do not establish local payment currencies."
+  "budgetNoteEn": "Editorial planning allowances in CNY per person per day cover accommodation, meals, local transport and admission. The base assumes two people sharing a double room. Return travel is separate. Solo rooms, child discounts, holidays and actual room choices need adjustment. Currency conversions are indicative and do not establish local payment currencies.",
+  "provinceUpdates": {
+    "广东": {
+      "date": "2026-10-16",
+      "batch": 1,
+      "count": 14,
+      "cities": 12,
+      "scope": "首批景点资料；覆盖12个地级市，尚未覆盖广东全部21市及全部县域。门店与餐饮价格另批核对。",
+      "en": {
+        "scope": "First attraction batch across 12 prefecture-level cities. Guangdong’s 21 cities and all counties are not fully covered. Restaurant prices need a separate update."
+      }
+    }
+  }
 }
