@@ -9,8 +9,10 @@ test('Guangdong batch has unique IDs, 21 cities and preserves all provincial dir
 test('every Guangdong guide has bilingual practical facts and inspectable sources',()=>{
  for(const d of gd){assert.equal(d.guide.checked,'2026-10-16');for(const k of ['admission','opening','reservation','route','accessibility']){assert(d.guide[k],d.id+': '+k);assert(d.guide.en[k],d.id+': English '+k)}assert(d.sources.length>=2,d.id);for(const s of d.sources)assert.equal(new URL(s.url).protocol,'https:');assert.equal(d.tier,d.researchBatch>=3?'景点资料':'景点攻略');if(d.researchBatch>=3)assert.equal(d.guide.complete,false)}
 });
-test('licensed images retain credits and missing photos are not replaced with invented scenes',()=>{
- for(const d of gd){const i=d.image;if(d.researchBatch>=3&&!i){assert(d.photoStatus);continue}if(d.id==='gd015'){assert.equal(i,undefined);continue}assert(i,d.id);assert(fs.statSync(path.join(root,i.path)).size>1000);for(const k of ['author','license','licenseUrl','url','caption'])assert(i[k],d.id+': '+k);assert.equal(typeof i.date,'string');if(!i.date)assert.equal(i.dateStatus,'unknown');assert(i.en.caption);assert.match(i.license,/CC|Public domain/)}
+test('all Guangdong attractions have local real photos and explicit rights provenance',()=>{
+ const manifest=JSON.parse(fs.readFileSync(path.join(root,'research/guangdong-photo-coverage.json'),'utf8'));assert.equal(manifest.photos,210);assert.equal(manifest.entries.length,210);assert.equal(new Set(gd.map(d=>d.image.path)).size,210);
+ for(const d of gd){const i=d.image;assert(i,d.id);const bytes=fs.readFileSync(path.join(root,i.path));assert(bytes.length>1000);assert.equal(bytes[0],255);assert.equal(bytes[1],216);for(const k of ['author','license','licenseUrl','url','caption'])assert(i[k],d.id+': '+k);assert.equal(typeof i.date,'string');if(!i.date)assert.equal(i.dateStatus,'unknown');assert(i.en.caption);assert(manifest.entries.some(e=>e.id===d.id&&e.path===i.path));if(i.rightsStatus==='source-copyright'){assert.match(i.license,/非开放许可/);assert(i.originalUrl);assert(i.en.license);assert(d.sources.some(s=>s.url===i.url))}else assert.match(i.license,/CC|Public domain/)}
+ for(const city of new Set(gd.map(d=>d.city)))assert(gd.filter(d=>d.city===city&&d.image).length>=8,city);
  assert.match(gd.find(d=>d.id==='gd005').image.url,/Zili_Village/);assert.match(gd.find(d=>d.id==='d182').image.caption,/南澳大桥/);
 });
 test('reviews stay attributable and conflicting or historical operations remain qualified',()=>{
@@ -21,5 +23,5 @@ test('second batch preserves provenance and labels changing operations',()=>{
  assert.equal(gd.filter(d=>d.researchBatch===2).length,9);assert.equal(data.provinceUpdates.广东.batches.length,4);
  assert.match(gd.find(d=>d.id==='gd016').name,/凤山民俗文化/);assert.match(gd.find(d=>d.id==='gd016').guide.admission,/历史参考/);
  assert.match(gd.find(d=>d.id==='gd013').guide.admission,/冲突/);assert.match(gd.find(d=>d.id==='gd014').guide.admission,/未注明时间/);
- assert.match(gd.find(d=>d.id==='gd017').guide.reservation,/免预约/);assert.equal(gd.find(d=>d.id==='gd015').photoStatus,'授权实景待补核');
+ assert.match(gd.find(d=>d.id==='gd017').guide.reservation,/免预约/);assert(gd.find(d=>d.id==='gd015').image);
 });
