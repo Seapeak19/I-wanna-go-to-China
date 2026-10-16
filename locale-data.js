@@ -23,3 +23,31 @@ const STATIC_EN={
 };
 STATIC_EN['探索中国']='Explore China';
 for(const n of [1,2,3,4,5,6,8,10])STATIC_EN[n+' 人']=n+(n===1?' traveler':' travelers');
+
+Object.assign(STATIC_EN,{
+  "行程与消费统计": "Itinerary & costs",
+  "添加景点，逐项填写预算，整趟统一计算。行程保存在当前浏览器。": "Add attractions and enter your costs to calculate the whole trip. Saved in this browser.",
+  "景点费用": "Attraction costs",
+  "整趟公共费用": "Shared trip costs",
+  "所有金额按当前显示币种填写；空白表示待填写，没有支出请填 0。共用费用只计算一次，不随景点数量重复。": "Enter amounts in the displayed currency. Blank means not entered; use 0 for no expense. Shared costs are counted once regardless of attraction count.",
+  "住宿 · 房价 × 房间数 × 晚数": "Accommodation · room rate × rooms × nights",
+  "每间每晚房价": "Room rate / night",
+  "待填写": "Not entered",
+  "房间数（留空按每两人一间）": "Rooms (blank: one per two people)",
+  "住宿晚数（留空按天数减一）": "Nights (blank: trip days minus one)",
+  "按每人每天填写": "Per person per day",
+  "餐饮 / 人 / 天": "Meals / person / day",
+  "公交地铁 / 人 / 天": "Public transport / person / day",
+  "按整趟全员总额填写": "Whole-group totals for the trip",
+  "打车 / 包车（全员整趟）": "Taxi / charter (group trip total)",
+  "城际交通（全员整趟）": "Intercity transport (group trip total)",
+  "往返大交通（全员合计）": "Return travel (whole group)",
+  "其他费用（全员合计）": "Other costs (whole group)",
+  "景区接驳填在景点费用；市内公交、打车、城际交通和往返大交通分开填写，同一笔费用不要重复计入。住宿可调整房间数及晚数，填 0 可表示不住宿。": "Enter site transfers with attraction costs. Keep public transport, taxis, intercity and return travel separate; do not count the same expense twice. Adjust rooms and nights as needed, or enter 0 for no lodging.",
+  "试试清除地区、主题或季节限制。": "Try clearing region, interest or season filters.",
+  "在目的地卡片上添加，最多同时比较 3 个。整趟预算请在行程与消费中计算。": "Compare up to three destinations. Calculate the trip budget in Itinerary & costs.",
+  "消费由你逐项填写 · 评价注明样本与日期 · 实景保留摄影署名": "Enter your own costs · Reviews show samples and dates · Photos retain credits",
+  "行程与消费": "Itinerary & costs"
+});
+
+Object.assign(STATIC_EN,{"景点只展示门票依据或待核实状态。消费统计按用户填写的门票、住宿、餐饮及交通逐项合计，共用费用只计算一次；空白费用不等于免费。来源原价保留原币种，用户预算可切换显示货币。":"Attractions show admission evidence or an unverified status. Trip costs total user-entered tickets, accommodation, meals and transport. Shared costs are counted once; blank does not mean free. Source prices retain their currency; budget display currency can be changed."});
