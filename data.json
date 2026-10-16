@@ -5185,6 +5185,774 @@
           "caption": "Huizhou West Lake · reference photo"
         }
       }
+    },
+    {
+      "id": "gd012",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "佛山",
+      "name": "佛山市祖庙博物馆",
+      "theme": "历史人文",
+      "location": "佛山市 · 禅城区祖庙路21号",
+      "description": "古建筑、民俗与武术文化集中在同一博物馆，醒狮表演需另核当天场次；部分展区可能修缮。",
+      "food": "具体餐饮门店与价格待广东美食批次逐店核对。",
+      "season": "春秋冬",
+      "transport": "可从祖庙地铁站步行接驳；先安排祖庙与周边老城半天，不把顺德远端景点当作步行邻近。",
+      "budget": 280,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Foshan Ancestral Temple",
+      "sources": [
+        {
+          "url": "https://www.prdculture.org.cn/ygawlzxw/bwgk/202406/cb17525b38e14e35a978608ec7428b4e.shtml",
+          "title": "粤港澳文旅资讯网：佛山市祖庙博物馆",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://gs.ctrip.com/html5/you/sight/Foshan207/23213.html",
+          "title": "携程：祖庙博物馆（平台信息与可见样本）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/foshan207.html",
+          "title": "携程佛山目录：平台起价",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：佛山祖庙（地理与背景资料）",
+          "url": "https://zh.wikipedia.org/wiki/%E4%BD%9B%E5%B1%B1%E7%A5%96%E5%BA%99",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": {
+        "url": "https://gs.ctrip.com/html5/you/sight/Foshan207/23213.html",
+        "checked": "2026-10-16",
+        "samples": [
+          {
+            "author": "邢小咖",
+            "date": null,
+            "dateStatus": "not-shown",
+            "url": "https://gs.ctrip.com/html5/you/sight/Foshan207/23213.html"
+          }
+        ],
+        "positive": "携程用户 邢小咖（日期未显示）：认可醒狮的观赏性，同时提到到访时黄飞鸿馆修缮。",
+        "negative": "日期未显示；另一匿名用户也提到个别馆舍未开，不能推断今天仍关闭或全部开放。",
+        "ticket": "平台目录展示门票 CNY 20 起，属于平台参考；现行官方票价、优惠及演出包含范围购票前复核。",
+        "en": {
+          "positive": "Ctrip user 邢小咖 (date not shown): Enjoyed the lion dance but found the Huang Feihong hall under restoration.",
+          "negative": "Date not shown. Another anonymous visitor also mentioned a closed venue; neither proves today’s conditions.",
+          "ticket": "The platform directory advertises tickets from CNY 20. This is a platform reference; reconfirm official prices, concessions and show coverage."
+        }
+      },
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 2,
+      "en": {
+        "name": "Foshan Ancestral Temple Museum",
+        "location": "21 Zumiao Road, Chancheng, Foshan",
+        "description": "Historic architecture, local traditions and martial-arts culture in one museum. Confirm lion-dance sessions and restoration closures separately.",
+        "transport": "Walk from Zumiao metro station. Pair the museum with nearby old-city streets; distant Shunde stops require separate transport.",
+        "food": "Individual restaurants and prices await a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "平台目录展示门票 CNY 20 起，属于平台参考；现行官方票价、优惠及演出包含范围购票前复核。",
+        "opening": "平台列8:30–18:00，17:30停止售票和入场，并提示部分项目升级改造；不能据此保证全部馆舍开放。",
+        "reservation": "通过祖庙博物馆官方购票渠道核对预约、证件和醒狮时刻；不要沿用往年节目表。",
+        "route": "编辑建议2–3小时看古建筑与当日开放展馆；若有醒狮，提前确认场次再调整顺序。",
+        "accessibility": "台阶、坡度、卫生间及连续无障碍路线未逐项核实；按同行人的体力缩短路线。",
+        "en": {
+          "admission": "The platform directory advertises tickets from CNY 20. This is a platform reference; reconfirm official prices, concessions and show coverage.",
+          "opening": "Platform hours: 08:30–18:00, ticket sales and entry stop at 17:30. A renovation notice means some areas may be unavailable.",
+          "reservation": "Check the museum’s official booking channel for documents and lion-dance times rather than older schedules.",
+          "route": "Editorial allowance: 2–3 hours for architecture and open exhibitions. Arrange the order around a confirmed lion-dance session.",
+          "accessibility": "Steps, gradients, toilets and continuous accessible routes are not individually verified. Shorten the route to suit your group."
+        }
+      },
+      "image": {
+        "path": "assets/gd012.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:20251122_Foshan_Shi_Zumiao_Bowuguan_(132108).jpg",
+        "author": "Yumeto",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2025-11-22 13:21:08",
+        "caption": "佛山市祖庙博物馆所在地区参考实景 · 原文件：20251122_Foshan_Shi_Zumiao_Bowuguan_(132108).jpg",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Foshan Ancestral Temple Museum · reference photo"
+        }
+      }
+    },
+    {
+      "id": "gd013",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "珠海",
+      "name": "唐家共乐园",
+      "theme": "古村古建",
+      "location": "珠海市 · 香洲区唐家湾镇山房路一带",
+      "description": "唐绍仪旧园以古树、亭阁与近代园林历史见长，可与唐家古镇安排在同一半天。",
+      "food": "具体餐饮门店与价格待广东美食批次逐店核对。",
+      "season": "春秋冬",
+      "transport": "导航“唐家共乐园”确认入口，选择唐家湾片区接驳；不要按“珠海市区”笼统估算交通。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "共乐园",
+      "sources": [
+        {
+          "url": "https://www.zhuhai-hitech.gov.cn/gxxw/mtkt/content/mpost_3611095.html",
+          "title": "珠海高新区：共乐园历史与免费开放（2023）",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/zhuhai27/140623.html",
+          "title": "携程：共乐园（平台信息与可见样本）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：共乐园（地理与背景资料）",
+          "url": "https://zh.wikipedia.org/wiki/%E5%85%B1%E4%B9%90%E5%9B%AD",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/zhuhai27/140623.html",
+        "checked": "2026-10-16",
+        "samples": [
+          {
+            "author": "正牌一旧云",
+            "date": "2026-09-20",
+            "url": "https://you.ctrip.com/sight/zhuhai27/140623.html"
+          }
+        ],
+        "positive": "携程用户 正牌一旧云（2026-09-20）：喜欢古树、亭阁与老园氛围，也提醒树木多、蚊虫较多。",
+        "negative": "同条评价提到身份证与免费入园，但只是个人记录；平台旧优惠票字段与之不一致。",
+        "ticket": "高新区2023年报道说明免费开放；平台仍保留旧儿童优惠票字段，与近期用户免费入园说法冲突，出发前确认。",
+        "en": {
+          "positive": "Ctrip user 正牌一旧云 (2026-09-20): Enjoyed the trees, pavilions and historic atmosphere, while noting insects in the garden.",
+          "negative": "The same visitor reports free entry with ID; this is an individual record and conflicts with older ticket fields.",
+          "ticket": "A 2023 high-tech-zone report describes free access. The platform still carries older child-ticket rules conflicting with recent free-entry reports; confirm before visiting."
+        }
+      },
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 2,
+      "en": {
+        "name": "Gongle Garden, Tangjia",
+        "location": "Shanfang Road area, Tangjiawan, Zhuhai",
+        "description": "Tang Shaoyi’s former garden combines old trees, pavilions and modern-era history, suitable for a half-day with Tangjia old town.",
+        "transport": "Navigate to Gongle Garden in Tangjia and verify the entrance. Allow for travel to the Tangjiawan area.",
+        "food": "Individual restaurants and prices await a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "高新区2023年报道说明免费开放；平台仍保留旧儿童优惠票字段，与近期用户免费入园说法冲突，出发前确认。",
+        "opening": "平台列8:30–18:00，仅作参考；展厅、建筑内部及临时维护安排另查。",
+        "reservation": "近期用户提到持身份证入园，但不是完整官方证件规则；境外证件和团体要求本轮未核实。",
+        "route": "编辑建议园林慢行1.5–2小时，再走唐家老街；避开暴雨，树荫路段备防蚊用品。",
+        "accessibility": "台阶、坡度、卫生间及连续无障碍路线未逐项核实；按同行人的体力缩短路线。",
+        "en": {
+          "admission": "A 2023 high-tech-zone report describes free access. The platform still carries older child-ticket rules conflicting with recent free-entry reports; confirm before visiting.",
+          "opening": "The platform lists 08:30–18:00 as a reference. Check exhibition rooms, building interiors and maintenance separately.",
+          "reservation": "A recent visitor mentions ID entry, but this is not a complete official policy. Overseas documents and group rules remain unconfirmed.",
+          "route": "Editorial plan: 1.5–2 hours in the garden, then Tangjia’s old streets. Avoid heavy rain and prepare for insects on shaded paths.",
+          "accessibility": "Steps, gradients, toilets and continuous accessible routes are not individually verified. Shorten the route to suit your group."
+        }
+      },
+      "image": {
+        "path": "assets/gd013.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:20250920_Gongle_Yuan.jpg",
+        "author": "Yumeto",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2025-09-20 17:22:57",
+        "caption": "唐家共乐园所在地区参考实景 · 原文件：20250920_Gongle_Yuan.jpg",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Gongle Garden, Tangjia · reference photo"
+        }
+      }
+    },
+    {
+      "id": "gd014",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "河源",
+      "name": "万绿湖",
+      "theme": "自然山水",
+      "location": "河源市 · 东源县新港镇万绿湖游客中心及开放游线",
+      "description": "以水库湖景和游船登岛为主；陆路观景、不同航线与镜花缘等项目不能混作同一张票。",
+      "food": "具体餐饮门店与价格待广东美食批次逐店核对。",
+      "season": "春秋冬",
+      "transport": "先导航万绿湖风景区游客中心，确认所订航线登船点；河源到东源县新港镇仍需接驳。",
+      "budget": 400,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Xinfengjiang Reservoir",
+      "sources": [
+        {
+          "url": "https://www.wanlvhu.cn/play.html",
+          "title": "万绿湖官网：航线、陆路与游客中心",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://www.wanlvhu.cn/home/show-10-155.html",
+          "title": "万绿湖官网：未标日期的游玩攻略（费用和班次需复核）",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://www.heyuan.gov.cn/zjhy/hygk/",
+          "title": "河源政府：景区背景",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：万绿湖（地理与背景资料）",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%87%E7%BB%BF%E6%B9%96",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 2,
+      "en": {
+        "name": "Wanlu Lake",
+        "location": "Wanlu Lake visitor centre, Xingang, Dongyuan County, Heyuan",
+        "description": "A reservoir landscape with cruises and island visits. Land viewpoints, cruise routes and nearby Jinghuayuan have different ticket coverage.",
+        "transport": "Confirm your cruise boarding point before navigating to the official visitor centre in Xingang, Dongyuan County.",
+        "food": "Individual restaurants and prices await a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "官网一篇未标发布日期的攻略列成人游船 CNY 198；仅保留为未注明时间的参考，不视为现行统一票价。",
+        "opening": "同篇官网攻略列9:00–16:00、末班船15:00；当前航线、发船和返航以当天确认结果为准。",
+        "reservation": "通过官网区分1号、2号航线和陆路游览；咨询0762-8780002核对包含岛屿、末班与退改。",
+        "route": "编辑建议留大半天，只选一条已确认航线，按工作人员安排登岛和回船；不把自行下水活动写入行程。",
+        "accessibility": "官网须知禁止捕鱼、下水嬉戏和游泳。登船坡道、船舱台阶与连续无障碍路线本轮未核实。",
+        "en": {
+          "admission": "An undated official guide lists an adult cruise at CNY 198. Retain only as an undated reference, not a current universal fare.",
+          "opening": "The same undated guide lists 09:00–16:00 and a 15:00 final departure. Confirm current routes, sailing times and return arrangements.",
+          "reservation": "Use the official site to distinguish Routes 1 and 2 from land visits. Ask +86 762 8780002 about included islands, final departures and cancellations.",
+          "route": "Editorial plan: most of a day for one confirmed cruise route, following staff boarding instructions. Do not add independent water entry.",
+          "accessibility": "Official rules prohibit fishing, swimming and entering the water for play. Boarding ramps, boat steps and continuous accessible routes are unverified."
+        }
+      },
+      "image": {
+        "path": "assets/gd014.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:The_Wanlv_Lake_at_noon.jpg",
+        "author": "Boris1601050607",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "date": "",
+        "caption": "万绿湖所在地区参考实景 · 原文件：The_Wanlv_Lake_at_noon.jpg",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Wanlu Lake · reference photo"
+        },
+        "dateStatus": "unknown"
+      }
+    },
+    {
+      "id": "gd015",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "梅州",
+      "name": "松口古镇",
+      "theme": "古村古建",
+      "location": "梅州市 · 梅县区松口镇古街、移民广场一带",
+      "description": "从骑楼、旧港口街区与客侨历史理解客家人下南洋的故事；古街与历史文化馆分开确认开放。",
+      "food": "具体餐饮门店与价格待广东美食批次逐店核对。",
+      "season": "春秋冬",
+      "transport": "梅州市区到松口镇需要公路接驳；先确认回程公交或车辆，不默认高铁站步行可达。",
+      "budget": 280,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "松口镇 (梅州市)",
+      "sources": [
+        {
+          "url": "https://www.gdmx.gov.cn/mzmxsokzzf/gkmlpt/content/2/2878/post_2878809.html",
+          "title": "梅县区政府：2026年松口古镇更新",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://www.gdmx.gov.cn/zfxxgkml/mxskzf/gzdt/content/post_2430241.html",
+          "title": "梅县区政府：松口街区与移民历史",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://gs.ctrip.com/html5/you/sight/Meizhou523/1975050.html",
+          "title": "携程：松口古镇（平台信息与可见样本）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": {
+        "url": "https://gs.ctrip.com/html5/you/sight/Meizhou523/1975050.html",
+        "checked": "2026-10-16",
+        "samples": [
+          {
+            "author": "粤剧演员朱女",
+            "date": null,
+            "dateStatus": "not-shown",
+            "url": "https://gs.ctrip.com/html5/you/sight/Meizhou523/1975050.html"
+          }
+        ],
+        "positive": "携程用户 粤剧演员朱女（日期未显示）：关注客侨历史、街道与中西合璧建筑的氛围。",
+        "negative": "日期未显示，不能用旧评论的“商业化不浓”推断2026年新场馆和街区运营情况；差评抽样未完成。",
+        "ticket": "古街与具体文化馆的票务、讲解和活动分别确认，本轮未取得现行完整官方价目。",
+        "en": {
+          "positive": "Ctrip user 粤剧演员朱女 (date not shown): Focused on migration history and the atmosphere of the town’s mixed architectural styles.",
+          "negative": "Date not shown; older descriptions cannot establish conditions after the 2026 renewal. Negative sampling is incomplete.",
+          "ticket": "Check street access, individual museums, guiding and activities separately. No complete current official tariff was obtained."
+        }
+      },
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 2,
+      "en": {
+        "name": "Songkou Ancient Town",
+        "location": "Old streets and migration memorial square, Songkou, Meixian District, Meizhou",
+        "description": "Explore arcaded streets and a former river port through Hakka migration history. Check street access separately from exhibition venues.",
+        "transport": "Arrange a road transfer from Meizhou and confirm the return journey; the old town is not a walk from a high-speed railway station.",
+        "food": "Individual restaurants and prices await a separate Guangdong food update.",
+        "photoStatus": "Licensed photo research pending"
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "古街与具体文化馆的票务、讲解和活动分别确认，本轮未取得现行完整官方价目。",
+        "opening": "平台列古镇全天，不能外推文化馆和故居全天开放；政府2026年报道有新场馆与街区更新。",
+        "reservation": "以所选文化馆的当日公告核实预约，古街活动和夜游节目不按春节报道推断全年上演。",
+        "route": "编辑建议半天看古街、移民广场与一处已确认开放的文化馆；码头和临水路段按现场开放标志行走。",
+        "accessibility": "台阶、坡度、卫生间及连续无障碍路线未逐项核实；按同行人的体力缩短路线。",
+        "en": {
+          "admission": "Check street access, individual museums, guiding and activities separately. No complete current official tariff was obtained.",
+          "opening": "An all-day platform listing for the town does not apply to museums and residences. A 2026 official report describes new venues and street renewal.",
+          "reservation": "Confirm bookings with each chosen venue. Spring Festival activities and night programmes are not guaranteed year-round.",
+          "route": "Editorial half-day route: old streets, migration square and one confirmed open exhibition. Follow access signs near the waterfront.",
+          "accessibility": "Steps, gradients, toilets and continuous accessible routes are not individually verified. Shorten the route to suit your group."
+        }
+      },
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd016",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "汕尾",
+      "name": "凤山民俗文化旅游区",
+      "theme": "历史人文",
+      "location": "汕尾市 · 城区海滨大道凤山、品清湖畔",
+      "description": "旧称凤山祖庙旅游区，2026年正式更名；妈祖文化、民俗展陈与品清湖城市景观可结合游览。",
+      "food": "具体餐饮门店与价格待广东美食批次逐店核对。",
+      "season": "春秋冬",
+      "transport": "先导航新旧名称交叉确认城区凤山入口；从汕尾站到海滨大道仍需市内接驳。",
+      "budget": 280,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "凤山祖庙",
+      "sources": [
+        {
+          "url": "https://www.shanwei.gov.cn/swswgltj/gkmlpt/content/1/1237/post_1237193.html?jump=true",
+          "title": "汕尾文旅：2026-04-03更名及运营主体公告",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://www.shanwei.gov.cn/shanwei/swly/lyzs/content/post_1048996.html",
+          "title": "汕尾政府：2024年攻略（旧票价与旧时间）",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://www.shanwei.gov.cn/gkmlpt/content/1/1226/post_1226649.html",
+          "title": "汕尾政府：2026年春节焕新活动（限期节目）",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：凤山祖庙（地理与背景资料）",
+          "url": "https://zh.wikipedia.org/wiki/%E5%87%A4%E5%B1%B1%E7%A5%96%E5%BA%99",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 2,
+      "en": {
+        "name": "Fengshan Folk Culture Scenic Area",
+        "location": "Fengshan, Haibin Avenue, Chengqu District, Shanwei",
+        "description": "Formerly Fengshan Ancestral Temple Scenic Area, officially renamed in 2026. Combines Mazu traditions, folk culture and views of Pinqing Lake.",
+        "transport": "Cross-check the new and former names for the Fengshan entrance. Allow a city transfer from Shanwei railway station.",
+        "food": "Individual restaurants and prices await a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "市政府2024年攻略列门票 CNY 15，是更名前历史参考；2026年焕新运营后的票种和活动收费需重新确认。",
+        "opening": "2024年攻略列8:30–18:00，不能作为新运营方现行时刻；春节灯光和表演属于限期活动。",
+        "reservation": "订票时核对“凤山民俗文化旅游区”、所选日期、日夜场与运营方；旧网页名称仍可能保留。",
+        "route": "编辑建议半天参观开放的民俗区域，再按体力登高看湖景；演出是否加入以当天场次为准。",
+        "accessibility": "台阶、坡度、卫生间及连续无障碍路线未逐项核实；按同行人的体力缩短路线。",
+        "en": {
+          "admission": "A 2024 government guide quoted CNY 15, before the rename and renewed operation. Reconfirm current tickets and event charges.",
+          "opening": "The 2024 guide listed 08:30–18:00; this does not establish the new operator’s current hours. Festival shows were time-limited.",
+          "reservation": "Check the new name, date, day/evening session and operator when booking; older pages may retain the former name.",
+          "route": "Editorial half-day plan: open folk-culture areas and a viewpoint if comfortable. Add a show only after confirming its session.",
+          "accessibility": "Steps, gradients, toilets and continuous accessible routes are not individually verified. Shorten the route to suit your group."
+        }
+      },
+      "image": {
+        "path": "assets/gd016.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Ma_Zu_Ge,_Fengshan_Temple,_Shanwei,_Aug_2022.jpg",
+        "author": "HMGiovanniV",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2022-08-14 12:49:33",
+        "caption": "汕尾凤山旅游区妈祖阁参考实景，摄于2022年更名前",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Mazu Pavilion in Fengshan, Shanwei · reference photo from 2022, before the rename"
+        }
+      }
+    },
+    {
+      "id": "gd017",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "中山",
+      "name": "孙中山故居纪念馆",
+      "theme": "历史人文",
+      "location": "中山市 · 南朗街道翠亨村",
+      "description": "以孙中山故居与翠亨历史文化为核心，可按官方导览选择短线或较深入的参观线路。",
+      "food": "具体餐饮门店与价格待广东美食批次逐店核对。",
+      "season": "春秋冬",
+      "transport": "导航纪念馆而非中山市中心，确认翠亨片区下车点与停车指引；珠海、广州来访另留接驳时间。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Former Residence of Sun Yat-sen",
+      "sources": [
+        {
+          "url": "https://www.sunyat-sen.org/",
+          "title": "孙中山故居纪念馆官网：免费、时间、免预约与公告",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://zhdl.sunyat-sen.org/giszslywx/index.html",
+          "title": "纪念馆官方智慧导览：45/90/150分钟线路",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 2,
+      "en": {
+        "name": "Museum of Dr. Sun Yat-sen",
+        "location": "Cuiheng Village, Nanlang, Zhongshan",
+        "description": "Sun Yat-sen’s former residence and Cuiheng heritage can be explored through shorter or more detailed official visitor routes.",
+        "transport": "Navigate to the museum in Cuiheng rather than central Zhongshan; check drop-off and parking arrangements.",
+        "food": "Individual restaurants and prices await a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "官网说明免费开放；周边其他经营项目不据此认定免费。",
+        "opening": "官网列每天9:00–17:30，17:00停止入场；5–9月周末及全年法定节假日等延至18:00、17:30停止入场。子展览可能临时关闭。",
+        "reservation": "官网现行说明安检后免预约参观，达到承载量时限流；团队讲解和特殊活动另核实。",
+        "route": "编辑建议用官方90分钟漫游线作起点，体力和兴趣足再延长；不把所有周边景点视为馆内同一游线。",
+        "accessibility": "台阶、坡度、卫生间及连续无障碍路线未逐项核实；按同行人的体力缩短路线。",
+        "en": {
+          "admission": "The official website states free museum admission. This does not cover other commercial activities nearby.",
+          "opening": "Official regular hours: 09:00–17:30, last entry 17:00. May–September weekends and designated holidays extend to 18:00, last entry 17:30. Individual exhibitions may close temporarily.",
+          "reservation": "The official site currently describes security screening without advance reservations, with capacity controls. Check group tours and special events separately.",
+          "route": "Editorial suggestion: start with the official 90-minute route and extend if time and energy allow. Nearby attractions are not all part of one museum route.",
+          "accessibility": "Steps, gradients, toilets and continuous accessible routes are not individually verified. Shorten the route to suit your group."
+        }
+      },
+      "image": {
+        "path": "assets/gd017.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Former_Residence_of_Sun_Yat-Sen.jpg",
+        "author": "Scuffedsherm",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "date": "2024-02-26 10:52:49",
+        "caption": "翠亨孙中山故居参考实景（并非纪念馆全部区域）",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Former Residence of Sun Yat-sen, Cuiheng · reference photo"
+        }
+      }
+    },
+    {
+      "id": "gd018",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "茂名",
+      "name": "高州冼太庙",
+      "theme": "历史人文",
+      "location": "茂名市 · 高州市城区文明路与光明路一带，潘州公园旁",
+      "description": "以冼夫人纪念文化和岭南庙宇工艺为主，城区冼太庙与长坡旧城冼太庙、高凉岭冼太庙是不同地点。",
+      "food": "具体餐饮门店与价格待广东美食批次逐店核对。",
+      "season": "春秋冬",
+      "transport": "导航高州市区冼太庙并核对潘州公园附近位置；从茂名城区或铁路站到高州仍需接驳。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Temple of Madam Xian",
+      "sources": [
+        {
+          "url": "https://ep.ycwb.com/epaper/xkb/h5/html5/2024-08/22/content_1516_663480.htm",
+          "title": "新快报：高州冼太庙建筑与展陈（2024）",
+          "type": "媒体资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/gaozhou337/1981384.html",
+          "title": "携程：高州冼太庙（平台信息与可见样本）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：高州冼太庙（地理与背景资料）",
+          "url": "https://zh.wikipedia.org/wiki/%E9%AB%98%E5%B7%9E%E5%86%BC%E5%A4%AA%E5%BA%99",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 2,
+      "en": {
+        "name": "Temple of Madam Xian, Gaozhou",
+        "location": "Near Panzhou Park, Wenming/Guangming Road area, Gaozhou, Maoming",
+        "description": "A memorial temple to Lady Xian with Lingnan craftsmanship. This central Gaozhou site is distinct from the temples in Jiucheng and Gaoliang Ridge.",
+        "transport": "Confirm the central Gaozhou location near Panzhou Park. Allow a transfer from Maoming or your railway station.",
+        "food": "Individual restaurants and prices await a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "现行入场与特展收费未取得完整官方说明，不按网友免费体验推断所有活动均免费。",
+        "opening": "平台列8:00–17:30，仅作平台参考；具体展陈、仪式期间安排另核实。",
+        "reservation": "先确认准确庙址、参观时间和是否临时限制，平台咨询电话0668-6666540可作为复核线索。",
+        "route": "编辑建议1–2小时参观开放殿堂及陈列，搭配潘州公园；不把多个同名冼太庙连成步行路线。",
+        "accessibility": "台阶、坡度、卫生间及连续无障碍路线未逐项核实；按同行人的体力缩短路线。",
+        "en": {
+          "admission": "A complete current official admission policy was not obtained. A visitor’s free-entry experience does not establish free access to every activity.",
+          "opening": "Platform reference: 08:00–17:30. Confirm exhibitions and arrangements during ceremonies separately.",
+          "reservation": "Confirm the exact temple, hours and temporary restrictions. Platform-listed contact: +86 668 6666540.",
+          "route": "Editorial allowance: 1–2 hours for open halls and displays, with nearby Panzhou Park. Do not treat similarly named temples as adjacent walking stops.",
+          "accessibility": "Steps, gradients, toilets and continuous accessible routes are not individually verified. Shorten the route to suit your group."
+        }
+      },
+      "image": {
+        "path": "assets/gd018.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Xian_Fu_Ren_statue.jpg",
+        "author": "Pv163",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2021-12-25",
+        "caption": "​高州冼太庙前冼夫人雕像",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Statue of Lady Xian in front of Gaozhou’s Temple of Madam Xian · reference photo"
+        }
+      }
+    },
+    {
+      "id": "gd019",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "揭阳",
+      "name": "揭阳学宫",
+      "theme": "古村古建",
+      "location": "揭阳市 · 榕城区韩祠路一带",
+      "description": "在榕城老城看学宫格局与儒学文化，可与附近街巷组合，室内展览和建筑开放范围单独确认。",
+      "food": "具体餐饮门店与价格待广东美食批次逐店核对。",
+      "season": "春秋冬",
+      "transport": "导航榕城区揭阳学宫入口；不同铁路站到老城距离不同，到站后另查市内接驳。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "揭阳学宫",
+      "sources": [
+        {
+          "url": "https://rc.jieyang.gov.cn/front/zjjy6.jsp",
+          "title": "揭阳人社官方平台：学宫与主题景点目录",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://rc.jieyang.gov.cn/front/zjjy3.jsp",
+          "title": "揭阳官方城市资料：榕城历史景点",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://you.ctrip.com/sight/jieyang835/3218562.html",
+          "title": "携程：揭阳学宫（平台信息与可见样本）",
+          "type": "游客平台",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：揭阳学宫（地理与背景资料）",
+          "url": "https://zh.wikipedia.org/wiki/%E6%8F%AD%E9%98%B3%E5%AD%A6%E5%AE%AB",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 2,
+      "en": {
+        "name": "Jieyang Confucian Temple",
+        "location": "Hanci Road area, Rongcheng District, Jieyang",
+        "description": "Explore Confucian educational heritage in Rongcheng’s old town, combining the temple with nearby lanes while checking interior access separately.",
+        "transport": "Navigate to the Rongcheng entrance. Transfer distances differ between railway stations; check local transport after choosing your arrival station.",
+        "food": "Individual restaurants and prices await a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "本轮未取得可确认的现行官方票务说明；不把古城街区可步行等同学宫所有场馆免费。",
+        "opening": "网上攻略的闭馆日和午间开放说法不一，本轮不采用矛盾时刻表；临行查学宫或博物馆公告。",
+        "reservation": "优先核对具体入场门、临时维护与团体预约，别只按平台“景点介绍”安排行程。",
+        "route": "编辑建议预留1–2小时，看当日开放的中轴建筑与展陈；再按实际步行条件串联榕城老街。",
+        "accessibility": "台阶、坡度、卫生间及连续无障碍路线未逐项核实；按同行人的体力缩短路线。",
+        "en": {
+          "admission": "No verified current official ticket policy was obtained. Walkable old-town streets do not establish free access to all temple venues.",
+          "opening": "Online guides conflict on closure days and midday access. No contradictory timetable is adopted; check temple or museum notices before travel.",
+          "reservation": "Confirm the entrance, maintenance closures and group booking requirements before planning around a platform description.",
+          "route": "Editorial allowance: 1–2 hours for open central-axis buildings and displays, then nearby Rongcheng lanes if walking conditions suit.",
+          "accessibility": "Steps, gradients, toilets and continuous accessible routes are not individually verified. Shorten the route to suit your group."
+        }
+      },
+      "image": {
+        "path": "assets/gd019.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Jieyang_Xuegong_2013.10.27_15-12-27.jpg",
+        "author": "Zhangzhugang",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "date": "2013-10-27 15:12:27",
+        "caption": "揭阳学宫所在地区参考实景 · 原文件：Jieyang_Xuegong_2013.10.27_15-12-27.jpg",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Jieyang Confucian Temple · reference photo"
+        }
+      }
+    },
+    {
+      "id": "gd020",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "云浮",
+      "name": "新兴国恩寺",
+      "theme": "历史人文",
+      "location": "云浮市 · 新兴县六祖镇塔脚村旁龙山脚",
+      "description": "从岭南寺院中轴建筑与惠能相关历史了解禅文化；国恩寺与周边温泉、商业演出分别安排。",
+      "food": "具体餐饮门店与价格待广东美食批次逐店核对。",
+      "season": "春秋冬",
+      "transport": "导航六祖镇国恩寺，抵新兴县城后仍需接驳；不是到云浮市区即可步行抵达的景点。",
+      "budget": 280,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "Guo’en Temple",
+      "sources": [
+        {
+          "url": "https://www.xinxing.gov.cn/xxxrmzf/zjxx/xxwh/whyc/content/post_1874305.html",
+          "title": "新兴文旅：国恩寺位置、格局与历史（2024）",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://www.guoensi.com/",
+          "title": "国恩寺官网（可读内容较旧，非当前营业证明）",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "维基百科：国恩寺（地理与背景资料）",
+          "url": "https://zh.wikipedia.org/wiki/%E5%9B%BD%E6%81%A9%E5%AF%BA",
+          "type": "百科资料"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点攻略",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 2,
+      "en": {
+        "name": "Guoen Temple, Xinxing",
+        "location": "At the foot of Longshan, Liuzu, Xinxing County, Yunfu",
+        "description": "Learn about Chan heritage and Huineng through a Lingnan temple complex. Nearby hot springs and commercial shows require separate planning.",
+        "transport": "Navigate to Guoen Temple in Liuzu. Arrange a transfer from Xinxing town rather than treating it as a central Yunfu stop.",
+        "food": "Individual restaurants and prices await a separate Guangdong food update."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "admission": "本轮未取得现行完整官方收费表；参观、香烛、祈福及周边商业项目分别确认。",
+        "opening": "寺院官网可读内容较旧，不能据此确认2026年当天时间；午间是否开放及法会期间安排需向寺院核实。",
+        "reservation": "出发前向寺院确认开放及团体要求；宗教活动期间按现场秩序参观，拍摄先问许可。",
+        "route": "编辑建议半天内看开放的天王殿、大雄宝殿及六祖殿一线；不进入未开放院落。",
+        "accessibility": "台阶、坡度、卫生间及连续无障碍路线未逐项核实；按同行人的体力缩短路线。",
+        "en": {
+          "admission": "No complete current official tariff was obtained. Check visiting arrangements and any optional or nearby commercial activities separately.",
+          "opening": "The temple website’s readable content is older and does not establish current hours. Confirm midday access and ceremony arrangements directly.",
+          "reservation": "Confirm access and group requirements with the temple. Respect ceremony arrangements and ask before photographing.",
+          "route": "Editorial plan: a relaxed visit along the open main halls, including Tianwang, Mahavira and Liuzu halls. Stay out of closed courtyards.",
+          "accessibility": "Steps, gradients, toilets and continuous accessible routes are not individually verified. Shorten the route to suit your group."
+        }
+      },
+      "image": {
+        "path": "assets/gd020.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:%E5%9B%BD%E6%81%A9%E5%AF%BA_20260527_144925.jpg",
+        "author": "Pkkj",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2026-05-27 14:49:25",
+        "caption": "新兴国恩寺所在地区参考实景 · 原文件：国恩寺_20260527_144925.jpg",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Guoen Temple, Xinxing · reference photo"
+        }
+      }
     }
   ],
   "foods": [
@@ -5374,13 +6142,31 @@
   "provinceUpdates": {
     "广东": {
       "date": "2026-10-16",
-      "batch": 1,
-      "count": 14,
-      "cities": 12,
-      "scope": "首批景点资料；覆盖12个地级市，尚未覆盖广东全部21市及全部县域。门店与餐饮价格另批核对。",
+      "batch": 2,
+      "count": 23,
+      "cities": 21,
+      "added": 9,
+      "scope": "广东累计23个景点，21个地级市均有条目；第2批新增9个。城市覆盖不代表全省景点已收全，餐饮门店与价格另批核对。",
       "en": {
-        "scope": "First attraction batch across 12 prefecture-level cities. Guangdong’s 21 cities and all counties are not fully covered. Restaurant prices need a separate update."
-      }
+        "scope": "23 Guangdong attractions across all 21 prefecture-level cities; 9 added in Batch 2. City coverage is not exhaustive attraction coverage. Restaurants and prices need a separate update."
+      },
+      "batches": [
+        {
+          "batch": 1,
+          "added": 11,
+          "upgraded": 3,
+          "count": 14,
+          "cities": 12,
+          "date": "2026-10-16"
+        },
+        {
+          "batch": 2,
+          "added": 9,
+          "count": 23,
+          "cities": 21,
+          "date": "2026-10-16"
+        }
+      ]
     }
   }
 }
