@@ -1,0 +1,1168 @@
+{
+  "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+  "attachment": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+  "asOf": "2026-08-31",
+  "checked": "2026-10-16",
+  "entries": [
+    {
+      "id": "gd-dir-1",
+      "name": "长隆旅游度假区",
+      "city": "广州",
+      "officialName": "广州市长隆旅游度假区",
+      "directoryRow": 1,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-3",
+      "name": "中山纪念堂",
+      "city": "广州",
+      "officialName": "广州市中山纪念堂",
+      "directoryRow": 3,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-4",
+      "name": "番禺莲花山",
+      "city": "广州",
+      "officialName": "广州市番禺莲花山旅游区",
+      "directoryRow": 4,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-5",
+      "name": "宝墨园",
+      "city": "广州",
+      "officialName": "广州市宝墨园",
+      "directoryRow": 5,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-7",
+      "name": "南越王博物院·王墓展区",
+      "city": "广州",
+      "officialName": "广州市南越王博物院（王墓展区）景区",
+      "directoryRow": 7,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-9",
+      "name": "越秀公园",
+      "city": "广州",
+      "officialName": "广州市越秀公园",
+      "directoryRow": 9,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-116",
+      "name": "观澜湖休闲度假区",
+      "city": "深圳",
+      "officialName": "深圳市观澜湖休闲度假区",
+      "directoryRow": 116,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-118",
+      "name": "海上田园",
+      "city": "深圳",
+      "officialName": "深圳市西部海上田园旅游区",
+      "directoryRow": 118,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-120",
+      "name": "深圳野生动物园",
+      "city": "深圳",
+      "officialName": "深圳市野生动物园",
+      "directoryRow": 120,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-121",
+      "name": "青青世界",
+      "city": "深圳",
+      "officialName": "深圳市青青世界旅游区",
+      "directoryRow": 121,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-125",
+      "name": "欢乐港湾",
+      "city": "深圳",
+      "officialName": "深圳市欢乐港湾旅游景区",
+      "directoryRow": 125,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-130",
+      "name": "甘坑古镇",
+      "city": "深圳",
+      "officialName": "深圳市甘坑古镇文化旅游区",
+      "directoryRow": 130,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-132",
+      "name": "圆明新园",
+      "city": "珠海",
+      "officialName": "珠海市圆明新园",
+      "directoryRow": 132,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-134",
+      "name": "御温泉度假村",
+      "city": "珠海",
+      "officialName": "珠海市御温泉度假村景区",
+      "directoryRow": 134,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-135",
+      "name": "东澳岛",
+      "city": "珠海",
+      "officialName": "珠海市东澳岛旅游度假区",
+      "directoryRow": 135,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-136",
+      "name": "外伶仃岛",
+      "city": "珠海",
+      "officialName": "珠海市外伶仃岛旅游度假区",
+      "directoryRow": 136,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-137",
+      "name": "汤臣倍健透明工厂",
+      "city": "珠海",
+      "officialName": "珠海市汤臣倍健透明工厂景区",
+      "directoryRow": 137,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-138",
+      "name": "桂山岛",
+      "city": "珠海",
+      "officialName": "珠海市桂山岛风景区",
+      "directoryRow": 138,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-139",
+      "name": "大门口湿地公园",
+      "city": "珠海",
+      "officialName": "珠海市大门口湿地公园景区",
+      "directoryRow": 139,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-144",
+      "name": "礐石风景名胜区",
+      "city": "汕头",
+      "officialName": "汕头市礐石风景名胜区",
+      "directoryRow": 144,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-149",
+      "name": "前美古村",
+      "city": "汕头",
+      "officialName": "汕头市前美古村侨文化旅游区",
+      "directoryRow": 149,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-150",
+      "name": "潮阳莲花峰",
+      "city": "汕头",
+      "officialName": "汕头市潮阳莲花峰风景区",
+      "directoryRow": 150,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-151",
+      "name": "妈屿岛",
+      "city": "汕头",
+      "officialName": "汕头市妈屿岛旅游区",
+      "directoryRow": 151,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-153",
+      "name": "汕头中山公园",
+      "city": "汕头",
+      "officialName": "汕头市中山公园",
+      "directoryRow": 153,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-159",
+      "name": "小公园开埠区",
+      "city": "汕头",
+      "officialName": "汕头市小公园开埠区旅游区",
+      "directoryRow": 159,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-152",
+      "name": "和平大峰风景区",
+      "city": "汕头",
+      "officialName": "汕头市潮阳区和平大峰风景区",
+      "directoryRow": 152,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-164",
+      "name": "西樵山",
+      "city": "佛山",
+      "officialName": "佛山市西樵山景区",
+      "directoryRow": 164,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-165",
+      "name": "长鹿旅游休博园",
+      "city": "佛山",
+      "officialName": "佛山市长鹿旅游休博园",
+      "directoryRow": 165,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-167",
+      "name": "三水森林公园",
+      "city": "佛山",
+      "officialName": "佛山市三水森林公园",
+      "directoryRow": 167,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-168",
+      "name": "清晖园",
+      "city": "佛山",
+      "officialName": "佛山市清晖园",
+      "directoryRow": 168,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-169",
+      "name": "南风古灶",
+      "city": "佛山",
+      "officialName": "佛山市南风古灶旅游区",
+      "directoryRow": 169,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-182",
+      "name": "逢简水乡",
+      "city": "佛山",
+      "officialName": "佛山市顺德区杏坛逢简水乡",
+      "directoryRow": 182,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-174",
+      "name": "皂幕山",
+      "city": "佛山",
+      "officialName": "佛山市皂幕山旅游风景区",
+      "directoryRow": 174,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-206",
+      "name": "广东大峡谷",
+      "city": "韶关",
+      "officialName": "韶关市广东大峡谷景区",
+      "directoryRow": 206,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-207",
+      "name": "云门山",
+      "city": "韶关",
+      "officialName": "韶关市云门山生态文化旅游区",
+      "directoryRow": 207,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-210",
+      "name": "珠玑古巷·梅关古道",
+      "city": "韶关",
+      "officialName": "韶关市珠玑古巷·梅关古道景区",
+      "directoryRow": 210,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-214",
+      "name": "满堂客家大围",
+      "city": "韶关",
+      "officialName": "韶关市始兴县满堂客家大围景区",
+      "directoryRow": 214,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-215",
+      "name": "帽子峰",
+      "city": "韶关",
+      "officialName": "韶关市帽子峰旅游景区",
+      "directoryRow": 215,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-221",
+      "name": "马坝人遗址",
+      "city": "韶关",
+      "officialName": "韶关市马坝人遗址景区",
+      "directoryRow": 221,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-222",
+      "name": "石塘古村",
+      "city": "韶关",
+      "officialName": "韶关市仁化县石塘古村景区",
+      "directoryRow": 222,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-252",
+      "name": "苏家围·东江画廊",
+      "city": "河源",
+      "officialName": "河源市苏家围·东江画廊旅游景区",
+      "directoryRow": 252,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-256",
+      "name": "恐龙文博园",
+      "city": "河源",
+      "officialName": "河源市恐龙文博园景区",
+      "directoryRow": 256,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-257",
+      "name": "霍山",
+      "city": "河源",
+      "officialName": "河源市霍山旅游风景区",
+      "directoryRow": 257,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-258",
+      "name": "佗城",
+      "city": "河源",
+      "officialName": "河源市佗城景区",
+      "directoryRow": 258,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-259",
+      "name": "黄龙岩畲族风情旅游区",
+      "city": "河源",
+      "officialName": "河源市黄龙岩畲族风情旅游区",
+      "directoryRow": 259,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-269",
+      "name": "林寨古村",
+      "city": "河源",
+      "officialName": "河源市和平县林寨古村景区",
+      "directoryRow": 269,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-270",
+      "name": "仙坑古村",
+      "city": "河源",
+      "officialName": "河源市东源县仙坑古村景区",
+      "directoryRow": 270,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-283",
+      "name": "雁南飞茶田",
+      "city": "梅州",
+      "officialName": "梅州市雁南飞茶田景区",
+      "directoryRow": 283,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-285",
+      "name": "叶剑英纪念园",
+      "city": "梅州",
+      "officialName": "梅州市叶剑英纪念园",
+      "directoryRow": 285,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-286",
+      "name": "灵光寺",
+      "city": "梅州",
+      "officialName": "梅州市灵光寺旅游区",
+      "directoryRow": 286,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-289",
+      "name": "百侯名镇",
+      "city": "梅州",
+      "officialName": "梅州市百侯名镇旅游区",
+      "directoryRow": 289,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-290",
+      "name": "泰安楼",
+      "city": "梅州",
+      "officialName": "梅州市泰安楼客家文化旅游产业园",
+      "directoryRow": 290,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-291",
+      "name": "五指石",
+      "city": "梅州",
+      "officialName": "梅州市五指石风景名胜区",
+      "directoryRow": 291,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-295",
+      "name": "张弼士故居",
+      "city": "梅州",
+      "officialName": "梅州市张弼士故居旅游区",
+      "directoryRow": 295,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-335",
+      "name": "罗浮山",
+      "city": "惠州",
+      "officialName": "惠州市罗浮山景区",
+      "directoryRow": 335,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-337",
+      "name": "南昆山生态旅游区",
+      "city": "惠州",
+      "officialName": "惠州市龙门县南昆山生态旅游区",
+      "directoryRow": 337,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-341",
+      "name": "巽寮湾",
+      "city": "惠州",
+      "officialName": "惠州·巽寮国际滨海旅游度假区",
+      "directoryRow": 341,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-343",
+      "name": "叶挺将军纪念园",
+      "city": "惠州",
+      "officialName": "惠州市叶挺将军纪念园景区",
+      "directoryRow": 343,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-344",
+      "name": "五矿哈施塔特小镇",
+      "city": "惠州",
+      "officialName": "惠州市五矿·哈施塔特旅游小镇",
+      "directoryRow": 344,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-346",
+      "name": "大亚湾红树林城市湿地公园",
+      "city": "惠州",
+      "officialName": "惠州市大亚湾红树林城市湿地公园",
+      "directoryRow": 346,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-347",
+      "name": "香溪堡",
+      "city": "惠州",
+      "officialName": "惠州市香溪堡旅游区",
+      "directoryRow": 347,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-385",
+      "name": "玄武山",
+      "city": "汕尾",
+      "officialName": "汕尾市玄武山旅游区",
+      "directoryRow": 385,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-388",
+      "name": "红海湾旅游区",
+      "city": "汕尾",
+      "officialName": "汕尾市红海湾旅游区",
+      "directoryRow": 388,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-389",
+      "name": "海丰红宫红场·彭湃故居",
+      "city": "汕尾",
+      "officialName": "汕尾市海丰红宫红场旧址·彭湃烈士故居红色旅游景区",
+      "directoryRow": 389,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-390",
+      "name": "螺洞世外梅园",
+      "city": "汕尾",
+      "officialName": "汕尾市陆河县螺洞世外梅园旅游区",
+      "directoryRow": 390,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-392",
+      "name": "陆丰福山妈祖旅游区",
+      "city": "汕尾",
+      "officialName": "汕尾市陆丰福山妈祖旅游区",
+      "directoryRow": 392,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-405",
+      "name": "石寨古村",
+      "city": "汕尾",
+      "officialName": "汕尾市陆丰石寨古村文化旅游景区",
+      "directoryRow": 405,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-406",
+      "name": "共光梅园",
+      "city": "汕尾",
+      "officialName": "汕尾市陆河共光万亩梅园旅游景区",
+      "directoryRow": 406,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-407",
+      "name": "鸦片战争博物馆",
+      "city": "东莞",
+      "officialName": "东莞市鸦片战争博物馆",
+      "directoryRow": 407,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-408",
+      "name": "松山湖生态景区",
+      "city": "东莞",
+      "officialName": "东莞市松山湖生态景区",
+      "directoryRow": 408,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-409",
+      "name": "广东观音山国家森林公园",
+      "city": "东莞",
+      "officialName": "东莞市广东观音山国家森林公园",
+      "directoryRow": 409,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-410",
+      "name": "东莞科学技术博物馆",
+      "city": "东莞",
+      "officialName": "东莞市科学技术博物馆",
+      "directoryRow": 410,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-415",
+      "name": "清溪银瓶山森林公园",
+      "city": "东莞",
+      "officialName": "东莞市清溪银瓶山森林公园景区",
+      "directoryRow": 415,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-416",
+      "name": "南社·塘尾古建筑群",
+      "city": "东莞",
+      "officialName": "东莞市南社村和塘尾村古建筑群景区",
+      "directoryRow": 416,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-421",
+      "name": "华阳湖湿地公园",
+      "city": "东莞",
+      "officialName": "东莞市华阳湖湿地公园景区",
+      "directoryRow": 421,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-434",
+      "name": "詹园",
+      "city": "中山",
+      "officialName": "中山市詹园景区",
+      "directoryRow": 434,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-435",
+      "name": "大涌红木文化博览城",
+      "city": "中山",
+      "officialName": "中山市中国（大涌）红木文化博览城景区",
+      "directoryRow": 435,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-446",
+      "name": "左步村",
+      "city": "中山",
+      "officialName": "中山市左步村乡村旅游景区",
+      "directoryRow": 446,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-447",
+      "name": "罗三妹山主题公园",
+      "city": "中山",
+      "officialName": "中山市罗三妹山“不走回头路”主题公园景区",
+      "directoryRow": 447,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-448",
+      "name": "孙文西路步行街",
+      "city": "中山",
+      "officialName": "中山市孙文西路文化旅游步行街景区",
+      "directoryRow": 448,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-450",
+      "name": "中山市博物馆",
+      "city": "中山",
+      "officialName": "中山市博物馆旅游景区",
+      "directoryRow": 450,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-453",
+      "name": "曹边村",
+      "city": "中山",
+      "officialName": "中山市曹边村乡村旅游景区",
+      "directoryRow": 453,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-461",
+      "name": "圭峰山",
+      "city": "江门",
+      "officialName": "江门市圭峰山风景区",
+      "directoryRow": 461,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-464",
+      "name": "川岛旅游度假区",
+      "city": "江门",
+      "officialName": "江门市川岛旅游度假区",
+      "directoryRow": 464,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-467",
+      "name": "那琴半岛",
+      "city": "江门",
+      "officialName": "江门市那琴半岛地质海洋公园",
+      "directoryRow": 467,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-468",
+      "name": "大雁山",
+      "city": "江门",
+      "officialName": "江门市大雁山风景区",
+      "directoryRow": 468,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-470",
+      "name": "古劳水乡",
+      "city": "江门",
+      "officialName": "江门古劳水乡旅游区",
+      "directoryRow": 470,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-471",
+      "name": "启超故里·小鸟天堂",
+      "city": "江门",
+      "officialName": "江门市启超故里·小鸟天堂文化旅游区",
+      "directoryRow": 471,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-474",
+      "name": "石板沙疍家风情岛",
+      "city": "江门",
+      "officialName": "江门市石板沙疍家风情岛",
+      "directoryRow": 474,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-504",
+      "name": "凌霄岩",
+      "city": "阳江",
+      "officialName": "阳江市凌霄岩风景区",
+      "directoryRow": 504,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-506",
+      "name": "春湾风景区",
+      "city": "阳江",
+      "officialName": "阳江市春湾风景区",
+      "directoryRow": 506,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-507",
+      "name": "大澳渔村",
+      "city": "阳江",
+      "officialName": "阳江市阳东区大澳渔村旅游景区",
+      "directoryRow": 507,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-509",
+      "name": "沙扒湾",
+      "city": "阳江",
+      "officialName": "阳江市阳西县沙扒湾海天旅游区",
+      "directoryRow": 509,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-512",
+      "name": "阳江漆艺院",
+      "city": "阳江",
+      "officialName": "阳江市漆艺院旅游区",
+      "directoryRow": 512,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-517",
+      "name": "寿长河红树林湿地公园",
+      "city": "阳江",
+      "officialName": "阳江市阳东区寿长河红树林湿地公园景区",
+      "directoryRow": 517,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-518",
+      "name": "七贤书院",
+      "city": "阳江",
+      "officialName": "阳江市阳西县七贤书院景区",
+      "directoryRow": 518,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-533",
+      "name": "金沙湾",
+      "city": "湛江",
+      "officialName": "湛江市金沙湾滨海休闲旅游区",
+      "directoryRow": 533,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-534",
+      "name": "三岭山森林公园",
+      "city": "湛江",
+      "officialName": "湛江市三岭山森林公园",
+      "directoryRow": 534,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-536",
+      "name": "鼎龙湾",
+      "city": "湛江",
+      "officialName": "湛江市鼎龙湾国际海洋旅游区",
+      "directoryRow": 536,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-537",
+      "name": "遂溪孔子文化城",
+      "city": "湛江",
+      "officialName": "湛江市遂溪孔子文化城景区",
+      "directoryRow": 537,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-544",
+      "name": "特呈岛",
+      "city": "湛江",
+      "officialName": "湛江市特呈全域旅游岛景区",
+      "directoryRow": 544,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-548",
+      "name": "赤坎老街",
+      "city": "湛江",
+      "officialName": "湛江市赤坎老街旅游景区",
+      "directoryRow": 548,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-552",
+      "name": "徐闻菠萝的海",
+      "city": "湛江",
+      "officialName": "湛江市徐闻菠萝的海景区",
+      "directoryRow": 552,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-558",
+      "name": "放鸡岛",
+      "city": "茂名",
+      "officialName": "茂名市放鸡岛海上游乐世界",
+      "directoryRow": 558,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-559",
+      "name": "茂名森林公园",
+      "city": "茂名",
+      "officialName": "茂名市广东茂名森林公园",
+      "directoryRow": 559,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-561",
+      "name": "浪漫海岸",
+      "city": "茂名",
+      "officialName": "茂名市浪漫海岸景区",
+      "directoryRow": 561,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-562",
+      "name": "中国第一滩",
+      "city": "茂名",
+      "officialName": "茂名市南海旅游岛·中国第一滩景区",
+      "directoryRow": 562,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-565",
+      "name": "窦州古城",
+      "city": "茂名",
+      "officialName": "茂名市信宜窦州古城景区",
+      "directoryRow": 565,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-566",
+      "name": "高州仙人洞",
+      "city": "茂名",
+      "officialName": "茂名市高州仙人洞旅游景区",
+      "directoryRow": 566,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-567",
+      "name": "柏桥荔博园",
+      "city": "茂名",
+      "officialName": "茂名市柏桥荔博园",
+      "directoryRow": 567,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-593",
+      "name": "悦城龙母祖庙",
+      "city": "肇庆",
+      "officialName": "肇庆市龙母祖庙景区",
+      "directoryRow": 593,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-594",
+      "name": "盘龙峡",
+      "city": "肇庆",
+      "officialName": "肇庆市盘龙峡景区",
+      "directoryRow": 594,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-595",
+      "name": "德庆学宫",
+      "city": "肇庆",
+      "officialName": "肇庆市德庆学宫景区",
+      "directoryRow": 595,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-596",
+      "name": "封开龙山",
+      "city": "肇庆",
+      "officialName": "肇庆市封开龙山景区",
+      "directoryRow": 596,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-597",
+      "name": "四会奇石河",
+      "city": "肇庆",
+      "officialName": "肇庆市四会奇石河景区",
+      "directoryRow": 597,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-602",
+      "name": "包公文化园",
+      "city": "肇庆",
+      "officialName": "肇庆市包公文化园",
+      "directoryRow": 602,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-605",
+      "name": "阅江楼",
+      "city": "肇庆",
+      "officialName": "肇庆市阅江楼景区",
+      "directoryRow": 605,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-634",
+      "name": "连州地下河",
+      "city": "清远",
+      "officialName": "清远市连州地下河旅游景区",
+      "directoryRow": 634,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-636",
+      "name": "黄腾峡",
+      "city": "清远",
+      "officialName": "清远市黄腾峡生态旅游区",
+      "directoryRow": 636,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-639",
+      "name": "宝晶宫",
+      "city": "清远",
+      "officialName": "清远市宝晶宫景区",
+      "directoryRow": 639,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-640",
+      "name": "广东第一峰",
+      "city": "清远",
+      "officialName": "清远市广东第一峰旅游风景区",
+      "directoryRow": 640,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-641",
+      "name": "湟川三峡·龙潭",
+      "city": "清远",
+      "officialName": "清远市湟川三峡-龙潭文化生态旅游区",
+      "directoryRow": 641,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-646",
+      "name": "古龙峡",
+      "city": "清远",
+      "officialName": "清远市古龙峡生态旅游区",
+      "directoryRow": 646,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-647",
+      "name": "洞天仙境",
+      "city": "清远",
+      "officialName": "清远市洞天仙境生态旅游度假区",
+      "directoryRow": 647,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-690",
+      "name": "绿岛旅游山庄",
+      "city": "潮州",
+      "officialName": "潮州市绿岛旅游山庄",
+      "directoryRow": 690,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-691",
+      "name": "淡浮收藏院",
+      "city": "潮州",
+      "officialName": "潮州市淡浮收藏院",
+      "directoryRow": 691,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-692",
+      "name": "紫莲森林度假村",
+      "city": "潮州",
+      "officialName": "潮州市紫莲森林度假村景区",
+      "directoryRow": 692,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-697",
+      "name": "凤凰山天池",
+      "city": "潮州",
+      "officialName": "潮州市凤凰山天池景区",
+      "directoryRow": 697,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-699",
+      "name": "凤翔峡",
+      "city": "潮州",
+      "officialName": "潮州市凤翔峡旅游景区",
+      "directoryRow": 699,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-701",
+      "name": "饶平石壁山",
+      "city": "潮州",
+      "officialName": "潮州市饶平县石壁山风景区",
+      "directoryRow": 701,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-707",
+      "name": "龙湖古寨",
+      "city": "潮州",
+      "officialName": "潮州市潮安区龙湖古寨旅游区",
+      "directoryRow": 707,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-710",
+      "name": "阳美玉都",
+      "city": "揭阳",
+      "officialName": "揭阳市阳美玉都旅游景区",
+      "directoryRow": 710,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-711",
+      "name": "黄满寨瀑布",
+      "city": "揭阳",
+      "officialName": "揭阳市揭西黄满寨瀑布旅游区",
+      "directoryRow": 711,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-712",
+      "name": "望天湖",
+      "city": "揭阳",
+      "officialName": "揭阳市广东望天湖生态旅游度假区",
+      "directoryRow": 712,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-715",
+      "name": "世铿院",
+      "city": "揭阳",
+      "officialName": "揭阳市世铿院",
+      "directoryRow": 715,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-716",
+      "name": "揭东万竹园",
+      "city": "揭阳",
+      "officialName": "揭阳市揭东万竹园旅游景区",
+      "directoryRow": 716,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-717",
+      "name": "普宁德安里",
+      "city": "揭阳",
+      "officialName": "揭阳市普宁德安里旅游景区",
+      "directoryRow": 717,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-730",
+      "name": "丁日昌纪念馆",
+      "city": "揭阳",
+      "officialName": "揭阳市丁日昌纪念馆景区",
+      "directoryRow": 730,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-737",
+      "name": "翔顺金水台温泉小镇",
+      "city": "云浮",
+      "officialName": "云浮市翔顺金水台温泉小镇景区",
+      "directoryRow": 737,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-738",
+      "name": "天露山",
+      "city": "云浮",
+      "officialName": "云浮市广东天露山旅游度假区",
+      "directoryRow": 738,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-739",
+      "name": "蟠龙洞",
+      "city": "云浮",
+      "officialName": "云浮市蟠龙洞景区",
+      "directoryRow": 739,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-740",
+      "name": "郁南大王山森林公园",
+      "city": "云浮",
+      "officialName": "云浮市郁南县大王山国家森林公园",
+      "directoryRow": 740,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-744",
+      "name": "南江田园文化旅游小镇",
+      "city": "云浮",
+      "officialName": "云浮市南江田园文化旅游小镇景区",
+      "directoryRow": 744,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-748",
+      "name": "罗定长岗坡",
+      "city": "云浮",
+      "officialName": "云浮市罗定长岗坡文化休闲旅游区",
+      "directoryRow": 748,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-754",
+      "name": "蔡廷锴将军故居",
+      "city": "云浮",
+      "officialName": "云浮市罗定蔡廷锴将军故居旅游区",
+      "directoryRow": 754,
+      "asOf": "2026-08-31"
+    }
+  ]
+}
