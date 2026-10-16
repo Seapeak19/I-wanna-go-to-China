@@ -205,7 +205,12 @@
         "url": "https://you.ctrip.com/sight/beijing1/71774.html",
         "positive": "蝎斯底里（2025-08-27）喜欢依山而建的传统村落，认为街巷值得慢慢探索。",
         "negative": "Sukarno（2025-06-20）认为商业化程度比从前高。两位用户体验时间不同，不能据此推断当前全部情况。",
-        "ticket": "收费范围与当天开放状态待官方复核。"
+        "ticket": "收费范围与当天开放状态待官方复核。",
+        "en": {
+          "positive": "Reviewer 蝎斯底里 (August 27, 2025) enjoyed the hillside village and recommended exploring the lanes slowly.",
+          "negative": "Sukarno (June 20, 2025) felt it had become more commercialized. These are different visits, not proof of conditions today.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -220,6 +225,13 @@
         "date": "2008-05-01",
         "caption": "爨底下村所在地区参考实景 · 原文件：Cuandixia_Village.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Cuandixia Village",
+        "location": "Zhaitang, Mentougou District",
+        "description": "Traditional hillside courtyards and old paths west of Beijing reward a slower walk.",
+        "transport": "Drive or arrange a car; check mountain-road conditions before departure.",
+        "food": "Zhajiang noodles; donkey-roll rice cakes"
       }
     },
     {
@@ -243,7 +255,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Gubeikou",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d002",
@@ -266,7 +285,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Yongning Ancient Town, Yanqing",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d010",
@@ -300,7 +326,12 @@
         "url": "https://you.ctrip.com/sight/tianjin154/145540.html",
         "positive": "下一站成都（2026-10-12）分享家庭半日游经历，认可年画元素与院落参观体验。",
         "negative": "amberairway（2026-06-24）描述假期体验较安静；该样本不足以代表所有节假日人流，未形成可靠差评结论。",
-        "ticket": "平台资料称街区免费，院落及展馆另收费；具体票种出发前复核。"
+        "ticket": "平台资料称街区免费，院落及展馆另收费；具体票种出发前复核。",
+        "en": {
+          "positive": "下一站成都 (October 12, 2026) described a family half-day visit and enjoyed the New Year-print motifs and courtyards.",
+          "negative": "amberairway (June 24, 2026) found a holiday visit relatively quiet. One visit does not establish crowd levels on all holidays.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -315,6 +346,13 @@
         "date": "Taken on 22 May 2011",
         "caption": "杨柳青古镇所在地区参考实景 · 原文件：Xiqing,_Tianjin,_China_-_panoramio_(27).jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Yangliuqing Ancient Town",
+        "location": "Yangliuqing, Xiqing District",
+        "description": "Follow the canal to discover traditional courtyards and Yangliuqing New Year prints.",
+        "transport": "Use a city bus or taxi connection; confirm opening times for individual courtyards.",
+        "food": "Jianbing savory crepes; guobacai bean-sauce breakfast"
       }
     },
     {
@@ -338,7 +376,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Dule Temple, Jizhou",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d012",
@@ -361,7 +406,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Xijingyu Village",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d020",
@@ -395,7 +447,12 @@
         "url": "https://you.ctrip.com/sight/zhengding2581/5717627.html",
         "positive": "页面可见 2026-09-19 的游客分享，建议古建爱好者关注寺院建筑和南城墙夜景。",
         "negative": "当前采样未取得足够独立负面评价，不据此给出“无差评”判断。",
-        "ticket": "街区与寺院票务不同；寺院费用另行核实。"
+        "ticket": "街区与寺院票务不同；寺院费用另行核实。",
+        "en": {
+          "positive": "A visible visitor post dated September 19, 2026 highlighted temples and the southern city-wall night scene for architecture enthusiasts.",
+          "negative": "There are not enough independently checked negative samples to draw a balanced overall conclusion.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -410,6 +467,13 @@
         "date": "2024-06-09",
         "caption": "正定古城所在地区参考实景 · 原文件：天宁寺凌霄塔.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Zhengding Ancient City",
+        "location": "Zhengding County, Shijiazhuang",
+        "description": "Historic lanes and temple architecture make this a rewarding stop for heritage enthusiasts.",
+        "transport": "Travel to Shijiazhuang, then connect to Zhengding; plan temple visits separately.",
+        "food": "Zhengding banquet dishes; clay-oven sesame flatbread"
       }
     },
     {
@@ -433,7 +497,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Nuanquan Ancient Town, Yu County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d022",
@@ -456,7 +527,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Chishuiwan, She County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d030",
@@ -490,7 +568,12 @@
         "url": "https://you.ctrip.com/sight/pingyaocounty365/132746.html",
         "positive": "Annie长翅膀的喵（2026-10-02）认可城墙、街巷与票号所呈现的历史风貌。",
         "negative": "页面显示存在差评，但当前未逐条核验差评文本；商业街餐饮与消费体验需另看近期评价。",
-        "ticket": "平台介绍称进入古城街区不收大门票，城墙、票号等需另购票；不把平台起价当统一票价。"
+        "ticket": "平台介绍称进入古城街区不收大门票，城墙、票号等需另购票；不把平台起价当统一票价。",
+        "en": {
+          "positive": "Annie长翅膀的喵 (October 2, 2026) appreciated the historic atmosphere of the walls, lanes and banking houses.",
+          "negative": "The source shows negative reviews, but their individual text was not fully checked. Read recent food and shopping reviews separately.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -505,6 +588,13 @@
         "date": "2013-08-25 07:01:33",
         "caption": "平遥古城所在地区参考实景 · 原文件：Pingyao_Shilou_2013.08.25_07-01-33.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Pingyao Ancient City",
+        "location": "Pingyao County, Jinzhong",
+        "description": "Allow about two days for the walls, historic banking houses and old lanes of this Shanxi merchant city.",
+        "transport": "Connect from Pingyao Gucheng high-speed station; walk within the old city.",
+        "food": "Pingyao beef; wantuo starch cakes; kaolaolao oat noodles"
       }
     },
     {
@@ -528,7 +618,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Hunyuan Ancient City",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d032",
@@ -551,7 +648,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Qikou Ancient Town",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d040",
@@ -585,7 +689,12 @@
         "url": "https://m.ly.com/scenery_1/comment?refid=&sceneryId=21347&tagId=65",
         "positive": "同程用户“小郎骏”（页面只显示 09-16，年份未返回）认可自然环境。",
         "negative": "用户 E8DD116CADDA290E 在肯定环境的同时认为包车与门票支出较高；消费日期年份不明，不沿用其历史价格。",
-        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。"
+        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。",
+        "en": {
+          "positive": "Tongcheng reviewer 小郎骏 appreciated the natural setting. The page showed September 16 without a year. This sample concerns the national forest park.",
+          "negative": "Reviewer E8DD116CADDA290E liked the environment but found car hire and admission costly. The year is unknown, so historical prices are not reused.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -600,6 +709,13 @@
         "date": "2010-07-18",
         "caption": "阿尔山所在地区参考实景 · 原文件：Arxan.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Arxan",
+        "location": "Arxan, Hinggan League",
+        "description": "Plan around forests and volcanic landscapes, with generous time for long distances between stops.",
+        "transport": "Arrive by train or air, then arrange local connections; attractions are spread out.",
+        "food": "Hand-served boiled mutton; milk tea"
       }
     },
     {
@@ -623,7 +739,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Ergun",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d042",
@@ -646,7 +769,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Hexigten Banner",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d050",
@@ -680,7 +810,12 @@
         "url": "https://you.ctrip.com/sight/xingcheng1399/17783.html",
         "positive": "已检查携程古城资料与点评入口，适合进一步比较城内参观与登墙体验。",
         "negative": "当前采样未返回足够单条评价原文，不能从聚合评分直接推断服务质量。",
-        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。"
+        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。",
+        "en": {
+          "positive": "The Ctrip attraction-information page and review access were checked as leads for old-city and wall visits.",
+          "negative": "The visible text did not provide enough individually verified review samples. An aggregate score is not a service guarantee.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -695,6 +830,13 @@
         "date": "Taken on 8 February 2011",
         "caption": "兴城古城所在地区参考实景 · 原文件：Xingcheng,_Huludao,_Liaoning,_China_-_panoramio_-_Matthew_Summerton_(7).jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Xingcheng Ancient City",
+        "location": "Xingcheng, Huludao",
+        "description": "Split the historic city and seaside into separate days for a more relaxed visit.",
+        "transport": "Arrive at Xingcheng or Huludao by train, then connect locally.",
+        "food": "Seafood; western Liaoning home cooking"
       }
     },
     {
@@ -718,7 +860,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Qingshangou, Kuandian",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d052",
@@ -741,7 +890,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Bingyu Valley, Zhuanghe",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d060",
@@ -770,7 +926,14 @@
       "tier": "基础资料",
       "lowCrowd": false,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Ji’an",
+        "location": "Ji’an, Tonghua",
+        "description": "Combine a small city on the Yalu River with a cultural visit to Goguryeo heritage sites.",
+        "transport": "Check railway or coach connections; heritage sites may require local transport.",
+        "food": "Huopen hotpot; Korean-Chinese dishes"
+      }
     },
     {
       "id": "d061",
@@ -793,7 +956,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Fusong County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d062",
@@ -816,7 +986,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Changbai Korean Autonomous County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d070",
@@ -855,6 +1032,13 @@
         "date": "Taken on 18 August 2006",
         "caption": "同江所在地区参考实景 · 原文件：房顶_-_panoramio.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Tongjiang",
+        "location": "Tongjiang, Jiamusi",
+        "description": "Discover a northeastern riverside town and learn about Hezhe cultural heritage.",
+        "transport": "Connect from Jiamusi; check winter road and snow conditions separately.",
+        "food": "River fish; northeastern stews"
       }
     },
     {
@@ -878,7 +1062,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Raohe County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d072",
@@ -901,7 +1092,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Hulin",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d080",
@@ -935,7 +1133,12 @@
         "url": "https://you.ctrip.com/sight/shanghai2/14903/s0-d-d-p2.html",
         "positive": "阿星人很忧桑（2026-07-12）认为交通便捷、放生桥附近景观开阔。",
         "negative": "同一用户也指出商业化程度高、游客较多；这是一位游客在特定日期的经历。",
-        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。"
+        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。",
+        "en": {
+          "positive": "阿星人很忧桑 (July 12, 2026) liked the transport connections and open views around Fangsheng Bridge.",
+          "negative": "The same reviewer also described substantial commercialization and crowds; this reflects one visit on a particular date.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -950,6 +1153,13 @@
         "date": "2023-11-03 00:47:32",
         "caption": "朱家角古镇所在地区参考实景 · 原文件：1_zhujiajiao_2023_aerial.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Zhujiajiao Ancient Town",
+        "location": "Zhujiajiao, Qingpu District",
+        "description": "Canals, stone bridges and old lanes suit a half-day walk and a wider Qingpu visit.",
+        "transport": "Take the metro toward Zhujiajiao, then walk or use a short local connection.",
+        "food": "Braised pork; rice dumplings; smoked local snacks"
       }
     },
     {
@@ -973,7 +1183,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Jinze Ancient Town",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d082",
@@ -996,7 +1213,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Chongming Island",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d090",
@@ -1030,7 +1254,12 @@
         "url": "https://you.ctrip.com/sight/suzhou11/115503.html",
         "positive": "已核对水巷、三桥与园林背景资料，页面有用户点评入口。",
         "negative": "本轮未逐条核验近期正反评价，不把页面整体评分当作出行承诺。",
-        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。"
+        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。",
+        "en": {
+          "positive": "Background on waterways, the three bridges and gardens was checked, together with the visitor-review page.",
+          "negative": "Recent positive and negative reviews have not all been checked individually. Aggregate ratings are not a travel promise.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -1045,6 +1274,13 @@
         "date": "2009-09-30",
         "caption": "同里古镇所在地区参考实景 · 原文件：20090930_Tongli_5669.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Tongli Ancient Town",
+        "location": "Tongli, Wujiang District, Suzhou",
+        "description": "Stay overnight to enjoy the waterways, gardens and bridges without rushing between sights.",
+        "transport": "Take Suzhou rail transit toward Tongli, then connect to the old town.",
+        "food": "Wadisu pastries; Suzhou-style noodles"
       }
     },
     {
@@ -1068,7 +1304,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Nanshan, Liyang",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d092",
@@ -1091,7 +1334,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Shagou Ancient Town, Xinghua",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d100",
@@ -1125,7 +1375,12 @@
         "url": "https://you.ctrip.com/sight/songyang2250/45737.html",
         "positive": "松阳黄家大院游客“狮后”（2025-09-19）欣赏木雕与建筑细节。此评价针对院落，不代表全县。",
         "negative": "dwj- 的 2020 年旧评价包含历史门票信息，时效不足，不作为现行收费依据。",
-        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。"
+        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。",
+        "en": {
+          "positive": "狮后 (September 19, 2025) admired the woodcarving and architecture at Huang Family Courtyard. This concerns that site, not the whole county.",
+          "negative": "A 2020 review by dwj- includes historical admission information; it is too old to establish current prices.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -1140,6 +1395,13 @@
         "date": "2016-06-02 09:51:44",
         "caption": "松阳县所在地区参考实景 · 原文件：No.102_People's_Street_in_Songyang_14_2016-06.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Songyang County",
+        "location": "Songyang County, Lishui",
+        "description": "Use the county town as a base for old streets and scattered mountain villages.",
+        "transport": "Public transport between villages is limited; arrange connections in advance.",
+        "food": "Songyang salt-braised chicken; rice noodles"
       }
     },
     {
@@ -1163,7 +1425,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Taishun County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d102",
@@ -1186,7 +1455,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Jingning She Autonomous County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d110",
@@ -1220,7 +1496,12 @@
         "url": "https://you.ctrip.com/sight/yicounty528/133716.html",
         "positive": "宏村汪氏宗祠页面可见游客对月沼附近宗祠及建筑的体验描述，评价日期本轮未确认。",
         "negative": "本条样本只涉及宗祠，不代表宏村整体住宿、餐饮、客流或夜游体验。",
-        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。"
+        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。",
+        "en": {
+          "positive": "A visible review of the Wang Clan Ancestral Hall describes the building near Moon Pond. Its date was not confirmed in this round.",
+          "negative": "This sample concerns the ancestral hall, not all accommodation, dining, crowds or evening experiences in Hongcun.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -1235,6 +1516,13 @@
         "date": "2016-09-09 17:27:03",
         "caption": "黟县宏村所在地区参考实景 · 原文件：Yixian_Hongcun_2016.09.09_17-27-03.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Hongcun, Yi County",
+        "location": "Hongcun, Yi County, Huangshan",
+        "description": "Explore Huizhou-style houses and village waterways, preferably in the quieter early or late hours.",
+        "transport": "Connect from Huangshan North station; expect stone-paved village lanes.",
+        "food": "Fermented mandarin fish; fermented tofu"
       }
     },
     {
@@ -1258,7 +1546,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Chengkan, She County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d112",
@@ -1281,7 +1576,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Jixi County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d120",
@@ -1315,7 +1617,12 @@
         "url": "https://you.ctrip.com/sight/quanzhou243/8874/s0-c1990982-d-p1.html",
         "positive": "页面包含寺院与双塔介绍及用户点评入口，适合与泉州老城步行线路结合。",
         "negative": "本轮未取得足够独立负面评价样本；不能据此推断没有拥挤或参观限制。",
-        "ticket": "开放时段和参观要求以寺院当天公告为准。"
+        "ticket": "开放时段和参观要求以寺院当天公告为准。",
+        "en": {
+          "positive": "The source provides background on the temple and twin pagodas, with access to visitor reviews.",
+          "negative": "There are not enough independently checked negative samples. This does not mean there are no crowds or visiting restrictions.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -1330,6 +1637,13 @@
         "date": "2008-01-07",
         "caption": "泉州开元寺所在地区参考实景 · 原文件：Quanzhou_Kaiyuan_Temple-the_Hall_of_Mahavira.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Kaiyuan Temple, Quanzhou",
+        "location": "Licheng District, Quanzhou",
+        "description": "Start with the temple and West Street, then explore southern Fujian culture on foot.",
+        "transport": "Connect from Quanzhou station to the old city; walk around the central streets.",
+        "food": "Roast pork rice dumplings; thin-noodle soup; beef soup"
       }
     },
     {
@@ -1353,7 +1667,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Pingnan County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d122",
@@ -1376,7 +1697,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Changting Ancient City",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d130",
@@ -1405,7 +1733,14 @@
       "tier": "基础资料",
       "lowCrowd": false,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Wuyuan County",
+        "location": "Wuyuan County, Shangrao",
+        "description": "Group village visits geographically to reduce repeated journeys across the county.",
+        "transport": "Connect from Wuyuan station; check tickets for each village individually.",
+        "food": "Thick tofu soup; steamed pork with rice powder"
+      }
     },
     {
       "id": "d131",
@@ -1428,7 +1763,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Hekou Ancient Town, Yanshan",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d132",
@@ -1451,7 +1793,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Fuliang County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d140",
@@ -1485,7 +1834,12 @@
         "url": "https://you.ctrip.com/sight/qingzhou898/3242975.html",
         "positive": "已检查古城分区、街巷与点评入口，可作为规划古城漫步的背景资料。",
         "negative": "本轮未取得足够带日期的单条正反评价；资料介绍与网友评价不混为一谈。",
-        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。"
+        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。",
+        "en": {
+          "positive": "The old-city district information and visitor-review access were checked as background for walking plans.",
+          "negative": "There are not enough individually checked, dated positive and negative reviews. Description text is kept separate from visitor opinion.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -1500,6 +1854,13 @@
         "date": "2021-11-14 14:36:50",
         "caption": "青州古城所在地区参考实景 · 原文件：20211114_青州三官庙.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Qingzhou Ancient City",
+        "location": "Qingzhou, Weifang",
+        "description": "Combine old-city walks with a museum visit for a relaxed cultural two-day trip.",
+        "transport": "Connect from Qingzhoushi station; confirm museum reservations separately.",
+        "food": "Qingzhou pastries; Miaozi-style mutton"
       }
     },
     {
@@ -1523,7 +1884,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Rongcheng",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d142",
@@ -1546,7 +1914,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Taierzhuang Ancient Town",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d150",
@@ -1575,12 +1950,24 @@
         "url": "https://you.ctrip.com/sight/sheqi1446082/1415886.html",
         "positive": "疯子爱溜达（2026-07-23）特别欣赏山陕会馆的规模与建筑细节。",
         "negative": "部分用户描述含历史班次、票价，现行情况待复核，不直接套用。",
-        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。"
+        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。",
+        "en": {
+          "positive": "疯子爱溜达 (July 23, 2026) particularly admired the scale and architectural details of the Shanxi–Shaanxi Guild Hall.",
+          "negative": "Some user descriptions contain historical schedules and fares. Verify current services instead of relying on those old amounts.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Shedian Ancient Town",
+        "location": "Sheqi County, Nanyang",
+        "description": "Explore historic commercial buildings and combine the town with a wider Nanyang heritage route.",
+        "transport": "Connect from Nanyang by coach or car; check the last return service.",
+        "food": "Shedian braised noodles; peppery hulatang soup"
+      }
     },
     {
       "id": "d151",
@@ -1603,7 +1990,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Xun County Ancient City",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d152",
@@ -1626,7 +2020,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Wangwu Mountain, Jiyuan",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d160",
@@ -1655,12 +2056,24 @@
         "url": "https://you.ctrip.com/sight/enshicity1446196/51416.html",
         "positive": "匿名用户（2026-09-01）认可建筑与民俗体验，提到园区台阶较多。",
         "negative": "另一位匿名用户（2026-04-26）提到到访时有施工；只是当时经历，当前状态需向景区确认。",
-        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。"
+        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。",
+        "en": {
+          "positive": "An anonymous reviewer (September 1, 2026) liked the architecture and cultural experience, and noted many steps.",
+          "negative": "Another anonymous reviewer (April 26, 2026) reported construction during that visit. Ask the attraction about conditions today.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Enshi Tusi City",
+        "location": "Enshi City, Enshi Tujia and Miao Autonomous Prefecture",
+        "description": "Start with Tujia culture, then add nearby mountain landscapes according to your energy and time.",
+        "transport": "Connect locally after arriving in Enshi; mountain journeys take longer than map distances suggest.",
+        "food": "Tujia cured pork; hezha soybean soup"
+      }
     },
     {
       "id": "d161",
@@ -1683,7 +2096,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Jianshi County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d162",
@@ -1706,7 +2126,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Hefeng County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d170",
@@ -1735,12 +2162,24 @@
         "url": "https://gs.ctrip.com/html5/you/sight/hongjiang2825/1415361.html",
         "positive": "密码2013（本轮未返回评价日期）提及中正楼、芙蓉楼与文庙的人文看点。",
         "negative": "样本较少且日期未确认；黔阳古城与洪江古商城应区分，不混用门票或交通。",
-        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。"
+        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。",
+        "en": {
+          "positive": "密码2013 highlighted Zhongzheng Tower, Furong Tower and the Confucian temple; the review date was not returned.",
+          "negative": "The sample is small and undated. Do not confuse Qianyang Ancient City with Hongjiang Ancient Commercial Town or reuse its ticketing and transport details.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Qianyang Ancient City",
+        "location": "Qiancheng, Hongjiang, Huaihua",
+        "description": "Slow down beside the Yuan River for old streets, architecture and cultural photography.",
+        "transport": "Connect from Huaihua. Qianyang Ancient City and Hongjiang Ancient Commercial Town are different places.",
+        "food": "Blood-rice duck; rice noodles"
+      }
     },
     {
       "id": "d171",
@@ -1763,7 +2202,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Tongdao Dong Autonomous County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d172",
@@ -1786,7 +2232,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Laosicheng, Yongshun",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d180",
@@ -1820,7 +2273,12 @@
         "url": "https://you.ctrip.com/sight/chaozhou467/56805.html",
         "positive": "古城墙游客 YoYo_9K3Z1C1V（2025-04-14）认为此处适合记录旅行照片。",
         "negative": "同一用户提到靠近广济桥检票口的人流较大；该评价针对城墙周边，不代表整个潮州。",
-        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。"
+        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。",
+        "en": {
+          "positive": "At the old city wall, YoYo_9K3Z1C1V (April 14, 2025) enjoyed taking travel photographs.",
+          "negative": "The same reviewer mentioned heavy foot traffic near the Guangji Bridge entrance. This concerns that area, not all of Chaozhou.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -1835,6 +2293,13 @@
         "date": "2018-12-26 16:07:34",
         "caption": "潮州古城所在地区参考实景 · 原文件：Paifangjie_(cropped).jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Chaozhou Ancient City",
+        "location": "Xiangqiao District, Chaozhou",
+        "description": "Link Paifang Street, Guangji Bridge and Chaozhou food into a walkable city visit.",
+        "transport": "Connect from Chaoshan high-speed station; walk in the historic core.",
+        "food": "Beef hotpot; rice noodles; gongfu tea"
       }
     },
     {
@@ -1858,7 +2323,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Liannan Yao Autonomous County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d182",
@@ -1881,7 +2353,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Nan’ao County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d190",
@@ -1910,12 +2389,24 @@
         "url": "https://you.ctrip.com/sight/yangshuo702/26887.html",
         "positive": "已核对古镇、漓江与码头的背景资料和游客点评入口。",
         "negative": "本轮可见部分点评较空泛，未作为可靠体验证据；水上项目与拥挤情况还需近期样本。",
-        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。"
+        "ticket": "景区街区、内部场馆与体验项目的收费范围分别核实；现行票价和预约要求以当天官方公告为准。",
+        "en": {
+          "positive": "Background on the town, Li River and wharves was checked, together with the visitor-review page.",
+          "negative": "Some visible reviews were too generic to count as strong experience evidence. Recent samples for boat activities and crowds are still needed.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Xingping Ancient Town",
+        "location": "Xingping, Yangshuo County, Guilin",
+        "description": "Focus on Li River landscapes and town walks; water activities depend on daily conditions.",
+        "transport": "Connect from Yangshuo station; check notices for river activities during rainy weather.",
+        "food": "Guilin rice noodles; beer fish"
+      }
     },
     {
       "id": "d191",
@@ -1938,7 +2429,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Jingxi",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d192",
@@ -1961,7 +2459,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Sanjiang Dong Autonomous County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d200",
@@ -2000,6 +2505,13 @@
         "date": "2014-09-29 20:31:56",
         "caption": "文昌所在地区参考实景 · 原文件：Wenchang_City_old_area_-_06.JPG",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Wenchang",
+        "location": "Wenchang, Hainan",
+        "description": "Spread old streets, coconut groves and the coast over separate days rather than rushing.",
+        "transport": "Connect from the railway by bus or rental car; coastal sights are spread out.",
+        "food": "Wenchang chicken; Baoluo noodles; fermented-vinegar hotpot"
       }
     },
     {
@@ -2023,7 +2535,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Wanning",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d202",
@@ -2046,7 +2565,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Tanmen, Qionghai",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d210",
@@ -2085,6 +2611,13 @@
         "date": "2007",
         "caption": "大足石刻所在地区参考实景 · 原文件：Dazu_2007_685_full_view.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Dazu Rock Carvings",
+        "location": "Dazu District, Chongqing",
+        "description": "Allow time for interpretation and a close look at the art of the rock carvings.",
+        "transport": "Travel from central Chongqing to Dazu; plan Baodingshan and Beishan separately.",
+        "food": "Youting-style crucian carp; Chongqing noodles"
       }
     },
     {
@@ -2108,7 +2641,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Gongtan Ancient Town, Youyang",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d212",
@@ -2131,7 +2671,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Fengdu County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d220",
@@ -2171,7 +2718,12 @@
         "positive": "携程与去哪儿均有游客点评入口，可对照不同平台核查街巷与景点体验。",
         "negative": "本轮仅核对景点页面及点评入口，尚未建立足够带日期的正反评价样本。",
         "ticket": "子景点、联票与免费街区须区分，现行联票价格待官方复核。",
-        "other": "https://piao.qunar.com/ticket/detail_9597.html"
+        "other": "https://piao.qunar.com/ticket/detail_9597.html",
+        "en": {
+          "positive": "Ctrip and Qunar both provide visitor-review pages; compare the platforms for old-street and attraction experiences.",
+          "negative": "This round checked attraction pages and review access, not a sufficiently dated set of individual positive and negative reviews.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -2186,6 +2738,13 @@
         "date": "10/04/2017",
         "caption": "阆中古城所在地区参考实景 · 原文件：Langzhong_Ancient_Town.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Langzhong Ancient City",
+        "location": "Langzhong, Nanchong",
+        "description": "Stay one or two nights for old streets and riverside life along the Jialing River.",
+        "transport": "Connect from Langzhong station; walk within the old city.",
+        "food": "Zhang Fei beef; white steamed buns; Baoning vinegar"
       }
     },
     {
@@ -2209,7 +2768,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Suji Ancient Town, Leshan",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d222",
@@ -2232,7 +2798,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Jiange County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d230",
@@ -2271,6 +2844,13 @@
         "date": "2012-11-12 10:56:36",
         "caption": "镇远古城所在地区参考实景 · 原文件：Zhenyuan,_Guizhou,_China.JPG",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Zhenyuan Ancient Town",
+        "location": "Zhenyuan County, Qiandongnan",
+        "description": "A riverside old town suited to evening walks and a slower stay by the Wuyang River.",
+        "transport": "Connect from Zhenyuan railway station; check recent noise reviews before booking riverside lodging.",
+        "food": "Sour-fish hotpot; sticky rice"
       }
     },
     {
@@ -2294,7 +2874,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Zhaoxing Dong Village, Liping",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d232",
@@ -2317,7 +2904,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Libo County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d240",
@@ -2356,6 +2950,13 @@
         "date": "2009-10-11",
         "caption": "沙溪古镇所在地区参考实景 · 原文件：Yunnan_xingjiao_temple.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Shaxi Ancient Town",
+        "location": "Shaxi, Jianchuan County, Dali",
+        "description": "Stay a little longer around Sideng Street and the cultural legacy of the Tea Horse Road.",
+        "transport": "Connect from Dali or Lijiang; walk around the town.",
+        "food": "Bai cuisine; ersi rice noodles"
       }
     },
     {
@@ -2379,7 +2980,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Weishan Ancient City",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d242",
@@ -2402,7 +3010,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Jianshui Ancient City",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d250",
@@ -2441,6 +3056,13 @@
         "date": "25 March 2007 (original upload date)",
         "caption": "林芝巴松措所在地区参考实景 · 原文件：BasumTso-wiki.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Pagsum Lake (Basum Tso)",
+        "location": "Gongbo’gyamda County, Nyingchi",
+        "description": "A lake-and-forest journey on the plateau calls for a relaxed pace and attention to altitude adaptation.",
+        "transport": "Connect via Nyingchi and allow spare time for long mountain-road journeys.",
+        "food": "Tibetan noodles; butter tea"
       }
     },
     {
@@ -2464,7 +3086,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Bomi County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d252",
@@ -2487,7 +3116,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Samye Monastery, Shannan",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d260",
@@ -2526,6 +3162,13 @@
         "date": "2006-07-25",
         "caption": "韩城古城所在地区参考实景 · 原文件：Dangjiacun.JPG",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Hancheng Ancient City",
+        "location": "Hancheng, Shaanxi",
+        "description": "Combine old-city houses and temples with nearby villages for a cultural two-day trip.",
+        "transport": "Arrive by rail or coach; arrange separate transport for village visits.",
+        "food": "Mutton hele noodles; Hancheng wontons"
       }
     },
     {
@@ -2549,7 +3192,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Liuba County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d262",
@@ -2572,7 +3222,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Mizhi County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d270",
@@ -2611,6 +3268,13 @@
         "date": "18 December 2005 (original upload date)",
         "caption": "夏河县拉卜楞寺所在地区参考实景 · 原文件：Labrang01.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Labrang Monastery, Xiahe",
+        "location": "Xiahe County, Gannan Tibetan Autonomous Prefecture",
+        "description": "Explore monastery architecture and local culture while respecting on-site visiting and photography rules.",
+        "transport": "Connect from Lanzhou; plan a gentler pace in plateau areas.",
+        "food": "Tibetan dumplings; yak yogurt"
       }
     },
     {
@@ -2634,7 +3298,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Yongjing County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d272",
@@ -2657,7 +3328,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Sunan County, Zhangye",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d280",
@@ -2696,6 +3374,13 @@
         "date": "2012-07-29 07:49",
         "caption": "同仁隆务寺所在地区参考实景 · 原文件：Longwu_Monastery_1.jpeg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Rongwo Monastery, Tongren",
+        "location": "Tongren, Huangnan Tibetan Autonomous Prefecture",
+        "description": "Plan a cultural visit around the monastery and Regong art, with time to understand visiting etiquette.",
+        "transport": "Connect from Xining; allow for changing plateau weather.",
+        "food": "Qinghai yogurt; niangpi cold noodles"
       }
     },
     {
@@ -2719,7 +3404,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Qilian County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d282",
@@ -2742,7 +3434,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Guide County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d290",
@@ -2781,6 +3480,13 @@
         "date": "3 November 2006 (original upload date)",
         "caption": "沙坡头所在地区参考实景 · 原文件：Shapotou.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Shapotou",
+        "location": "Shapotou District, Zhongwei",
+        "description": "Explore the Yellow River and desert landscapes; select paid activities to match your budget.",
+        "transport": "Connect from Zhongwei railway station; price optional activities separately.",
+        "food": "Hand-served mutton; locally grown watermelon"
       }
     },
     {
@@ -2804,7 +3510,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Longde County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d292",
@@ -2827,7 +3540,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Qingtongxia",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d300",
@@ -2866,6 +3586,13 @@
         "date": "2023-09-23 10:01:09",
         "caption": "喀什古城所在地区参考实景 · 原文件：Hëytgah_Mosque,_Kashi_(20230923100109).jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Kashgar Ancient City",
+        "location": "Kashgar, Kashgar Prefecture",
+        "description": "Discover old-city architecture and crafts, while allowing whole travel days for long intercity distances.",
+        "transport": "Arrive by air or rail; avoid changing cities every day across this large region.",
+        "food": "Baked buns; pilaf; laghman noodles"
       }
     },
     {
@@ -2889,7 +3616,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Tekes County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d302",
@@ -2912,7 +3646,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Burqin County",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d310",
@@ -2951,7 +3692,14 @@
       "tier": "基础资料",
       "lowCrowd": false,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Tap Mun (Grass Island)",
+        "location": "Tap Mun, Tai Po District",
+        "description": "A fishing village and coastal grassland suit a light hike; plan around the return ferry.",
+        "transport": "Take a ferry and confirm the timetable, weather and last sailing before departure.",
+        "food": "Hong Kong café dishes; seafood"
+      }
     },
     {
       "id": "d311",
@@ -2974,7 +3722,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Tai O",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d312",
@@ -2997,7 +3752,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Lamma Island",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d320",
@@ -3031,7 +3793,12 @@
         "url": "https://you.ctrip.com/sight/macau39/144798.html",
         "positive": "meethappy（页面未在本轮返回评价日期）推荐沙滩、古建筑与村落散步。",
         "negative": "评价日期未确认，作为体验线索；步道体力、天气和返程交通需自行匹配。",
-        "ticket": "街区与海岸散步、馆舍及活动项目分别核对。"
+        "ticket": "街区与海岸散步、馆舍及活动项目分别核对。",
+        "en": {
+          "positive": "meethappy recommended beaches, older buildings and village walks. The review date was not returned in this round.",
+          "negative": "The undated review is only a lead. Match walking distance, weather and return transport to your own needs.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -3046,6 +3813,13 @@
         "date": "2023-02-19 14:00:35",
         "caption": "路环所在地区参考实景 · 原文件：Hac_Sá_Long_Chao_Kok_Coastal_Trail_19-02-2023(36).jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Coloane",
+        "location": "Coloane Village, Macao",
+        "description": "Take a slow coastal village walk, or add a countryside trail if time and energy allow.",
+        "transport": "Take a local bus to Coloane; plan village walks and hillside trails separately.",
+        "food": "Portuguese egg tarts; wonton noodles; Portuguese cuisine"
       }
     },
     {
@@ -3069,7 +3843,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Taipa Houses",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d322",
@@ -3092,7 +3873,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "St. Lazarus District",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d330",
@@ -3126,7 +3914,12 @@
         "url": "https://gs.ctrip.com/html5/you/sight/changhua3180/80634.html",
         "positive": "阿歪609（页面未在本轮返回评价日期）认为老街、寺庙适合慢节奏漫步。",
         "negative": "本轮未取得足够负面样本；所见评价不代表整体游客意见。",
-        "ticket": "老街、寺庙、展馆收费与开放要求分别核实。"
+        "ticket": "老街、寺庙、展馆收费与开放要求分别核实。",
+        "en": {
+          "positive": "阿歪609 found the old streets and temples suitable for slower-paced walking. The source did not return a date in this round.",
+          "negative": "Negative samples remain insufficient; these visible posts do not represent all visitor opinions.",
+          "ticket": "Check street access, individual venues and optional experiences separately. Current prices, reservations and opening status require confirmation with the attraction."
+        }
       },
       "tier": "基础资料",
       "lowCrowd": false,
@@ -3141,6 +3934,13 @@
         "date": "2005-02-20 09:00:48",
         "caption": "鹿港小镇所在地区参考实景 · 原文件：鹿港老街小巷07.jpg",
         "modified": "网页展示时裁切，色彩未修改"
+      },
+      "en": {
+        "name": "Lukang",
+        "location": "Lukang Township, Changhua County",
+        "description": "Explore traditional architecture around the old streets and temples, with time for local snacks.",
+        "transport": "Connect from Changhua; verify the travel documents and entry conditions that apply to you before traveling.",
+        "food": "Oyster omelets; roasted-grain tea; taro balls"
       }
     },
     {
@@ -3164,7 +3964,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Jiji Township, Nantou",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     },
     {
       "id": "d332",
@@ -3187,7 +3994,14 @@
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16"
+      "updated": "2026-10-16",
+      "en": {
+        "name": "Anping, Tainan",
+        "location": "County-level discovery lead",
+        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
+        "transport": "Transport routes and local connections have not yet been verified.",
+        "food": "Local specialties and individual restaurants still need research."
+      }
     }
   ],
   "foods": [
@@ -3202,7 +4016,21 @@
       "good": "去哪儿用户“小爱同学旅行日记”（2021-12-21）喜欢黄米凉糕与菜量。",
       "caution": "点评较旧；本轮未取得足够近期负面样本，需复核排队、菜单与营业状态。",
       "url": "https://touch.go.qunar.com/poi/31888315",
-      "other": "https://you.ctrip.com/yougourmet/restaurantlist/Jinzhong639.html"
+      "other": "https://you.ctrip.com/yougourmet/restaurantlist/Jinzhong639.html",
+      "en": {
+        "name": "Hongwuji Restaurant",
+        "address": "84 South Street, Pingyao",
+        "dishes": "Pingyao beef; yellow-millet cake; stir-fried pork",
+        "price": "CNY 63–65 / person · platform reference",
+        "basis": "Ctrip lists CNY 63 and Qunar CNY 65 per person. Both are platform references, not a current menu quote.",
+        "good": "Qunar user 小爱同学旅行日记 (December 21, 2021) liked the millet cake and portion sizes.",
+        "caution": "The review is old and recent negative samples are insufficient. Check queues, the menu and current business status."
+      },
+      "priceCNY": {
+        "low": 63,
+        "high": 65,
+        "historical": false
+      }
     },
     {
       "region": "山西",
@@ -3214,7 +4042,21 @@
       "basis": "携程目录显示用户反馈人均 ¥27；聚合样本日期不明确。",
       "good": "地方小吃型候选店，适合与古城街巷线路结合。",
       "caution": "仅核对店名、地址与聚合价格，尚未核验足够单条评价，不给出口碑保证。",
-      "url": "https://you.ctrip.com/yougourmet/restaurantlist/Jinzhong639.html"
+      "url": "https://you.ctrip.com/yougourmet/restaurantlist/Jinzhong639.html",
+      "en": {
+        "name": "Dongji Stir-fried Wantuo · Yuchengyuan Branch",
+        "address": "41 Yamen Street, Pingyao",
+        "dishes": "Stir-fried wantuo starch cakes; oat noodles",
+        "price": "CNY 27 / person · platform reference",
+        "basis": "The Ctrip directory lists a user-feedback average of CNY 27; the aggregate sample date is unclear.",
+        "good": "A local-snack candidate to compare while exploring the old city.",
+        "caution": "Name, address and aggregate price were checked, but not enough individual reviews to support a reputation claim."
+      },
+      "priceCNY": {
+        "low": 27,
+        "high": 27,
+        "historical": false
+      }
     },
     {
       "region": "山西",
@@ -3226,7 +4068,21 @@
       "basis": "携程目录显示用户反馈人均 ¥48；不是实时菜单报价。",
       "good": "可作为古城内正餐比较候选。",
       "caution": "本轮仅有聚合资料，近期服务与菜品体验待补核。",
-      "url": "https://you.ctrip.com/yougourmet/restaurantlist/Jinzhong639.html"
+      "url": "https://you.ctrip.com/yougourmet/restaurantlist/Jinzhong639.html",
+      "en": {
+        "name": "Backpackers Restaurant",
+        "address": "198 West Street, Pingyao",
+        "dishes": "Stir-fried oat noodles; Pingyao beef",
+        "price": "CNY 48 / person · platform reference",
+        "basis": "The Ctrip directory lists CNY 48 from user feedback, not a live menu quote.",
+        "good": "A candidate for comparing sit-down meals in the old city.",
+        "caution": "Only aggregate information was checked; recent service and food experiences need verification."
+      },
+      "priceCNY": {
+        "low": 48,
+        "high": 48,
+        "historical": false
+      }
     },
     {
       "region": "福建",
@@ -3239,7 +4095,17 @@
       "good": "artistfx1118（本轮未返回日期）认可肉粽配料和汤的口味。",
       "caution": "配料涉及花生、海鲜等常见过敏原，点单前确认；不能从单条评价推断整体。",
       "url": "https://you.ctrip.com/food/243/90003.html",
-      "other": "https://www.quanzhougastronomy.com/ch/msdh/xwqz/202606/t20260616_3300830.htm"
+      "other": "https://www.quanzhougastronomy.com/ch/msdh/xwqz/202606/t20260616_3300830.htm",
+      "en": {
+        "name": "Hou A Po Roast Pork Rice Dumplings · Clock Tower Branch",
+        "address": "Near the Clock Tower, Quanzhou; exact street number needs checking",
+        "dishes": "Roast pork rice dumplings; satay noodles; meatball soup",
+        "price": "Price not verified",
+        "basis": "The branch and review page were found, but no reliable current menu price was obtained. Old guidebook prices are not reused.",
+        "good": "artistfx1118 liked the dumpling fillings and soup. The review date was not returned.",
+        "caution": "Peanuts and seafood may be present; confirm ingredients. A single review cannot establish a consensus."
+      },
+      "priceCNY": null
     },
     {
       "region": "四川",
@@ -3251,7 +4117,21 @@
       "basis": "来自携程用户消费描述，评价日期未确认；不可作当前消费承诺。",
       "good": "页面包含牛肉汤锅与本地菜品体验线索。",
       "caution": "价格和评价时效不足，列为待复核候选，不按“本地人必吃榜”推广。",
-      "url": "https://you.ctrip.com/food/leshan103/11109806-dianping.html"
+      "url": "https://you.ctrip.com/food/leshan103/11109806-dianping.html",
+      "en": {
+        "name": "Zhoucun Guweixuan Qiaojiao Beef · Suji Avenue Branch",
+        "address": "Suji Avenue branch, Leshan; street number needs checking",
+        "dishes": "Qiaojiao beef soup; steamed beef with rice powder",
+        "price": "Historical review: about CNY 35 / person",
+        "basis": "The amount comes from a Ctrip visitor description with an unconfirmed date, not a current spending commitment.",
+        "good": "The page contains leads about beef soup and local dishes.",
+        "caution": "Price and review freshness are insufficient. Treat this as a research candidate, not a locals’ must-eat ranking."
+      },
+      "priceCNY": {
+        "low": 35,
+        "high": 35,
+        "historical": true
+      }
     },
     {
       "region": "澳门",
@@ -3263,7 +4143,21 @@
       "basis": "携程用户反馈聚合价；网页用人民币符号，澳门店内结算币种和实时价格须另核实。",
       "good": "@小小世界（2023-04-01）喜欢蟹籽捞面等菜品。",
       "caution": "同一用户也提到部分菜品偏咸、口感变化；门店在澳门半岛，不在路环，需另排交通。",
-      "url": "https://you.ctrip.com/food/zhuhai27/5607790-food.html"
+      "url": "https://you.ctrip.com/food/zhuhai27/5607790-food.html",
+      "en": {
+        "name": "Wong Chi Kei · Wuri Street Branch",
+        "address": "51 Wuri Street, ground floor, Macao Peninsula",
+        "dishes": "Shrimp-roe noodles; shrimp wonton noodles",
+        "price": "Platform-converted CNY 58 / person",
+        "basis": "Ctrip displays an aggregate amount in CNY. Confirm the actual menu, payment currency and current prices at this Macao branch.",
+        "good": "@小小世界 (April 1, 2023) liked dishes including shrimp-roe noodles.",
+        "caution": "The same user found some items too salty or different in texture. This branch is on the Macao Peninsula, not in Coloane; plan separate transport."
+      },
+      "priceCNY": {
+        "low": 58,
+        "high": 58,
+        "historical": false
+      }
     },
     {
       "region": "上海",
@@ -3275,8 +4169,23 @@
       "basis": "携程餐厅页显示的聚合人均，不是现行菜单报价。",
       "good": "张森3828（本轮未返回日期）认为独立院落相对安静。",
       "caution": "单条体验不能保证所有时段；餐厅营业、宝宝椅和停车服务需到店前核实。",
-      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2040642/15266030.html"
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2040642/15266030.html",
+      "en": {
+        "name": "Jiaoli Dayuan · Qing-era Shu Residence",
+        "address": "57–59 Xijing Street, Zhujiajiao, near Entrance 1 parking",
+        "dishes": "Saltwater shrimp; clam tofu; stuffed river snails",
+        "price": "Platform reference: CNY 86 / person",
+        "basis": "The Ctrip restaurant page displays an aggregate per-person amount, not a current menu quote.",
+        "good": "张森3828 described the separate courtyard as relatively quiet. The review date was not returned.",
+        "caution": "One experience does not cover all times. Confirm opening status, child chairs and parking before visiting."
+      },
+      "priceCNY": {
+        "low": 86,
+        "high": 86,
+        "historical": false
+      }
     }
   ],
-  "budgetNote": "编辑规划估算，人民币／人／天；按普通双人间两人分摊住宿，包含餐饮、当地交通与门票预留。不是实时价格；独自一人、儿童、节假日和具体房型需在预算表中调整。港澳台预算以人民币规划，不代表实时汇率。"
+  "budgetNote": "编辑规划估算，人民币／人／天；按普通双人间两人分摊住宿，包含餐饮、当地交通与门票预留。不是实时价格；独自一人、儿童、节假日和具体房型需在预算表中调整。港澳台预算以人民币规划，不代表实时汇率。",
+  "budgetNoteEn": "Editorial planning allowances in CNY per person per day cover accommodation, meals, local transport and admission. The base assumes two people sharing a double room. Return travel is separate. Solo rooms, child discounts, holidays and actual room choices need adjustment. Currency conversions are indicative and do not establish local payment currencies."
 }
