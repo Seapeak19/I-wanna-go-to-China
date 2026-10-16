@@ -1163,6 +1163,342 @@
       "officialName": "云浮市罗定蔡廷锴将军故居旅游区",
       "directoryRow": 754,
       "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-11",
+      "name": "华南植物园",
+      "city": "广州",
+      "officialName": "中国科学院华南植物园",
+      "directoryRow": 11,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-17",
+      "name": "南海神庙",
+      "city": "广州",
+      "officialName": "广州市南海神庙景区",
+      "directoryRow": 17,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-127",
+      "name": "华强北步行街",
+      "city": "深圳",
+      "officialName": "深圳市华强北步行街景区",
+      "directoryRow": 127,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-131",
+      "name": "东山鹿嘴旅游区",
+      "city": "深圳",
+      "officialName": "深圳市东山鹿嘴旅游区",
+      "directoryRow": 131,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-133",
+      "name": "罗西尼工业旅游景区",
+      "city": "珠海",
+      "officialName": "珠海市罗西尼工业旅游景区",
+      "directoryRow": 133,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-141",
+      "name": "岭南大地百草园",
+      "city": "珠海",
+      "officialName": "珠海市岭南大地百草园景区",
+      "directoryRow": 141,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-155",
+      "name": "丹樱生态园",
+      "city": "汕头",
+      "officialName": "汕头市广东丹樱生态园景区",
+      "directoryRow": 155,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-156",
+      "name": "红场大南山红色旅游区",
+      "city": "汕头",
+      "officialName": "汕头市红场大南山红色旅游景区",
+      "directoryRow": 156,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-166",
+      "name": "三水荷花世界",
+      "city": "佛山",
+      "officialName": "佛山市三水荷花世界",
+      "directoryRow": 166,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-186",
+      "name": "碧江金楼",
+      "city": "佛山",
+      "officialName": "佛山市碧江金楼景区",
+      "directoryRow": 186,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-216",
+      "name": "天井山森林公园",
+      "city": "韶关",
+      "officialName": "韶关市乳源县天井山森林公园",
+      "directoryRow": 216,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-218",
+      "name": "金鸡岭",
+      "city": "韶关",
+      "officialName": "韶关市金鸡岭风景区",
+      "directoryRow": 218,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-261",
+      "name": "越王山",
+      "city": "河源",
+      "officialName": "河源市越王山风景区",
+      "directoryRow": 261,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-268",
+      "name": "苏区革命旧遗址群",
+      "city": "河源",
+      "officialName": "河源市紫金县苏区革命旧遗址群景区",
+      "directoryRow": 268,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-299",
+      "name": "三河坝战役纪念园",
+      "city": "梅州",
+      "officialName": "梅州市三河坝战役纪念园景区",
+      "directoryRow": 299,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-304",
+      "name": "坪山梯田",
+      "city": "梅州",
+      "officialName": "梅州市坪山梯田旅游区",
+      "directoryRow": 304,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-350",
+      "name": "高潭中洞红色旅游区",
+      "city": "惠州",
+      "officialName": "惠州市高潭中洞红色旅游区",
+      "directoryRow": 350,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-357",
+      "name": "海龟湾旅游区",
+      "city": "惠州",
+      "officialName": "惠州市海龟湾旅游区",
+      "directoryRow": 357,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-395",
+      "name": "金厢滨海红色旅游区",
+      "city": "汕尾",
+      "officialName": "汕尾市陆丰金厢滨海红色旅游区",
+      "directoryRow": 395,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-399",
+      "name": "螺溪谷",
+      "city": "汕尾",
+      "officialName": "汕尾市陆河螺溪谷旅游景区",
+      "directoryRow": 399,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-414",
+      "name": "广东东江纵队旧址",
+      "city": "东莞",
+      "officialName": "东莞市广东东江纵队旧址景区",
+      "directoryRow": 414,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-429",
+      "name": "粤晖园",
+      "city": "东莞",
+      "officialName": "东莞市粤晖园旅游景区",
+      "directoryRow": 429,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-449",
+      "name": "厨邦酱油文化博览馆",
+      "city": "中山",
+      "officialName": "中山市火炬开发区厨邦酱油文化博览馆景区",
+      "directoryRow": 449,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-452",
+      "name": "桂南村",
+      "city": "中山",
+      "officialName": "中山市桂南村乡村旅游景区",
+      "directoryRow": 452,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-475",
+      "name": "开平博物馆",
+      "city": "江门",
+      "officialName": "江门市开平博物馆",
+      "directoryRow": 475,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-478",
+      "name": "台山市华侨文化博物馆",
+      "city": "江门",
+      "officialName": "江门市台山市华侨文化博物馆",
+      "directoryRow": 478,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-516",
+      "name": "阳西月亮湾",
+      "city": "阳江",
+      "officialName": "阳江市阳西月亮湾滨海旅游景区",
+      "directoryRow": 516,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-521",
+      "name": "阳春崆垌岩",
+      "city": "阳江",
+      "officialName": "阳江市阳春市崆垌岩旅游景区",
+      "directoryRow": 521,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-549",
+      "name": "灯楼角",
+      "city": "湛江",
+      "officialName": "湛江市角尾乡灯楼角景区",
+      "directoryRow": 549,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-553",
+      "name": "雷州西湖公园",
+      "city": "湛江",
+      "officialName": "湛江市雷州西湖公园",
+      "directoryRow": 553,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-564",
+      "name": "广垦（茂名）国家热带农业公园",
+      "city": "茂名",
+      "officialName": "茂名市广垦（茂名）国家热带农业公园",
+      "directoryRow": 564,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-578",
+      "name": "化州学宫",
+      "city": "茂名",
+      "officialName": "茂名市化州学宫（孔庙）景区",
+      "directoryRow": 578,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-600",
+      "name": "封开贺江碧道画廊",
+      "city": "肇庆",
+      "officialName": "肇庆市封开贺江碧道画廊景区",
+      "directoryRow": 600,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-604",
+      "name": "德庆三元塔",
+      "city": "肇庆",
+      "officialName": "肇庆市德庆县三元塔景区",
+      "directoryRow": 604,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-644",
+      "name": "广东瑶族博物馆",
+      "city": "清远",
+      "officialName": "清远市广东瑶族博物馆景区",
+      "directoryRow": 644,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-648",
+      "name": "九龙峰林小镇",
+      "city": "清远",
+      "officialName": "清远市九龙峰林小镇景区",
+      "directoryRow": 648,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-706",
+      "name": "青岚怪臼谷",
+      "city": "潮州",
+      "officialName": "潮州市饶平县青岚怪臼谷景区",
+      "directoryRow": 706,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-704",
+      "name": "饶平西澳岛",
+      "city": "潮州",
+      "officialName": "潮州市饶平县西澳岛风景区",
+      "directoryRow": 704,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-722",
+      "name": "揭西山湖村",
+      "city": "揭阳",
+      "officialName": "揭阳市揭西山湖村乡村旅游景区",
+      "directoryRow": 722,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-729",
+      "name": "“八一”南昌起义南下部队指挥部军事决策会议旧址",
+      "city": "揭阳",
+      "officialName": "揭阳市“八一”南昌起义南下部队指挥部军事决策会议旧址景区",
+      "directoryRow": 729,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-747",
+      "name": "象窝山生态园",
+      "city": "云浮",
+      "officialName": "云浮市新兴县象窝山生态园景区",
+      "directoryRow": 747,
+      "asOf": "2026-08-31"
+    },
+    {
+      "id": "gd-dir-750",
+      "name": "欧德罗厨具博物馆",
+      "city": "云浮",
+      "officialName": "云浮市欧德罗厨具博物馆景区",
+      "directoryRow": 750,
+      "asOf": "2026-08-31"
     }
   ]
 }

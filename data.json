@@ -16852,6 +16852,3114 @@
       },
       "canonicalPlaceId": "gd-dir-754",
       "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-11",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "广州",
+      "name": "华南植物园",
+      "theme": "自然山水",
+      "location": "广州市 · 中国科学院华南植物园",
+      "description": "以植物园游览为主题，专类园和温室是否开放需分别确认。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“中国科学院华南植物园”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "华南植物园",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 11",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 中国科学院华南植物园",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%8D%97%E5%9B%BD%E5%AE%B6%E6%A4%8D%E7%89%A9%E5%9B%AD",
+          "title": "维基百科：华南国家植物园（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "中国科学院华南植物园",
+        "city": "广州",
+        "directoryRow": 11,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "South China Botanical Garden",
+        "location": "Guangzhou · South China Botanical Garden",
+        "description": "A botanical-garden visit; check access to individual collections and conservatories.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-11",
+      "image": {
+        "path": "assets/gd-dir-11.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:South_China_National_Botanical_Garden_Entrance.jpg",
+        "author": "Nrya",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2022-07-11",
+        "caption": "华南植物园相关实景（局部）",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "South China Botanical Garden — reference photograph of a site detail."
+        }
+      }
+    },
+    {
+      "id": "gd-dir-17",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "广州",
+      "name": "南海神庙",
+      "theme": "历史人文",
+      "location": "广州市 · 广州市南海神庙景区",
+      "description": "以古代海上交通相关的祭祀建筑和历史文化为主题。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“广州市南海神庙景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "南海神庙",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 17",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 广州市南海神庙景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E7%A5%9E%E5%BA%99",
+          "title": "维基百科：南海神庙（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "广州市南海神庙景区",
+        "city": "广州",
+        "directoryRow": 17,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Nanhai Temple",
+        "location": "Guangzhou · Nanhai Temple",
+        "description": "A heritage temple associated with historic maritime culture.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-17",
+      "image": {
+        "path": "assets/gd-dir-17.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Guangzhou_Nanhaishen_Miao_2013.10.01_10-23-54.jpg",
+        "author": "Zhangzhugang",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2013-10-01 10:23:54",
+        "caption": "南海神庙相关实景（局部）",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Nanhai Temple — reference photograph of a site detail."
+        }
+      }
+    },
+    {
+      "id": "gd-dir-127",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "深圳",
+      "name": "华强北步行街",
+      "theme": "历史人文",
+      "location": "深圳市 · 深圳市华强北步行街景区",
+      "description": "以电子商贸与城市街区文化为线索，商场营业与公共街道通行分别确认。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“深圳市华强北步行街景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "华强北",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 127",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 深圳市华强北步行街景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%BC%BA%E5%8C%97",
+          "title": "维基百科：华强北（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "深圳市华强北步行街景区",
+        "city": "深圳",
+        "directoryRow": 127,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Huaqiangbei Pedestrian Street",
+        "location": "Shenzhen · Huaqiangbei Pedestrian Street",
+        "description": "Explore electronics-trade and urban street culture; shop hours differ from public-street access.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-127",
+      "image": {
+        "path": "assets/gd-dir-127.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Huaqiangbei%26Shennan_Cross2021.jpg",
+        "author": "Charlie fong",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2021-02-08 14:59:04",
+        "caption": "华强北片区与深南路交界实景，非步行街全景",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Huaqiangbei area at Shennan Road; not a full view of the pedestrian street."
+        }
+      }
+    },
+    {
+      "id": "gd-dir-131",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "深圳",
+      "name": "东山鹿嘴旅游区",
+      "theme": "海岛海岸",
+      "location": "深圳市 · 深圳市东山鹿嘴旅游区",
+      "description": "滨海山地游览目的地，步道、接驳和天气条件应一起核对。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“深圳市东山鹿嘴旅游区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 400,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "鹿嘴山庄",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 131",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 深圳市东山鹿嘴旅游区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "深圳市东山鹿嘴旅游区",
+        "city": "深圳",
+        "directoryRow": 131,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Dongshan Luzui Tourism Area",
+        "location": "Shenzhen · Dongshan Luzui Tourism Area",
+        "description": "A coastal hillside destination; check paths, transfers and weather together.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先确认往返交通、天气及开放岸线，再留半天至一天；只在开放且有管理的区域活动。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: confirm return transport, weather and open shores before allowing half to a full day. Use managed, open visitor areas.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-131",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-133",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "珠海",
+      "name": "罗西尼工业旅游景区",
+      "theme": "历史人文",
+      "location": "珠海市 · 珠海市罗西尼工业旅游景区",
+      "description": "以钟表产业参观为主题，工业参观范围和预约要求尚待运营方确认。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“珠海市罗西尼工业旅游景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "罗西尼钟表博物馆",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 133",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 珠海市罗西尼工业旅游景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "珠海市罗西尼工业旅游景区",
+        "city": "珠海",
+        "directoryRow": 133,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Rossini Industrial Tourism Area",
+        "location": "Zhuhai · Rossini Industrial Tourism Area",
+        "description": "A watch-industry visitor site; confirm tour boundaries and reservations with the operator.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-133",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-141",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "珠海",
+      "name": "岭南大地百草园",
+      "theme": "自然山水",
+      "location": "珠海市 · 珠海市岭南大地百草园景区",
+      "description": "园区游览与体验项目的开放、票种和接驳应分别核对。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“珠海市岭南大地百草园景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "岭南大地百草园",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 141",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 珠海市岭南大地百草园景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "珠海市岭南大地百草园景区",
+        "city": "珠海",
+        "directoryRow": 141,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Lingnan Dadi Baicao Garden",
+        "location": "Zhuhai · Lingnan Dadi Baicao Garden",
+        "description": "Confirm garden access, experience tickets and local transfers separately.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-141",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-155",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "汕头",
+      "name": "丹樱生态园",
+      "theme": "自然山水",
+      "location": "汕头市 · 汕头市广东丹樱生态园景区",
+      "description": "以生态园区游览为主题，花期和活动安排不能仅凭往年图片判断。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“汕头市广东丹樱生态园景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "丹樱生态园",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 155",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 汕头市广东丹樱生态园景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "汕头市广东丹樱生态园景区",
+        "city": "汕头",
+        "directoryRow": 155,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Danying Ecological Garden",
+        "location": "Shantou · Danying Ecological Garden",
+        "description": "An ecological garden; past photographs do not establish current flowering or events.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-155",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-156",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "汕头",
+      "name": "红场大南山红色旅游区",
+      "theme": "历史人文",
+      "location": "汕头市 · 汕头市红场大南山红色旅游景区",
+      "description": "以红场、大南山相关革命历史为参观线索，具体展馆开放另核。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“汕头市红场大南山红色旅游景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "大南山革命根据地",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 156",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 汕头市红场大南山红色旅游景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "汕头市红场大南山红色旅游景区",
+        "city": "汕头",
+        "directoryRow": 156,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Hongchang Dananshan Heritage Area",
+        "location": "Shantou · Hongchang Dananshan Heritage Area",
+        "description": "A revolutionary-history destination; verify access to individual exhibitions.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-156",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-166",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "佛山",
+      "name": "三水荷花世界",
+      "theme": "自然山水",
+      "location": "佛山市 · 佛山市三水荷花世界",
+      "description": "以荷花主题园区为线索，观花适期、园区活动及票种需按出行日期核对。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“佛山市三水荷花世界”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "三水荷花世界",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 166",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 佛山市三水荷花世界",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "佛山市三水荷花世界",
+        "city": "佛山",
+        "directoryRow": 166,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Sanshui Lotus World",
+        "location": "Foshan · Sanshui Lotus World",
+        "description": "A lotus-themed visitor garden; check bloom timing, activities and ticket coverage for your dates.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-166",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-186",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "佛山",
+      "name": "碧江金楼",
+      "theme": "古村古建",
+      "location": "佛山市 · 佛山市碧江金楼景区",
+      "description": "以传统建筑与地方文化为游览主题，室内和院落开放范围另核。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“佛山市碧江金楼景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "碧江金楼",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 186",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 佛山市碧江金楼景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E9%87%91%E6%A5%BC%E5%8F%8A%E5%8F%A4%E5%BB%BA%E7%AD%91%E7%BE%A4",
+          "title": "维基百科：金楼及古建筑群（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "佛山市碧江金楼景区",
+        "city": "佛山",
+        "directoryRow": 186,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Bijiang Golden House",
+        "location": "Foshan · Bijiang Golden House",
+        "description": "A traditional-architecture destination; check indoor and courtyard access.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-186",
+      "image": {
+        "path": "assets/gd-dir-186.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Foshan_Shunde_Jin_Lou_20220715.113751.jpg",
+        "author": "古海岸遗址",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2022-07-15 11:37:51",
+        "caption": "碧江金楼相关实景（局部）",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Bijiang Golden House — reference photograph of a site detail."
+        }
+      }
+    },
+    {
+      "id": "gd-dir-216",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "韶关",
+      "name": "天井山森林公园",
+      "theme": "自然山水",
+      "location": "韶关市 · 韶关市乳源县天井山森林公园",
+      "description": "乳源县山林游览目的地，进入路线、山区天气和回程交通应提前核实。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“韶关市乳源县天井山森林公园”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "天井山国家森林公园",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 216",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 韶关市乳源县天井山森林公园",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "韶关市乳源县天井山森林公园",
+        "city": "韶关",
+        "directoryRow": 216,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Tianjingshan Forest Park",
+        "location": "Shaoguan · Tianjingshan Forest Park",
+        "description": "A forest destination in Ruyuan; verify access routes, mountain weather and return transport.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-216",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-218",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "韶关",
+      "name": "金鸡岭",
+      "theme": "自然山水",
+      "location": "韶关市 · 韶关市金鸡岭风景区",
+      "description": "乐昌山地景观游览线索，登高台阶和开放路径尚未逐段核实。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“韶关市金鸡岭风景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "金鸡岭",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 218",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 韶关市金鸡岭风景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E9%87%91%E9%B8%A1%E5%B2%AD",
+          "title": "维基百科：金鸡岭（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "韶关市金鸡岭风景区",
+        "city": "韶关",
+        "directoryRow": 218,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Jinji Ridge",
+        "location": "Shaoguan · Jinji Ridge",
+        "description": "A hill destination in Lechang; steps and open routes have not been checked section by section.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-218",
+      "image": {
+        "path": "assets/gd-dir-218.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:1964-04_1964%E5%B9%B4_%E9%87%91%E9%B8%A1%E5%B2%AD.jpg",
+        "author": "人民画报",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:1964-04_1964%E5%B9%B4_%E9%87%91%E9%B8%A1%E5%B2%AD.jpg",
+        "date": "1964-04-30",
+        "caption": "金鸡岭历史照片（1964年），不代表当前环境和开放状态",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Historical photograph of Jinji Ridge (1964); it does not establish current conditions or opening."
+        }
+      }
+    },
+    {
+      "id": "gd-dir-261",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "河源",
+      "name": "越王山",
+      "theme": "自然山水",
+      "location": "河源市 · 河源市越王山风景区",
+      "description": "山地景区游览线索，登山、游乐项目与内部交通分别核对。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“河源市越王山风景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "越王山",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 261",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 河源市越王山风景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "河源市越王山风景区",
+        "city": "河源",
+        "directoryRow": 261,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Yuewang Mountain",
+        "location": "Heyuan · Yuewang Mountain",
+        "description": "A mountain destination; check hiking, recreation and internal transport separately.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-261",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-268",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "河源",
+      "name": "苏区革命旧遗址群",
+      "theme": "历史人文",
+      "location": "河源市 · 河源市紫金县苏区革命旧遗址群景区",
+      "description": "紫金县革命遗址群按一个复合景区收录，各遗址分布和开放另核。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“河源市紫金县苏区革命旧遗址群景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "苏区镇",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 268",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 河源市紫金县苏区革命旧遗址群景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "河源市紫金县苏区革命旧遗址群景区",
+        "city": "河源",
+        "directoryRow": 268,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Suqu Revolutionary Heritage Sites",
+        "location": "Heyuan · Suqu Revolutionary Heritage Sites",
+        "description": "A composite heritage destination in Zijin, counted once; check site distribution and access.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-268",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-299",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "梅州",
+      "name": "三河坝战役纪念园",
+      "theme": "历史人文",
+      "location": "梅州市 · 梅州市三河坝战役纪念园景区",
+      "description": "以三河坝战役纪念历史为主题，展馆开放与预约要求另查。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“梅州市三河坝战役纪念园景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "三河坝战役纪念园",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 299",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 梅州市三河坝战役纪念园景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "梅州市三河坝战役纪念园景区",
+        "city": "梅州",
+        "directoryRow": 299,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Sanheba Battle Memorial Park",
+        "location": "Meizhou · Sanheba Battle Memorial Park",
+        "description": "A battle memorial destination; verify exhibition hours and reservation rules.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-299",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-304",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "梅州",
+      "name": "坪山梯田",
+      "theme": "自然山水",
+      "location": "梅州市 · 梅州市坪山梯田旅游区",
+      "description": "以梯田乡村景观为主题，农时、观景道路和田间通行需现场确认。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“梅州市坪山梯田旅游区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "坪山梯田",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 304",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 梅州市坪山梯田旅游区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "梅州市坪山梯田旅游区",
+        "city": "梅州",
+        "directoryRow": 304,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Pingshan Rice Terraces",
+        "location": "Meizhou · Pingshan Rice Terraces",
+        "description": "A terraced rural landscape; confirm farming conditions, viewpoints and permitted access.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-304",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-350",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "惠州",
+      "name": "高潭中洞红色旅游区",
+      "theme": "历史人文",
+      "location": "惠州市 · 惠州市高潭中洞红色旅游区",
+      "description": "惠东县革命历史游览线索，展馆和村落动线分开核对。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“惠州市高潭中洞红色旅游区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "高潭镇",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 350",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 惠州市高潭中洞红色旅游区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "惠州市高潭中洞红色旅游区",
+        "city": "惠州",
+        "directoryRow": 350,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Gaotan Zhongdong Heritage Area",
+        "location": "Huizhou · Gaotan Zhongdong Heritage Area",
+        "description": "A revolutionary-history destination in Huidong; check exhibition and village routes separately.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-350",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-357",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "惠州",
+      "name": "海龟湾旅游区",
+      "theme": "海岛海岸",
+      "location": "惠州市 · 惠州市海龟湾旅游区",
+      "description": "以海岸生态参观为线索，保护区域开放和入场规则必须按官方安排。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“惠州市海龟湾旅游区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 400,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "惠东港口海龟国家级自然保护区",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 357",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 惠州市海龟湾旅游区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "惠州市海龟湾旅游区",
+        "city": "惠州",
+        "directoryRow": 357,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Sea Turtle Bay Tourism Area",
+        "location": "Huizhou · Sea Turtle Bay Tourism Area",
+        "description": "A coastal ecology destination; protected-area access must follow official visitor rules.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先确认往返交通、天气及开放岸线，再留半天至一天；只在开放且有管理的区域活动。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: confirm return transport, weather and open shores before allowing half to a full day. Use managed, open visitor areas.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-357",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-395",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "汕尾",
+      "name": "金厢滨海红色旅游区",
+      "theme": "历史人文",
+      "location": "汕尾市 · 汕尾市陆丰金厢滨海红色旅游区",
+      "description": "陆丰滨海革命历史游览线索，纪念设施与海岸开放分别确认。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“汕尾市陆丰金厢滨海红色旅游区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "金厢镇",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 395",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 汕尾市陆丰金厢滨海红色旅游区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "汕尾市陆丰金厢滨海红色旅游区",
+        "city": "汕尾",
+        "directoryRow": 395,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Jinxiang Coastal Heritage Area",
+        "location": "Shanwei · Jinxiang Coastal Heritage Area",
+        "description": "A coastal heritage destination in Lufeng; check memorial and shoreline access separately.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-395",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-399",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "汕尾",
+      "name": "螺溪谷",
+      "theme": "自然山水",
+      "location": "汕尾市 · 汕尾市陆河螺溪谷旅游景区",
+      "description": "陆河县乡村山谷游览线索，活动和住宿经营范围尚未逐项确认。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“汕尾市陆河螺溪谷旅游景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "螺溪镇",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 399",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 汕尾市陆河螺溪谷旅游景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "汕尾市陆河螺溪谷旅游景区",
+        "city": "汕尾",
+        "directoryRow": 399,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Luoxi Valley",
+        "location": "Shanwei · Luoxi Valley",
+        "description": "A rural valley destination in Luhe; activity and lodging arrangements remain unverified.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-399",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-414",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "东莞",
+      "name": "广东东江纵队旧址",
+      "theme": "历史人文",
+      "location": "东莞市 · 东莞市广东东江纵队旧址景区",
+      "description": "以东江纵队相关历史遗址和陈列为主题，场馆开放另核。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“东莞市广东东江纵队旧址景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "广东东江纵队纪念馆",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 414",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 东莞市广东东江纵队旧址景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "东莞市广东东江纵队旧址景区",
+        "city": "东莞",
+        "directoryRow": 414,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Guangdong Dongjiang Column Historic Site",
+        "location": "Dongguan · Guangdong Dongjiang Column Historic Site",
+        "description": "A historic site focused on the Dongjiang Column; verify exhibition access.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-414",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-429",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "东莞",
+      "name": "粤晖园",
+      "theme": "古村古建",
+      "location": "东莞市 · 东莞市粤晖园旅游景区",
+      "description": "园林建筑与景观游览目的地，游览线路及现行票务需另核。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“东莞市粤晖园旅游景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "粤晖园",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 429",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 东莞市粤晖园旅游景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "东莞市粤晖园旅游景区",
+        "city": "东莞",
+        "directoryRow": 429,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Yuehui Garden",
+        "location": "Dongguan · Yuehui Garden",
+        "description": "A garden-and-architecture destination; check current visitor routes and ticketing.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-429",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-449",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "中山",
+      "name": "厨邦酱油文化博览馆",
+      "theme": "历史人文",
+      "location": "中山市 · 中山市火炬开发区厨邦酱油文化博览馆景区",
+      "description": "以食品产业文化展示为线索，工业参观、试吃和预约安排另核。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“中山市火炬开发区厨邦酱油文化博览馆景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "厨邦酱油文化博览馆",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 449",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 中山市火炬开发区厨邦酱油文化博览馆景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "中山市火炬开发区厨邦酱油文化博览馆景区",
+        "city": "中山",
+        "directoryRow": 449,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Chubang Soy Sauce Culture Museum",
+        "location": "Zhongshan · Chubang Soy Sauce Culture Museum",
+        "description": "A food-industry culture venue; confirm tours, tastings and reservations separately.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-449",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-452",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "中山",
+      "name": "桂南村",
+      "theme": "古村古建",
+      "location": "中山市 · 中山市桂南村乡村旅游景区",
+      "description": "乡村文化游览目的地，尊重居民生活，进入民居和经营场所先确认。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“中山市桂南村乡村旅游景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "桂南村",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 452",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 中山市桂南村乡村旅游景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "中山市桂南村乡村旅游景区",
+        "city": "中山",
+        "directoryRow": 452,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Guinan Village",
+        "location": "Zhongshan · Guinan Village",
+        "description": "A rural culture destination; respect residents and check access to homes and businesses.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-452",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-475",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "江门",
+      "name": "开平博物馆",
+      "theme": "历史人文",
+      "location": "江门市 · 江门市开平博物馆",
+      "description": "地方历史与文化展览游览线索，展览更换、开放日和预约另核。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“江门市开平博物馆”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "开平市博物馆",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 475",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 江门市开平博物馆",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "江门市开平博物馆",
+        "city": "江门",
+        "directoryRow": 475,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Kaiping Museum",
+        "location": "Jiangmen · Kaiping Museum",
+        "description": "A local-history museum; verify current exhibitions, open days and reservations.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-475",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-478",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "江门",
+      "name": "台山市华侨文化博物馆",
+      "theme": "历史人文",
+      "location": "江门市 · 江门市台山市华侨文化博物馆",
+      "description": "以台山华侨历史文化为参观主题，展馆开放与预约另核。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“江门市台山市华侨文化博物馆”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "台山市博物馆",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 478",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 江门市台山市华侨文化博物馆",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "江门市台山市华侨文化博物馆",
+        "city": "江门",
+        "directoryRow": 478,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Taishan Overseas Chinese Culture Museum",
+        "location": "Jiangmen · Taishan Overseas Chinese Culture Museum",
+        "description": "A museum focused on Taishan emigrant history; verify opening and reservations.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-478",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-516",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "阳江",
+      "name": "阳西月亮湾",
+      "theme": "海岛海岸",
+      "location": "阳江市 · 阳江市阳西月亮湾滨海旅游景区",
+      "description": "阳西县滨海景观游览线索，区别海岸公共空间与经营项目。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“阳江市阳西月亮湾滨海旅游景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 400,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "月亮湾 (阳西)",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 516",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 阳江市阳西月亮湾滨海旅游景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "阳江市阳西月亮湾滨海旅游景区",
+        "city": "阳江",
+        "directoryRow": 516,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Yue Liang Bay, Yangxi",
+        "location": "Yangjiang · Yue Liang Bay, Yangxi",
+        "description": "A coastal destination in Yangxi; distinguish public shores from commercial activities.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先确认往返交通、天气及开放岸线，再留半天至一天；只在开放且有管理的区域活动。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: confirm return transport, weather and open shores before allowing half to a full day. Use managed, open visitor areas.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-516",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-521",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "阳江",
+      "name": "阳春崆垌岩",
+      "theme": "自然山水",
+      "location": "阳江市 · 阳江市阳春市崆垌岩旅游景区",
+      "description": "以岩洞与山体景观为游览线索，洞内台阶、照明和开放边界另核。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“阳江市阳春市崆垌岩旅游景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "崆峒岩",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 521",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 阳江市阳春市崆垌岩旅游景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "阳江市阳春市崆垌岩旅游景区",
+        "city": "阳江",
+        "directoryRow": 521,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Kongtong Rock, Yangchun",
+        "location": "Yangjiang · Kongtong Rock, Yangchun",
+        "description": "A rock-and-cave destination; check steps, lighting and visitor boundaries.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-521",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-549",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "湛江",
+      "name": "灯楼角",
+      "theme": "海岛海岸",
+      "location": "湛江市 · 湛江市角尾乡灯楼角景区",
+      "description": "徐闻县角尾乡滨海景观线索，海岸、航标和保护区域按现场管理通行。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“湛江市角尾乡灯楼角景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 400,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "灯楼角",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 549",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 湛江市角尾乡灯楼角景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "湛江市角尾乡灯楼角景区",
+        "city": "湛江",
+        "directoryRow": 549,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Denglou Cape",
+        "location": "Zhanjiang · Denglou Cape",
+        "description": "A coastal destination in Xuwen; follow access rules around shores, navigation aids and protected areas.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先确认往返交通、天气及开放岸线，再留半天至一天；只在开放且有管理的区域活动。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: confirm return transport, weather and open shores before allowing half to a full day. Use managed, open visitor areas.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-549",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-553",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "湛江",
+      "name": "雷州西湖公园",
+      "theme": "自然山水",
+      "location": "湛江市 · 湛江市雷州西湖公园",
+      "description": "雷州城市公园游览线索，和惠州、杭州等地同名西湖区分。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“湛江市雷州西湖公园”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "雷州西湖",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 553",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 湛江市雷州西湖公园",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "湛江市雷州西湖公园",
+        "city": "湛江",
+        "directoryRow": 553,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "West Lake Park, Leizhou",
+        "location": "Zhanjiang · West Lake Park, Leizhou",
+        "description": "An urban park in Leizhou, distinct from West Lakes in other cities.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-553",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-564",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "茂名",
+      "name": "广垦（茂名）国家热带农业公园",
+      "theme": "自然山水",
+      "location": "茂名市 · 茂名市广垦（茂名）国家热带农业公园",
+      "description": "以热带农业景观与园区参观为线索，农事体验和采摘活动另核。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“茂名市广垦（茂名）国家热带农业公园”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "广垦国家热带农业公园",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 564",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 茂名市广垦（茂名）国家热带农业公园",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "茂名市广垦（茂名）国家热带农业公园",
+        "city": "茂名",
+        "directoryRow": 564,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Guangken Maoming Tropical Agriculture Park",
+        "location": "Maoming · Guangken Maoming Tropical Agriculture Park",
+        "description": "A tropical agriculture park; verify farming experiences and picking activities separately.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-564",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-578",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "茂名",
+      "name": "化州学宫",
+      "theme": "历史人文",
+      "location": "茂名市 · 茂名市化州学宫（孔庙）景区",
+      "description": "以学宫建筑和地方教育历史为主题，院落及室内陈列开放另核。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“茂名市化州学宫（孔庙）景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "化州学宫",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 578",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 茂名市化州学宫（孔庙）景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E5%8C%96%E5%B7%9E%E5%AD%94%E5%BA%99",
+          "title": "维基百科：化州孔庙（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "茂名市化州学宫（孔庙）景区",
+        "city": "茂名",
+        "directoryRow": 578,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Huazhou Confucian Academy",
+        "location": "Maoming · Huazhou Confucian Academy",
+        "description": "A Confucian academy heritage site; verify courtyard and exhibition access.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-578",
+      "image": {
+        "path": "assets/gd-dir-578.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:%E5%8C%96%E5%B7%9E%E5%AD%A6%E5%AE%AB.JPG",
+        "author": "Haier7917",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "date": "2012-08-03",
+        "caption": "化州学宫相关实景（局部）",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Huazhou Confucian Academy — reference photograph of a site detail."
+        }
+      }
+    },
+    {
+      "id": "gd-dir-600",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "肇庆",
+      "name": "封开贺江碧道画廊",
+      "theme": "自然山水",
+      "location": "肇庆市 · 肇庆市封开贺江碧道画廊景区",
+      "description": "封开县沿江景观游览线索，不假定整条碧道均已连续开放。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“肇庆市封开贺江碧道画廊景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "贺江碧道画廊",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 600",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 肇庆市封开贺江碧道画廊景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "肇庆市封开贺江碧道画廊景区",
+        "city": "肇庆",
+        "directoryRow": 600,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Hejiang Greenway Gallery, Fengkai",
+        "location": "Zhaoqing · Hejiang Greenway Gallery, Fengkai",
+        "description": "A riverside destination in Fengkai; do not assume all greenway sections are continuously open.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-600",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-604",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "肇庆",
+      "name": "德庆三元塔",
+      "theme": "古村古建",
+      "location": "肇庆市 · 肇庆市德庆县三元塔景区",
+      "description": "以古塔建筑与地方历史为主题，登塔及周边开放安排需单独确认。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“肇庆市德庆县三元塔景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "三元塔 (德庆)",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 604",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 肇庆市德庆县三元塔景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%89%E5%85%83%E5%A1%94_%28%E5%BE%B7%E5%BA%86%29",
+          "title": "维基百科：三元塔 (德庆)（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "肇庆市德庆县三元塔景区",
+        "city": "肇庆",
+        "directoryRow": 604,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Sanyuan Pagoda, Deqing",
+        "location": "Zhaoqing · Sanyuan Pagoda, Deqing",
+        "description": "A historic pagoda destination; confirm tower entry and surrounding access separately.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-604",
+      "image": {
+        "path": "assets/gd-dir-604.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Deqing_Sanyuan_Ta_2013.11.16_17-51-50.jpg",
+        "author": "Zhangzhugang",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2013-11-16 17:51:50",
+        "caption": "德庆三元塔相关实景（局部）",
+        "modified": "网页展示时裁切，色彩未修改",
+        "en": {
+          "caption": "Sanyuan Pagoda, Deqing — reference photograph of a site detail."
+        }
+      }
+    },
+    {
+      "id": "gd-dir-644",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "清远",
+      "name": "广东瑶族博物馆",
+      "theme": "历史人文",
+      "location": "清远市 · 清远市广东瑶族博物馆景区",
+      "description": "连南瑶族文化展示游览线索，与千年瑶寨为不同景点。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“清远市广东瑶族博物馆景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "广东瑶族博物馆",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 644",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 清远市广东瑶族博物馆景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "清远市广东瑶族博物馆景区",
+        "city": "清远",
+        "directoryRow": 644,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Guangdong Yao Museum",
+        "location": "Qingyuan · Guangdong Yao Museum",
+        "description": "A Yao-culture museum in Liannan, distinct from the Millennium Yao Village.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-644",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-648",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "清远",
+      "name": "九龙峰林小镇",
+      "theme": "自然山水",
+      "location": "清远市 · 清远市九龙峰林小镇景区",
+      "description": "英德峰林田园游览线索，观景和园区体验项目分别确认。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“清远市九龙峰林小镇景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "九龙峰林小镇",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 648",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 清远市九龙峰林小镇景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "清远市九龙峰林小镇景区",
+        "city": "清远",
+        "directoryRow": 648,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Jiulong Karst Town",
+        "location": "Qingyuan · Jiulong Karst Town",
+        "description": "A karst-and-rural landscape destination in Yingde; check viewpoints and paid activities separately.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-648",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-706",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "潮州",
+      "name": "青岚怪臼谷",
+      "theme": "自然山水",
+      "location": "潮州市 · 潮州市饶平县青岚怪臼谷景区",
+      "description": "饶平县山谷地貌游览线索，正式开放步道和天气状况另核。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“潮州市饶平县青岚怪臼谷景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "青岚怪臼谷",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 706",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 潮州市饶平县青岚怪臼谷景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "潮州市饶平县青岚怪臼谷景区",
+        "city": "潮州",
+        "directoryRow": 706,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Qinglan Pothole Valley",
+        "location": "Chaozhou · Qinglan Pothole Valley",
+        "description": "A valley-landform destination in Raoping; check open paths and weather conditions.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-706",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-704",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "潮州",
+      "name": "饶平西澳岛",
+      "theme": "海岛海岸",
+      "location": "潮州市 · 潮州市饶平县西澳岛风景区",
+      "description": "饶平县滨海岛屿游览线索，跨海交通和返程安排尚需核实。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“潮州市饶平县西澳岛风景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 400,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "西澳岛",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 704",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 潮州市饶平县西澳岛风景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "潮州市饶平县西澳岛风景区",
+        "city": "潮州",
+        "directoryRow": 704,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Xi’ao Island, Raoping",
+        "location": "Chaozhou · Xi’ao Island, Raoping",
+        "description": "An island destination in Raoping; access and return transport still require checking.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先确认往返交通、天气及开放岸线，再留半天至一天；只在开放且有管理的区域活动。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: confirm return transport, weather and open shores before allowing half to a full day. Use managed, open visitor areas.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-704",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-722",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "揭阳",
+      "name": "揭西山湖村",
+      "theme": "古村古建",
+      "location": "揭阳市 · 揭阳市揭西山湖村乡村旅游景区",
+      "description": "揭西县乡村游览线索，公共游览区域与村民居住区域分开确认。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“揭阳市揭西山湖村乡村旅游景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "山湖村",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 722",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 揭阳市揭西山湖村乡村旅游景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "揭阳市揭西山湖村乡村旅游景区",
+        "city": "揭阳",
+        "directoryRow": 722,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Shanhu Village, Jiexi",
+        "location": "Jieyang · Shanhu Village, Jiexi",
+        "description": "A rural destination in Jiexi; distinguish public visitor areas from residents’ homes.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-722",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-729",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "揭阳",
+      "name": "“八一”南昌起义南下部队指挥部军事决策会议旧址",
+      "theme": "历史人文",
+      "location": "揭阳市 · 揭阳市“八一”南昌起义南下部队指挥部军事决策会议旧址景区",
+      "description": "以南昌起义南下部队相关历史为参观主题，场馆开放另核。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“揭阳市“八一”南昌起义南下部队指挥部军事决策会议旧址景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "流沙会议旧址",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 729",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 揭阳市“八一”南昌起义南下部队指挥部军事决策会议旧址景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "揭阳市“八一”南昌起义南下部队指挥部军事决策会议旧址景区",
+        "city": "揭阳",
+        "directoryRow": 729,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Southbound Nanchang Uprising Forces Decision Meeting Site",
+        "location": "Jieyang · Southbound Nanchang Uprising Forces Decision Meeting Site",
+        "description": "A heritage site associated with the southbound Nanchang Uprising forces; check venue access.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-729",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-747",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "云浮",
+      "name": "象窝山生态园",
+      "theme": "自然山水",
+      "location": "云浮市 · 云浮市新兴县象窝山生态园景区",
+      "description": "新兴县山地生态园游览线索，茶园、园区和住宿项目开放分别核对。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“云浮市新兴县象窝山生态园景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 330,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "象窝山",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 747",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 云浮市新兴县象窝山生态园景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "云浮市新兴县象窝山生态园景区",
+        "city": "云浮",
+        "directoryRow": 747,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Xiangwoshan Ecological Garden",
+        "location": "Yunfu · Xiangwoshan Ecological Garden",
+        "description": "A hill garden destination in Xinxing; check tea-garden, visitor-area and lodging access separately.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先选一段正式开放游线，预留半天并按体力缩短；具体距离、高差与内部交通尚未逐段核实。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: choose an officially open route and allow half a day, shortening it to suit fitness. Distances, gradients and internal transfers are not verified.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-747",
+      "photoStatus": "授权实景待补核"
+    },
+    {
+      "id": "gd-dir-750",
+      "region": "广东",
+      "regionFull": "广东省",
+      "area": "华南",
+      "city": "云浮",
+      "name": "欧德罗厨具博物馆",
+      "theme": "历史人文",
+      "location": "云浮市 · 云浮市欧德罗厨具博物馆景区",
+      "description": "以厨具产业文化为参观线索，工业参观和预约范围尚需确认。",
+      "food": "具体餐饮门店与价格尚未逐店核对。",
+      "season": "春夏秋冬",
+      "transport": "先以“云浮市欧德罗厨具博物馆景区”核对入口和区县位置，再查询当天公共交通或自驾路线；本条尚未核实具体班次与接驳费用。",
+      "budget": 260,
+      "budgetStatus": "编辑估算",
+      "days": 1,
+      "wiki": "欧德罗厨具博物馆",
+      "sources": [
+        {
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "title": "广东省文旅厅：A级景区名录（截至2026-08-31）· 序号 750",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        },
+        {
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "title": "官方名录原表 · 云浮市欧德罗厨具博物馆景区",
+          "type": "官方资料",
+          "checked": "2026-10-16"
+        }
+      ],
+      "reviews": null,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-16",
+      "researchBatch": 4,
+      "entryType": "attraction",
+      "cityEvidence": {
+        "name": "云浮市欧德罗厨具博物馆景区",
+        "city": "云浮",
+        "directoryRow": 750,
+        "asOf": "2026-08-31",
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html"
+      },
+      "en": {
+        "name": "Otello Kitchenware Museum",
+        "location": "Yunfu · Otello Kitchenware Museum",
+        "description": "A kitchenware-industry culture venue; tour boundaries and reservations require confirmation.",
+        "transport": "Confirm the exact entrance and district using the original Chinese name, then check current public transport or driving directions. Specific services and transfer fares are not verified.",
+        "food": "Individual restaurants and prices have not been checked."
+      },
+      "guide": {
+        "checked": "2026-10-16",
+        "complete": false,
+        "admission": "已核对官方名录中的名称和所属城市，现行门票、优惠和附加项目费用尚未确认；卡片日预算仅为编辑预留。",
+        "opening": "官方名录不提供当天开放状态。开放时段、临时维护、天气停运及闭馆日需向景区复核。",
+        "reservation": "出发前通过景区运营方官方渠道核对票种、预约及证件要求。名录原表是收录依据，不是购票入口。",
+        "route": "编辑建议先看开放的主建筑与展陈，预留2–3小时；场馆和院落开放边界需现场确认。",
+        "accessibility": "无障碍路线、台阶、儿童票及休息设施尚未逐项核实；不要仅凭景区名称判断适合所有同行人。",
+        "en": {
+          "admission": "The official directory confirms the name and city. Current admission, concessions and add-on prices remain unverified; the daily allowance is editorial.",
+          "opening": "The directory does not establish current opening. Confirm hours, maintenance, weather closures and closed days with the venue.",
+          "reservation": "Confirm ticket coverage, reservations and documents with the official operator. The directory is a research source, not a booking page.",
+          "route": "Editorial outline: allow 2–3 hours for open main buildings and exhibitions. Confirm which venues and courtyards visitors may enter.",
+          "accessibility": "Accessible routes, steps, child tickets and rest facilities have not been checked individually."
+        }
+      },
+      "canonicalPlaceId": "gd-dir-750",
+      "photoStatus": "授权实景待补核"
     }
   ],
   "foods": [
@@ -17041,13 +20149,13 @@
   "provinceUpdates": {
     "广东": {
       "date": "2026-10-16",
-      "batch": 3,
-      "count": 168,
+      "batch": 4,
+      "count": 210,
       "cities": 21,
-      "added": 145,
-      "scope": "广东21市各收录至少8个景点；详细攻略与名录基础资料分别标示。最低收录数不代表实时票价、开放、评价和照片全部核实。",
+      "added": 42,
+      "scope": "每城至少8个是起点，不是上限。广东21市已各收录10个有来源的景点，继续补充；详细攻略与名录基础资料分别标示，现行票价、开放、评价及图片未全部核实。",
       "en": {
-        "scope": "At least 8 sourced attraction entries in each of Guangdong’s 21 cities. Detailed guides and directory-based records are labeled separately; this does not establish complete verification of prices, opening, reviews or photos."
+        "scope": "At least 8 attractions per city is a minimum, not a cap. Each of Guangdong’s 21 cities now has 10 sourced entries, with more to follow. Detailed guides and directory records are labeled separately; current prices, opening, reviews and photos are not all verified."
       },
       "batches": [
         {
@@ -17071,6 +20179,13 @@
           "count": 168,
           "cities": 21,
           "date": "2026-10-16"
+        },
+        {
+          "batch": 4,
+          "added": 42,
+          "count": 210,
+          "cities": 21,
+          "date": "2026-10-16"
         }
       ]
     }
@@ -17078,7 +20193,7 @@
   "contentPolicy": {
     "cityMinimumAttractions": 8,
     "minimumScope": "广东",
-    "countingRule": "仅统计有可追溯资料的独立景点条目；待调研线索不计入。同一名录复合景区按一条收录。最低数量不代表票价、开放、评价或图片全部完成核实。"
+    "countingRule": "每城至少8个是最低收录标准，不是数量上限，景点持续补充。仅统计有可追溯资料的独立景点；待调研线索不计入，同一复合景区不拆分凑数。数量达标不代表票价、开放、评价和图片全部完成核实。"
   },
   "cities": [
     {
