@@ -2,7 +2,7 @@
   "checked": "2026-10-17",
   "total": 345,
   "verified": 34,
-  "unverified": 455,
+  "unverified": 466,
   "entries": [
     {
       "id": "d000",
@@ -6738,6 +6738,127 @@
       "scopeEn": "Current admission unconfirmed",
       "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
       "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx3-sight-142297",
+      "name": "蔡氏书香古宅",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "未取得足以确认现行常规门票或免费范围的官方依据；平台起价、套票宣传与网友消费不能替代当前票务政策。",
+      "noteEn": "Sufficient official evidence for current regular admission or free-entry coverage has not been established. Platform starting prices, package promotions and visitor spending do not establish current ticket policy."
+    },
+    {
+      "id": "gx3-sight-4478179",
+      "name": "铜石岭",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "未取得足以确认现行常规门票或免费范围的官方依据；平台起价、套票宣传与网友消费不能替代当前票务政策。",
+      "noteEn": "Sufficient official evidence for current regular admission or free-entry coverage has not been established. Platform starting prices, package promotions and visitor spending do not establish current ticket policy."
+    },
+    {
+      "id": "gx3-sight-133529621",
+      "name": "鹏垌村",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "未取得足以确认现行常规门票或免费范围的官方依据；平台起价、套票宣传与网友消费不能替代当前票务政策。",
+      "noteEn": "Sufficient official evidence for current regular admission or free-entry coverage has not been established. Platform starting prices, package promotions and visitor spending do not establish current ticket policy."
+    },
+    {
+      "id": "gx3-sight-5067032",
+      "name": "白石湖公园",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "未取得足以确认现行常规门票或免费范围的官方依据；平台起价、套票宣传与网友消费不能替代当前票务政策。",
+      "noteEn": "Sufficient official evidence for current regular admission or free-entry coverage has not been established. Platform starting prices, package promotions and visitor spending do not establish current ticket policy."
+    },
+    {
+      "id": "gx3-sight-5713086",
+      "name": "岔山村",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "未取得足以确认现行常规门票或免费范围的官方依据；平台起价、套票宣传与网友消费不能替代当前票务政策。",
+      "noteEn": "Sufficient official evidence for current regular admission or free-entry coverage has not been established. Platform starting prices, package promotions and visitor spending do not establish current ticket policy."
+    },
+    {
+      "id": "gx3-sight-1837549",
+      "name": "洞天酒海景区",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "未取得足以确认现行常规门票或免费范围的官方依据；平台起价、套票宣传与网友消费不能替代当前票务政策。",
+      "noteEn": "Sufficient official evidence for current regular admission or free-entry coverage has not been established. Platform starting prices, package promotions and visitor spending do not establish current ticket policy."
+    },
+    {
+      "id": "gx3-sight-1713995",
+      "name": "白头叶猴生态旅游区",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "未取得足以确认现行常规门票或免费范围的官方依据；平台起价、套票宣传与网友消费不能替代当前票务政策。",
+      "noteEn": "Sufficient official evidence for current regular admission or free-entry coverage has not been established. Platform starting prices, package promotions and visitor spending do not establish current ticket policy."
+    },
+    {
+      "id": "gx3-sight-5718106",
+      "name": "崇左太平古城景区",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "未取得足以确认现行常规门票或免费范围的官方依据；平台起价、套票宣传与网友消费不能替代当前票务政策。",
+      "noteEn": "Sufficient official evidence for current regular admission or free-entry coverage has not been established. Platform starting prices, package promotions and visitor spending do not establish current ticket policy."
+    },
+    {
+      "id": "gx3-sight-131673",
+      "name": "金钟山景区",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "未取得足以确认现行常规门票或免费范围的官方依据；平台起价、套票宣传与网友消费不能替代当前票务政策。",
+      "noteEn": "Sufficient official evidence for current regular admission or free-entry coverage has not been established. Platform starting prices, package promotions and visitor spending do not establish current ticket policy."
+    },
+    {
+      "id": "gx3-sight-54577",
+      "name": "吉星岩",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "未取得足以确认现行常规门票或免费范围的官方依据；平台起价、套票宣传与网友消费不能替代当前票务政策。",
+      "noteEn": "Sufficient official evidence for current regular admission or free-entry coverage has not been established. Platform starting prices, package promotions and visitor spending do not establish current ticket policy."
+    },
+    {
+      "id": "gx3-sight-5639342",
+      "name": "荷美覃塘·湖美四季田园综合体",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "未取得足以确认现行常规门票或免费范围的官方依据；平台起价、套票宣传与网友消费不能替代当前票务政策。",
+      "noteEn": "Sufficient official evidence for current regular admission or free-entry coverage has not been established. Platform starting prices, package promotions and visitor spending do not establish current ticket policy."
     }
   ]
 }

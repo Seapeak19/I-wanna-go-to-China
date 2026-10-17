@@ -10,7 +10,7 @@ test('local-food expansion has twenty-seven distinct researched branches with ho
 test('seventeen independent destinations retain photographs and do not imply confirmed entry tariffs',()=>{
  assert.equal(sights.length,17);for(const d of sights){assert.equal(d.researchBatch,2);assert(d.sources.some(s=>s.url===d.image.url));assert(d.guide.route&&d.guide.en.route&&d.guide.en.reservation);assert.equal(d.ticket.status,'unverified');assert.equal(d.ticket.amount,undefined);}
  for(const name of ['火山岛','合浦东坡亭'])assert(audit.excludedAttractions.some(d=>d.name.includes(name)));
- assert.equal(data.provinceUpdates['广西'].count,145);assert.equal(data.provinceUpdates['广西'].batch,2);
+ assert.equal(data.provinceUpdates['广西'].batches.find(b=>b.batch===2).count,145);
 });
 test('new meal outlines link real branches in their own city and preserve existing saved identifiers',()=>{
  const routes=data.foodGuides.filter(g=>g.region==='广西'&&g.researchBatch===2);assert.equal(routes.length,13);

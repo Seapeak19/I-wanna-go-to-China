@@ -1,0 +1,169 @@
+{
+  "checked": "2026-10-17",
+  "batch": 3,
+  "attractions": [
+    {
+      "id": "gx3-sight-142297",
+      "name": "蔡氏书香古宅",
+      "city": "南宁",
+      "url": "https://you.ctrip.com/sight/binyang3048/142297.html",
+      "photo": "https://dimg04.c-ctrip.com/images/0101f120008f2r1ym3CB0.jpg"
+    },
+    {
+      "id": "gx3-sight-4478179",
+      "name": "铜石岭",
+      "city": "玉林",
+      "url": "https://you.ctrip.com/sight/beiliu3045/4478179.html",
+      "photo": "https://dimg04.c-ctrip.com/images/01020120002djhm43BB75.jpg"
+    },
+    {
+      "id": "gx3-sight-133529621",
+      "name": "鹏垌村",
+      "city": "玉林",
+      "url": "https://you.ctrip.com/sight/yulin141/133529621.html",
+      "photo": "https://dimg04.c-ctrip.com/images/0100h12000arsyzhh679F.jpg"
+    },
+    {
+      "id": "gx3-sight-5067032",
+      "name": "白石湖公园",
+      "city": "钦州",
+      "url": "https://you.ctrip.com/sight/qinzhou697/5067032.html",
+      "photo": "https://dimg04.c-ctrip.com/images/0101r1200092m4dnf3A36.jpg"
+    },
+    {
+      "id": "gx3-sight-5713086",
+      "name": "岔山村",
+      "city": "贺州",
+      "url": "https://you.ctrip.com/sight/fuchuan1446258/5713086.html",
+      "photo": "https://dimg04.c-ctrip.com/images/0104012000f6rqmg4B9B5.jpg"
+    },
+    {
+      "id": "gx3-sight-1837549",
+      "name": "洞天酒海景区",
+      "city": "河池",
+      "url": "https://you.ctrip.com/sight/nandan3059/1837549.html",
+      "photo": "https://dimg04.c-ctrip.com/images/1lo2y12000m0vkby54799.png"
+    },
+    {
+      "id": "gx3-sight-1713995",
+      "name": "白头叶猴生态旅游区",
+      "city": "崇左",
+      "url": "https://you.ctrip.com/sight/chongzuo837/1713995.html",
+      "photo": "https://dimg04.c-ctrip.com/images/1002160000010n4cp11FC.jpg"
+    },
+    {
+      "id": "gx3-sight-5718106",
+      "name": "崇左太平古城景区",
+      "city": "崇左",
+      "url": "https://you.ctrip.com/sight/chongzuo837/5718106.html",
+      "photo": "https://dimg04.c-ctrip.com/images/0104w12000m93nm1r923A.jpg"
+    },
+    {
+      "id": "gx3-sight-131673",
+      "name": "金钟山景区",
+      "city": "桂林",
+      "url": "https://you.ctrip.com/sight/yongfu1445352/131673.html",
+      "photo": "https://dimg04.c-ctrip.com/images/10051f000001gssnxEEBB.jpg"
+    },
+    {
+      "id": "gx3-sight-54577",
+      "name": "吉星岩",
+      "city": "百色",
+      "url": "https://you.ctrip.com/sight/debao3061/54577.html",
+      "photo": "https://dimg04.c-ctrip.com/images/35010z000000nzi2jD3A0.jpg"
+    },
+    {
+      "id": "gx3-sight-5639342",
+      "name": "荷美覃塘·湖美四季田园综合体",
+      "city": "贵港",
+      "url": "https://you.ctrip.com/sight/guigang711/5639342.html",
+      "photo": "https://dimg04.c-ctrip.com/images/0103s12000f6tj5bh943B.jpg"
+    }
+  ],
+  "foods": [
+    {
+      "id": "food-gx3-001",
+      "name": "陈七牛腩粉(空中花园餐厅店)",
+      "city": "玉林",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/yulin141/26660052.html",
+      "evidenceLabel": "平台评价候选",
+      "priceStatus": "平台参考，非现行菜单"
+    },
+    {
+      "id": "food-gx3-002",
+      "name": "天一阁美食城(滨江路店)",
+      "city": "钦州",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/qinzhou697/33675205.html",
+      "evidenceLabel": "平台评价候选",
+      "priceStatus": "平台参考，非现行菜单"
+    },
+    {
+      "id": "food-gx3-003",
+      "name": "椿记烧鹅(中山店)",
+      "city": "桂林",
+      "url": "https://you.ctrip.com/food/guilin28/126233.html",
+      "evidenceLabel": "平台评价候选",
+      "priceStatus": "平台参考，非现行菜单"
+    },
+    {
+      "id": "food-gx3-004",
+      "name": "肥螺庄(太平中街总店)",
+      "city": "柳州",
+      "url": "https://you.ctrip.com/food/liuzhou143/7746728.html",
+      "evidenceLabel": "平台评价候选",
+      "priceStatus": "平台参考，非现行菜单"
+    },
+    {
+      "id": "food-gx3-005",
+      "name": "明翠炒螺店(教育路店)",
+      "city": "防城港",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/dongxing964/16430261.html",
+      "evidenceLabel": "平台评价候选",
+      "priceStatus": "平台参考，非现行菜单"
+    },
+    {
+      "id": "food-gx3-006",
+      "name": "惠钦煲仔粉（二马路店址）",
+      "city": "钦州",
+      "url": "https://weibo.com/2/detail/5332158342497260",
+      "evidenceLabel": "文旅推广参考 · 待复核",
+      "priceStatus": "当前价未核实，不自动填预算"
+    },
+    {
+      "id": "food-gx3-007",
+      "name": "何记一马路（何记糖水·推广店址）",
+      "city": "钦州",
+      "url": "https://weibo.com/2/detail/5332158342497260",
+      "evidenceLabel": "文旅推广参考 · 待复核",
+      "priceStatus": "当前价未核实，不自动填预算"
+    },
+    {
+      "id": "food-gx3-008",
+      "name": "二马路陈大猪脚叉烧粉",
+      "city": "钦州",
+      "url": "https://www.amap.com/place/B0KAG5LC1P",
+      "evidenceLabel": "地图榜单线索 · 待复核",
+      "priceStatus": "当前价未核实，不自动填预算"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "平天山国家森林公园",
+      "url": "https://you.ctrip.com/sight/guigang711/1729273.html",
+      "reason": "平台明确标为暂停营业，未取得恢复确认"
+    },
+    {
+      "name": "高德古镇一期",
+      "url": "https://you.ctrip.com/sight/beihai140/5719794.html",
+      "reason": "样本少且评分偏低，本批不作为新增优先项"
+    },
+    {
+      "name": "曾二十四牛腩粉（城站路店）",
+      "reason": "仅1条平台评价；保留检索线索，不据单一样本直接推荐"
+    },
+    {
+      "name": "老字号李姨墨鱼丸虾饼（总店）",
+      "reason": "虽有较多样本，公开评分为4.1且体验有分歧，本批优先其他门店"
+    }
+  ]
+}
