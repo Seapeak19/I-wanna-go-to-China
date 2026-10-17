@@ -2,7 +2,7 @@
   "checked": "2026-10-17",
   "total": 345,
   "verified": 34,
-  "unverified": 438,
+  "unverified": 455,
   "entries": [
     {
       "id": "d000",
@@ -6551,6 +6551,193 @@
       "scopeEn": "Current admission unconfirmed",
       "note": "未取得足以确认现行常规票价或免费范围的官方依据；平台起价、历史报价和游客消费不作已核实门票。",
       "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official evidence. Platform starting prices, historic tariffs and visitor spending are not treated as verified tickets."
+    },
+    {
+      "id": "gx2-sight-8807",
+      "name": "南宁市人民公园",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-1701274",
+      "name": "中华茉莉园",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-1830751",
+      "name": "恭城红岩村",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-50287",
+      "name": "靖江王陵",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-1684136",
+      "name": "三江鼓楼",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-1482880",
+      "name": "石门仙湖景区",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-1418220",
+      "name": "侨港风情街",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-57712",
+      "name": "中山公园-中山纪念堂",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-4693342",
+      "name": "钦州园博园",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-2680280",
+      "name": "东湖公园",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-1729239",
+      "name": "渠洋湖",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-142564",
+      "name": "红叶森林公园",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-22163",
+      "name": "贺州客家围屋",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-131888",
+      "name": "三门海",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-3895692",
+      "name": "来宾市博物馆",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-140742",
+      "name": "龙宫仙境旅游区",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+    },
+    {
+      "id": "gx2-sight-21922",
+      "name": "石景林景区",
+      "region": "广西",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+      "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
     }
   ]
 }

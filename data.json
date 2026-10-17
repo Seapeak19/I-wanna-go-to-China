@@ -42818,6 +42818,1530 @@
           "ticket": "Admission unconfirmed. Current regular admission or free-entry coverage is not confirmed by sufficient official evidence. Platform starting prices, historic tariffs and visitor spending are not treated as verified tickets."
         }
       }
+    },
+    {
+      "id": "gx2-sight-8807",
+      "canonicalPlaceId": "gx2-sight-8807",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "南宁",
+      "name": "南宁市人民公园",
+      "theme": "历史人文",
+      "location": "广西壮族自治区南宁市兴宁区人民东路1号",
+      "description": "白龙湖、镇宁炮台与老城公园步道。市区公园可作短线，炮台、游乐设施与公共步道的开放及收费分别确认。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "南宁市区出发，导航“人民东路人民公园入口”，再核对开放门区。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/nanning166/8807.html",
+          "title": "携程：南宁市人民公园资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Nanning People’s Park",
+        "location": "Nanning, Guangxi · Chinese navigation address: 广西壮族自治区南宁市兴宁区人民东路1号",
+        "description": "Bailong Lake, Zhenning Fort and old-city park paths. Use this as a short urban visit. Confirm access and charges for the fort, rides and public paths separately.",
+        "transport": "From central Nanning, navigate to the People’s Park entrance on Renmin East Road and confirm the open gate.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 全天开放。非当日运营承诺，请查看临时通知。",
+        "reservation": "市区公园可作短线，炮台、游乐设施与公共步道的开放及收费分别确认。",
+        "route": "先沿白龙湖短程散步，再按体力选择上坡到炮台；不默认游乐项目包含在入园范围内。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "Use this as a short urban visit. Confirm access and charges for the fort, rides and public paths separately.",
+          "route": "Start with a short lakeside walk, then consider the uphill fort if suitable. Rides are not assumed to be included.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-8807.jpg",
+        "url": "https://you.ctrip.com/sight/nanning166/8807.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/100t1f000001gqblj8596.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/nanning166/8807.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "南宁市人民公园 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Nanning People’s Park · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/nanning166/8807.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 4.6/5，307 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 4.6/5 from 307 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-1701274",
+      "canonicalPlaceId": "gx2-sight-1701274",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "南宁",
+      "name": "中华茉莉园",
+      "theme": "自然山水",
+      "location": "广西壮族自治区南宁市横州市至校椅二级公路旁",
+      "description": "横州茉莉花种植景观与花茶产业展示。花期、采花时段与生产安排不同，不能保证到访时花田盛开；生产区遵守现场边界。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "从南宁前往横州校椅镇片区，提前确认县域往返车次；不与南宁市区公园硬拼半天。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/hengzhou966/1701274.html",
+          "title": "携程：中华茉莉园资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "China Jasmine Garden, Hengzhou",
+        "location": "Nanning, Guangxi · Chinese navigation address: 广西壮族自治区南宁市横州市至校椅二级公路旁",
+        "description": "Hengzhou jasmine fields and the flower-tea industry. Flowering, harvesting and production schedules differ. Blooms are not guaranteed; respect working-area boundaries.",
+        "transport": "Travel from Nanning toward Xiaoyi, Hengzhou. Confirm county transport and return services; do not compress this and an urban park into half a day.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 08:00-18:00开放（18:00停止入园）。非当日运营承诺，请查看临时通知。",
+        "reservation": "花期、采花时段与生产安排不同，不能保证到访时花田盛开；生产区遵守现场边界。",
+        "route": "先问清当季可参观的花田与展示区，再选择短线；采摘、制茶体验和购物均另核价。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "Flowering, harvesting and production schedules differ. Blooms are not guaranteed; respect working-area boundaries.",
+          "route": "Confirm which fields and exhibits are open that season, then choose a short visit. Picking, tea-making and shopping cost separately.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-1701274.jpg",
+        "url": "https://you.ctrip.com/sight/hengzhou966/1701274.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/100u0k000000bdg7512D4.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/hengzhou966/1701274.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "中华茉莉园 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "China Jasmine Garden, Hengzhou · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/hengzhou966/1701274.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 4.8/5，30 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 4.8/5 from 30 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-1830751",
+      "canonicalPlaceId": "gx2-sight-1830751",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "桂林",
+      "name": "恭城红岩村",
+      "theme": "古村古建",
+      "location": "广西壮族自治区桂林市恭城瑶族自治县莲花镇",
+      "description": "月柿种植村落、田园与瑶乡生活景观。柿子颜色、采收与晾晒随天气和农事变化；进入果园、拍摄或采摘先征得主人同意。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "从恭城县城到莲花镇红岩村，提前约定返程；赏柿旺季另留等车时间。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/gongcheng1446252/1830751.html",
+          "title": "携程：恭城红岩村资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Hongyan Village, Gongcheng",
+        "location": "Guilin, Guangxi · Chinese navigation address: 广西壮族自治区桂林市恭城瑶族自治县莲花镇",
+        "description": "Persimmon-growing countryside and Yao village landscapes. Persimmon colour, harvest and drying vary with weather and farm work. Ask permission before entering orchards, photographing residents or picking fruit.",
+        "transport": "Connect from Gongcheng town to Hongyan Village in Lianhua; arrange return transport and allow extra time during persimmon season.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 全天开放。非当日运营承诺，请查看临时通知。",
+        "reservation": "柿子颜色、采收与晾晒随天气和农事变化；进入果园、拍摄或采摘先征得主人同意。",
+        "route": "沿允许通行的村道看田园；将柿园和民居作为一次村落参观，不拆成多个景点。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "Persimmon colour, harvest and drying vary with weather and farm work. Ask permission before entering orchards, photographing residents or picking fruit.",
+          "route": "Follow public village lanes and treat orchards and homes as one village visit, not multiple attractions.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-1830751.jpg",
+        "url": "https://you.ctrip.com/sight/gongcheng1446252/1830751.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0101e12000kfet0vz4BD3.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/gongcheng1446252/1830751.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "恭城红岩村 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Hongyan Village, Gongcheng · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/gongcheng1446252/1830751.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 4.5/5，53 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 4.5/5 from 53 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-50287",
+      "canonicalPlaceId": "gx2-sight-50287",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "桂林",
+      "name": "靖江王陵",
+      "theme": "历史人文",
+      "location": "桂林市七星区东郊尧山西南麓",
+      "description": "明代靖江藩王陵寝与神道石刻。这是尧山片区王陵，不是市区独秀峰王城；展馆、陵区和保护范围以现场开放为准。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "从桂林市区前往尧山西南麓王陵入口，单独核对城乡公交或包车返程。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/guilin28/50287.html",
+          "title": "携程：靖江王陵资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Jingjiang Princes’ Tombs",
+        "location": "Guilin, Guangxi · Chinese navigation address: 桂林市七星区东郊尧山西南麓",
+        "description": "Ming-era Jingjiang princely tombs and ceremonial stone carvings. These are tombs near Yaoshan, separate from the downtown Wangcheng palace. Check which halls and tomb areas are open.",
+        "transport": "Travel from Guilin to the tomb entrance southwest of Yaoshan. Verify local buses or arranged return transport.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 09:00-16:30开放。非当日运营承诺，请查看临时通知。",
+        "reservation": "这是尧山片区王陵，不是市区独秀峰王城；展馆、陵区和保护范围以现场开放为准。",
+        "route": "先看陵寝沿革，再循开放神道观察石刻，保持肃静，不进入封闭墓区。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "These are tombs near Yaoshan, separate from the downtown Wangcheng palace. Check which halls and tomb areas are open.",
+          "route": "Read the historical displays, then follow the open ceremonial path to study carvings. Respect memorial etiquette and closed areas.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-50287.jpg",
+        "url": "https://you.ctrip.com/sight/guilin28/50287.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0100w12000k2v8iym337E.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/guilin28/50287.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "靖江王陵 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Jingjiang Princes’ Tombs · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/guilin28/50287.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 4.5/5，78 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 4.5/5 from 78 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-1684136",
+      "canonicalPlaceId": "gx2-sight-1684136",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "柳州",
+      "name": "三江鼓楼",
+      "theme": "历史人文",
+      "location": "柳州市三江侗族自治县侗乡大道19号多耶广场旁",
+      "description": "县城多耶广场旁侗族木构鼓楼。与程阳八寨不在同一地点；广场观景和付费登楼须分别确认，木梯不视作无障碍路线。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "三江县城侗乡大道多耶广场旁；三江南站与县城之间的接驳另查。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/sanjiang975/1684136.html",
+          "title": "携程：三江鼓楼资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Sanjiang Drum Tower",
+        "location": "Liuzhou, Guangxi · Chinese navigation address: 柳州市三江侗族自治县侗乡大道19号多耶广场旁",
+        "description": "Dong timber drum-tower architecture beside Duoye Square. Separate from Chengyang Eight Villages. Check plaza access and tower entry separately; wooden stairs are not an accessible route.",
+        "transport": "Beside Duoye Square on Dongxiang Avenue, Sanjiang town. Check the connection from Sanjiang South station separately.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 08:00-22:00开放（21:30停止入园）。非当日运营承诺，请查看临时通知。",
+        "reservation": "与程阳八寨不在同一地点；广场观景和付费登楼须分别确认，木梯不视作无障碍路线。",
+        "route": "先在广场看木构外观，获准登楼后再按体力选择楼层，不强求登顶。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "Separate from Chengyang Eight Villages. Check plaza access and tower entry separately; wooden stairs are not an accessible route.",
+          "route": "View the timber structure from the square, then climb only permitted levels if suitable for your group.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-1684136.jpg",
+        "url": "https://you.ctrip.com/sight/sanjiang975/1684136.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/1lo2q12000spj8j70A89F.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/sanjiang975/1684136.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "三江鼓楼参考夜景，拍摄日期未明确；灯光与夜间开放不作现行承诺",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Sanjiang Drum Tower reference night photo; capture date unknown, lighting and night access not guaranteed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/sanjiang975/1684136.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 4.6/5，151 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 4.6/5 from 151 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-1482880",
+      "canonicalPlaceId": "gx2-sight-1482880",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "柳州",
+      "name": "石门仙湖景区",
+      "theme": "自然山水",
+      "location": "柳州市融安县大良镇石门村",
+      "description": "天然石门、岩洞与暗河景观。玻璃栈道、游船和洞内路线可能分项收费或临时关闭，先核对当天实际开放组合。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "位于融安县大良镇石门村；从柳州市区出发属于县域行程，先确认返程车辆。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/rongan3043/1482880.html",
+          "title": "携程：石门仙湖景区资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Shimen Fairy Lake, Rong’an",
+        "location": "Liuzhou, Guangxi · Chinese navigation address: 柳州市融安县大良镇石门村",
+        "description": "Natural rock portals, caves and an underground river. Glass walkways, boats and cave routes may have separate charges or closures. Confirm the day’s operating combination.",
+        "transport": "In Shimen Village, Daliang, Rong’an County. This is a county outing from Liuzhou; arrange return transport.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 09:00-17:30开放（16:30停止售票，16:30停止入园）。非当日运营承诺，请查看临时通知。",
+        "reservation": "玻璃栈道、游船和洞内路线可能分项收费或临时关闭，先核对当天实际开放组合。",
+        "route": "按景区当日标识选择石门及洞内短线，湿滑路段慢行；不把所有体验都列为必选。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "Glass walkways, boats and cave routes may have separate charges or closures. Confirm the day’s operating combination.",
+          "route": "Choose a short rock-portal and cave route using current signs. Walk carefully on damp surfaces; optional experiences are not compulsory.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-1482880.jpg",
+        "url": "https://you.ctrip.com/sight/rongan3043/1482880.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0101f12000k3ch13z022C.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/rongan3043/1482880.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "石门仙湖景区 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Shimen Fairy Lake, Rong’an · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/rongan3043/1482880.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 4.2/5，314 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 4.2/5 from 314 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-1418220",
+      "canonicalPlaceId": "gx2-sight-1418220",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "北海",
+      "name": "侨港风情街",
+      "theme": "历史人文",
+      "location": "北海市银海区侨北路OYO海侨假日酒店(侨北路店)西侧约50米",
+      "description": "归侨社区街巷与越式粉食、糖水店。这是生活与商业街区，不是整条街统一经营；各店品质、营业时间和费用不同。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "导航北海侨港风情街，按交通管制选择落客点；晚间确认返回住宿的交通。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/beihai140/1418220.html",
+          "title": "携程：侨港风情街资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Qiaogang Food and Culture Street",
+        "location": "Beihai, Guangxi · Chinese navigation address: 北海市银海区侨北路OYO海侨假日酒店(侨北路店)西侧约50米",
+        "description": "Returned-overseas-Chinese neighbourhood lanes, Vietnamese-style food and desserts. A living commercial neighbourhood with independently operated shops, not one managed restaurant. Quality, hours and charges differ by branch.",
+        "transport": "Navigate to Qiaogang Street in Beihai and use permitted drop-off areas. Confirm transport back to your accommodation at night.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 全天开放。非当日运营承诺，请查看临时通知。",
+        "reservation": "这是生活与商业街区，不是整条街统一经营；各店品质、营业时间和费用不同。",
+        "route": "选一顿粉食或海鲜，再从糖水、炒冰中选一种加餐；只吃计划中的分量，避免整条街重复计餐。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "A living commercial neighbourhood with independently operated shops, not one managed restaurant. Quality, hours and charges differ by branch.",
+          "route": "Choose one noodle or seafood meal, then one dessert or shaved ice. Avoid charging every street stop as another full meal.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-1418220.jpg",
+        "url": "https://you.ctrip.com/sight/beihai140/1418220.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/1A0b1b000001bceim656F.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/beihai140/1418220.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "侨港风情街 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Qiaogang Food and Culture Street · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/beihai140/1418220.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 3.9/5，510 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 3.9/5 from 510 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-57712",
+      "canonicalPlaceId": "gx2-sight-57712",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "梧州",
+      "name": "中山公园-中山纪念堂",
+      "theme": "历史人文",
+      "location": "梧州市万秀区冰泉西路上级三里6号",
+      "description": "中山公园内近代纪念建筑与梧州历史展示。不要混同广州中山纪念堂；山顶建筑有上坡与台阶，展厅开放须先确认。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "梧州万秀区中山公园内，导航具体山脚入口后步行上坡；不承诺车辆可达门前。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/wuzhou142/57712.html",
+          "title": "携程：中山公园-中山纪念堂资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://www.minge.gov.cn/n1/2025/1205/c415172-40618417.html",
+          "title": "民革中央：梧州市中山纪念堂沿革与展示内容",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Sun Yat-sen Memorial Hall, Wuzhou",
+        "location": "Wuzhou, Guangxi · Chinese navigation address: 梧州市万秀区冰泉西路上级三里6号",
+        "description": "A modern memorial building and Wuzhou history displays in Zhongshan Park. Do not confuse this with Guangzhou’s memorial hall. The hilltop approach has slopes and steps; confirm exhibition access.",
+        "transport": "Inside Zhongshan Park, Wanxiu, Wuzhou. Navigate to a park entrance and expect an uphill walk; vehicle access to the door is unconfirmed.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 周二–周日 09:00-17:00开放（16:30停止入园）。非当日运营承诺，请查看临时通知。",
+        "reservation": "不要混同广州中山纪念堂；山顶建筑有上坡与台阶，展厅开放须先确认。",
+        "route": "先看梧州相关历史展示，再观察建筑外观；公园与纪念堂作为一项参观，不拆分计数。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "Do not confuse this with Guangzhou’s memorial hall. The hilltop approach has slopes and steps; confirm exhibition access.",
+          "route": "Read the Wuzhou-specific history, then study the building exterior. The park and hall form one visit and one counted attraction.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-57712.jpg",
+        "url": "https://you.ctrip.com/sight/wuzhou142/57712.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/100w1f000001gwajoDDDA.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/wuzhou142/57712.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "中山公园-中山纪念堂 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Sun Yat-sen Memorial Hall, Wuzhou · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-4693342",
+      "canonicalPlaceId": "gx2-sight-4693342",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "钦州",
+      "name": "钦州园博园",
+      "theme": "自然山水",
+      "location": "广西壮族自治区钦州市钦南区金海湾东大街",
+      "description": "依山就水的城市展园与陶文化主题景观。季节性活动、夜游与场馆不一定常态开放；公园步行和收费体验分别核对。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "位于钦州城市南部片区，核对园博园实际入口；不以相邻古陶城的营业时间替代公园时间。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/qinzhou697/4693342.html",
+          "title": "携程：钦州园博园资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Qinzhou Garden Expo Park",
+        "location": "Qinzhou, Guangxi · Chinese navigation address: 广西壮族自治区钦州市钦南区金海湾东大街",
+        "description": "Waterfront city gardens and ceramic-culture landscaping. Seasonal events, evening visits and indoor venues may not operate routinely. Check park access and paid experiences separately.",
+        "transport": "Check the actual Garden Expo Park entrance in southern Qinzhou. Nearby ceramic-centre hours do not establish park hours.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 08:00-21:00开放（20:00停止入园）。非当日运营承诺，请查看临时通知。",
+        "reservation": "季节性活动、夜游与场馆不一定常态开放；公园步行和收费体验分别核对。",
+        "route": "选湖边及一两个展园短线，累了原路返回；陶文化体验是否提供另查。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "Seasonal events, evening visits and indoor venues may not operate routinely. Check park access and paid experiences separately.",
+          "route": "Choose a lakeside section and one or two gardens, returning the same way if needed. Verify ceramic activities separately.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-4693342.jpg",
+        "url": "https://you.ctrip.com/sight/qinzhou697/4693342.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0103g120008qj2egfE175.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/qinzhou697/4693342.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "钦州园博园 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Qinzhou Garden Expo Park · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/qinzhou697/4693342.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 4.5/5，23 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 4.5/5 from 23 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-2680280",
+      "canonicalPlaceId": "gx2-sight-2680280",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "贵港",
+      "name": "东湖公园",
+      "theme": "自然山水",
+      "location": "港北区贵城街道古榕路208号",
+      "description": "城区东湖水面、园林与近代人物文化线索。作为市区短暂停留选项，不承诺每天都有表演或完整开放所有设施。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "贵港港北区古榕路208号附近，按导航确认当前入口。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/guigang711/2680280.html",
+          "title": "携程：东湖公园资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "East Lake Park, Guigang",
+        "location": "Guigang, Guangxi · Chinese navigation address: 港北区贵城街道古榕路208号",
+        "description": "Urban lake scenery, garden walks and local historical associations. An option for a short urban break; daily performances or full facility access are not promised.",
+        "transport": "Near 208 Gurong Road, Gangbei, Guigang; confirm the current entrance in your map app.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 全天开放、具体营业状态以当天开放情况为准。。非当日运营承诺，请查看临时通知。",
+        "reservation": "作为市区短暂停留选项，不承诺每天都有表演或完整开放所有设施。",
+        "route": "从可通行湖岸选短线，留意临水台阶；是否开放游船和展馆分别核对。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "An option for a short urban break; daily performances or full facility access are not promised.",
+          "route": "Choose a short accessible lakeside section and watch for waterside steps. Verify boats and exhibition access separately.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-2680280.jpg",
+        "url": "https://you.ctrip.com/sight/guigang711/2680280.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/01037120009ebgcw25061.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/guigang711/2680280.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "东湖公园 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "East Lake Park, Guigang · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/guigang711/2680280.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 4.4/5，9 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 4.4/5 from 9 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-1729239",
+      "canonicalPlaceId": "gx2-sight-1729239",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "百色",
+      "name": "渠洋湖",
+      "theme": "自然山水",
+      "location": "百色市靖西市渠洋镇会聚屯",
+      "description": "水库湖面、喀斯特山峰与沿岸村落。岸边观景、游船与骑行租赁分别计费；水位和风雨会影响体验，不能保证照片中的水色。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "从靖西市区前往渠洋镇会聚屯，确认回城交通；与鹅泉、通灵峡谷不必挤在同一天。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/jingxi967/1729239.html",
+          "title": "携程：渠洋湖资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Quyang Lake, Jingxi",
+        "location": "Baise, Guangxi · Chinese navigation address: 百色市靖西市渠洋镇会聚屯",
+        "description": "Reservoir scenery, karst peaks and shore villages. Shore viewing, boats and bicycle hire have separate charges. Water levels and weather affect visits; photo colours are not guaranteed.",
+        "transport": "Travel from Jingxi to Huiju, Quyang. Arrange return transport; do not force Equan and Tongling Gorge into the same day.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：每年1月1日-2月15日 08:00-18:00开放;每年2月24日-12月31日 08:00-18:00开放;每年2月16日 08:00-12:00开放（11:30停止售票，11:30停止入园）;每年2月17日-2月23日 09:00-17:00开放（16:30停止售票，16:30停止入园）、为保障游客体验，景区节假日延长营业时间，以现场公示为准。。非当日运营承诺，请查看临时通知。",
+        "reservation": "岸边观景、游船与骑行租赁分别计费；水位和风雨会影响体验，不能保证照片中的水色。",
+        "route": "先问清可进入的湖岸或码头，选择一段短线；不要未经许可进入水库管理区或私人田地。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "Shore viewing, boats and bicycle hire have separate charges. Water levels and weather affect visits; photo colours are not guaranteed.",
+          "route": "Confirm accessible shores or wharves, then choose a short section. Stay out of reservoir-management zones and private farmland.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-1729239.jpg",
+        "url": "https://you.ctrip.com/sight/jingxi967/1729239.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0100512000j20uip29ACF.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/jingxi967/1729239.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "渠洋湖 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Quyang Lake, Jingxi · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/jingxi967/1729239.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 4.3/5，171 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 4.3/5 from 171 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-142564",
+      "canonicalPlaceId": "gx2-sight-142564",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "百色",
+      "name": "红叶森林公园",
+      "theme": "自然山水",
+      "location": "百色市德保县城关镇S210",
+      "description": "红枫林、红枫湖与山地季节景观。红叶期每年受温度和降雨影响；出发前索取近期现场信息，不把往年红叶图当今年花期。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "位于德保县城东北方向，县城至公园之间的车辆、入口和回程先确认。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/debao3061/142564.html",
+          "title": "携程：红叶森林公园资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Debao Red Leaf Forest Park",
+        "location": "Baise, Guangxi · Chinese navigation address: 百色市德保县城关镇S210",
+        "description": "Maple woods, Hongfeng Lake and seasonal mountain scenery. Autumn colour depends on temperature and rain. Check recent site updates rather than assuming last year’s photos show this year’s conditions.",
+        "transport": "Northeast of Debao town. Confirm transport, the entrance and return arrangements from town.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：每年1月1日-2月14日 09:00-17:00开放;每年2月17日-12月31日 09:00-17:00开放;每年2月15日-2月16日 不开放。非当日运营承诺，请查看临时通知。",
+        "reservation": "红叶期每年受温度和降雨影响；出发前索取近期现场信息，不把往年红叶图当今年花期。",
+        "route": "按近期红叶分布选择湖边或林间短线，天色转暗前返回；具体开放区和交通另核实。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "Autumn colour depends on temperature and rain. Check recent site updates rather than assuming last year’s photos show this year’s conditions.",
+          "route": "Choose a short lakeside or woodland section based on recent colour reports and return before dark. Confirm open areas and transport.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-142564.jpg",
+        "url": "https://you.ctrip.com/sight/debao3061/142564.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/350u0z000000nmj876331.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/debao3061/142564.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "红叶森林公园 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Debao Red Leaf Forest Park · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/debao3061/142564.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 4.1/5，105 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 4.1/5 from 105 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-22163",
+      "canonicalPlaceId": "gx2-sight-22163",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "贺州",
+      "name": "贺州客家围屋",
+      "theme": "古村古建",
+      "location": "贺州市八步区莲塘镇仁冲村客家围屋景区",
+      "description": "晚清客家合院、厅堂与天井格局。建筑保护和生活空间可能限制进入，先确认可参观部分；未经许可不进入住户房间。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "从贺州市区到莲塘镇仁冲村片区，核对“客家围屋”具体入口和返程。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/hezhou707/22163.html",
+          "title": "携程：贺州客家围屋资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Hezhou Hakka Walled Houses",
+        "location": "Hezhou, Guangxi · Chinese navigation address: 贺州市八步区莲塘镇仁冲村客家围屋景区",
+        "description": "Late-Qing Hakka courtyards, halls and light wells. Conservation and residential use can restrict entry. Confirm open sections and do not enter homes without permission.",
+        "transport": "Connect from Hezhou to the Renchong Village area of Liantang and confirm the Hakka-house entrance and return transport.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 08:00-18:00开放。非当日运营承诺，请查看临时通知。",
+        "reservation": "建筑保护和生活空间可能限制进入，先确认可参观部分；未经许可不进入住户房间。",
+        "route": "沿开放中轴线看厅堂与天井，木构和老地面避免倚靠攀爬；不以规模宣传代替开放范围。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "Conservation and residential use can restrict entry. Confirm open sections and do not enter homes without permission.",
+          "route": "Follow the open central axis through halls and courtyards. Do not climb or lean on historic structures; advertised size does not establish access.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-22163.jpg",
+        "url": "https://you.ctrip.com/sight/hezhou707/22163.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0105f12000f6sdg1yAE0F.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/hezhou707/22163.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "贺州客家围屋 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Hezhou Hakka Walled Houses · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/hezhou707/22163.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 3.8/5，136 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 3.8/5 from 136 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-131888",
+      "canonicalPlaceId": "gx2-sight-131888",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "河池",
+      "name": "三门海",
+      "theme": "自然山水",
+      "location": "广西壮族自治区河池市凤山县志成路29号",
+      "description": "暗河、岩溶天窗与乘船观景。主要体验依赖游船，船票不能与普通入园混为一项；水位、停航、候船时间与救生装备先确认。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "位于凤山县袍里乡坡心村片区；从凤山县城或巴马出发先核对道路与返程，非城市公交短线。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/fengshan2022/131888.html",
+          "title": "携程：三门海资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Sanmenhai Karst Windows, Fengshan",
+        "location": "Hechi, Guangxi · Chinese navigation address: 广西壮族自治区河池市凤山县志成路29号",
+        "description": "An underground river, karst skylights and boat-based views. The main experience relies on boats. Boat tickets are not interchangeable with general entry; confirm water levels, suspensions, queues and lifejackets.",
+        "transport": "In the Poxin Village area of Paoli, Fengshan. Check roads and return travel from Fengshan or Bama; this is not a short city-bus outing.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 08:30-17:30开放（17:00停止入园）。非当日运营承诺，请查看临时通知。",
+        "reservation": "主要体验依赖游船，船票不能与普通入园混为一项；水位、停航、候船时间与救生装备先确认。",
+        "route": "到游客中心确认当日可游水段，再按运营方安排乘船；不擅自下水或进入未开放洞道。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "The main experience relies on boats. Boat tickets are not interchangeable with general entry; confirm water levels, suspensions, queues and lifejackets.",
+          "route": "Confirm operating water sections at the visitor centre, then follow the operator’s boat route. Do not swim or enter closed cave passages.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-131888.jpg",
+        "url": "https://you.ctrip.com/sight/fengshan2022/131888.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0104m12000l7ambjo4C3E.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/fengshan2022/131888.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "三门海 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Sanmenhai Karst Windows, Fengshan · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/fengshan2022/131888.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 4.5/5，901 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 4.5/5 from 901 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-3895692",
+      "canonicalPlaceId": "gx2-sight-3895692",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "来宾",
+      "name": "来宾市博物馆",
+      "theme": "历史人文",
+      "location": "广西壮族自治区来宾市兴宾区翠屏路东1号",
+      "description": "来宾地方历史、考古与民族文化展览。临展、讲解与闭馆日须向场馆核实；没有取得现行免费政策证明前，门票仍标待核实。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "来宾兴宾区翠屏路东1号，导航博物馆入口；请勿与金秀瑶族博物馆混淆。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/laibin839/3895692.html",
+          "title": "携程：来宾市博物馆资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Laibin Museum",
+        "location": "Laibin, Guangxi · Chinese navigation address: 广西壮族自治区来宾市兴宾区翠屏路东1号",
+        "description": "Laibin local history, archaeology and cultural exhibitions. Confirm temporary exhibitions, guiding and closure days. Admission remains unconfirmed until a current official policy is established.",
+        "transport": "1 East Cuiping Road, Xingbin, Laibin. Use the museum entrance and do not confuse it with the Yao Museum in Jinxiu.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 周二–周日 09:00-17:00开放（16:30停止入园）、星期一闭馆休整（国家法定节假日除外），具体营业状态以当天开放情况为准。。非当日运营承诺，请查看临时通知。",
+        "reservation": "临展、讲解与闭馆日须向场馆核实；没有取得现行免费政策证明前，门票仍标待核实。",
+        "route": "先选地方历史基本陈列，再按兴趣看临展；不承诺所有藏品均在展。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "Confirm temporary exhibitions, guiding and closure days. Admission remains unconfirmed until a current official policy is established.",
+          "route": "Start with permanent local-history displays, then select temporary exhibitions. Not all collection items are assumed to be on display.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-3895692.jpg",
+        "url": "https://you.ctrip.com/sight/laibin839/3895692.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0101p12000a0581mmFD6F.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/laibin839/3895692.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "来宾市博物馆 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Laibin Museum · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/laibin839/3895692.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 4/5，6 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 4/5 from 6 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-140742",
+      "canonicalPlaceId": "gx2-sight-140742",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "崇左",
+      "name": "龙宫仙境旅游区",
+      "theme": "自然山水",
+      "location": "崇左市大新县那岭乡那岭村",
+      "description": "壮王洞钟乳石与大型溶洞空间。冰雪项目、洞内观景与交通体验可能不同票种；洞内外温差、湿滑台阶和设备维护须考虑。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "大新县那岭乡那义村片区，提前安排从县城或德天线路返回住宿的车辆。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/daxin963/140742.html",
+          "title": "携程：龙宫仙境旅游区资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Dragon Palace Cave, Daxin",
+        "location": "Chongzuo, Guangxi · Chinese navigation address: 崇左市大新县那岭乡那岭村",
+        "description": "Stalactites and large chambers in Zhuangwang Cave. Ice attractions, cave viewing and transport may have different ticket packages. Consider temperature changes, damp steps and equipment maintenance.",
+        "transport": "In the Nayi Village area of Naling, Daxin. Arrange return transport from town or a Detian itinerary.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 08:30-17:00开放。非当日运营承诺，请查看临时通知。",
+        "reservation": "冰雪项目、洞内观景与交通体验可能不同票种；洞内外温差、湿滑台阶和设备维护须考虑。",
+        "route": "优先按开放步道看天然岩溶景观；冰雪和游乐项目按兴趣另选，先问清费用。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "Ice attractions, cave viewing and transport may have different ticket packages. Consider temperature changes, damp steps and equipment maintenance.",
+          "route": "Prioritize natural cave formations on open paths. Select ice and leisure attractions separately and confirm costs first.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-140742.jpg",
+        "url": "https://you.ctrip.com/sight/daxin963/140742.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/3507190000017krw51CB4.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/daxin963/140742.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "龙宫仙境旅游区 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Dragon Palace Cave, Daxin · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/daxin963/140742.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 4.2/5，340 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 4.2/5 from 340 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
+    },
+    {
+      "id": "gx2-sight-21922",
+      "canonicalPlaceId": "gx2-sight-21922",
+      "entryType": "attraction",
+      "region": "广西",
+      "regionFull": "广西壮族自治区",
+      "area": "华南",
+      "city": "崇左",
+      "name": "石景林景区",
+      "theme": "自然山水",
+      "location": "崇左市江州区石景林路(市政府广场斜对面)",
+      "description": "城区喀斯特石林与岩石形态。园内维护与雨后积水影响步行，先确认开放步道；不要离开标识路线攀岩。",
+      "food": "优先查看本市当地特色门店；候选店的参考价格、样本量和具体地址分别标示。",
+      "season": "全年",
+      "transport": "崇左江州区石景林路、市政府广场附近，按公示入口进入。",
+      "days": 1,
+      "tier": "景点资料",
+      "lowCrowd": false,
+      "mobility": "未核实",
+      "updated": "2026-10-17",
+      "researchBatch": 2,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongzuo837/21922.html",
+          "title": "携程：石景林景区资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "本轮未取得足以确认现行常规门票或免费范围的官方票务依据；游客价格、平台起价及附加体验不作已核实门票。",
+        "noteEn": "Current regular admission or free-entry coverage is not confirmed by sufficient official ticket evidence. Visitor prices, platform starting prices and optional activities are not treated as verified admission."
+      },
+      "en": {
+        "name": "Shijinglin Stone Forest, Chongzuo",
+        "location": "Chongzuo, Guangxi · Chinese navigation address: 崇左市江州区石景林路(市政府广场斜对面)",
+        "description": "Urban karst stone forest and sculpted limestone forms. Maintenance and standing water after rain can affect walking. Check open paths and do not climb off marked routes.",
+        "transport": "Near the municipal square on Shijinglin Road, Jiangzhou, Chongzuo. Use the announced entrance.",
+        "food": "Look for this city’s local-specialty branches. Reference prices, review sample sizes and individual addresses are labeled separately."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "门票待核实；门票、乘船、场内交通与附加体验分别确认。",
+        "opening": "平台列示：全年 08:00-18:00开放（18:00停止入园）。非当日运营承诺，请查看临时通知。",
+        "reservation": "园内维护与雨后积水影响步行，先确认开放步道；不要离开标识路线攀岩。",
+        "route": "沿开放主线近看岩石形态，雨后选短线，不强求走遍所有岔道。",
+        "accessibility": "连续无障碍路线、台阶、轮椅使用及卫生间尚未完整核实；行动不便者先联系场馆。",
+        "en": {
+          "admission": "Admission unconfirmed. Check entry, boats, internal transport and optional activities separately.",
+          "opening": "Current operating and closure rules require confirmation with the venue. The linked source has a Chinese reference timetable, which is not a guarantee of today’s operation.",
+          "reservation": "Maintenance and standing water after rain can affect walking. Check open paths and do not climb off marked routes.",
+          "route": "Follow the open main path to study rock forms. Choose a shorter walk after rain instead of exploring every branch.",
+          "accessibility": "Continuous step-free routes, stairs, wheelchair suitability and toilets are not fully verified. Contact the venue for your group’s requirements."
+        }
+      },
+      "image": {
+        "path": "assets/gx2-sight-21922.jpg",
+        "url": "https://you.ctrip.com/sight/chongzuo837/21922.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0100d12000madz5cwB220.jpg",
+        "author": "原页面未明确署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongzuo837/21922.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "石景林景区 · 来源页参考实景，可能为入口或局部，拍摄日期未明确",
+        "modified": "网页缩放与展示裁切，未改变场景",
+        "en": {
+          "caption": "Shijinglin Stone Forest, Chongzuo · source-page reference photo; may show an entrance or part of the site; capture date unspecified",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongzuo837/21922.html",
+        "checked": "2026-10-17",
+        "positive": "平台汇总 3.8/5，154 条评价，属于查阅快照，不代表本站实地体验。",
+        "negative": "尚未完成正负评价的系统抽样；平台评分不证明真实到访，临时开放和服务请另核实。",
+        "ticket": "现行门票待核实；不采用网友报价作为已核实价格。",
+        "en": {
+          "positive": "Platform aggregate 3.8/5 from 154 reviews at checking time, not a first-hand visit by this site.",
+          "negative": "Positive and negative reviews have not been systematically sampled. Ratings do not prove actual visits; confirm current access and service separately.",
+          "ticket": "Current admission unconfirmed; visitor prices are not verified tariffs."
+        }
+      }
     }
   ],
   "foods": [
@@ -46548,8 +48072,10 @@
         "price": "Platform reference CNY 84 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "This specific MixC branch serves sour-bamboo-shoot flavours. Ask about spice and allergens, and check queues. Review authenticity has not been independently verified."
-      }
+        "caution": "This specific MixC branch serves sour-bamboo-shoot flavours. Ask about spice and allergens, and check queues. Review authenticity has not been independently verified.",
+        "localSpecialty": "Guangxi laoyou-style dishes"
+      },
+      "localSpecialty": "广西老友风味菜"
     },
     {
       "id": "food-gx-  4",
@@ -46596,8 +48122,10 @@
         "price": "Platform reference CNY 61 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "A local main-meal option: order for your group and confirm whether pork offal suits everyone. Review authenticity has not been independently verified."
-      }
+        "caution": "A local main-meal option: order for your group and confirm whether pork offal suits everyone. Review authenticity has not been independently verified.",
+        "localSpecialty": "Nanning home-style cooking"
+      },
+      "localSpecialty": "南宁家常菜"
     },
     {
       "id": "food-gx-  5",
@@ -46644,8 +48172,10 @@
         "price": "Platform reference CNY 15 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "Laoyou noodles can be sour and spicy. Specify spice levels; extras change the price of a bowl. Review authenticity has not been independently verified."
-      }
+        "caution": "Laoyou noodles can be sour and spicy. Specify spice levels; extras change the price of a bowl. Review authenticity has not been independently verified.",
+        "localSpecialty": "Nanning laoyou rice noodles"
+      },
+      "localSpecialty": "南宁老友粉"
     },
     {
       "id": "food-gx-  6",
@@ -46788,8 +48318,10 @@
         "price": "Platform reference CNY 75 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "In Yangshuo at West Street: agree fish species, weight, unit price and cooking charges. Choose one beer-fish restaurant. Review authenticity has not been independently verified."
-      }
+        "caution": "In Yangshuo at West Street: agree fish species, weight, unit price and cooking charges. Choose one beer-fish restaurant. Review authenticity has not been independently verified.",
+        "localSpecialty": "Yangshuo beer fish"
+      },
+      "localSpecialty": "阳朔啤酒鱼"
     },
     {
       "id": "food-gx-  9",
@@ -46884,8 +48416,10 @@
         "price": "Platform reference CNY 74 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "A Guilin city meal option: order for your group and check fish and side-dish charges separately. Review authenticity has not been independently verified."
-      }
+        "caution": "A Guilin city meal option: order for your group and check fish and side-dish charges separately. Review authenticity has not been independently verified.",
+        "localSpecialty": "Guilin regional cooking"
+      },
+      "localSpecialty": "桂林地方菜"
     },
     {
       "id": "food-gx- 11",
@@ -46932,8 +48466,10 @@
         "price": "Platform reference CNY 61 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "In Yangshuo; use the source branch address and agree fish species and pricing units before ordering. Review authenticity has not been independently verified."
-      }
+        "caution": "In Yangshuo; use the source branch address and agree fish species and pricing units before ordering. Review authenticity has not been independently verified.",
+        "localSpecialty": "Yangshuo beer fish"
+      },
+      "localSpecialty": "阳朔啤酒鱼"
     },
     {
       "id": "food-gx- 12",
@@ -46980,8 +48516,10 @@
         "price": "Platform reference CNY 73 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "In Gaotian, Yangshuo. Pair with a Yulong River day and confirm restaurant operation and return transport. Review authenticity has not been independently verified."
-      }
+        "caution": "In Gaotian, Yangshuo. Pair with a Yulong River day and confirm restaurant operation and return transport. Review authenticity has not been independently verified.",
+        "localSpecialty": "Yangshuo farmhouse cooking"
+      },
+      "localSpecialty": "阳朔农家菜"
     },
     {
       "id": "food-gx- 13",
@@ -47028,8 +48566,10 @@
         "price": "Platform reference CNY 19 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "Luosifen may contain snail meat and peanuts. Extras and fried eggs cost separately; check allergens. Review authenticity has not been independently verified."
-      }
+        "caution": "Luosifen may contain snail meat and peanuts. Extras and fried eggs cost separately; check allergens. Review authenticity has not been independently verified.",
+        "localSpecialty": "Liuzhou luosifen"
+      },
+      "localSpecialty": "柳州螺蛳粉"
     },
     {
       "id": "food-gx- 14",
@@ -47220,8 +48760,10 @@
         "price": "Platform reference CNY 83 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "This Qiaogang branch: check queues and confirm seafood unit prices and preparation. Review authenticity has not been independently verified."
-      }
+        "caution": "This Qiaogang branch: check queues and confirm seafood unit prices and preparation. Review authenticity has not been independently verified.",
+        "localSpecialty": "Qiaogang seafood"
+      },
+      "localSpecialty": "侨港海鲜"
     },
     {
       "id": "food-gx- 18",
@@ -47316,8 +48858,10 @@
         "price": "Platform reference CNY 11 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "Buns suit breakfast or a snack. The average is not the price of one bun; check opening and sold-out items. Review authenticity has not been independently verified."
-      }
+        "caution": "Buns suit breakfast or a snack. The average is not the price of one bun; check opening and sold-out items. Review authenticity has not been independently verified.",
+        "localSpecialty": "Qiaogang char-siu buns"
+      },
+      "localSpecialty": "侨港叉烧包"
     },
     {
       "id": "food-gx- 20",
@@ -47412,8 +48956,10 @@
         "price": "Platform reference CNY 46 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "Share whole dishes such as paper-wrapped chicken. Check half, whole and package pricing separately from the average. Review authenticity has not been independently verified."
-      }
+        "caution": "Share whole dishes such as paper-wrapped chicken. Check half, whole and package pricing separately from the average. Review authenticity has not been independently verified.",
+        "localSpecialty": "Wuzhou paper-wrapped chicken"
+      },
+      "localSpecialty": "梧州纸包鸡"
     },
     {
       "id": "food-gx- 22",
@@ -47556,8 +49102,10 @@
         "price": "Platform reference CNY 23 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "This Jiaoyu Road branch in Dongxing serves chicken noodles and Vietnamese-style snacks. Plan Qisha seafood separately. Review authenticity has not been independently verified."
-      }
+        "caution": "This Jiaoyu Road branch in Dongxing serves chicken noodles and Vietnamese-style snacks. Plan Qisha seafood separately. Review authenticity has not been independently verified.",
+        "localSpecialty": "Dongxing Vietnamese-style chicken noodles"
+      },
+      "localSpecialty": "东兴越式鸡粉"
     },
     {
       "id": "food-gx- 25",
@@ -47652,8 +49200,10 @@
         "price": "Platform reference CNY 15 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "This Yiren Road branch: rice-noodle types and extras have different prices. Start with one bowl. Review authenticity has not been independently verified."
-      }
+        "caution": "This Yiren Road branch: rice-noodle types and extras have different prices. Start with one bowl. Review authenticity has not been independently verified.",
+        "localSpecialty": "Guilin rice noodles"
+      },
+      "localSpecialty": "桂林米粉"
     },
     {
       "id": "food-gx- 27",
@@ -47700,7 +49250,1450 @@
         "price": "Platform reference CNY 14 / person",
         "basis": "Public platform average; aggregation date unspecified. Not a current menu quote. Adjust the dining list; seafood weight and preparation may cost extra.",
         "good": "Specific branch, address and platform ratings checked. Independent visit accounts with identified authors and dates have not been fully verified.",
-        "caution": "The Zhongshan Road branch offers rice dumplings and noodles. The source address is broad; confirm current navigation and opening. Review authenticity has not been independently verified."
+        "caution": "The Zhongshan Road branch offers rice dumplings and noodles. The source address is broad; confirm current navigation and opening. Review authenticity has not been independently verified.",
+        "localSpecialty": "Nanning rice dumplings"
+      },
+      "localSpecialty": "南宁粉饺"
+    },
+    {
+      "id": "food-gx2-001",
+      "region": "广西",
+      "city": "南宁",
+      "place": "南宁",
+      "name": "老甘粉饺",
+      "address": "南宁 · 水街2号",
+      "dishes": "香菇马蹄猪肉饺、芋头糕、老友猪肉炒粉虫",
+      "localSpecialty": "粉饺、芋头糕与炒粉虫",
+      "price": "平台参考 CNY 15 / 人",
+      "priceCNY": {
+        "low": 15,
+        "high": 15,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "历史公开评价 YoYo_4H6X4Y0P（2024-11-03）：历史样本反映服务和账单沟通不佳；同页也有正面口味评价，体验存在分歧。 真实到访未独立核验。",
+      "caution": "可选粉饺作一餐，粉虫是米制小吃；公开样本对服务评价有分歧，点单后核对金额。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/5450454.html",
+      "checked": "2026-10-17",
+      "area": "水街2号",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.4,
+        "scale": 5,
+        "count": 88,
+        "url": "https://you.ctrip.com/food/0/5450454.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/5450454.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/5450454/12/196741063.html",
+          "title": "带作者与日期的历史公开体验样本",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Lao Gan Rice Dumplings",
+        "address": "Nanning · Chinese navigation address: 水街2号",
+        "dishes": "Pork dumplings with mushroom and water chestnut; taro cake; laoyou-style rice-flour worms",
+        "localSpecialty": "Rice dumplings, taro cake and fried rice-flour worms",
+        "price": "Platform reference CNY 15 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Historical public review by YoYo_4H6X4Y0P (2024-11-03): A historical account reported poor service and billing communication. Other visible reviews praise the food; experiences differ. Actual attendance has not been independently verified.",
+        "caution": "Rice-flour “worms” are shaped noodles. Visible reviews differ about service; check the bill after ordering. Platform ratings do not prove an actual visit."
+      },
+      "reviewSample": {
+        "author": "YoYo_4H6X4Y0P",
+        "date": "2024-11-03",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/5450454/12/196741063.html",
+        "summary": "历史样本反映服务和账单沟通不佳；同页也有正面口味评价，体验存在分歧。",
+        "summaryEn": "A historical account reported poor service and billing communication. Other visible reviews praise the food; experiences differ."
+      }
+    },
+    {
+      "id": "food-gx2-002",
+      "region": "广西",
+      "city": "南宁",
+      "place": "南宁",
+      "name": "古记老牌卷筒粉(建政路南四里店)",
+      "address": "南宁 · 建政路南二里41号一楼",
+      "dishes": "豆角肉卷筒粉、玉米肉杂卷粉、黄皮酱",
+      "localSpecialty": "卷筒粉与黄皮酱",
+      "price": "平台参考 CNY 7 / 人",
+      "priceCNY": {
+        "low": 7,
+        "high": 7,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "店名写南四里，资料地址为南二里41号；按地址定位并核对夜间营业，黄皮酱和辣椒可先少放。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/5450136.html",
+      "checked": "2026-10-17",
+      "area": "建政路南二里41号一楼",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.4,
+        "scale": 5,
+        "count": 11,
+        "url": "https://you.ctrip.com/food/0/5450136.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/5450136.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        },
+        {
+          "platform": "去哪儿",
+          "url": "https://touch.go.qunar.com/poi/11688661",
+          "checked": "2026-10-17",
+          "title": "同名分店地址与卷筒粉资料；平台间可能转载相同评价，非独立到访证明"
+        }
+      ],
+      "en": {
+        "name": "Gu Ji Rice Rolls · Jianzheng Road Nansili",
+        "address": "Nanning · Chinese navigation address: 建政路南二里41号一楼",
+        "dishes": "Rice rolls with beans and pork; corn and pork rolls; wampee sauce",
+        "localSpecialty": "Rolled rice sheets with wampee sauce",
+        "price": "Platform reference CNY 7 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "The branch name says Nansili, but its listed address is 41 Nan’erli. Navigate by address, confirm evening hours and start with a little sauce and chilli. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-003",
+      "region": "广西",
+      "city": "南宁",
+      "place": "南宁",
+      "name": "甘家界柠檬鸭(埌东店)",
+      "address": "南宁 · 仙葫大道西段16号鼎丰国际美食广场(琅东客运站后往仙葫大道方向500米)",
+      "dishes": "甘家界柠檬鸭（土鸭）小份、巴马火麻黑豆腐、百香果排骨",
+      "localSpecialty": "柠檬鸭与桂菜",
+      "price": "平台参考 CNY 74 / 人",
+      "priceCNY": {
+        "low": 74,
+        "high": 74,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "在仙葫大道的具体分店，并非青山店；柠檬鸭酸香偏重，按人数选小份或大份，核对锅底与配菜。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/8607781.html",
+      "checked": "2026-10-17",
+      "area": "仙葫大道西段16号鼎丰国际美食广场(琅东客运站后往仙葫大道方向500米)",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "scale": 5,
+        "count": 46,
+        "url": "https://you.ctrip.com/food/0/8607781.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/8607781.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Ganjiajie Lemon Duck · Langdong",
+        "address": "Nanning · Chinese navigation address: 仙葫大道西段16号鼎丰国际美食广场(琅东客运站后往仙葫大道方向500米)",
+        "dishes": "Small portion of lemon duck; Bama hemp-seed black tofu; passion-fruit ribs",
+        "localSpecialty": "Preserved-lemon duck and Guangxi cooking",
+        "price": "Platform reference CNY 74 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "This Xianhu Avenue branch is separate from Qingshan. Lemon duck has strong sour flavours; choose portion size for your group and check extras. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-004",
+      "region": "广西",
+      "city": "柳州",
+      "place": "柳州",
+      "name": "西环肥仔螺蛳粉(总店)",
+      "address": "柳州 · 鹅山9区16栋2号",
+      "dishes": "原味螺蛳粉、肥仔螺、鸭脚",
+      "localSpecialty": "螺蛳粉与鸭脚",
+      "price": "平台参考 CNY 21 / 人",
+      "priceCNY": {
+        "low": 21,
+        "high": 21,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "历史公开评价 山在穷游（2023-04-23）：提到喜欢螺蛳粉口味，同时认为排队长、服务体验一般；不据此推算当前等候时间。 真实到访未独立核验。",
+      "caution": "辣度、酸笋和加料先说明；历史样本提到排队与服务问题，不能仅因总店名气忽略等候。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/127671.html",
+      "checked": "2026-10-17",
+      "area": "鹅山9区16栋2号",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.3,
+        "scale": 5,
+        "count": 285,
+        "url": "https://you.ctrip.com/food/0/127671.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/127671.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/127671/12/175599793.html",
+          "title": "带作者与日期的历史公开体验样本",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Xihuan Feizai Luosifen · Main Branch",
+        "address": "Liuzhou · Chinese navigation address: 鹅山9区16栋2号",
+        "dishes": "Original luosifen; prepared river snails; duck feet",
+        "localSpecialty": "Luosifen and braised duck feet",
+        "price": "Platform reference CNY 21 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Historical public review by 山在穷游 (2023-04-23): Enjoyed the noodles but described a long queue and modest service. This does not establish today’s waiting time. Actual attendance has not been independently verified.",
+        "caution": "Specify spice, sour bamboo shoots and extras. Historical reviews mention queues and service concerns; a famous branch still needs planning. Platform ratings do not prove an actual visit."
+      },
+      "reviewSample": {
+        "author": "山在穷游",
+        "date": "2023-04-23",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/127671/12/175599793.html",
+        "summary": "提到喜欢螺蛳粉口味，同时认为排队长、服务体验一般；不据此推算当前等候时间。",
+        "summaryEn": "Enjoyed the noodles but described a long queue and modest service. This does not establish today’s waiting time."
+      }
+    },
+    {
+      "id": "food-gx2-005",
+      "region": "广西",
+      "city": "柳州",
+      "place": "柳州",
+      "name": "螺小丰柳州螺蛳粉(鱼峰店)",
+      "address": "柳州 · 天马街道柳石路26号1层(工人医院斜对面)",
+      "dishes": "原汤螺蛳粉、煎蛋、鸭脚",
+      "localSpecialty": "柳州汤螺蛳粉",
+      "price": "平台参考 CNY 10 / 人",
+      "priceCNY": {
+        "low": 10,
+        "high": 10,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "对应柳石路鱼峰分店；加蛋和鸭脚另计，不能把平台人均视作所有配菜全包。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/16164802.html",
+      "checked": "2026-10-17",
+      "area": "天马街道柳石路26号1层(工人医院斜对面)",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "scale": 5,
+        "count": 97,
+        "url": "https://you.ctrip.com/food/0/16164802.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/16164802.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Luo Xiaofeng Luosifen · Yufeng",
+        "address": "Liuzhou · Chinese navigation address: 天马街道柳石路26号1层(工人医院斜对面)",
+        "dishes": "Original-broth luosifen; fried egg; duck feet",
+        "localSpecialty": "Liuzhou soup-style luosifen",
+        "price": "Platform reference CNY 10 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "This is the Liushi Road Yufeng branch. Egg and duck feet cost extra; the average is not an all-inclusive bowl. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-006",
+      "region": "广西",
+      "city": "桂林",
+      "place": "桂林",
+      "name": "蜂子油茶(桂林两江四湖象鼻山店)",
+      "address": "桂林 · 象鼻山两江四湖景区桃园大厦3-5号",
+      "dishes": "蜂子油茶、蜂子醋血鸭、雪山飞狐香芋煲",
+      "localSpecialty": "油茶、醋血鸭与芋头菜",
+      "price": "平台参考 CNY 42 / 人",
+      "priceCNY": {
+        "low": 42,
+        "high": 42,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "油茶带茶叶和姜的味道，醋血鸭含鸭血；第一次尝试先点小份，核对油茶及配料收费。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/144563394.html",
+      "checked": "2026-10-17",
+      "area": "象鼻山两江四湖景区桃园大厦3-5号",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.4,
+        "scale": 5,
+        "count": 10,
+        "url": "https://you.ctrip.com/food/0/144563394.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/144563394.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Fengzi Oil Tea · Guilin Xiangbishan",
+        "address": "Guilin · Chinese navigation address: 象鼻山两江四湖景区桃园大厦3-5号",
+        "dishes": "House oil tea; vinegar-blood duck; taro casserole",
+        "localSpecialty": "Oil tea, vinegar-blood duck and taro dishes",
+        "price": "Platform reference CNY 42 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "Oil tea has tea and ginger flavours; vinegar-blood duck contains duck blood. Start with small portions and check oil-tea accompaniments. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-007",
+      "region": "广西",
+      "city": "梧州",
+      "place": "梧州",
+      "name": "冰泉豆浆馆(潘塘店)",
+      "address": "梧州 · 工厂二路南三巷4号",
+      "dishes": "冰泉豆浆、广式鲜肉肠粉、广式靓油条",
+      "localSpecialty": "滴珠豆浆与梧州点心",
+      "price": "平台参考 CNY 14 / 人",
+      "priceCNY": {
+        "low": 14,
+        "high": 14,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "本条只对应潘塘店，不沿用白云山总店评价；含大豆，甜度和点心份量现场确认。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/13584695.html",
+      "checked": "2026-10-17",
+      "area": "工厂二路南三巷4号",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.3,
+        "scale": 5,
+        "count": 11,
+        "url": "https://you.ctrip.com/food/0/13584695.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/13584695.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Bingquan Soy Milk · Pantang",
+        "address": "Wuzhou · Chinese navigation address: 工厂二路南三巷4号",
+        "dishes": "Bingquan soy milk; pork rice rolls; fried dough sticks",
+        "localSpecialty": "Concentrated soy milk and Wuzhou breakfast snacks",
+        "price": "Platform reference CNY 14 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "Only the Pantang branch is covered; Baiyunshan reviews do not apply. Contains soy; confirm sweetness and snack portions. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-008",
+      "region": "广西",
+      "city": "北海",
+      "place": "北海",
+      "name": "有间冰室",
+      "address": "北海 · 侨南路21号(小港北二路12号)",
+      "dishes": "椰芒炒冰、黄皮果汁、清补凉",
+      "localSpecialty": "侨港炒冰与黄皮果饮",
+      "price": "平台参考 CNY 17 / 人",
+      "priceCNY": {
+        "low": 17,
+        "high": 17,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "侨南路具体店，炒冰与海鲜为不同消费；糖度、含乳配料和等候时间先问，一份可按食量分享。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/4926773.html",
+      "checked": "2026-10-17",
+      "area": "侨南路21号(小港北二路12号)",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.2,
+        "scale": 5,
+        "count": 56,
+        "url": "https://you.ctrip.com/food/0/4926773.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/4926773.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "You Jian Ice Shop · Qiaogang",
+        "address": "Beihai · Chinese navigation address: 侨南路21号(小港北二路12号)",
+        "dishes": "Coconut-mango stir-frozen ice; wampee juice; mixed sweet dessert soup",
+        "localSpecialty": "Qiaogang stir-frozen fruit ice and wampee drinks",
+        "price": "Platform reference CNY 17 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "The Qiaonan Road shop serves desserts and seafood separately. Ask about sweetness, milk ingredients and waits; share a portion if suitable. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-009",
+      "region": "广西",
+      "city": "崇左",
+      "place": "崇左",
+      "name": "春田越南菜馆",
+      "address": "崇左 · 广西壮族自治区崇左市凭祥市南大路4号",
+      "dishes": "越南特色鸡肉粉、越式春卷、越南酸汤",
+      "localSpecialty": "凭祥越式鸡肉粉与春卷",
+      "price": "平台参考 CNY 64 / 人",
+      "priceCNY": {
+        "low": 64,
+        "high": 64,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "位于凭祥南大路，不在崇左市区；汤粉与多人正餐分别预算，酸汤、鱼露及香草口味先确认。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/8309067.html",
+      "checked": "2026-10-17",
+      "area": "广西壮族自治区崇左市凭祥市南大路4号",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "scale": 5,
+        "count": 15,
+        "url": "https://you.ctrip.com/food/0/8309067.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/8309067.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Chuntian Vietnamese Restaurant · Pingxiang",
+        "address": "Chongzuo · Chinese navigation address: 广西壮族自治区崇左市凭祥市南大路4号",
+        "dishes": "Vietnamese-style chicken noodles; spring rolls; sour soup",
+        "localSpecialty": "Pingxiang Vietnamese-style chicken noodles and spring rolls",
+        "price": "Platform reference CNY 64 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "On Nanda Road in Pingxiang, separate from Chongzuo city. Budget noodle meals and shared meals separately; check sour soup, fish sauce and herbs. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-010",
+      "region": "广西",
+      "city": "百色",
+      "place": "百色",
+      "name": "黄氏烧鸭粉(城东店)",
+      "address": "百色 · 城东大道15号",
+      "dishes": "黄氏烧鸭粉、招牌特选烧鸭粉、特选烧鸭饭",
+      "localSpecialty": "百色烧鸭粉",
+      "price": "平台参考 CNY 10 / 人",
+      "priceCNY": {
+        "low": 10,
+        "high": 10,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "只对应城东大道店；烧鸭分量、加料和粉饭单价分别核对，不套用总店评价。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/16264360.html",
+      "checked": "2026-10-17",
+      "area": "城东大道15号",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 16,
+        "url": "https://you.ctrip.com/food/0/16264360.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/16264360.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Huang Shi Roast-Duck Noodles · Chengdong",
+        "address": "Baise · Chinese navigation address: 城东大道15号",
+        "dishes": "Roast-duck rice noodles; selected roast-duck noodles; roast-duck rice",
+        "localSpecialty": "Baise roast-duck rice noodles",
+        "price": "Platform reference CNY 10 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "Only the Chengdong Avenue branch. Check duck portions and extras; the main branch’s reviews do not establish this branch’s quality. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-011",
+      "region": "广西",
+      "city": "贺州",
+      "place": "贺州",
+      "name": "供销社大饭堂",
+      "address": "贺州 · 黄姚街安乐街27号",
+      "dishes": "泉水豆腐酿拼瓜花酿、黄姚豆豉鸡、豆豉蒸排骨",
+      "localSpecialty": "黄姚豆豉与酿菜",
+      "price": "平台参考 CNY 62 / 人",
+      "priceCNY": {
+        "low": 62,
+        "high": 62,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "黄姚古镇安乐街店，酿菜可能含猪肉、鱼虾，瓜花季节供应另问；餐费不等于古镇门票。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/130774237.html",
+      "checked": "2026-10-17",
+      "area": "黄姚街安乐街27号",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.3,
+        "scale": 5,
+        "count": 7,
+        "url": "https://you.ctrip.com/food/0/130774237.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/130774237.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Gongxiaoshe Dining Hall · Huangyao",
+        "address": "Hezhou · Chinese navigation address: 黄姚街安乐街27号",
+        "dishes": "Stuffed tofu and squash flowers; Huangyao black-bean chicken; black-bean steamed ribs",
+        "localSpecialty": "Huangyao fermented black beans and stuffed dishes",
+        "price": "Platform reference CNY 62 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "The Anle Street shop in Huangyao. Stuffed dishes may contain pork, fish or shrimp; squash flowers are seasonal. Meals do not include town admission. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-012",
+      "region": "广西",
+      "city": "百色",
+      "place": "百色",
+      "name": "壮家人·壮家菜(前进店)",
+      "address": "百色 · 逻索路同乐坊1号楼",
+      "dishes": "黑米粽、壮厨葫芦肠、招牌菜火土阉鸡",
+      "localSpecialty": "壮家黑米粽与地方菜",
+      "price": "平台参考 CNY 69 / 人",
+      "priceCNY": {
+        "low": 69,
+        "high": 69,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "百色逻索路具体分店；米粽可作主食替代白饭，葫芦肠为内脏类，鸡的份量和做法先核价。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/130631047.html",
+      "checked": "2026-10-17",
+      "area": "逻索路同乐坊1号楼",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.3,
+        "scale": 5,
+        "count": 7,
+        "url": "https://you.ctrip.com/food/0/130631047.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/130631047.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Zhuangjiaren Guangxi Cooking · Qianjin",
+        "address": "Baise · Chinese navigation address: 逻索路同乐坊1号楼",
+        "dishes": "Black-rice parcels; prepared pork intestine; house chicken",
+        "localSpecialty": "Zhuang black-rice parcels and regional dishes",
+        "price": "Platform reference CNY 69 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "The Luosuo Road branch in Baise. Rice parcels can replace plain rice. The intestine dish is offal; agree chicken portions and preparation charges. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-013",
+      "region": "广西",
+      "city": "河池",
+      "place": "河池",
+      "name": "老猫烤鱼(江滨路店)",
+      "address": "河池 · 庆远镇江滨西路原宜州车辆综合性能检测站院东第一间",
+      "dishes": "螺蛳鸭掌煲、烤鱼、凉菜",
+      "localSpecialty": "宜州夜餐与螺蛳鸭掌煲",
+      "price": "平台参考 CNY 51 / 人",
+      "priceCNY": {
+        "low": 51,
+        "high": 51,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "这是宜州江滨路店，烤鱼并非宜州独有；优先尝试本地常见鸭掌煲，鱼按重量和配菜另核价。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/130753801.html",
+      "checked": "2026-10-17",
+      "area": "庆远镇江滨西路原宜州车辆综合性能检测站院东第一间",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "scale": 5,
+        "count": 9,
+        "url": "https://you.ctrip.com/food/0/130753801.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/130753801.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Lao Mao Grilled Fish · Jiangbin Road",
+        "address": "Hechi · Chinese navigation address: 庆远镇江滨西路原宜州车辆综合性能检测站院东第一间",
+        "dishes": "Snail and duck-foot casserole; grilled fish; cold dishes",
+        "localSpecialty": "Yizhou evening meals and snail-duck-foot casserole",
+        "price": "Platform reference CNY 51 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "This is the Yizhou Jiangbin Road shop. Grilled fish is not unique to Yizhou; consider the locally common casserole and confirm fish weight and extras. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-014",
+      "region": "广西",
+      "city": "河池",
+      "place": "河池",
+      "name": "耕饭山庄",
+      "address": "河池 · 广西壮族自治区河池市宜州区第一小学龙降校区北门西北70米",
+      "dishes": "宜州自磨手工豆腐、巴马野菜包、招牌烤鸡",
+      "localSpecialty": "宜州豆腐与巴马风味菜",
+      "price": "平台参考 CNY 72 / 人",
+      "priceCNY": {
+        "low": 72,
+        "high": 72,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "位于宜州龙降校区附近，先确认定位与返程；鸡类整份菜适合多人分食，不据菜名推断养生功效。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/152151432.html",
+      "checked": "2026-10-17",
+      "area": "广西壮族自治区河池市宜州区第一小学龙降校区北门西北70米",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "scale": 5,
+        "count": 7,
+        "url": "https://you.ctrip.com/food/0/152151432.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/152151432.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Gengfan Farm Restaurant · Yizhou",
+        "address": "Hechi · Chinese navigation address: 广西壮族自治区河池市宜州区第一小学龙降校区北门西北70米",
+        "dishes": "Yizhou handmade tofu; Bama-style vegetable parcels; roast chicken",
+        "localSpecialty": "Yizhou handmade tofu and Bama-style food",
+        "price": "Platform reference CNY 72 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "Near Longjiang school in Yizhou. Confirm navigation and return transport. Share whole chicken dishes; food names do not establish health benefits. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-015",
+      "region": "广西",
+      "city": "来宾",
+      "place": "来宾",
+      "name": "金秀山里人饭馆",
+      "address": "来宾 · 金秀镇秀水路与解放路交口(罗汉松旁)",
+      "dishes": "竹笋炒腊肉、野菜肉丝汤、上汤石崖菜",
+      "localSpecialty": "瑶乡竹笋、腊肉与山野菜",
+      "price": "平台参考 CNY 62 / 人",
+      "priceCNY": {
+        "low": 62,
+        "high": 62,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "历史公开评价 熊英华君（2020-04-16）：认为菜量较大、适合多人分食；评价发生较早，不能证明当前服务或营业。 真实到访未独立核验。",
+      "caution": "金秀县城店，历史评价较早；先电话确认营业、当季食材及配料，不把“山野”宣传当品质保证。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/13388509.html",
+      "checked": "2026-10-17",
+      "area": "金秀镇秀水路与解放路交口(罗汉松旁)",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "scale": 5,
+        "count": 11,
+        "url": "https://you.ctrip.com/food/0/13388509.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/13388509.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/13388509/12/163252741.html",
+          "title": "带作者与日期的历史公开体验样本",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Jinxiu Shanliren Restaurant",
+        "address": "Laibin · Chinese navigation address: 金秀镇秀水路与解放路交口(罗汉松旁)",
+        "dishes": "Bamboo shoots with cured pork; greens and pork soup; local greens in broth",
+        "localSpecialty": "Yao-region bamboo shoots, cured pork and greens",
+        "price": "Platform reference CNY 62 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Historical public review by 熊英华君 (2020-04-16): Found portions generous for sharing. The old account does not establish current service or opening. Actual attendance has not been independently verified.",
+        "caution": "In Jinxiu town; available visit reviews are old. Confirm opening, seasonal ingredients and preparation. “Mountain” branding is not a quality guarantee. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      },
+      "reviewSample": {
+        "author": "熊英华君",
+        "date": "2020-04-16",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/13388509/12/163252741.html",
+        "summary": "认为菜量较大、适合多人分食；评价发生较早，不能证明当前服务或营业。",
+        "summaryEn": "Found portions generous for sharing. The old account does not establish current service or opening."
+      }
+    },
+    {
+      "id": "food-gx2-016",
+      "region": "广西",
+      "city": "来宾",
+      "place": "来宾",
+      "name": "芳姐米饺(祥和路店)",
+      "address": "来宾 · 古三安置小区一巷28号一楼铺面",
+      "dishes": "三拼饺子、米饺十白粥、炸米饺十豆浆",
+      "localSpecialty": "来宾米饺",
+      "price": "平台参考 CNY 12 / 人",
+      "priceCNY": {
+        "low": 12,
+        "high": 12,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "原页套餐用“十”表示搭配，具体份数现场问清；米皮、肉馅与豆浆过敏原分别确认。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/63479137.html",
+      "checked": "2026-10-17",
+      "area": "古三安置小区一巷28号一楼铺面",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.2,
+        "scale": 5,
+        "count": 6,
+        "url": "https://you.ctrip.com/food/0/63479137.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/63479137.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Fang Jie Rice Dumplings · Xianghe Road",
+        "address": "Laibin · Chinese navigation address: 古三安置小区一巷28号一楼铺面",
+        "dishes": "Mixed dumplings; rice dumplings with plain congee; fried dumplings with soy milk",
+        "localSpecialty": "Laibin rice-flour dumplings",
+        "price": "Platform reference CNY 12 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "The source’s “十” denotes combinations; ask about actual portions. Check rice wrappers, meat fillings and soy allergens separately. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-017",
+      "region": "广西",
+      "city": "崇左",
+      "place": "崇左",
+      "name": "雷平姐妹粉店(大新一分店)",
+      "address": "崇左 · 民乐路15号附近",
+      "dishes": "卷筒粉、叉烧粉、鸡肉粉",
+      "localSpecialty": "大新卷筒粉与叉烧粉",
+      "price": "平台参考 CNY 13 / 人",
+      "priceCNY": {
+        "low": 13,
+        "high": 13,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "民乐路大新一分店，不是雷平镇原店；小样本候选，现做口味与营业要复核。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/130638927.html",
+      "checked": "2026-10-17",
+      "area": "民乐路15号附近",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "scale": 5,
+        "count": 7,
+        "url": "https://you.ctrip.com/food/0/130638927.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/130638927.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Leiping Sisters Rice Noodles · Daxin Branch One",
+        "address": "Chongzuo · Chinese navigation address: 民乐路15号附近",
+        "dishes": "Rolled rice sheets; char-siu rice noodles; chicken noodles",
+        "localSpecialty": "Daxin rice rolls and char-siu noodles",
+        "price": "Platform reference CNY 13 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "The Minle Road branch in Daxin, not the original shop in Leiping. A small-sample candidate; confirm operation and freshly prepared options. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-018",
+      "region": "广西",
+      "city": "桂林",
+      "place": "桂林",
+      "name": "勝记粉库桂林米粉(西街店)",
+      "address": "桂林 · 西街99号，2楼(老桂花铺2楼)",
+      "dishes": "老桂林传统米粉、风味田螺酿、红糖粑粑",
+      "localSpecialty": "桂林卤菜米粉与阳朔小吃",
+      "price": "平台参考 CNY 20 / 人",
+      "priceCNY": {
+        "low": 20,
+        "high": 20,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "位于阳朔西街99号二楼；旅游街价格不等于市区早餐价，粉类和附加小吃分开点。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/food/0/12031378.html",
+      "checked": "2026-10-17",
+      "area": "西街99号，2楼(老桂花铺2楼)",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.8,
+        "scale": 5,
+        "count": 11,
+        "url": "https://you.ctrip.com/food/0/12031378.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/0/12031378.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Sheng Ji Guilin Rice Noodles · West Street",
+        "address": "Guilin · Chinese navigation address: 西街99号，2楼(老桂花铺2楼)",
+        "dishes": "Traditional Guilin rice noodles; stuffed river snails; brown-sugar rice cakes",
+        "localSpecialty": "Guilin rice noodles and Yangshuo snacks",
+        "price": "Platform reference CNY 20 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "Upstairs at 99 West Street, Yangshuo. Tourist-street prices differ from city breakfast shops; order noodles and extra snacks separately. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-019",
+      "region": "广西",
+      "city": "南宁",
+      "place": "南宁",
+      "name": "老嘢扣肉糯米饭(云亭街店)",
+      "address": "南宁 · 云亭街37号",
+      "dishes": "扣肉、腊肠、糯米饭",
+      "localSpecialty": "扣肉糯米饭",
+      "price": "平台参考 CNY 13 / 人",
+      "priceCNY": {
+        "low": 13,
+        "high": 13,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "扣肉和腊肠偏油润，先选小份或拼配；核对按份、按两和加菜的计价方式。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/nanning166/15718246.html",
+      "checked": "2026-10-17",
+      "area": "云亭街37号",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "scale": 5,
+        "count": 48,
+        "url": "https://you.ctrip.com/yougourmet/restdetail/nanning166/15718246.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/nanning166/15718246.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Lao Ye Pork Belly Sticky Rice · Yunting Street",
+        "address": "Nanning · Chinese navigation address: 云亭街37号",
+        "dishes": "Braised pork belly; cured sausage; sticky rice",
+        "localSpecialty": "Braised pork belly with sticky rice",
+        "price": "Platform reference CNY 13 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "Pork belly and sausage are rich. Start small and check whether prices are per portion, rice weight or extra topping. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-020",
+      "region": "广西",
+      "city": "南宁",
+      "place": "南宁",
+      "name": "阿谋美食·广西菜",
+      "address": "南宁 · 古城路21-7号民族文物苑",
+      "dishes": "假娄叶包牛肉、巴马长寿豆腐圆、全卅醋血鸭",
+      "localSpecialty": "假娄叶包牛肉与桂菜",
+      "price": "平台参考 CNY 86 / 人",
+      "priceCNY": {
+        "low": 86,
+        "high": 86,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "位于古城路民族文物苑，与青环路广西民族博物馆不同；菜名“长寿”不代表健康功效，鸭血菜提前确认是否接受。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/nanning166/11600732.html",
+      "checked": "2026-10-17",
+      "area": "古城路21-7号民族文物苑",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 70,
+        "url": "https://you.ctrip.com/yougourmet/restdetail/nanning166/11600732.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/nanning166/11600732.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "A Mou Guangxi Cuisine · Gucheng Road",
+        "address": "Nanning · Chinese navigation address: 古城路21-7号民族文物苑",
+        "dishes": "Beef in wild-betel leaves; Bama-style tofu balls; Quanzhou vinegar-blood duck",
+        "localSpecialty": "Wild-betel-leaf beef parcels and Guangxi dishes",
+        "price": "Platform reference CNY 86 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "At the Minzu Wenwu Yuan on Gucheng Road, separate from the Guangxi Museum of Nationalities on Qinghuan Road. “Longevity” is a dish name, not a health claim; check acceptance of duck blood. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-021",
+      "region": "广西",
+      "city": "柳州",
+      "place": "柳州",
+      "name": "文惠桥头大华干捞粉",
+      "address": "柳州 · 市中心罗池路金谷大厦",
+      "dishes": "干捞粉、香卤猪小肚、牛腊巴",
+      "localSpecialty": "柳州干捞粉",
+      "price": "平台参考 CNY 13 / 人",
+      "priceCNY": {
+        "low": 13,
+        "high": 13,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "历史公开评价 bjbillyjiao（2022-12-25）：描述在金谷大厦附近点干捞粉的经历，认为配料较丰富；旧评提及的营业时间需重查。 真实到访未独立核验。",
+      "caution": "资料对文惠路、罗池路的写法有差异，按金谷大厦附近核对定位；旧评的24小时营业不当现行承诺。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/liuzhou143/175781.html",
+      "checked": "2026-10-17",
+      "area": "市中心罗池路金谷大厦",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.8,
+        "scale": 5,
+        "count": 5,
+        "url": "https://you.ctrip.com/yougourmet/restdetail/liuzhou143/175781.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/liuzhou143/175781.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        },
+        {
+          "platform": "去哪儿",
+          "url": "https://touch.travel.qunar.com/dist/poi/5186015",
+          "checked": "2026-10-17",
+          "title": "文惠桥头店址交叉参考；与原页地址描述存在差异，出发前复核"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/127839/12/174226659.html",
+          "title": "带作者与日期的历史公开体验样本",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Wenhui Bridge Dahua Dry Rice Noodles",
+        "address": "Liuzhou · Chinese navigation address: 市中心罗池路金谷大厦",
+        "dishes": "Dry-tossed rice noodles; braised pork stomach; dried beef",
+        "localSpecialty": "Liuzhou dry-tossed rice noodles",
+        "price": "Platform reference CNY 13 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Historical public review by bjbillyjiao (2022-12-25): Described ordering dry noodles near Jingu Building and finding generous toppings. Opening hours mentioned in the old review need rechecking. Actual attendance has not been independently verified.",
+        "caution": "Sources use both Wenhui and Luochi road descriptions; confirm the location near Jingu Building. Historical 24-hour claims are not current opening guarantees. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      },
+      "reviewSample": {
+        "author": "bjbillyjiao",
+        "date": "2022-12-25",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/127839/12/174226659.html",
+        "summary": "描述在金谷大厦附近点干捞粉的经历，认为配料较丰富；旧评提及的营业时间需重查。",
+        "summaryEn": "Described ordering dry noodles near Jingu Building and finding generous toppings. Opening hours mentioned in the old review need rechecking."
+      }
+    },
+    {
+      "id": "food-gx2-022",
+      "region": "广西",
+      "city": "柳州",
+      "place": "柳州",
+      "name": "望江寨•柳州菜馆(西江店)",
+      "address": "柳州 · 麒麟街道西江路7号(金泰美食城内)",
+      "dishes": "酸笋炒鱼仔、柳州螺蛳鱼、五香扣肉",
+      "localSpecialty": "柳州酸笋小炒与地方菜",
+      "price": "平台参考 CNY 63 / 人",
+      "priceCNY": {
+        "low": 63,
+        "high": 63,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "西江路店，酸笋味较明显；按人数点菜，鱼类、整份扣肉和茶位分别核价。公开评价少于20条，属于小样本候选，平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/liuzhou143/15883979.html",
+      "checked": "2026-10-17",
+      "area": "麒麟街道西江路7号(金泰美食城内)",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "scale": 5,
+        "count": 8,
+        "url": "https://you.ctrip.com/yougourmet/restdetail/liuzhou143/15883979.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/liuzhou143/15883979.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Wangjiangzhai Liuzhou Cooking · Xijiang",
+        "address": "Liuzhou · Chinese navigation address: 麒麟街道西江路7号(金泰美食城内)",
+        "dishes": "Small fish with sour bamboo shoots; Liuzhou snail-style fish; spiced braised pork belly",
+        "localSpecialty": "Liuzhou sour-bamboo-shoot stir-fries",
+        "price": "Platform reference CNY 63 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "The Xijiang Road branch has strong sour-bamboo-shoot flavours. Order for your group and check fish, pork portions and tea charges. Fewer than 20 reviews: a small-sample candidate; ratings do not prove a visit."
+      }
+    },
+    {
+      "id": "food-gx2-023",
+      "region": "广西",
+      "city": "贺州",
+      "place": "贺州",
+      "name": "马峰太原堂老牌凉粉(贺州华生购物广场店)",
+      "address": "贺州 · 城东街道远东文华苑112号(南宁百货后门、泰兴侧门旁)",
+      "dishes": "酸梅凉粉、桂花凉粉、芒果鲜奶凉粉",
+      "localSpecialty": "贺州马峰凉粉",
+      "price": "平台参考 CNY 7 / 人",
+      "priceCNY": {
+        "low": 7,
+        "high": 7,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "本条只对应远东文华苑附近分店；水果、奶配料和甜度可不同，一份先尝，不作功效宣称。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/hezhou707/26350184.html",
+      "checked": "2026-10-17",
+      "area": "城东街道远东文华苑112号(南宁百货后门、泰兴侧门旁)",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "scale": 5,
+        "count": 7,
+        "url": "https://you.ctrip.com/yougourmet/restdetail/hezhou707/26350184.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/hezhou707/26350184.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Mafeng Taiyuantang Jelly · Hezhou Huasheng",
+        "address": "Hezhou · Chinese navigation address: 城东街道远东文华苑112号(南宁百货后门、泰兴侧门旁)",
+        "dishes": "Plum-flavoured grass jelly; osmanthus jelly; mango-milk jelly",
+        "localSpecialty": "Hezhou Mafeng grass-jelly desserts",
+        "price": "Platform reference CNY 7 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "Only the branch near Yuandong Wenhua Yuan. Fruit, milk additions and sweetness vary; start with one serving. No medicinal benefits are claimed. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-024",
+      "region": "广西",
+      "city": "百色",
+      "place": "百色",
+      "name": "壮家大盘菜",
+      "address": "百色 · 湖润镇峒牌村下排屯（崇靖高速通灵互通出口往右300米）",
+      "dishes": "豆腐烧鲶鱼、野菜炒蛋、壮家腊肉",
+      "localSpecialty": "靖西壮家腊肉与豆腐鱼",
+      "price": "平台参考 CNY 54 / 人",
+      "priceCNY": {
+        "low": 54,
+        "high": 54,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "位于靖西湖润镇通灵互通附近，不在百色市区；与通灵峡谷行程搭配，返程和鱼价先确认。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/baise524/32662719.html",
+      "checked": "2026-10-17",
+      "area": "湖润镇峒牌村下排屯（崇靖高速通灵互通出口往右300米）",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.4,
+        "scale": 5,
+        "count": 8,
+        "url": "https://you.ctrip.com/yougourmet/restdetail/baise524/32662719.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/baise524/32662719.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Zhuangjia Shared Dishes · Hurun, Jingxi",
+        "address": "Baise · Chinese navigation address: 湖润镇峒牌村下排屯（崇靖高速通灵互通出口往右300米）",
+        "dishes": "Catfish with tofu; eggs with greens; Zhuang cured pork",
+        "localSpecialty": "Jingxi Zhuang cured pork and tofu-fish dishes",
+        "price": "Platform reference CNY 54 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "Near Tongling interchange in Hurun, Jingxi, not Baise city. Pair with Tongling Gorge and confirm return transport and fish pricing. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-025",
+      "region": "广西",
+      "city": "百色",
+      "place": "百色",
+      "name": "壮族人餐厅(靖西店)",
+      "address": "百色 · 新靖镇幸福大道幸福广场三楼(办证大厅楼上)",
+      "dishes": "靖西五色糯米饭、上汤野菜、茄角之恋",
+      "localSpecialty": "靖西五色糯米饭与壮乡菜",
+      "price": "平台参考 CNY 67 / 人",
+      "priceCNY": {
+        "low": 67,
+        "high": 67,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "靖西幸福广场三楼店；五色糯米饭可代替米饭，颜色和菜品供应以当日菜单为准。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/baise524/32662351.html",
+      "checked": "2026-10-17",
+      "area": "新靖镇幸福大道幸福广场三楼(办证大厅楼上)",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "scale": 5,
+        "count": 5,
+        "url": "https://you.ctrip.com/yougourmet/restdetail/baise524/32662351.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/baise524/32662351.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Zhuangzuren Restaurant · Jingxi",
+        "address": "Baise · Chinese navigation address: 新靖镇幸福大道幸福广场三楼(办证大厅楼上)",
+        "dishes": "Five-colour sticky rice; greens in broth; eggplant-and-bean dish",
+        "localSpecialty": "Jingxi five-colour sticky rice and Zhuang cooking",
+        "price": "Platform reference CNY 67 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "On the third floor of Xingfu Square, Jingxi. Sticky rice can replace plain rice; colours and dish availability depend on the day’s menu. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-026",
+      "region": "广西",
+      "city": "崇左",
+      "place": "崇左",
+      "name": "老街土菜馆",
+      "address": "崇左 · 硕龙街188号",
+      "dishes": "百香果排骨、壮家大盘鸡、炒野生龙须菜",
+      "localSpecialty": "硕龙壮家菜与百香果排骨",
+      "price": "平台参考 CNY 65 / 人",
+      "priceCNY": {
+        "low": 65,
+        "high": 65,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "在大新硕龙街，不在崇左市区；与德天方向搭配，先核对份量、菜品价格和晚间返程。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongzuo837/26556755.html",
+      "checked": "2026-10-17",
+      "area": "硕龙街188号",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.6,
+        "scale": 5,
+        "count": 19,
+        "url": "https://you.ctrip.com/yougourmet/restdetail/chongzuo837/26556755.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongzuo837/26556755.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Lao Jie Local Cooking · Shuolong",
+        "address": "Chongzuo · Chinese navigation address: 硕龙街188号",
+        "dishes": "Passion-fruit ribs; Zhuang-style chicken; local greens",
+        "localSpecialty": "Shuolong Zhuang cooking and passion-fruit ribs",
+        "price": "Platform reference CNY 65 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "On Shuolong Street, Daxin, separate from Chongzuo city. Pair with the Detian direction and confirm portions, prices and evening return transport. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
+      }
+    },
+    {
+      "id": "food-gx2-027",
+      "region": "广西",
+      "city": "崇左",
+      "place": "崇左",
+      "name": "大新奇记老牌烧烤",
+      "address": "崇左 · 伦理路61号一楼",
+      "dishes": "香叶牛肉、金针菇牛肉、掌中宝",
+      "localSpecialty": "大新香叶牛肉烧烤",
+      "price": "平台参考 CNY 49 / 人",
+      "priceCNY": {
+        "low": 49,
+        "high": 49,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，汇总日期未明确；非现行菜单报价。加料、整份菜、茶位及加工费需现场核对，可在餐饮清单修改。",
+      "good": "已核对具体分店、地方菜品及平台汇总评价；尚未完成独立到访核验。",
+      "caution": "烧烤按串、份或重量可能不同；先点少量，问清香叶与腌料，现场核对每项数量。 公开评价少于20条，属于小样本候选。 平台分数不证明真实到访。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongzuo837/153810713.html",
+      "checked": "2026-10-17",
+      "area": "伦理路61号一楼",
+      "mealType": "当地特色",
+      "researchBatch": 2,
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.3,
+        "scale": 5,
+        "count": 8,
+        "url": "https://you.ctrip.com/yougourmet/restdetail/chongzuo837/153810713.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongzuo837/153810713.html",
+          "checked": "2026-10-17",
+          "title": "分店地址、地方菜品、参考人均与公开评价"
+        }
+      ],
+      "en": {
+        "name": "Daxin Qi Ji Barbecue",
+        "address": "Chongzuo · Chinese navigation address: 伦理路61号一楼",
+        "dishes": "Aromatic-leaf beef; beef with enoki; chicken cartilage",
+        "localSpecialty": "Daxin aromatic-leaf beef skewers",
+        "price": "Platform reference CNY 49 / person",
+        "basis": "Public platform average, with unspecified aggregation date; not a current menu quote. Confirm extras, whole dishes, tea and preparation charges, and adjust the dining list.",
+        "good": "Specific branch, regional dishes and platform review aggregates checked. Actual attendance has not been independently verified.",
+        "caution": "Skewers may be priced per stick, serving or weight. Start small, check leaves and marinades, and confirm quantities on the bill. Fewer than 20 public reviews: a small-sample candidate. Platform ratings do not prove an actual visit."
       }
     }
   ],
@@ -47758,13 +50751,13 @@
     },
     "广西": {
       "date": "2026-10-17",
-      "batch": 1,
-      "count": 128,
+      "batch": 2,
+      "count": 145,
       "cities": 14,
-      "added": 127,
-      "scope": "广西14市均已收录至少8个独立景点。桂林16个、南宁12个、柳州与北海各10个，其余各8个；8个是下限，后续继续补充。每项保留实景与来源，基础资料、评价抽样和门票核对状态分别标示。",
+      "added": 17,
+      "scope": "广西继续深入县域：共145个独立景点，14市均至少8个且不设上限。本批新增17个参考实景条目与27家当地特色门店、13条分区美食安排；小样本评价、历史体验与待核实费用分别标明。",
       "en": {
-        "scope": "All 14 Guangxi cities now have at least eight independent attractions: Guilin 16, Nanning 12, Liuzhou and Beihai 10 each, and eight in every other city. Eight is a minimum, not a cap. Photos and sources are retained; information depth, review sampling and admission verification are labeled separately."
+        "scope": "Guangxi now has 145 independent attractions across all 14 cities, with at least eight per city and no cap. This batch adds 17 photographed entries, 27 local-food branches and 13 area-based meal outlines. Small review samples, historical experiences and unconfirmed charges are labeled separately."
       },
       "batches": [
         {
@@ -47772,6 +50765,13 @@
           "added": 127,
           "upgraded": 1,
           "count": 128,
+          "cities": 14,
+          "date": "2026-10-17"
+        },
+        {
+          "batch": 2,
+          "added": 17,
+          "count": 145,
           "cities": 14,
           "date": "2026-10-17"
         }
@@ -48067,9 +51067,9 @@
   ],
   "ticketAudit": {
     "checked": "2026-10-17",
-    "entries": 472,
+    "entries": 489,
     "verified": 34,
-    "unverified": 438,
+    "unverified": 455,
     "method": "官方景区、场馆与文旅公开票务资料；不把历史活动、政府最高限价、导览服务起价或网友报价当作现行门票。"
   },
   "cityExpansion": {
@@ -48182,6 +51182,267 @@
     ]
   },
   "foodGuides": [
+    {
+      "id": "route-gx2-01",
+      "region": "广西",
+      "city": "南宁",
+      "researchBatch": 2,
+      "title": "水街粉饺与糯米饭分餐尝",
+      "route": "老甘粉饺与老嘢糯米饭分作不同餐，二选一也可；不把两份主食默认为同一餐。",
+      "note": "当地特色编辑安排；非实测步行路线。加入消费后新店默认关闭，逐店勾选，备选店不重复计费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gx2-001",
+        "food-gx2-019"
+      ],
+      "en": {
+        "title": "Separate Shuijie dumpling and sticky-rice meals",
+        "route": "Use Lao Gan and Lao Ye for different meals, or choose one. Two main dishes are not automatically one meal.",
+        "note": "Editorial local-food outline, not a verified walk. New route branches are excluded from costs until selected; alternatives are not charged together."
+      }
+    },
+    {
+      "id": "route-gx2-02",
+      "region": "广西",
+      "city": "南宁",
+      "researchBatch": 2,
+      "title": "建政路卷筒粉与桂菜备选",
+      "route": "古记作夜间小吃；阿谋或甘家界二选一另安排正餐。古城路与仙葫大道分区，不当步行串店路线。",
+      "note": "当地特色编辑安排；非实测步行路线。加入消费后新店默认关闭，逐店勾选，备选店不重复计费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gx2-002",
+        "food-gx2-020",
+        "food-gx2-003"
+      ],
+      "en": {
+        "title": "Jianzheng rice rolls and alternative Guangxi meals",
+        "route": "Consider Gu Ji for an evening snack; choose A Mou or Ganjiajie for another meal. Gucheng Road and Xianhu Avenue are separate areas, not a walking crawl.",
+        "note": "Editorial local-food outline, not a verified walk. New route branches are excluded from costs until selected; alternatives are not charged together."
+      }
+    },
+    {
+      "id": "route-gx2-03",
+      "region": "广西",
+      "city": "柳州",
+      "researchBatch": 2,
+      "title": "汤螺蛳粉与干捞粉轮换",
+      "route": "西环肥仔、螺小丰、大华分餐轮换，每餐选一家；多人想吃菜再选望江寨，市区不同片区交通另查。",
+      "note": "当地特色编辑安排；非实测步行路线。加入消费后新店默认关闭，逐店勾选，备选店不重复计费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gx2-004",
+        "food-gx2-005",
+        "food-gx2-021",
+        "food-gx2-022"
+      ],
+      "en": {
+        "title": "Alternate soup luosifen and dry rice noodles",
+        "route": "Choose one noodle shop per meal, alternating styles. Wangjiangzhai is an optional shared meal. Check transport between city areas.",
+        "note": "Editorial local-food outline, not a verified walk. New route branches are excluded from costs until selected; alternatives are not charged together."
+      }
+    },
+    {
+      "id": "route-gx2-04",
+      "region": "广西",
+      "city": "桂林",
+      "researchBatch": 2,
+      "title": "市区油茶与阳朔米粉分日",
+      "route": "蜂子在桂林市区尝油茶；勝记配阳朔西街另一天，不为一碗粉当天往返两地。",
+      "note": "当地特色编辑安排；非实测步行路线。加入消费后新店默认关闭，逐店勾选，备选店不重复计费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gx2-006",
+        "food-gx2-018"
+      ],
+      "en": {
+        "title": "Separate Guilin oil tea and Yangshuo noodles",
+        "route": "Try Fengzi oil tea in Guilin, then Sheng Ji during a separate Yangshuo day. Do not make a same-day intercity return just for noodles.",
+        "note": "Editorial local-food outline, not a verified walk. New route branches are excluded from costs until selected; alternatives are not charged together."
+      }
+    },
+    {
+      "id": "route-gx2-05",
+      "region": "广西",
+      "city": "梧州",
+      "researchBatch": 2,
+      "title": "潘塘豆浆与纸包鸡分餐",
+      "route": "潘塘店作豆浆点心一餐；想吃纸包鸡可另选已收录大东大酒家作正餐。两种预算分别勾选，避免同餐重复。",
+      "note": "当地特色编辑安排；非实测步行路线。加入消费后新店默认关闭，逐店勾选，备选店不重复计费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gx2-007"
+      ],
+      "en": {
+        "title": "Pantang soy breakfast and paper-wrapped chicken",
+        "route": "Use Pantang for a soy-milk and snack meal. The previously listed Big East Restaurant is a separate paper-wrapped-chicken option; select meals separately.",
+        "note": "Editorial local-food outline, not a verified walk. New route branches are excluded from costs until selected; alternatives are not charged together."
+      }
+    },
+    {
+      "id": "route-gx2-06",
+      "region": "广西",
+      "city": "北海",
+      "researchBatch": 2,
+      "title": "侨港正餐之后选一份炒冰",
+      "route": "正餐从已收录的侨港门店中选一家；有间冰室选炒冰或清补凉之一作加餐，不默认再吃一顿海鲜。",
+      "note": "当地特色编辑安排；非实测步行路线。加入消费后新店默认关闭，逐店勾选，备选店不重复计费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gx2-008"
+      ],
+      "en": {
+        "title": "One Qiaogang dessert after a meal",
+        "route": "Choose one of the listed Qiaogang restaurants for a meal. Add one stir-frozen ice or sweet soup at You Jian, not a second seafood meal.",
+        "note": "Editorial local-food outline, not a verified walk. New route branches are excluded from costs until selected; alternatives are not charged together."
+      }
+    },
+    {
+      "id": "route-gx2-07",
+      "region": "广西",
+      "city": "贺州",
+      "researchBatch": 2,
+      "title": "黄姚酿菜与八步凉粉分区",
+      "route": "供销社配黄姚游览吃豆腐酿、豆豉菜；马峰在八步市区另作甜品，不把两地写成步行路线。",
+      "note": "当地特色编辑安排；非实测步行路线。加入消费后新店默认关闭，逐店勾选，备选店不重复计费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gx2-011",
+        "food-gx2-023"
+      ],
+      "en": {
+        "title": "Separate Huangyao stuffed dishes and Babu jelly",
+        "route": "Pair Gongxiaoshe’s stuffed tofu and black-bean dishes with Huangyao. Mafeng is a separate dessert in Babu city, not a walk between the two.",
+        "note": "Editorial local-food outline, not a verified walk. New route branches are excluded from costs until selected; alternatives are not charged together."
+      }
+    },
+    {
+      "id": "route-gx2-08",
+      "region": "广西",
+      "city": "百色",
+      "researchBatch": 2,
+      "title": "右江城区烧鸭粉与壮菜",
+      "route": "烧鸭粉作一顿简餐，壮家人作另一顿多人正餐；按住宿位置确认城区接驳。",
+      "note": "当地特色编辑安排；非实测步行路线。加入消费后新店默认关闭，逐店勾选，备选店不重复计费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gx2-010",
+        "food-gx2-012"
+      ],
+      "en": {
+        "title": "Roast-duck noodles and Zhuang dishes in Youjiang",
+        "route": "Use roast-duck noodles for a light meal and Zhuangjiaren for a separate shared meal. Check city transport from your accommodation.",
+        "note": "Editorial local-food outline, not a verified walk. New route branches are excluded from costs until selected; alternatives are not charged together."
+      }
+    },
+    {
+      "id": "route-gx2-09",
+      "region": "广西",
+      "city": "百色",
+      "researchBatch": 2,
+      "title": "靖西市区与通灵方向分餐",
+      "route": "五色糯米饭可在靖西市区尝；大盘菜配通灵峡谷方向。两店相隔县域路程，不为吃饭硬折返。",
+      "note": "当地特色编辑安排；非实测步行路线。加入消费后新店默认关闭，逐店勾选，备选店不重复计费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gx2-025",
+        "food-gx2-024"
+      ],
+      "en": {
+        "title": "Separate Jingxi town and Tongling-area meals",
+        "route": "Try five-colour sticky rice in Jingxi town, and Dapancai on a Tongling Gorge outing. Do not backtrack across the county solely for a meal.",
+        "note": "Editorial local-food outline, not a verified walk. New route branches are excluded from costs until selected; alternatives are not charged together."
+      }
+    },
+    {
+      "id": "route-gx2-10",
+      "region": "广西",
+      "city": "河池",
+      "researchBatch": 2,
+      "title": "宜州豆腐正餐与夜餐二选",
+      "route": "耕饭山庄尝手工豆腐等；老猫可选鸭掌煲作另一餐，两家同餐二选一，不承诺短距离步行。",
+      "note": "当地特色编辑安排；非实测步行路线。加入消费后新店默认关闭，逐店勾选，备选店不重复计费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gx2-014",
+        "food-gx2-013"
+      ],
+      "en": {
+        "title": "Yizhou tofu meal and an alternative evening meal",
+        "route": "Consider handmade tofu at Gengfan and duck-foot casserole at Laomao for different meals, or choose one. A short walk between them is not confirmed.",
+        "note": "Editorial local-food outline, not a verified walk. New route branches are excluded from costs until selected; alternatives are not charged together."
+      }
+    },
+    {
+      "id": "route-gx2-11",
+      "region": "广西",
+      "city": "来宾",
+      "researchBatch": 2,
+      "title": "来宾米饺与金秀瑶乡菜分日",
+      "route": "芳姐米饺在来宾城区；山里人在金秀县城，配金秀住宿或山地游览单独安排，避免跨县赶一餐。",
+      "note": "当地特色编辑安排；非实测步行路线。加入消费后新店默认关闭，逐店勾选，备选店不重复计费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gx2-016",
+        "food-gx2-015"
+      ],
+      "en": {
+        "title": "Separate Laibin rice dumplings and Jinxiu cooking",
+        "route": "Fang Jie is in Laibin city; Shanliren is in Jinxiu town. Pair Jinxiu dining with a stay or mountain visit, not a cross-county meal rush.",
+        "note": "Editorial local-food outline, not a verified walk. New route branches are excluded from costs until selected; alternatives are not charged together."
+      }
+    },
+    {
+      "id": "route-gx2-12",
+      "region": "广西",
+      "city": "崇左",
+      "researchBatch": 2,
+      "title": "大新粉食与硕龙土菜分段",
+      "route": "大新县城选卷筒粉或少量烧烤；老街土菜馆配硕龙、德天方向另排正餐，不一次勾选成三餐套餐。",
+      "note": "当地特色编辑安排；非实测步行路线。加入消费后新店默认关闭，逐店勾选，备选店不重复计费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gx2-017",
+        "food-gx2-026",
+        "food-gx2-027"
+      ],
+      "en": {
+        "title": "Daxin noodles and Shuolong regional cooking",
+        "route": "Choose rice rolls or a small barbecue meal in Daxin town. Pair Lao Jie with Shuolong or Detian separately; these are not one compulsory three-meal package.",
+        "note": "Editorial local-food outline, not a verified walk. New route branches are excluded from costs until selected; alternatives are not charged together."
+      }
+    },
+    {
+      "id": "route-gx2-13",
+      "region": "广西",
+      "city": "崇左",
+      "researchBatch": 2,
+      "title": "凭祥越式一餐",
+      "route": "鸡肉粉可作简餐，春卷与酸汤适合多人分食；同店可调整用餐次数，不自动把每道菜当一份人均。",
+      "note": "当地特色编辑安排；非实测步行路线。加入消费后新店默认关闭，逐店勾选，备选店不重复计费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gx2-009"
+      ],
+      "en": {
+        "title": "One Vietnamese-style meal in Pingxiang",
+        "route": "Chicken noodles suit a light meal; share spring rolls and sour soup. Adjust visits for this branch; each dish is not another per-person meal.",
+        "note": "Editorial local-food outline, not a verified walk. New route branches are excluded from costs until selected; alternatives are not charged together."
+      }
+    },
     {
       "city": "广州",
       "region": "广东",
@@ -48905,8 +52166,8 @@
     "checked": "2026-10-17",
     "newRestaurants": 36,
     "newRoutes": 22,
-    "method": "按城市规模、旅游热度及餐饮目的地特色分配编辑检索量，广州、深圳、佛山、汕头优先加密；不是官方热度排名。先看具体分店、评价量、内容一致性和争议，再决定收录，不按数量硬凑。平台分数不能证明评价真实或保证营业、品质。 广西首轮优先南宁、桂林、北海等城市，按具体分店筛选平台评分至少4.3/5且至少20条评价的门店；这只是候选筛选条件，不能证明真实到访。暂无合适样本的城市继续调研，不为覆盖率凑店。",
-    "methodEn": "Editorial research prioritizes city scale, tourism demand and culinary interest, with greater depth in Guangzhou, Shenzhen, Foshan and Shantou. This is not an official ranking. Branch identity, review volume, consistency and concerns are considered before inclusion; platform scores cannot prove authenticity or guarantee opening or quality. Initial Guangxi research prioritizes Nanning, Guilin and Beihai, selecting specific branches with platform scores of at least 4.3/5 and at least 20 reviews. These are screening thresholds, not proof of actual visits. Cities without suitable samples remain under research.",
+    "method": "按城市规模、旅游热度及餐饮目的地特色分配编辑检索量，广州、深圳、佛山、汕头优先加密；不是官方热度排名。先看具体分店、评价量、内容一致性和争议，再决定收录，不按数量硬凑。平台分数不能证明评价真实或保证营业、品质。 广西首轮优先南宁、桂林、北海等城市，按具体分店首批筛选平台评分至少4.3/5且至少20条评价的门店；这只是候选筛选条件，不能证明真实到访。暂无合适样本的城市继续调研，不为覆盖率凑店。 广西后续优先地方菜、小吃和具体分店；公开评分优先较好且有可读样本的门店，少于20条另标小样本，不把平台转评当独立证据。",
+    "methodEn": "Editorial research prioritizes city scale, tourism demand and culinary interest, with greater depth in Guangzhou, Shenzhen, Foshan and Shantou. This is not an official ranking. Branch identity, review volume, consistency and concerns are considered before inclusion; platform scores cannot prove authenticity or guarantee opening or quality. Initial Guangxi research prioritizes Nanning, Guilin and Beihai, selecting specific branches with platform scores of at least 4.3/5 and at least 20 reviews. These are screening thresholds, not proof of actual visits. Cities without suitable samples remain under research. Subsequent Guangxi research prioritizes regional dishes, snacks and specific branches. Better public scores and readable samples are preferred; fewer than 20 reviews are labeled small-sample, and syndicated reviews are not independent evidence.",
     "cities": [
       {
         "city": "广州",
@@ -48958,23 +52219,23 @@
       "cities": [
         {
           "city": "南宁",
-          "count": 12
+          "count": 14
         },
         {
           "city": "桂林",
-          "count": 16
+          "count": 18
         },
         {
           "city": "柳州",
-          "count": 10
+          "count": 12
         },
         {
           "city": "北海",
-          "count": 10
+          "count": 11
         },
         {
           "city": "梧州",
-          "count": 8
+          "count": 9
         },
         {
           "city": "防城港",
@@ -48982,11 +52243,11 @@
         },
         {
           "city": "钦州",
-          "count": 8
+          "count": 9
         },
         {
           "city": "贵港",
-          "count": 8
+          "count": 9
         },
         {
           "city": "玉林",
@@ -48994,23 +52255,23 @@
         },
         {
           "city": "百色",
-          "count": 8
+          "count": 10
         },
         {
           "city": "贺州",
-          "count": 8
+          "count": 9
         },
         {
           "city": "河池",
-          "count": 8
+          "count": 9
         },
         {
           "city": "来宾",
-          "count": 8
+          "count": 9
         },
         {
           "city": "崇左",
-          "count": 8
+          "count": 10
         }
       ],
       "sources": [

@@ -1,0 +1,429 @@
+{
+  "checked": "2026-10-17",
+  "batch": 2,
+  "method": "优先地方菜和小吃，逐分店核对；公开评分>=4.2，至少5条，少于20条明确小样本。平台汇总不证明真实到访，参考人均不是现行菜单。",
+  "attractions": [
+    {
+      "name": "南宁市人民公园",
+      "url": "https://you.ctrip.com/sight/nanning166/8807.html",
+      "city": "南宁"
+    },
+    {
+      "name": "中华茉莉园",
+      "url": "https://you.ctrip.com/sight/hengzhou966/1701274.html",
+      "city": "南宁"
+    },
+    {
+      "name": "恭城红岩村",
+      "url": "https://you.ctrip.com/sight/gongcheng1446252/1830751.html",
+      "city": "桂林"
+    },
+    {
+      "name": "靖江王陵",
+      "url": "https://you.ctrip.com/sight/guilin28/50287.html",
+      "city": "桂林"
+    },
+    {
+      "name": "三江鼓楼",
+      "url": "https://you.ctrip.com/sight/sanjiang975/1684136.html",
+      "city": "柳州"
+    },
+    {
+      "name": "石门仙湖景区",
+      "url": "https://you.ctrip.com/sight/rongan3043/1482880.html",
+      "city": "柳州"
+    },
+    {
+      "name": "侨港风情街",
+      "url": "https://you.ctrip.com/sight/beihai140/1418220.html",
+      "city": "北海"
+    },
+    {
+      "name": "中山公园-中山纪念堂",
+      "url": "https://you.ctrip.com/sight/wuzhou142/57712.html",
+      "city": "梧州"
+    },
+    {
+      "name": "钦州园博园",
+      "url": "https://you.ctrip.com/sight/qinzhou697/4693342.html",
+      "city": "钦州"
+    },
+    {
+      "name": "东湖公园",
+      "url": "https://you.ctrip.com/sight/guigang711/2680280.html",
+      "city": "贵港"
+    },
+    {
+      "name": "渠洋湖",
+      "url": "https://you.ctrip.com/sight/jingxi967/1729239.html",
+      "city": "百色"
+    },
+    {
+      "name": "红叶森林公园",
+      "url": "https://you.ctrip.com/sight/debao3061/142564.html",
+      "city": "百色"
+    },
+    {
+      "name": "贺州客家围屋",
+      "url": "https://you.ctrip.com/sight/hezhou707/22163.html",
+      "city": "贺州"
+    },
+    {
+      "name": "三门海",
+      "url": "https://you.ctrip.com/sight/fengshan2022/131888.html",
+      "city": "河池"
+    },
+    {
+      "name": "来宾市博物馆",
+      "url": "https://you.ctrip.com/sight/laibin839/3895692.html",
+      "city": "来宾"
+    },
+    {
+      "name": "龙宫仙境旅游区",
+      "url": "https://you.ctrip.com/sight/daxin963/140742.html",
+      "city": "崇左"
+    },
+    {
+      "name": "石景林景区",
+      "url": "https://you.ctrip.com/sight/chongzuo837/21922.html",
+      "city": "崇左"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "老甘粉饺",
+      "city": "南宁",
+      "url": "https://you.ctrip.com/food/0/5450454.html",
+      "score": 4.4,
+      "count": 88,
+      "averagePrice": 15
+    },
+    {
+      "name": "古记老牌卷筒粉(建政路南四里店)",
+      "city": "南宁",
+      "url": "https://you.ctrip.com/food/0/5450136.html",
+      "score": 4.4,
+      "count": 11,
+      "averagePrice": 7
+    },
+    {
+      "name": "甘家界柠檬鸭(埌东店)",
+      "city": "南宁",
+      "url": "https://you.ctrip.com/food/0/8607781.html",
+      "score": 4.7,
+      "count": 46,
+      "averagePrice": 74
+    },
+    {
+      "name": "西环肥仔螺蛳粉(总店)",
+      "city": "柳州",
+      "url": "https://you.ctrip.com/food/0/127671.html",
+      "score": 4.3,
+      "count": 285,
+      "averagePrice": 21
+    },
+    {
+      "name": "螺小丰柳州螺蛳粉(鱼峰店)",
+      "city": "柳州",
+      "url": "https://you.ctrip.com/food/0/16164802.html",
+      "score": 5,
+      "count": 97,
+      "averagePrice": 10
+    },
+    {
+      "name": "蜂子油茶(桂林两江四湖象鼻山店)",
+      "city": "桂林",
+      "url": "https://you.ctrip.com/food/0/144563394.html",
+      "score": 4.4,
+      "count": 10,
+      "averagePrice": 42
+    },
+    {
+      "name": "冰泉豆浆馆(潘塘店)",
+      "city": "梧州",
+      "url": "https://you.ctrip.com/food/0/13584695.html",
+      "score": 4.3,
+      "count": 11,
+      "averagePrice": 14
+    },
+    {
+      "name": "有间冰室",
+      "city": "北海",
+      "url": "https://you.ctrip.com/food/0/4926773.html",
+      "score": 4.2,
+      "count": 56,
+      "averagePrice": 17
+    },
+    {
+      "name": "春田越南菜馆",
+      "city": "崇左",
+      "url": "https://you.ctrip.com/food/0/8309067.html",
+      "score": 4.7,
+      "count": 15,
+      "averagePrice": 64
+    },
+    {
+      "name": "黄氏烧鸭粉(城东店)",
+      "city": "百色",
+      "url": "https://you.ctrip.com/food/0/16264360.html",
+      "score": 4.5,
+      "count": 16,
+      "averagePrice": 10
+    },
+    {
+      "name": "供销社大饭堂",
+      "city": "贺州",
+      "url": "https://you.ctrip.com/food/0/130774237.html",
+      "score": 4.3,
+      "count": 7,
+      "averagePrice": 62
+    },
+    {
+      "name": "壮家人·壮家菜(前进店)",
+      "city": "百色",
+      "url": "https://you.ctrip.com/food/0/130631047.html",
+      "score": 4.3,
+      "count": 7,
+      "averagePrice": 69
+    },
+    {
+      "name": "老猫烤鱼(江滨路店)",
+      "city": "河池",
+      "url": "https://you.ctrip.com/food/0/130753801.html",
+      "score": 4.7,
+      "count": 9,
+      "averagePrice": 51
+    },
+    {
+      "name": "耕饭山庄",
+      "city": "河池",
+      "url": "https://you.ctrip.com/food/0/152151432.html",
+      "score": 4.7,
+      "count": 7,
+      "averagePrice": 72
+    },
+    {
+      "name": "金秀山里人饭馆",
+      "city": "来宾",
+      "url": "https://you.ctrip.com/food/0/13388509.html",
+      "score": 5,
+      "count": 11,
+      "averagePrice": 62
+    },
+    {
+      "name": "芳姐米饺(祥和路店)",
+      "city": "来宾",
+      "url": "https://you.ctrip.com/food/0/63479137.html",
+      "score": 4.2,
+      "count": 6,
+      "averagePrice": 12
+    },
+    {
+      "name": "雷平姐妹粉店(大新一分店)",
+      "city": "崇左",
+      "url": "https://you.ctrip.com/food/0/130638927.html",
+      "score": 4.7,
+      "count": 7,
+      "averagePrice": 13
+    },
+    {
+      "name": "勝记粉库桂林米粉(西街店)",
+      "city": "桂林",
+      "url": "https://you.ctrip.com/food/0/12031378.html",
+      "score": 4.8,
+      "count": 11,
+      "averagePrice": 20
+    },
+    {
+      "name": "老嘢扣肉糯米饭(云亭街店)",
+      "city": "南宁",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/nanning166/15718246.html",
+      "score": 4.7,
+      "count": 48,
+      "averagePrice": 13
+    },
+    {
+      "name": "阿谋美食·广西菜",
+      "city": "南宁",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/nanning166/11600732.html",
+      "score": 4.5,
+      "count": 70,
+      "averagePrice": 86
+    },
+    {
+      "name": "文惠桥头大华干捞粉",
+      "city": "柳州",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/liuzhou143/175781.html",
+      "score": 4.8,
+      "count": 5,
+      "averagePrice": 13
+    },
+    {
+      "name": "望江寨•柳州菜馆(西江店)",
+      "city": "柳州",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/liuzhou143/15883979.html",
+      "score": 5,
+      "count": 8,
+      "averagePrice": 63
+    },
+    {
+      "name": "马峰太原堂老牌凉粉(贺州华生购物广场店)",
+      "city": "贺州",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/hezhou707/26350184.html",
+      "score": 5,
+      "count": 7,
+      "averagePrice": 7
+    },
+    {
+      "name": "壮家大盘菜",
+      "city": "百色",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/baise524/32662719.html",
+      "score": 4.4,
+      "count": 8,
+      "averagePrice": 54
+    },
+    {
+      "name": "壮族人餐厅(靖西店)",
+      "city": "百色",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/baise524/32662351.html",
+      "score": 5,
+      "count": 5,
+      "averagePrice": 67
+    },
+    {
+      "name": "老街土菜馆",
+      "city": "崇左",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongzuo837/26556755.html",
+      "score": 4.6,
+      "count": 19,
+      "averagePrice": 65
+    },
+    {
+      "name": "大新奇记老牌烧烤",
+      "city": "崇左",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongzuo837/153810713.html",
+      "score": 4.3,
+      "count": 8,
+      "averagePrice": 49
+    }
+  ],
+  "excludedAttractions": [
+    {
+      "name": "合浦东坡亭",
+      "url": "https://you.ctrip.com/sight/hepu965/9319.html",
+      "reason": "可见游客样本反映未开放；本轮未取得当期开放确认，暂不新增"
+    },
+    {
+      "name": "防城港火山岛",
+      "url": "https://you.ctrip.com/sight/fangchenggang698/1408931.html",
+      "reason": "可见样本反映非节假日未开放，未取得当前开放确认，暂不新增"
+    }
+  ],
+  "excludedRestaurants": [
+    {
+      "name": "邕味老友(人民西路店)",
+      "url": "https://you.ctrip.com/food/0/5451723.html",
+      "score": 4.5,
+      "count": 4,
+      "reason": "样本较少或同品牌已有更充分样本，未新增"
+    },
+    {
+      "name": "甘家界牌柠檬鸭(东葛店)",
+      "url": "https://you.ctrip.com/food/0/5451107.html",
+      "score": 4.5,
+      "count": 5,
+      "reason": "样本较少或同品牌已有更充分样本，未新增"
+    },
+    {
+      "name": "甘家界柠檬鸭(春晖店)",
+      "url": "https://you.ctrip.com/food/0/16497866.html",
+      "score": 4,
+      "count": 15,
+      "reason": "评分未达本批候选筛选线"
+    },
+    {
+      "name": "娇姐老牌螺蛳粉(雅儒路店)",
+      "url": "https://you.ctrip.com/food/0/16603861.html",
+      "score": 4,
+      "count": 3,
+      "reason": "评分未达本批候选筛选线"
+    },
+    {
+      "name": "新郭记油茶(伏波店)",
+      "url": "https://you.ctrip.com/food/0/5578547.html",
+      "score": 4.1,
+      "count": 19,
+      "reason": "评分未达本批候选筛选线"
+    },
+    {
+      "name": "新郭记油茶(七星店)",
+      "url": "https://you.ctrip.com/food/0/78905788.html",
+      "score": 4.3,
+      "count": 4,
+      "reason": "样本较少或同品牌已有更充分样本，未新增"
+    },
+    {
+      "name": "正宗恭城桃乡油茶",
+      "url": "https://you.ctrip.com/food/0/5578271.html",
+      "score": 5,
+      "count": 4,
+      "reason": "样本较少或同品牌已有更充分样本，未新增"
+    },
+    {
+      "name": "冰泉豆浆馆(新界店)",
+      "url": "https://you.ctrip.com/food/0/78682852.html",
+      "score": 4,
+      "count": 6,
+      "reason": "评分未达本批候选筛选线"
+    },
+    {
+      "name": "南侨卷粉店",
+      "url": "https://you.ctrip.com/food/0/7573227.html",
+      "score": 3,
+      "count": 7,
+      "reason": "评分未达本批候选筛选线"
+    },
+    {
+      "name": "二十四幢糖水",
+      "url": "https://you.ctrip.com/food/0/129866061.html",
+      "score": 4,
+      "count": 3,
+      "reason": "评分未达本批候选筛选线"
+    },
+    {
+      "name": "雅庄越式风味馆",
+      "url": "https://you.ctrip.com/food/0/8632930.html",
+      "score": 4,
+      "count": 8,
+      "reason": "评分未达本批候选筛选线"
+    },
+    {
+      "name": "专业猪脚粉",
+      "url": "https://you.ctrip.com/food/0/63239321.html",
+      "score": 4.1,
+      "count": 10,
+      "reason": "评分未达本批候选筛选线"
+    },
+    {
+      "name": "老东江米粉(总店)",
+      "url": "https://you.ctrip.com/food/0/5578057.html",
+      "score": 4,
+      "count": 78,
+      "reason": "评分未达本批候选筛选线"
+    },
+    {
+      "name": "牛红馆(远东店)",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/hezhou707/32629612.html",
+      "score": 4.3,
+      "count": 4,
+      "reason": "样本较少或同品牌已有更充分样本，未新增"
+    },
+    {
+      "name": "云吞杨晋记豆豉粉(黄姚新街店)",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/hezhou707/43639552.html",
+      "score": 5,
+      "count": 3,
+      "reason": "样本较少或同品牌已有更充分样本，未新增"
+    }
+  ]
+}
