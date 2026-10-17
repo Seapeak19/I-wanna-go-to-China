@@ -32503,7 +32503,8 @@
         "basis": "Public platform average, not a current menu quote. The aggregation date is unspecified.",
         "good": "Branch and dish information is available; no visitor sample with an identified author and date has yet been checked.",
         "caution": "Confirm the exact branch, opening, tea/service charges and portions. An average is not a guaranteed meal budget; branches are not interchangeable."
-      }
+      },
+      "recommendationStatus": "research-only"
     },
     {
       "id": "food-gd-030",
@@ -32777,7 +32778,8 @@
         "summary": "对服务、售罄情况与价格不满意；样本较旧，列待复核。",
         "summaryEn": "Criticized service, sold-out items and price. This old sample needs rechecking.",
         "historical": true
-      }
+      },
+      "recommendationStatus": "research-only"
     },
     {
       "id": "food-gd-037",
@@ -32891,7 +32893,8 @@
         "basis": "Public platform average, not a current menu quote. The aggregation date is unspecified.",
         "good": "Branch and dish information is available; no visitor sample with an identified author and date has yet been checked.",
         "caution": "Confirm the exact branch, opening, tea/service charges and portions. An average is not a guaranteed meal budget; branches are not interchangeable."
-      }
+      },
+      "recommendationStatus": "research-only"
     },
     {
       "id": "food-gd-040",
@@ -32937,6 +32940,1767 @@
         "summary": "认为点心选择多，同时提到上菜节奏不稳定、部分菜品口感一般。",
         "summaryEn": "Noted a broad dim-sum choice, uneven serving pace and mixed dish quality.",
         "historical": true
+      }
+    },
+    {
+      "id": "food-v6-001",
+      "region": "广东",
+      "city": "广州",
+      "place": "广州",
+      "name": "陶陶居酒家（第十甫路总店）",
+      "address": "第十甫路20号",
+      "dishes": "虾饺、烧鹅",
+      "price": "平台参考 CNY 103 / 人",
+      "priceCNY": {
+        "low": 103,
+        "high": 103,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "茶位另计，提前问清；热门时段可能等位。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/554/444058.html",
+      "checked": "2026-10-17",
+      "area": "上下九",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.2,
+        "scale": 5,
+        "count": 681,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/554/444058.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/554/444058.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Tao Tao Ju · Dishifu",
+        "address": "Navigation address in Chinese: 第十甫路20号",
+        "dishes": "Shrimp dumplings; roast goose",
+        "price": "Platform reference: CNY 103 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Ask about tea charges; queues are possible."
+      }
+    },
+    {
+      "id": "food-v6-002",
+      "region": "广东",
+      "city": "广州",
+      "place": "广州",
+      "name": "陶陶居酒家（正佳广场店）",
+      "address": "天河路228号正佳广场6层6C059",
+      "dishes": "虾饺、红米肠",
+      "price": "平台参考 CNY 99 / 人",
+      "priceCNY": {
+        "low": 99,
+        "high": 99,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "与第十甫总店分开安排；商场店也可能排队。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015075/12325331.html",
+      "checked": "2026-10-17",
+      "area": "天河商圈",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.6,
+        "scale": 5,
+        "count": 441,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015075/12325331.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015075/12325331.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Tao Tao Ju · Grandview",
+        "address": "Navigation address in Chinese: 天河路228号正佳广场6层6C059",
+        "dishes": "Shrimp dumplings; red rice rolls",
+        "price": "Platform reference: CNY 99 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "A separate branch from Dishifu; mall queues are possible."
+      }
+    },
+    {
+      "id": "food-v6-003",
+      "region": "广东",
+      "city": "广州",
+      "place": "广州",
+      "name": "百花传统甜品店（原址店）",
+      "address": "文明路208号",
+      "dishes": "凤凰奶糊、绿豆海带",
+      "price": "平台参考 CNY 19 / 人",
+      "priceCNY": {
+        "low": 19,
+        "high": 19,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "奶糊含蛋奶；菜单较多，建议每人先点一碗。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/152/446734.html",
+      "checked": "2026-10-17",
+      "area": "文明路",
+      "mealType": "小吃加餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 267,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/152/446734.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/152/446734.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Bai Hua Desserts",
+        "address": "Navigation address in Chinese: 文明路208号",
+        "dishes": "Egg-milk custard; mung beans with kelp",
+        "price": "Platform reference: CNY 19 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Custard contains egg and milk; start with one bowl each."
+      }
+    },
+    {
+      "id": "food-v6-004",
+      "region": "广东",
+      "city": "广州",
+      "place": "广州",
+      "name": "玫瑰甜品（文明路店）",
+      "address": "文明路218号",
+      "dishes": "杏仁豆腐、姜撞奶",
+      "price": "平台参考 CNY 18 / 人",
+      "priceCNY": {
+        "low": 18,
+        "high": 18,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "与百花作为二选一备选，避免连续吃两顿甜品。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015109/185112.html",
+      "checked": "2026-10-17",
+      "area": "文明路",
+      "mealType": "小吃加餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.6,
+        "scale": 5,
+        "count": 291,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015109/185112.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015109/185112.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Rose Desserts · Wenming",
+        "address": "Navigation address in Chinese: 文明路218号",
+        "dishes": "Almond pudding; ginger milk pudding",
+        "price": "Platform reference: CNY 18 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "An alternative to Bai Hua rather than two full dessert meals."
+      }
+    },
+    {
+      "id": "food-v6-005",
+      "region": "广东",
+      "city": "广州",
+      "place": "广州",
+      "name": "顺记冰室（宝华路店）",
+      "address": "宝华路83号",
+      "dishes": "椰子雪糕、芒果雪糕",
+      "price": "大众点评参考 CNY 28 / 人",
+      "priceCNY": {
+        "low": 28,
+        "high": 28,
+        "historical": false
+      },
+      "basis": "大众点评该分店公开参考人均28元，统计时间未明确；非现行菜单报价。其他资料快照为26元，不能当作实时价格。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "含乳制品；雪糕单品价格与平台人均不同。",
+      "url": "https://you.ctrip.com/food/guangzhou152/4927090.html",
+      "checked": "2026-10-17",
+      "area": "宝华路",
+      "mealType": "小吃加餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.6,
+        "scale": 5,
+        "count": 311,
+        "url": "https://you.ctrip.com/food/guangzhou152/4927090.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/guangzhou152/4927090.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        },
+        {
+          "platform": "大众点评",
+          "url": "https://www.dianping.com/shop/518656/photos/album",
+          "checked": "2026-10-17",
+          "title": "同分店交叉参考；价格和评价可能不同"
+        }
+      ],
+      "en": {
+        "name": "Shun Ji Ice Chamber",
+        "address": "Navigation address in Chinese: 宝华路83号",
+        "dishes": "Coconut ice cream; mango ice cream",
+        "price": "Dianping reference: CNY 28 / person",
+        "basis": "Dianping lists CNY 28 per person; aggregation date unspecified. Not a current menu quote. Other snapshots list CNY 26.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Contains dairy; individual ice cream prices differ from the average."
+      }
+    },
+    {
+      "id": "food-v6-006",
+      "region": "广东",
+      "city": "广州",
+      "place": "广州",
+      "name": "宝华面店",
+      "address": "宝华路117号",
+      "dishes": "鲜虾云吞面、和味萝卜",
+      "price": "平台参考 CNY 30 / 人",
+      "priceCNY": {
+        "low": 30,
+        "high": 30,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "面条偏有韧劲；鲜虾云吞含甲壳类。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/345/4927182.html",
+      "checked": "2026-10-17",
+      "area": "宝华路",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.4,
+        "scale": 5,
+        "count": 830,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/345/4927182.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/345/4927182.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Poh Wah Noodles",
+        "address": "Navigation address in Chinese: 宝华路117号",
+        "dishes": "Shrimp wonton noodles; braised radish",
+        "price": "Platform reference: CNY 30 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Firm noodles; shrimp wontons contain shellfish."
+      }
+    },
+    {
+      "id": "food-v6-007",
+      "region": "广东",
+      "city": "广州",
+      "place": "广州",
+      "name": "陈添记·祖传爽鱼皮（十五甫三巷店）",
+      "address": "宝华路十五甫三巷2号之二",
+      "dishes": "爽鱼皮、艇仔粥",
+      "price": "平台参考 CNY 26 / 人",
+      "priceCNY": {
+        "low": 26,
+        "high": 26,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "该条目只对应三巷分店；鱼皮配料与过敏原请现场询问。",
+      "url": "https://gs.ctrip.com/html5/you/foods/guangdong100051/442537.html",
+      "checked": "2026-10-17",
+      "area": "宝华路",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 1821,
+        "url": "https://gs.ctrip.com/html5/you/foods/guangdong100051/442537.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/guangdong100051/442537.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Chan Tim Kee · Shiwufu Lane",
+        "address": "Navigation address in Chinese: 宝华路十五甫三巷2号之二",
+        "dishes": "Dressed fish skin; sampan congee",
+        "price": "Platform reference: CNY 26 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "This record is for the Sanxiang branch; ask about fish-skin seasonings and allergens."
+      }
+    },
+    {
+      "id": "food-v6-008",
+      "region": "广东",
+      "city": "广州",
+      "place": "广州",
+      "name": "南信牛奶甜品专家",
+      "address": "第十甫路47号",
+      "dishes": "双皮奶、姜撞奶",
+      "price": "平台参考 CNY 30 / 人",
+      "priceCNY": {
+        "low": 30,
+        "high": 30,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "奶制品较多；先点小份，勿把小吃串联当多顿正餐。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/1445178/4927086.html",
+      "checked": "2026-10-17",
+      "area": "上下九",
+      "mealType": "小吃加餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 1794,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/1445178/4927086.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/1445178/4927086.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Nan Xin Milk Desserts",
+        "address": "Navigation address in Chinese: 第十甫路47号",
+        "dishes": "Double-skin milk pudding; ginger milk pudding",
+        "price": "Platform reference: CNY 30 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Many dairy dishes; order small portions on a snack route."
+      }
+    },
+    {
+      "id": "food-v6-009",
+      "region": "广东",
+      "city": "广州",
+      "place": "广州",
+      "name": "凌记（泮塘路店）",
+      "address": "泮塘路仁威祖庙斜对面",
+      "dishes": "濑粉、三酱猪肠粉",
+      "price": "平台参考 CNY 27 / 人",
+      "priceCNY": {
+        "low": 27,
+        "high": 27,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "三酱可能含花生；晚到部分浇头可能售罄。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015069/446495.html",
+      "checked": "2026-10-17",
+      "area": "泮塘",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 39,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015069/446495.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015069/446495.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Ling Ji · Pantang",
+        "address": "Navigation address in Chinese: 泮塘路仁威祖庙斜对面",
+        "dishes": "Lai fun rice noodles; rice rolls with three sauces",
+        "price": "Platform reference: CNY 27 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Sauces may contain peanuts; toppings may sell out later."
+      }
+    },
+    {
+      "id": "food-v6-010",
+      "region": "广东",
+      "city": "广州",
+      "place": "广州",
+      "name": "粤·向群饭店（龙津东路总店）",
+      "address": "龙津东路853–857号",
+      "dishes": "葱油鸡、干炒牛河",
+      "price": "平台参考 CNY 88 / 人",
+      "priceCNY": {
+        "low": 88,
+        "high": 88,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "适合多人分菜；先问份量，独行可选小份主食。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015152/5323797.html",
+      "checked": "2026-10-17",
+      "area": "龙津东路",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.3,
+        "scale": 5,
+        "count": 147,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015152/5323797.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015152/5323797.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Xiang Qun · Longjin East",
+        "address": "Navigation address in Chinese: 龙津东路853–857号",
+        "dishes": "Scallion-oil chicken; dry-fried beef rice noodles",
+        "price": "Platform reference: CNY 88 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Shared dishes suit groups; solo diners should ask about smaller portions."
+      }
+    },
+    {
+      "id": "food-v6-011",
+      "region": "广东",
+      "city": "深圳",
+      "place": "深圳",
+      "name": "华洋酒楼",
+      "address": "水湾路14号华洋大厦一楼",
+      "dishes": "虾饺、叉烧包",
+      "price": "平台参考 CNY 90 / 人",
+      "priceCNY": {
+        "low": 90,
+        "high": 90,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "历史评论提到服务忙碌、停车不便；茶位费请先问清。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2036042/5169200.html",
+      "checked": "2026-10-17",
+      "area": "蛇口",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.6,
+        "scale": 5,
+        "count": 31,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2036042/5169200.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2036042/5169200.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        },
+        {
+          "platform": "去哪儿",
+          "url": "https://touch.go.qunar.com/poi/3350082",
+          "checked": "2026-10-17",
+          "title": "同分店交叉参考；价格和评价可能不同"
+        }
+      ],
+      "en": {
+        "name": "Hua Yang Restaurant",
+        "address": "Navigation address in Chinese: 水湾路14号华洋大厦一楼",
+        "dishes": "Shrimp dumplings; barbecue-pork buns",
+        "price": "Platform reference: CNY 90 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Historical reviews mention busy service and difficult parking; check tea charges."
+      }
+    },
+    {
+      "id": "food-v6-012",
+      "region": "广东",
+      "city": "深圳",
+      "place": "深圳",
+      "name": "唐宫（东门店）",
+      "address": "新园路1号中海商城六层",
+      "dishes": "乳鸽、红米肠、流沙包",
+      "price": "平台参考 CNY 107 / 人",
+      "priceCNY": {
+        "low": 107,
+        "high": 107,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "早茶和晚餐的单价、优惠不同，以当日菜单为准。",
+      "url": "https://gs.ctrip.com/html5/you/foods/shenzhen26/223373.html",
+      "checked": "2026-10-17",
+      "area": "东门",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 801,
+        "url": "https://gs.ctrip.com/html5/you/foods/shenzhen26/223373.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/shenzhen26/223373.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Tang Palace · Dongmen",
+        "address": "Navigation address in Chinese: 新园路1号中海商城六层",
+        "dishes": "Roast pigeon; red rice rolls; custard buns",
+        "price": "Platform reference: CNY 107 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Dim-sum and dinner prices or offers differ; check the current menu."
+      }
+    },
+    {
+      "id": "food-v6-013",
+      "region": "广东",
+      "city": "深圳",
+      "place": "深圳",
+      "name": "新福楼海鲜舫（东门店）",
+      "address": "东门街道永新街57号",
+      "dishes": "虾饺、烧卖、乳鸽",
+      "price": "平台参考 CNY 94 / 人",
+      "priceCNY": {
+        "low": 94,
+        "high": 94,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "公开评价样本仅8条，分数参考价值有限；作为唐宫备选。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/26/225607.html",
+      "checked": "2026-10-17",
+      "area": "东门",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "scale": 5,
+        "count": 8,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/26/225607.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/26/225607.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Xin Fu Lou · Dongmen",
+        "address": "Navigation address in Chinese: 东门街道永新街57号",
+        "dishes": "Shrimp dumplings; siu mai; roast pigeon",
+        "price": "Platform reference: CNY 94 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Only eight public reviews; the score has limited weight. An alternative to Tang Palace."
+      }
+    },
+    {
+      "id": "food-v6-014",
+      "region": "广东",
+      "city": "深圳",
+      "place": "深圳",
+      "name": "金稻园砂锅粥（总店）",
+      "address": "东门街道中兴路99号",
+      "dishes": "膏蟹基围虾粥、普宁炸豆腐",
+      "price": "平台参考 CNY 93 / 人",
+      "priceCNY": {
+        "low": 93,
+        "high": 93,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "砂锅粥需等候；海鲜按规格报价，先问锅的份量。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/26/5169347.html",
+      "checked": "2026-10-17",
+      "area": "东门",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.6,
+        "scale": 5,
+        "count": 253,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/26/5169347.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/26/5169347.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Jin Dao Yuan · Main Branch",
+        "address": "Navigation address in Chinese: 东门街道中兴路99号",
+        "dishes": "Crab and shrimp congee; Puning fried tofu",
+        "price": "Platform reference: CNY 93 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Congee takes time; confirm seafood specifications and pot size."
+      }
+    },
+    {
+      "id": "food-v6-015",
+      "region": "广东",
+      "city": "深圳",
+      "place": "深圳",
+      "name": "金稻园砂锅粥（壹海城店）",
+      "address": "海山路壹海城四区1栋101号",
+      "dishes": "虾蟹粥、蚝仔烙",
+      "price": "平台参考 CNY 93 / 人",
+      "priceCNY": {
+        "low": 93,
+        "high": 93,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "盐田分店不与罗湖总店拼成步行线；先确认海鲜价格。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2036585/7404824.html",
+      "checked": "2026-10-17",
+      "area": "盐田海山",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "scale": 5,
+        "count": 62,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2036585/7404824.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2036585/7404824.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Jin Dao Yuan · One Mall",
+        "address": "Navigation address in Chinese: 海山路壹海城四区1栋101号",
+        "dishes": "Shrimp and crab congee; oyster omelet",
+        "price": "Platform reference: CNY 93 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Do not combine this Yantian branch with Luohu as a walking route; confirm seafood prices."
+      }
+    },
+    {
+      "id": "food-v6-016",
+      "region": "广东",
+      "city": "深圳",
+      "place": "深圳",
+      "name": "木屋烧烤（八卦岭店）",
+      "address": "八卦一路朗诗寓楼下",
+      "dishes": "羊肉串、烤茄子",
+      "price": "平台参考 CNY 83 / 人",
+      "priceCNY": {
+        "low": 83,
+        "high": 83,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "支付宝岛（2020-12-22）：认为味道尚可，也指出价格较高、份量不多。仅为历史个人意见。",
+      "caution": "历史评价也提到份量和价格；少量加单，并说明辣度。",
+      "url": "https://gs.ctrip.com/html5/you/foods/Shenzhen26/5171514.html",
+      "checked": "2026-10-17",
+      "area": "八卦岭",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 180,
+        "url": "https://gs.ctrip.com/html5/you/foods/Shenzhen26/5171514.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/Shenzhen26/5171514.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Mu Wu BBQ · Bagualing",
+        "address": "Navigation address in Chinese: 八卦一路朗诗寓楼下",
+        "dishes": "Lamb skewers; grilled eggplant",
+        "price": "Platform reference: CNY 83 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Found the food acceptable but criticized price and portion size. A historical personal opinion.",
+        "caution": "Historical reviews also question portion value; order gradually and specify spice."
+      },
+      "reviewSample": {
+        "author": "支付宝岛",
+        "date": "2020-12-22",
+        "url": "https://you.ctrip.com/food/26/5171514.html",
+        "summary": "认为味道尚可，也指出价格较高、份量不多。仅为历史个人意见。",
+        "summaryEn": "Found the food acceptable but criticized price and portion size. A historical personal opinion.",
+        "historical": true
+      }
+    },
+    {
+      "id": "food-v6-017",
+      "region": "广东",
+      "city": "佛山",
+      "place": "佛山",
+      "name": "松记食店（容桂）",
+      "address": "容桂街道合祥路3号",
+      "dishes": "猪肉丸、竹肠",
+      "price": "平台参考 CNY 112 / 人",
+      "priceCNY": {
+        "low": 112,
+        "high": 112,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "清水火锅以猪肉及内脏为主；不吃内脏者先看菜单，可能限号。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/0/5490312.html",
+      "checked": "2026-10-17",
+      "area": "容桂",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 78,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/0/5490312.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/0/5490312.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Song Ji · Ronggui",
+        "address": "Navigation address in Chinese: 容桂街道合祥路3号",
+        "dishes": "Pork balls; pork intestine",
+        "price": "Platform reference: CNY 112 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Pork and offal hotpot; check the menu if avoiding offal. Queue tickets may run out."
+      }
+    },
+    {
+      "id": "food-v6-018",
+      "region": "广东",
+      "city": "佛山",
+      "place": "佛山",
+      "name": "细妹五香牛杂（步行街店）",
+      "address": "马地巷2号新基孵化园1楼2号",
+      "dishes": "牛杂、萝卜、豆泡",
+      "price": "平台参考 CNY 28 / 人",
+      "priceCNY": {
+        "low": 28,
+        "high": 28,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "按小中大份点单；不吃内脏可询问萝卜豆泡单点。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2040252/5490763.html",
+      "checked": "2026-10-17",
+      "area": "大良",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.2,
+        "scale": 5,
+        "count": 105,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2040252/5490763.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2040252/5490763.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Xi Mei Beef Offal",
+        "address": "Navigation address in Chinese: 马地巷2号新基孵化园1楼2号",
+        "dishes": "Beef offal; radish; tofu puffs",
+        "price": "Platform reference: CNY 28 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Choose portion size; ask about radish or tofu separately if avoiding offal."
+      }
+    },
+    {
+      "id": "food-v6-019",
+      "region": "广东",
+      "city": "佛山",
+      "place": "佛山",
+      "name": "欢姐伦教糕（伦教总店）",
+      "address": "伦教街道北海大道北50号",
+      "dishes": "伦教糕、马拉糕",
+      "price": "平台参考 CNY 21 / 人",
+      "priceCNY": {
+        "low": 21,
+        "high": 21,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "伦教总店与大良有距离，适合作为单独半日停靠；糕点问保存方式。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/207/5499142.html",
+      "checked": "2026-10-17",
+      "area": "伦教",
+      "mealType": "小吃加餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.3,
+        "scale": 5,
+        "count": 42,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/207/5499142.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/207/5499142.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Huan Jie Rice Cakes · Lunjiao",
+        "address": "Navigation address in Chinese: 伦教街道北海大道北50号",
+        "dishes": "Lunjiao rice cake; steamed sponge cake",
+        "price": "Platform reference: CNY 21 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "A separate stop from Daliang; ask how to store takeaway cakes."
+      }
+    },
+    {
+      "id": "food-v6-020",
+      "region": "广东",
+      "city": "佛山",
+      "place": "佛山",
+      "name": "猪肉婆私房菜（容桂总店）",
+      "address": "容桂展业路31号",
+      "dishes": "干煎罗氏虾、烧鹅、伦教糕",
+      "price": "平台参考 CNY 150 / 人",
+      "priceCNY": {
+        "low": 150,
+        "high": 150,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "适合多人合菜；鲜虾规格、茶位和服务费须下单前确认。",
+      "url": "https://gs.ctrip.com/html5/you/foods/shundedistrict120098/5491268.html",
+      "checked": "2026-10-17",
+      "area": "容桂",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 435,
+        "url": "https://gs.ctrip.com/html5/you/foods/shundedistrict120098/5491268.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/shundedistrict120098/5491268.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Zhu Rou Po · Ronggui",
+        "address": "Navigation address in Chinese: 容桂展业路31号",
+        "dishes": "Pan-fried prawns; roast goose; rice cake",
+        "price": "Platform reference: CNY 150 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Best for shared dishes; confirm prawn size, tea and service charges."
+      }
+    },
+    {
+      "id": "food-v6-021",
+      "region": "广东",
+      "city": "佛山",
+      "place": "佛山",
+      "name": "龙的酒楼（近良路店）",
+      "address": "大良近良路6号",
+      "dishes": "凤爪、流沙包、陈村粉",
+      "price": "平台参考 CNY 69 / 人",
+      "priceCNY": {
+        "low": 69,
+        "high": 69,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "点心可作为一顿正餐，华盖路糖水安排在之后并减量。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/143888/5500820.html",
+      "checked": "2026-10-17",
+      "area": "大良",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.3,
+        "scale": 5,
+        "count": 97,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/143888/5500820.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/143888/5500820.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Long De · Jinliang Road",
+        "address": "Navigation address in Chinese: 大良近良路6号",
+        "dishes": "Chicken feet; custard buns; rice noodles",
+        "price": "Platform reference: CNY 69 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Treat dim sum as a full meal; keep later Huagai desserts small."
+      }
+    },
+    {
+      "id": "food-v6-022",
+      "region": "广东",
+      "city": "佛山",
+      "place": "佛山",
+      "name": "北香园饺子馆（锦华路店）",
+      "address": "锦华路35号",
+      "dishes": "韭菜煎饺、炒牛河",
+      "price": "平台参考 CNY 23 / 人",
+      "priceCNY": {
+        "low": 23,
+        "high": 23,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "与顺德各镇分开安排；煎饺和炒粉可先少量分食。",
+      "url": "https://gs.ctrip.com/html5/you/foods/Foshan207/5490030.html",
+      "checked": "2026-10-17",
+      "area": "禅城",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.8,
+        "scale": 5,
+        "count": 298,
+        "url": "https://gs.ctrip.com/html5/you/foods/Foshan207/5490030.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/Foshan207/5490030.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Bei Xiang Yuan · Jinhua",
+        "address": "Navigation address in Chinese: 锦华路35号",
+        "dishes": "Pan-fried chive dumplings; beef rice noodles",
+        "price": "Platform reference: CNY 23 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Plan separately from Shunde towns; start with small shared portions."
+      }
+    },
+    {
+      "id": "food-v6-023",
+      "region": "广东",
+      "city": "佛山",
+      "place": "佛山",
+      "name": "有记餐厅（金鱼街店）",
+      "address": "金鱼街24号1层106号商铺",
+      "dishes": "白切猪手、三杯肠头、烧鹅",
+      "price": "平台参考 CNY 80 / 人",
+      "priceCNY": {
+        "low": 80,
+        "high": 80,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "部分菜含内脏；同一餐与北香园二选一，不必都点完整餐。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015240/5490450.html",
+      "checked": "2026-10-17",
+      "area": "禅城",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 22,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015240/5490450.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2015240/5490450.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "You Ji · Jinyu Street",
+        "address": "Navigation address in Chinese: 金鱼街24号1层106号商铺",
+        "dishes": "Pork trotters; three-cup intestine; roast goose",
+        "price": "Platform reference: CNY 80 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Some dishes contain offal; choose this or Bei Xiang Yuan for a full meal."
+      }
+    },
+    {
+      "id": "food-v6-024",
+      "region": "广东",
+      "city": "汕头",
+      "place": "汕头",
+      "name": "福合埕牛肉火锅（长平国新店）",
+      "address": "长平路朝阳庄广海大厦101号",
+      "dishes": "五花趾、牛肉丸、粿条",
+      "price": "平台参考 CNY 82 / 人",
+      "priceCNY": {
+        "low": 82,
+        "high": 82,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "作为杏花吴记之外的正餐备选；点锅底前确认人数和肉盘份量。",
+      "url": "https://gs.ctrip.com/html5/you/foods/shantou215/5520150.html",
+      "checked": "2026-10-17",
+      "area": "长平路",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "scale": 5,
+        "count": 190,
+        "url": "https://gs.ctrip.com/html5/you/foods/shantou215/5520150.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/shantou215/5520150.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Fu He Cheng · Changping",
+        "address": "Navigation address in Chinese: 长平路朝阳庄广海大厦101号",
+        "dishes": "Beef shank cuts; beef balls; rice noodles",
+        "price": "Platform reference: CNY 82 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "A main-meal alternative to Xinghua Wu Ji; check pot and meat portion sizes."
+      }
+    },
+    {
+      "id": "food-v6-025",
+      "region": "广东",
+      "city": "汕头",
+      "place": "汕头",
+      "name": "老妈宫粽球",
+      "address": "新关街1、3、5、7号",
+      "dishes": "双烹粽球、猪肚汤",
+      "price": "平台参考 CNY 17 / 人",
+      "priceCNY": {
+        "low": 17,
+        "high": 17,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "粽球饱腹感强，拼小吃路线可先分一只。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/215/17681869.html",
+      "checked": "2026-10-17",
+      "area": "小公园",
+      "mealType": "小吃加餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.3,
+        "scale": 5,
+        "count": 58,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/215/17681869.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/215/17681869.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Lao Ma Gong Rice Dumplings",
+        "address": "Navigation address in Chinese: 新关街1、3、5、7号",
+        "dishes": "Sweet-savory rice dumpling; pork-tripe soup",
+        "price": "Platform reference: CNY 17 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Rice dumplings are filling; share one on a snack route."
+      }
+    },
+    {
+      "id": "food-v6-026",
+      "region": "广东",
+      "city": "汕头",
+      "place": "汕头",
+      "name": "张钦德·广场老牌豆花甜汤（总店）",
+      "address": "公园路3号汇涛花园7幢102铺",
+      "dishes": "豆花、五果汤",
+      "price": "平台参考 CNY 12 / 人",
+      "priceCNY": {
+        "low": 12,
+        "high": 12,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "豆花口感较结实；含大豆，糖量可先询问。",
+      "url": "https://gs.ctrip.com/html5/you/foods/shantou215/111552.html",
+      "checked": "2026-10-17",
+      "area": "人民广场",
+      "mealType": "小吃加餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.2,
+        "scale": 5,
+        "count": 66,
+        "url": "https://gs.ctrip.com/html5/you/foods/shantou215/111552.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/shantou215/111552.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Zhang Qin De Tofu Desserts",
+        "address": "Navigation address in Chinese: 公园路3号汇涛花园7幢102铺",
+        "dishes": "Sweet tofu pudding; mixed sweet soup",
+        "price": "Platform reference: CNY 12 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "A firmer tofu texture; contains soy. Ask about sweetness."
+      }
+    },
+    {
+      "id": "food-v6-027",
+      "region": "广东",
+      "city": "汕头",
+      "place": "汕头",
+      "name": "亚强果汁冰（中山路总店）",
+      "address": "中山路52号",
+      "dishes": "油柑汁、牛油果牛奶",
+      "price": "平台参考 CNY 19 / 人",
+      "priceCNY": {
+        "low": 19,
+        "high": 19,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "评价提到节假日队长、价格偏高；无需为饮料长时间绕路。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/215/15162239.html",
+      "checked": "2026-10-17",
+      "area": "中山路",
+      "mealType": "小吃加餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.3,
+        "scale": 5,
+        "count": 33,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/215/15162239.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/215/15162239.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Ya Qiang Fruit Ice · Zhongshan",
+        "address": "Navigation address in Chinese: 中山路52号",
+        "dishes": "Gooseberry juice; avocado milk",
+        "price": "Platform reference: CNY 19 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Reviews mention holiday queues and price; avoid a long detour for a drink."
+      }
+    },
+    {
+      "id": "food-v6-028",
+      "region": "广东",
+      "city": "汕头",
+      "place": "汕头",
+      "name": "金新肠粉（金新南路店）",
+      "address": "金新路47号",
+      "dishes": "潮式肠粉、皮蛋粥",
+      "price": "平台参考 CNY 18 / 人",
+      "priceCNY": {
+        "low": 18,
+        "high": 18,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "含虾、蚝的版本请明确点单；配料及酱汁可询问调整。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2/5520320.html",
+      "checked": "2026-10-17",
+      "area": "金新路",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 32,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2/5520320.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2/5520320.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Jin Xin Rice Rolls",
+        "address": "Navigation address in Chinese: 金新路47号",
+        "dishes": "Chaoshan rice rolls; century-egg congee",
+        "price": "Platform reference: CNY 18 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Specify whether shrimp or oysters are wanted; ask about sauce adjustments."
+      }
+    },
+    {
+      "id": "food-v6-029",
+      "region": "广东",
+      "city": "汕头",
+      "place": "汕头",
+      "name": "爱西干面（小公园总店）",
+      "address": "外马路南粤大厦旁；地图另标国平路1号，出发前确认入口",
+      "dishes": "干拌面、猪杂咸菜汤",
+      "price": "平台参考 CNY 22 / 人",
+      "priceCNY": {
+        "low": 22,
+        "high": 22,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "酱汁可能含花生芝麻；两平台对面条口感有不同意见，按偏好选择。",
+      "url": "https://gs.ctrip.com/html5/you/foods/shantou215/5520190.html",
+      "checked": "2026-10-17",
+      "area": "小公园",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.4,
+        "scale": 5,
+        "count": 37,
+        "url": "https://gs.ctrip.com/html5/you/foods/shantou215/5520190.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/shantou215/5520190.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        },
+        {
+          "platform": "去哪儿",
+          "url": "https://touch.go.qunar.com/poi/5148063",
+          "checked": "2026-10-17",
+          "title": "同分店交叉参考；价格和评价可能不同"
+        }
+      ],
+      "en": {
+        "name": "Ai Xi Dry Noodles",
+        "address": "Navigation address in Chinese: 外马路南粤大厦旁；地图另标国平路1号，出发前确认入口",
+        "dishes": "Dressed noodles; pork-offal soup",
+        "price": "Platform reference: CNY 22 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Sauce may contain peanut and sesame; reviews differ on noodle texture."
+      }
+    },
+    {
+      "id": "food-v6-030",
+      "region": "广东",
+      "city": "潮州",
+      "place": "潮州",
+      "name": "开元上西平咸水粿（开元店）",
+      "address": "开元路与上西平路交叉口驻影摄像馆旁",
+      "dishes": "咸水粿、红桃粿",
+      "price": "平台参考 CNY 10 / 人",
+      "priceCNY": {
+        "low": 10,
+        "high": 10,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "小份尝味，酱料及辣油现场确认；不要与正餐份量叠加。",
+      "url": "https://gs.ctrip.com/html5/you/foods/chaozhou467/115615.html",
+      "checked": "2026-10-17",
+      "area": "开元路",
+      "mealType": "小吃加餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "scale": 5,
+        "count": 34,
+        "url": "https://gs.ctrip.com/html5/you/foods/chaozhou467/115615.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/chaozhou467/115615.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Kaiyuan Shangxiping Rice Cakes",
+        "address": "Navigation address in Chinese: 开元路与上西平路交叉口驻影摄像馆旁",
+        "dishes": "Savory rice cakes; peach-shaped rice dumplings",
+        "price": "Platform reference: CNY 10 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Try a small portion; confirm sauces and chili oil."
+      }
+    },
+    {
+      "id": "food-v6-031",
+      "region": "广东",
+      "city": "潮州",
+      "place": "潮州",
+      "name": "莲华素食府（牌坊街店）",
+      "address": "开元路开元广场内",
+      "dishes": "菜脯粿条、三菇汤",
+      "price": "平台参考 CNY 50 / 人",
+      "priceCNY": {
+        "low": 50,
+        "high": 50,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "仿荤菜名不代表含肉；纯素、蛋奶和过敏原仍须逐菜问清。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/467/115616.html",
+      "checked": "2026-10-17",
+      "area": "开元路",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.6,
+        "scale": 5,
+        "count": 55,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/467/115616.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/467/115616.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Lian Hua Vegetarian · Paifang Street",
+        "address": "Navigation address in Chinese: 开元路开元广场内",
+        "dishes": "Rice noodles with preserved radish; mushroom soup",
+        "price": "Platform reference: CNY 50 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Mock-meat names do not imply meat; confirm vegan, egg, dairy and allergen needs dish by dish."
+      }
+    },
+    {
+      "id": "food-v6-032",
+      "region": "广东",
+      "city": "珠海",
+      "place": "珠海",
+      "name": "益健美食大广场（北岭店）",
+      "address": "岭南路68号正邦广场3楼",
+      "dishes": "虾饺、乳鸽、红米肠",
+      "price": "平台参考 CNY 78 / 人",
+      "priceCNY": {
+        "low": 78,
+        "high": 78,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "热门时段人多，先确认茶位；与横琴分开安排。",
+      "url": "https://gs.ctrip.com/html5/you/foods/zhuhai27/5196299.html",
+      "checked": "2026-10-17",
+      "area": "拱北北岭",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "scale": 5,
+        "count": 240,
+        "url": "https://gs.ctrip.com/html5/you/foods/zhuhai27/5196299.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/zhuhai27/5196299.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Yi Jian · Beiling",
+        "address": "Navigation address in Chinese: 岭南路68号正邦广场3楼",
+        "dishes": "Shrimp dumplings; pigeon; red rice rolls",
+        "price": "Platform reference: CNY 78 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Busy at peak times; check tea charges. Plan separately from Hengqin."
+      }
+    },
+    {
+      "id": "food-v6-033",
+      "region": "广东",
+      "city": "珠海",
+      "place": "珠海",
+      "name": "颓记茶餐厅（美景总店）",
+      "address": "水湾路221号美景花园19栋",
+      "dishes": "牛肉滑蛋饭、港式奶茶",
+      "price": "平台参考 CNY 52 / 人",
+      "priceCNY": {
+        "low": 52,
+        "high": 52,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "公开评论较少，评分不代表稳定保证；小区门店入口先导航确认。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/100051/15629915.html",
+      "checked": "2026-10-17",
+      "area": "拱北水湾",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.9,
+        "scale": 5,
+        "count": 11,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/100051/15629915.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/100051/15629915.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Tui Ji Cafe · Meijing",
+        "address": "Navigation address in Chinese: 水湾路221号美景花园19栋",
+        "dishes": "Beef and egg rice; Hong Kong milk tea",
+        "price": "Platform reference: CNY 52 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Limited review volume; the score is no guarantee. Check the residential-block entrance."
+      }
+    },
+    {
+      "id": "food-v6-034",
+      "region": "广东",
+      "city": "珠海",
+      "place": "珠海",
+      "name": "湛星饭店（香洲店）",
+      "address": "沿河西路888商业街东街一号",
+      "dishes": "白切鸡、湛江捞河粉",
+      "price": "平台参考 CNY 63 / 人",
+      "priceCNY": {
+        "low": 63,
+        "high": 63,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "海鲜时价不含在固定套餐承诺内，称重与加工费先确认。",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/27/236210.html",
+      "checked": "2026-10-17",
+      "area": "老香洲",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.8,
+        "scale": 5,
+        "count": 20,
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/27/236210.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/27/236210.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Zhan Xing · Xiangzhou",
+        "address": "Navigation address in Chinese: 沿河西路888商业街东街一号",
+        "dishes": "White-cut chicken; dressed rice noodles",
+        "price": "Platform reference: CNY 63 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Seafood varies in price; confirm weight and preparation charges."
+      }
+    },
+    {
+      "id": "food-v6-035",
+      "region": "广东",
+      "city": "东莞",
+      "place": "东莞",
+      "name": "棉记糖水店（红荔路店）",
+      "address": "瑞龙路13号一楼",
+      "dishes": "双皮奶、传统咸面、花生糖不甩",
+      "price": "平台参考 CNY 26 / 人",
+      "priceCNY": {
+        "low": 26,
+        "high": 26,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "保留平台分店名，导航以瑞龙路门牌确认；含花生、蛋奶的菜品先问配料。",
+      "url": "https://gs.ctrip.com/webapp/gourmet/food/fooddetail/212/5504164.html",
+      "checked": "2026-10-17",
+      "area": "莞城",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 816,
+        "url": "https://gs.ctrip.com/webapp/gourmet/food/fooddetail/212/5504164.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/webapp/gourmet/food/fooddetail/212/5504164.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        },
+        {
+          "platform": "羊城晚报",
+          "url": "https://ep.ycwb.com/epaper/ywdf/html/2023-07/12/content_489_585849.htm",
+          "checked": "2026-10-17",
+          "date": "2023-07-12",
+          "title": "历史记者探访，非现行菜单与营业确认"
+        }
+      ],
+      "en": {
+        "name": "Mian Ji Desserts · Hongli",
+        "address": "Navigation address in Chinese: 瑞龙路13号一楼",
+        "dishes": "Milk pudding; savory noodles; peanut-coated rice dumplings",
+        "price": "Platform reference: CNY 26 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Retain the platform branch name; navigate by the Ruilong address. Ask about peanut, egg and dairy ingredients."
+      }
+    },
+    {
+      "id": "food-v6-036",
+      "region": "广东",
+      "city": "中山",
+      "place": "中山",
+      "name": "荔苑隆都菜馆（沙溪店）",
+      "address": "105国道隆都家私城内",
+      "dishes": "沙溪扣肉、荔枝柴烧鸡、煎堆",
+      "price": "平台参考 CNY 83 / 人",
+      "priceCNY": {
+        "low": 83,
+        "high": 83,
+        "historical": false
+      },
+      "basis": "公开平台参考人均，统计时间未明确；非现行菜单报价，不含固定套餐承诺。",
+      "good": "已查阅门店资料与评价分布；尚未核对到可注明作者和日期的独立到访体验样本。",
+      "caution": "评价量较少，价格被部分样本认为偏高；与石岐店铺跨区安排。",
+      "url": "https://gs.ctrip.com/html5/you/foods/zhongshan233/121752.html",
+      "checked": "2026-10-17",
+      "area": "沙溪",
+      "mealType": "正餐与简餐",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "scale": 5,
+        "count": 13,
+        "url": "https://gs.ctrip.com/html5/you/foods/zhongshan233/121752.html",
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/zhongshan233/121752.html",
+          "checked": "2026-10-17",
+          "title": "分店、菜品、参考人均及公开评分样本"
+        }
+      ],
+      "en": {
+        "name": "Li Yuan Longdu · Shaxi",
+        "address": "Navigation address in Chinese: 105国道隆都家私城内",
+        "dishes": "Shaxi braised pork; wood-roasted chicken; sesame balls",
+        "price": "Platform reference: CNY 83 / person",
+        "basis": "Public platform average; aggregation date unspecified. Not a current menu quote or fixed package.",
+        "good": "Branch information and review distribution checked; no independent visit sample with an identified author and date has yet been verified.",
+        "caution": "Limited reviews, with some price concerns; plan transport separately from Shiqi."
       }
     }
   ],
@@ -33421,6 +35185,420 @@
         "route": "Choose Xing Hua for a Taishan day or Hong Xing for an Enping day.",
         "note": "Neither is within walking distance of Pengjiang’s old town. Avoid cross-county detours for similar dishes."
       }
+    },
+    {
+      "id": "food-route-v6-1",
+      "city": "广州",
+      "region": "广东",
+      "title": "宝华路小份午餐",
+      "route": "宝华面店主食 → 陈添记小份鱼皮（可省）→ 顺记一份雪糕分食",
+      "note": "面店、鱼皮店含不同过敏原；食量小直接面加雪糕即可。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-006",
+        "food-v6-007",
+        "food-v6-005"
+      ],
+      "en": {
+        "title": "Baohua Road light lunch",
+        "route": "Noodles → optional small fish-skin dish → shared ice cream",
+        "note": "For a small appetite, noodles plus ice cream are enough."
+      }
+    },
+    {
+      "id": "food-route-v6-2",
+      "city": "广州",
+      "region": "广东",
+      "title": "文明路炖汤与糖水",
+      "route": "达扬炖品 → 百花或玫瑰二选一",
+      "note": "炖汤不等于完整正餐；甜品两家不必都吃，按座位与队长选择。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-gd-004",
+        "food-v6-003",
+        "food-v6-004"
+      ],
+      "en": {
+        "title": "Wenming Road soup & dessert",
+        "route": "Dayang soup → Bai Hua OR Rose dessert",
+        "note": "Soup alone is not a complete meal; choose one dessert shop by the queue."
+      }
+    },
+    {
+      "id": "food-route-v6-3",
+      "city": "广州",
+      "region": "广东",
+      "title": "上下九早茶与甜品",
+      "route": "陶陶居早午茶 → 逛上下九 → 南信小份甜品",
+      "note": "茶点是一顿正餐；先核对茶位，南信可改外带或省略。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-001",
+        "food-v6-008"
+      ],
+      "en": {
+        "title": "Shangxiajiu dim sum & dessert",
+        "route": "Tao Tao Ju brunch → Shangxiajiu walk → small Nan Xin dessert",
+        "note": "Dim sum is a full meal; check tea charges and skip dessert if full."
+      }
+    },
+    {
+      "id": "food-route-v6-4",
+      "city": "广州",
+      "region": "广东",
+      "title": "天河商圈一餐方案",
+      "route": "正佳广场内安排一顿陶陶居；不为同品牌跨城取店",
+      "note": "适合购物或雨天；仅一餐方案，不是多店步行打卡线。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-002"
+      ],
+      "en": {
+        "title": "Tianhe shopping-district meal",
+        "route": "One Tao Tao Ju meal inside Grandview Plaza",
+        "note": "Useful on a shopping or rainy day; a single-meal option."
+      }
+    },
+    {
+      "id": "food-route-v6-5",
+      "city": "广州",
+      "region": "广东",
+      "title": "泮塘早餐与龙津晚餐",
+      "route": "早餐凌记濑粉 → 白天游览 → 晚餐向群合菜",
+      "note": "分两个时段，泮塘至龙津东路需另查交通，不是连续小吃线。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-009",
+        "food-v6-010"
+      ],
+      "en": {
+        "title": "Pantang breakfast & Longjin dinner",
+        "route": "Ling Ji breakfast → sightseeing → Xiang Qun dinner",
+        "note": "Two separate meal times; check transport from Pantang to Longjin East."
+      }
+    },
+    {
+      "id": "food-route-v6-6",
+      "city": "深圳",
+      "region": "广东",
+      "title": "东门早茶二选一",
+      "route": "唐宫或新福楼任选一家 → 东门街区游览",
+      "note": "新福楼公开样本较少；两家都需确认茶位与时段，勿连吃两顿早茶。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-012",
+        "food-v6-013"
+      ],
+      "en": {
+        "title": "Dongmen dim-sum alternatives",
+        "route": "Tang Palace OR Xin Fu Lou → explore Dongmen",
+        "note": "Xin Fu Lou has fewer public reviews; check tea charges and choose one."
+      }
+    },
+    {
+      "id": "food-route-v6-7",
+      "city": "深圳",
+      "region": "广东",
+      "title": "东门砂锅粥晚餐",
+      "route": "东门游览后 → 中兴路金稻园砂锅粥",
+      "note": "粥锅先问适合几人，预留现煮时间；不沿用旧乐园路地址。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-014"
+      ],
+      "en": {
+        "title": "Dongmen congee dinner",
+        "route": "After Dongmen sightseeing → Jin Dao Yuan on Zhongxing Road",
+        "note": "Ask how many people a pot serves; allow cooking time. Use the current Zhongxing address."
+      }
+    },
+    {
+      "id": "food-route-v6-8",
+      "city": "深圳",
+      "region": "广东",
+      "title": "蛇口早茶半日",
+      "route": "华洋早茶 → 蛇口片区游览",
+      "note": "早茶后留半日游览；与华强北和光明分开排，停车情况需核对。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-011"
+      ],
+      "en": {
+        "title": "Shekou dim-sum half day",
+        "route": "Hua Yang dim sum → explore Shekou",
+        "note": "Allow half a day in Shekou; plan separately from Huaqiangbei and Guangming."
+      }
+    },
+    {
+      "id": "food-route-v6-9",
+      "city": "深圳",
+      "region": "广东",
+      "title": "盐田海山海滨晚餐",
+      "route": "海山片区游览 → 壹海城金稻园晚餐",
+      "note": "只对应盐田分店，天气、海滨步道开放和回程交通另查。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-015"
+      ],
+      "en": {
+        "title": "Haishan waterfront dinner",
+        "route": "Explore Haishan → Jin Dao Yuan at One Mall",
+        "note": "This is the Yantian branch; check weather, promenade access and return transport."
+      }
+    },
+    {
+      "id": "food-route-v6-10",
+      "city": "深圳",
+      "region": "广东",
+      "title": "八卦岭晚间烧烤",
+      "route": "八卦岭木屋少量点串 → 按食量加单",
+      "note": "不承诺夜间营业时段；历史评论提醒价格与份量，先看菜单。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-016"
+      ],
+      "en": {
+        "title": "Bagualing evening barbecue",
+        "route": "Start with a few skewers at Mu Wu; add gradually",
+        "note": "Check current evening hours; historical reviews raise price and portion concerns."
+      }
+    },
+    {
+      "id": "food-route-v6-11",
+      "city": "佛山",
+      "region": "广东",
+      "title": "大良早茶与华盖小吃",
+      "route": "龙的早茶 → 清晖园片区游览 → 细妹或民信/仁信小份加餐",
+      "note": "早茶店至华盖路另查交通；牛杂和两家奶店不必全部吃。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-021",
+        "food-v6-018",
+        "food-gd-012",
+        "food-gd-013"
+      ],
+      "en": {
+        "title": "Daliang dim sum & Huagai snacks",
+        "route": "Long De dim sum → sightseeing near Qinghui Garden → one small snack",
+        "note": "Check transport to Huagai Road; do not try every snack shop in one meal."
+      }
+    },
+    {
+      "id": "food-route-v6-12",
+      "city": "佛山",
+      "region": "广东",
+      "title": "容桂一顿顺德菜",
+      "route": "松记清水火锅 或 猪肉婆顺德菜 → 容桂片区游览",
+      "note": "选一家作为正餐；两家并非相邻步行点，先查询交通及排号。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-017",
+        "food-v6-020"
+      ],
+      "en": {
+        "title": "Ronggui main-meal alternatives",
+        "route": "Song Ji hotpot OR Zhu Rou Po Shunde dishes → explore Ronggui",
+        "note": "Choose one main meal; these are not adjacent stops. Check transport and queues."
+      }
+    },
+    {
+      "id": "food-route-v6-13",
+      "city": "佛山",
+      "region": "广东",
+      "title": "禅城饺子与家常菜",
+      "route": "早餐/午餐北香园 → 禅城游览 → 晚餐有记（可选）",
+      "note": "分两顿安排，金鱼街与锦华路需导航确认；不与顺德路线混排。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-022",
+        "food-v6-023"
+      ],
+      "en": {
+        "title": "Chancheng dumplings & home-style dishes",
+        "route": "Bei Xiang Yuan brunch → Chancheng sightseeing → optional You Ji dinner",
+        "note": "Separate meals; check navigation between the streets and avoid mixing in Shunde towns."
+      }
+    },
+    {
+      "id": "food-route-v6-14",
+      "city": "佛山",
+      "region": "广东",
+      "title": "伦教糕点停靠",
+      "route": "伦教总店买小份伦教糕 → 伦教片区活动",
+      "note": "不是大良步行路线；不建议仅为一份糕点远途折返。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-019"
+      ],
+      "en": {
+        "title": "Lunjiao rice-cake stop",
+        "route": "Small takeaway rice cake → activities around Lunjiao",
+        "note": "Not a Daliang walking route; avoid a long return trip solely for a cake."
+      }
+    },
+    {
+      "id": "food-route-v6-15",
+      "city": "汕头",
+      "region": "广东",
+      "title": "小公园干面与粽球",
+      "route": "爱西一份面汤 → 老妈宫小份分食（可省）→ 小公园游览",
+      "note": "粽球较顶饱；飘香可替换粽球，不建议把三家都当正餐。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-029",
+        "food-v6-025",
+        "food-gd-020"
+      ],
+      "en": {
+        "title": "Xiaogongyuan noodles & rice dumplings",
+        "route": "Ai Xi noodles and soup → optional shared rice dumpling → Xiaogongyuan",
+        "note": "Rice dumplings are filling; Piaoxiang is an alternative, not another full meal."
+      }
+    },
+    {
+      "id": "food-route-v6-16",
+      "city": "汕头",
+      "region": "广东",
+      "title": "人民广场豆花停靠",
+      "route": "人民广场片区游览 → 张钦德小份豆花",
+      "note": "作为加餐而非正餐；不把豆花店与长平路火锅当近邻。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-026"
+      ],
+      "en": {
+        "title": "People’s Square tofu-dessert stop",
+        "route": "Explore People’s Square → a small Zhang Qin De tofu dessert",
+        "note": "A snack, not a main meal; do not assume it is next to Changping hotpot."
+      }
+    },
+    {
+      "id": "food-route-v6-17",
+      "city": "汕头",
+      "region": "广东",
+      "title": "金新早餐与长平晚餐",
+      "route": "早餐金新肠粉 → 白天游览 → 晚餐福合埕（长平国新）",
+      "note": "跨片区分早晚安排，火锅与杏花吴记二选一；交通另查。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-028",
+        "food-v6-024"
+      ],
+      "en": {
+        "title": "Jinxin breakfast & Changping dinner",
+        "route": "Jin Xin breakfast → sightseeing → Fu He Cheng dinner",
+        "note": "Separate areas and meal times; choose this hotpot or Xinghua Wu Ji and check transport."
+      }
+    },
+    {
+      "id": "food-route-v6-18",
+      "city": "潮州",
+      "region": "广东",
+      "title": "开元路素食与粿点",
+      "route": "开元咸水粿小份 → 古城游览 → 莲华素食正餐",
+      "note": "胡荣泉甜品可替换咸水粿；素食店蛋奶、葱蒜与过敏原须确认。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-030",
+        "food-v6-031",
+        "food-gd-022"
+      ],
+      "en": {
+        "title": "Kaiyuan vegetarian meal & rice cakes",
+        "route": "Small savory rice cakes → old-town sightseeing → Lian Hua vegetarian meal",
+        "note": "Hu Rong Quan dessert can replace the rice cakes; confirm egg, dairy, alliums and allergens."
+      }
+    },
+    {
+      "id": "food-route-v6-19",
+      "city": "珠海",
+      "region": "广东",
+      "title": "拱北早茶或茶餐厅",
+      "route": "益健早茶 或 颓记一顿简餐 → 拱北片区游览",
+      "note": "两家二选一，北岭与水湾路需查交通；不连排横琴蚝餐。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-032",
+        "food-v6-033"
+      ],
+      "en": {
+        "title": "Gongbei dim sum or cafe",
+        "route": "Yi Jian dim sum OR a Tui Ji cafe meal → explore Gongbei",
+        "note": "Choose one; check transport between Beiling and Shuiwan Road. Plan Hengqin separately."
+      }
+    },
+    {
+      "id": "food-route-v6-20",
+      "city": "珠海",
+      "region": "广东",
+      "title": "老香洲家常晚餐",
+      "route": "老香洲活动后 → 湛星白切鸡配捞河粉",
+      "note": "海鲜可省；若点海鲜，先确认单价、称重和加工费。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-034"
+      ],
+      "en": {
+        "title": "Old Xiangzhou dinner",
+        "route": "After old Xiangzhou sightseeing → chicken and rice noodles at Zhan Xing",
+        "note": "Seafood is optional; confirm unit price, weight and preparation fees before ordering."
+      }
+    },
+    {
+      "id": "food-route-v6-21",
+      "city": "东莞",
+      "region": "广东",
+      "title": "莞城糖水加餐",
+      "route": "莞城活动后 → 棉记一碗糖水或一份咸面",
+      "note": "不是石龙或大岭山烧鹅的步行延伸线；以瑞龙路门牌导航。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-035"
+      ],
+      "en": {
+        "title": "Guancheng dessert break",
+        "route": "After Guancheng sightseeing → dessert or noodles at Mian Ji",
+        "note": "Not a walking extension of Shilong or Dalingshan; navigate using the Ruilong address."
+      }
+    },
+    {
+      "id": "food-route-v6-22",
+      "city": "中山",
+      "region": "广东",
+      "title": "沙溪隆都菜一餐",
+      "route": "沙溪片区活动 → 荔苑隆都菜馆分食一餐",
+      "note": "与石岐张溪店铺分开安排；少人先问小份，不必点整鸡。",
+      "checked": "2026-10-17",
+      "editorial": true,
+      "foodIds": [
+        "food-v6-036"
+      ],
+      "en": {
+        "title": "Shaxi Longdu-style meal",
+        "route": "Activities around Shaxi → shared Longdu-style meal at Li Yuan",
+        "note": "Plan separately from Shiqi; smaller groups should ask about half portions."
+      }
     }
   ],
   "foodCoverage": {
@@ -33429,5 +35607,54 @@
     "guangdongCities": 21,
     "method": "携程、去哪儿、大众点评公开条目，结合B站公开视频简介、餐厅官方与经营方资料。视频未完整观看；不把商家或平台推荐当作真实到访证明。",
     "methodEn": "Public Ctrip, Qunar and Dianping listings, Bilibili video descriptions and restaurant/operator sources. Videos were not watched in full. Platform recommendations are not proof of a visit."
+  },
+  "foodDepth": {
+    "checked": "2026-10-17",
+    "newRestaurants": 36,
+    "newRoutes": 22,
+    "method": "按城市规模、旅游热度及餐饮目的地特色分配编辑检索量，广州、深圳、佛山、汕头优先加密；不是官方热度排名。先看具体分店、评价量、内容一致性和争议，再决定收录，不按数量硬凑。平台分数不能证明评价真实或保证营业、品质。",
+    "methodEn": "Editorial research prioritizes city scale, tourism demand and culinary interest, with greater depth in Guangzhou, Shenzhen, Foshan and Shantou. This is not an official ranking. Branch identity, review volume, consistency and concerns are considered before inclusion; platform scores cannot prove authenticity or guarantee opening or quality.",
+    "cities": [
+      {
+        "city": "广州",
+        "restaurants": 17,
+        "routes": 6
+      },
+      {
+        "city": "深圳",
+        "restaurants": 10,
+        "routes": 6
+      },
+      {
+        "city": "佛山",
+        "restaurants": 11,
+        "routes": 5
+      },
+      {
+        "city": "汕头",
+        "restaurants": 8,
+        "routes": 4
+      },
+      {
+        "city": "潮州",
+        "restaurants": 5,
+        "routes": 2
+      },
+      {
+        "city": "珠海",
+        "restaurants": 6,
+        "routes": 3
+      },
+      {
+        "city": "东莞",
+        "restaurants": 3,
+        "routes": 1
+      },
+      {
+        "city": "中山",
+        "restaurants": 2,
+        "routes": 1
+      }
+    ]
   }
 }

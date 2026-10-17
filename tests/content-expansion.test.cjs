@@ -15,7 +15,17 @@ test('review samples and video-description evidence retain provenance and limita
  for(const f of foods){if(f.reviewSample){assert(f.reviewSample.author);assert.match(f.reviewSample.date,/^\d{4}-\d{2}-\d{2}$/);assert(f.reviewSample.summaryEn)}else assert.match(f.good,/尚未核对/);for(const s of f.sources.filter(s=>s.platform==='B站')){assert.equal(s.evidenceType,'video-description');assert(s.author&&s.date);assert.match(s.title,/未完整观看/)}}
 });
 test('food routes are editorial outlines linked to real branches in the same city',()=>{
- assert.equal(data.foodGuides.length,7);for(const g of data.foodGuides){assert.equal(g.editorial,true);assert(g.en.route&&g.en.note);for(const id of g.foodIds)assert.equal(foods.find(f=>f.id===id)?.city,g.city)}
+ assert.equal(data.foodGuides.length,29);for(const g of data.foodGuides){assert.equal(g.editorial,true);assert(g.en.route&&g.en.note);for(const id of g.foodIds)assert.equal(data.foods.find(f=>f.id===id)?.city,g.city)}
+});
+test('deeper food coverage is branch-specific, sourced, weighted and honest about public scores',()=>{
+ const additions=data.foods.filter(f=>f.id?.startsWith('food-v6-'));assert.equal(additions.length,36);
+ assert.equal(new Set(additions.map(f=>f.url)).size,36);
+ for(const f of additions){assert(f.address&&f.en.name&&f.en.dishes&&f.en.basis&&f.en.caution);assert(f.priceCNY.low>0);assert.equal(f.reviewEvidence.independentVerified,false);assert(f.reviewEvidence.count>=8);assert(f.reviewEvidence.score>=4.2);assert.equal(f.reviewEvidence.url,f.url);assert(f.sources.some(s=>s.url===f.url));assert.match(f.basis,/非现行菜单/)}
+ const count=c=>data.foods.filter(f=>f.city===c&&f.recommendationStatus!=='research-only').length;
+ assert(count('广州')>count('深圳'));assert(count('深圳')>count('中山'));assert(count('佛山')>count('中山'));
+ assert.equal(data.foodDepth.newRoutes,22);assert.match(data.foodDepth.method,/不是官方/);
+ for(const id of ['food-gd-036','food-gd-029','food-gd-039'])assert.equal(data.foods.find(f=>f.id===id).recommendationStatus,'research-only');
+ const audit=require('../research/food-depth-2026-10-17.json');assert.equal(audit.entries.length,36);assert(audit.excluded.some(f=>f.reason.includes('已下线')));
 });
 test('city expansion allocates more distinct attractions to large and popular cities without reducing the minimum',()=>{
  assert.equal(cities.minimum(data),8);const count=c=>cities.stats(data,'广东',c).count;
