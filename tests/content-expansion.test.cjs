@@ -15,7 +15,7 @@ test('review samples and video-description evidence retain provenance and limita
  for(const f of foods){if(f.reviewSample){assert(f.reviewSample.author);assert.match(f.reviewSample.date,/^\d{4}-\d{2}-\d{2}$/);assert(f.reviewSample.summaryEn)}else assert.match(f.good,/尚未核对/);for(const s of f.sources.filter(s=>s.platform==='B站')){assert.equal(s.evidenceType,'video-description');assert(s.author&&s.date);assert.match(s.title,/未完整观看/)}}
 });
 test('food routes are editorial outlines linked to real branches in the same city',()=>{
- assert.equal(data.foodGuides.length,29);for(const g of data.foodGuides){assert.equal(g.editorial,true);assert(g.en.route&&g.en.note);for(const id of g.foodIds)assert.equal(data.foods.find(f=>f.id===id)?.city,g.city)}
+ assert.equal(data.foodGuides.filter(g=>g.region==='广东').length,29);for(const g of data.foodGuides){assert.equal(g.editorial,true);assert(g.en.route&&g.en.note);for(const id of g.foodIds)assert.equal(data.foods.find(f=>f.id===id)?.city,g.city)}
 });
 test('deeper food coverage is branch-specific, sourced, weighted and honest about public scores',()=>{
  const additions=data.foods.filter(f=>f.id?.startsWith('food-v6-'));assert.equal(additions.length,36);
