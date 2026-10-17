@@ -5,7 +5,7 @@ test('Guangxi has fourteen cities, a minimum of eight and greater depth in touri
  assert.equal(cities.options(data,'广西').length,14);assert.equal(gx.length,156);assert.equal(new Set(gx.map(d=>d.canonicalPlaceId)).size,156);
  for(const c of cities.options(data,'广西'))assert(cities.stats(data,'广西',c.name).count>=8,c.name);
  for(const [city,n]of [['桂林',19],['南宁',15],['柳州',12],['北海',11]])assert.equal(cities.stats(data,'广西',city).count,n);
- assert.equal(data.latestRegion,'广西');assert.equal(data.destinations.find(d=>d.id==='d190').name,'兴坪古镇');assert.equal(data.destinations.find(d=>d.id==='d191').name,'靖西市');
+ assert(data.provinceUpdates[data.latestRegion]);assert.equal(data.destinations.find(d=>d.id==='d190').name,'兴坪古镇');assert.equal(data.destinations.find(d=>d.id==='d191').name,'靖西市');
 });
 test('each attraction retains a source, an actual local photo and honest guide status',()=>{
  for(const d of gx){assert(d.sources.some(s=>s.url===d.image.url));assert(d.en.name&&d.en.description&&d.guide.en.reservation);assert.equal(d.guide.complete,false);assert.equal(d.image.rightsStatus,'source-copyright');assert(d.image.originalUrl.startsWith('https:'));const p=path.join(__dirname,'..',d.image.path);assert(fs.statSync(p).size>2000,d.id);assert.equal(fs.readFileSync(p).subarray(0,2).toString('hex'),'ffd8');}

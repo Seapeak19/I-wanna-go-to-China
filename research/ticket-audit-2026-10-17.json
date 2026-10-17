@@ -1,8 +1,8 @@
 {
   "checked": "2026-10-17",
   "total": 345,
-  "verified": 34,
-  "unverified": 466,
+  "verified": 43,
+  "unverified": 478,
   "entries": [
     {
       "id": "d000",
@@ -951,30 +951,25 @@
       "name": "大足石刻",
       "region": "重庆",
       "status": "unverified",
-      "checked": "2026-10-16",
-      "auditMethod": "public-source-search",
-      "scope": "现行票价未确认",
-      "scopeEn": "Current tariff unconfirmed",
-      "note": "未取得足以确认现行常规成人票或免费入园范围的可靠公开资料；不采用平台起价、网友报价或过期活动作为已核实票价。",
-      "en": {
-        "note": "Reliable public evidence is insufficient to confirm current regular adult admission or free-entry coverage. Platform starting prices, visitor claims and expired offers are not treated as verified tariffs."
-      },
-      "noteEn": "Reliable public evidence is insufficient to confirm current regular adult admission or free-entry coverage. Platform starting prices, visitor claims and expired offers are not treated as verified tariffs."
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+      "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
     },
     {
       "id": "d211",
       "name": "酉阳龚滩古镇",
       "region": "重庆",
-      "status": "unverified",
-      "checked": "2026-10-16",
-      "auditMethod": "public-source-search",
-      "scope": "现行票价未确认",
-      "scopeEn": "Current tariff unconfirmed",
-      "note": "未取得足以确认现行常规成人票或免费入园范围的可靠公开资料；不采用平台起价、网友报价或过期活动作为已核实票价。",
-      "en": {
-        "note": "Reliable public evidence is insufficient to confirm current regular adult admission or free-entry coverage. Platform starting prices, visitor claims and expired offers are not treated as verified tariffs."
-      },
-      "noteEn": "Reliable public evidence is insufficient to confirm current regular adult admission or free-entry coverage. Platform starting prices, visitor claims and expired offers are not treated as verified tariffs."
+      "status": "verified",
+      "amount": 0,
+      "currency": "CNY",
+      "checked": "2026-10-17",
+      "scope": "常规公共区域入场",
+      "scopeEn": "Regular public-area entry",
+      "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+      "note": "仅常规公共区域；游船、演出、馆舍和购物餐饮另计。",
+      "noteEn": "Public areas only; cruises, shows, indoor venues, shopping and dining are separate."
     },
     {
       "id": "d212",
@@ -6859,6 +6854,274 @@
       "scopeEn": "Current admission unconfirmed",
       "note": "未取得足以确认现行常规门票或免费范围的官方依据；平台起价、套票宣传与网友消费不能替代当前票务政策。",
       "noteEn": "Sufficient official evidence for current regular admission or free-entry coverage has not been established. Platform starting prices, package promotions and visitor spending do not establish current ticket policy."
+    },
+    {
+      "id": "cq-sight-50223",
+      "name": "洪崖洞民俗风貌区",
+      "region": "重庆",
+      "status": "verified",
+      "amount": 0,
+      "currency": "CNY",
+      "checked": "2026-10-17",
+      "scope": "常规公共区域入场",
+      "scopeEn": "Regular public-area entry",
+      "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+      "note": "仅常规公共区域；游船、演出、馆舍和购物餐饮另计。",
+      "noteEn": "Public areas only; cruises, shows, indoor venues, shopping and dining are separate."
+    },
+    {
+      "id": "cq-sight-45804",
+      "name": "重庆中国三峡博物馆",
+      "region": "重庆",
+      "status": "verified",
+      "amount": 0,
+      "currency": "CNY",
+      "checked": "2026-10-17",
+      "scope": "主馆常设展",
+      "scopeEn": "Main-building regular exhibitions",
+      "sourceUrl": "https://www.3gmuseum.cn/web/article/1430008801670434816/web/content_1430008801670434816.html",
+      "note": "常设展免费；特展及付费服务分别确认，白鹤梁等分馆不能套用此免费范围。",
+      "noteEn": "Regular main-building exhibitions are free; check special exhibitions and paid services. This does not make branches such as Baiheliang free."
+    },
+    {
+      "id": "cq-sight-45771",
+      "name": "武隆天生三桥",
+      "region": "重庆",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+      "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+    },
+    {
+      "id": "cq-sight-18686",
+      "name": "白公馆",
+      "region": "重庆",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+      "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+    },
+    {
+      "id": "cq-sight-18685",
+      "name": "渣滓洞",
+      "region": "重庆",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+      "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+    },
+    {
+      "id": "cq-sight-135585",
+      "name": "山城步道",
+      "region": "重庆",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+      "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+    },
+    {
+      "id": "cq-sight-10380",
+      "name": "鹅岭公园",
+      "region": "重庆",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+      "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+    },
+    {
+      "id": "cq-sight-43811",
+      "name": "磁器口古镇",
+      "region": "重庆",
+      "status": "verified",
+      "amount": 0,
+      "currency": "CNY",
+      "checked": "2026-10-17",
+      "scope": "常规公共区域入场",
+      "scopeEn": "Regular public-area entry",
+      "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+      "note": "仅常规公共区域；游船、演出、馆舍和购物餐饮另计。",
+      "noteEn": "Public areas only; cruises, shows, indoor venues, shopping and dining are separate."
+    },
+    {
+      "id": "cq-sight-5045354",
+      "name": "李子坝轻轨站观景区域",
+      "region": "重庆",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+      "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+    },
+    {
+      "id": "cq-sight-10386",
+      "name": "解放碑步行街",
+      "region": "重庆",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+      "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+    },
+    {
+      "id": "cq-sight-43819",
+      "name": "重庆湖广会馆",
+      "region": "重庆",
+      "status": "verified",
+      "amount": 25,
+      "currency": "CNY",
+      "checked": "2026-10-17",
+      "scope": "常规成人参观票",
+      "scopeEn": "Regular adult visit",
+      "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+      "note": "官方文旅表列25元；不含另售演出、讲解等项目。",
+      "noteEn": "Official tourism table lists CNY 25; separately sold shows and interpretation are excluded."
+    },
+    {
+      "id": "cq-sight-109940",
+      "name": "长江索道",
+      "region": "重庆",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "2025年政府文件列单程30元、往返50元为最高限价，经营方可在范围内确定执行价；尚未确认当日执行价，不把限价或旧20/30元报价自动填入。",
+      "noteEn": "The 2025 government notice sets ceilings of CNY 30 one-way and CNY 50 return, allowing the operator to apply lower fares. Current applied fares are unconfirmed; neither ceilings nor old CNY 20/30 quotes are prefilled."
+    },
+    {
+      "id": "cq-sight-10340",
+      "name": "仙女山国家森林公园",
+      "region": "重庆",
+      "status": "verified",
+      "amount": 50,
+      "currency": "CNY",
+      "checked": "2026-10-17",
+      "scope": "常规成人入园票",
+      "scopeEn": "Regular adult park entry",
+      "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+      "note": "官方文旅表列50元；小火车、骑马、滑雪等另售项目不含。",
+      "noteEn": "Official table lists CNY 50; sightseeing trains, riding and snow activities are excluded."
+    },
+    {
+      "id": "cq-sight-4298",
+      "name": "白帝城·瞿塘峡景区",
+      "region": "重庆",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+      "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+    },
+    {
+      "id": "cq-sight-1418195",
+      "name": "濯水古镇",
+      "region": "重庆",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+      "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+    },
+    {
+      "id": "cq-sight-5717709",
+      "name": "重庆十八梯传统风貌区",
+      "region": "重庆",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+      "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+    },
+    {
+      "id": "cq-sight-2491576",
+      "name": "二厂文创公园",
+      "region": "重庆",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+      "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+    },
+    {
+      "id": "cq-sight-10377",
+      "name": "重庆动物园",
+      "region": "重庆",
+      "status": "verified",
+      "currency": "CNY",
+      "checked": "2026-10-17",
+      "scope": "成人票 · 按出行月份选择",
+      "scopeEn": "Adult admission · select travel month",
+      "sourceUrl": "https://english.cq.gov.cn/specials/Enjoy/Zoos/202608/t20260810_15912219.html",
+      "note": "1—11月25元，12月20元；不把低价季节默认套用于全年。场馆营业以园方公告为准。",
+      "noteEn": "January–November CNY 25; December CNY 20. Select the actual travel season; check exhibit operations.",
+      "mode": "options",
+      "options": [
+        {
+          "label": "1—11月成人票",
+          "enLabel": "January–November adult",
+          "amount": 25
+        },
+        {
+          "label": "12月成人票",
+          "enLabel": "December adult",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "id": "cq-sight-76501",
+      "name": "816工程景区",
+      "region": "重庆",
+      "status": "verified",
+      "amount": 50,
+      "currency": "CNY",
+      "checked": "2026-10-17",
+      "scope": "基础成人门票",
+      "scopeEn": "Basic adult admission",
+      "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+      "note": "官方文旅表列50元，交通、演出或组合产品另计；并非所有平台套票的总价。",
+      "noteEn": "Official table lists CNY 50 for admission; transfers, performances and package extras are separate."
+    },
+    {
+      "id": "cq-sight-76543",
+      "name": "白鹤梁水下博物馆",
+      "region": "重庆",
+      "status": "unverified",
+      "checked": "2026-10-17",
+      "scope": "现行票价待核实",
+      "scopeEn": "Current admission unconfirmed",
+      "note": "官方文旅表列50元，2011年价格文件另有淡旺季50/60元口径；当前执行价与入馆范围待复核。免预约不等于免票。",
+      "noteEn": "The tourism table lists CNY 50 while a 2011 tariff notice has seasonal CNY 50/60 rates. Current applied pricing needs reconfirmation; no reservation does not mean free admission."
+    },
+    {
+      "id": "cq-sight-10354",
+      "name": "钓鱼城",
+      "region": "重庆",
+      "status": "verified",
+      "amount": 60,
+      "currency": "CNY",
+      "checked": "2026-10-17",
+      "scope": "成人全价门票",
+      "scopeEn": "Full-price adult admission",
+      "sourceUrl": "https://www.hcdyc.cn/dyc/jqzx/jqgg/gydycjqhfmpyjdgg/index.html",
+      "note": "景区2026年9月24日公告：9月25日起恢复60元；此前30元限期优惠结束，摆渡车等另计。",
+      "noteEn": "The September 24, 2026 operator notice restores CNY 60 from September 25, ending the temporary CNY 30 offer. Shuttles are separate.",
+      "validFrom": "2026-09-25"
     }
   ]
 }

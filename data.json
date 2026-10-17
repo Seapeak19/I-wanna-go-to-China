@@ -3535,32 +3535,34 @@
     },
     {
       "id": "d210",
+      "canonicalPlaceId": "d210",
+      "entryType": "attraction",
       "region": "重庆",
       "regionFull": "重庆市",
       "area": "西南",
+      "city": "重庆",
+      "district": "大足区",
       "name": "大足石刻",
       "theme": "历史人文",
-      "location": "大足区",
-      "description": "以石刻艺术为主题，适合留足讲解与细看造像的时间。",
-      "food": "大足邮亭鲫鱼、重庆小面",
-      "season": "春秋",
-      "transport": "重庆城区至大足需跨区接驳，宝顶山与北山分开规划",
-      "budget": 300,
-      "budgetStatus": "编辑估算",
-      "days": 2,
-      "wiki": "Dazu Rock Carvings",
+      "location": "大足区 · 重庆市大足区大足石刻旅游景区",
+      "description": "宝顶山、北山分别安排时间和交通，本条合并收录石刻群，避免重复凑数。可先选一个主要片区细看；不同片区、淡旺季与交通套票分别核对。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "从主城跨区前往大足，铁路站与石刻入口不是同一地点，保留接驳时间。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
       "sources": [
         {
-          "title": "维基百科：Dazu Rock Carvings（地理与背景资料）",
-          "url": "https://en.wikipedia.org/wiki/Dazu_Rock_Carvings",
-          "type": "百科资料"
+          "url": "https://you.ctrip.com/sight/chongqing158/10330.html",
+          "title": "携程：大足石刻资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
         }
       ],
-      "reviews": null,
-      "tier": "基础资料",
-      "lowCrowd": false,
-      "mobility": "未核实",
-      "updated": "2026-10-16",
       "image": {
         "path": "assets/d210.jpg",
         "url": "https://commons.wikimedia.org/wiki/File:Dazu_2007_685_full_view.jpg",
@@ -3571,66 +3573,148 @@
         "caption": "大足石刻所在地区参考实景 · 原文件：Dazu_2007_685_full_view.jpg",
         "modified": "网页展示时裁切，色彩未修改"
       },
-      "en": {
-        "name": "Dazu Rock Carvings",
-        "location": "Dazu District, Chongqing",
-        "description": "Allow time for interpretation and a close look at the art of the rock carvings.",
-        "transport": "Travel from central Chongqing to Dazu; plan Baodingshan and Beishan separately.",
-        "food": "Youting-style crucian carp; Chongqing noodles"
-      },
       "ticket": {
         "status": "unverified",
-        "checked": "2026-10-16",
-        "auditMethod": "public-source-search",
-        "scope": "现行票价未确认",
-        "scopeEn": "Current tariff unconfirmed",
-        "note": "未取得足以确认现行常规成人票或免费入园范围的可靠公开资料；不采用平台起价、网友报价或过期活动作为已核实票价。",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      },
+      "en": {
+        "name": "Dazu Rock Carvings",
+        "location": "Dazu, Chongqing · Chinese navigation address: 重庆市大足区大足石刻旅游景区",
+        "description": "Allocate time and transfers separately for Baodingshan and Beishan. The carving complex is counted once here. Choose one main area for a slower visit; check site, season and transport inclusions.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Dazu is outside central Chongqing; railway stations are not at the carving entrances, so allow transfer time."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 08:30-18:00开放（16:00停止售票，16:10停止入园）、大足石刻宝顶山景区游客中心\n08:30-16:30；售票时间：08:30-16:00；停止检票入园时间：16:10\n\n大足石刻宝顶山景区(含圣寿寺）\n开园时间：08:30；闭园时间：18:00；售票时间:08:30-16:00;停止检票时间：16:10\n\n大足石刻北山景区  \n开园时间：09:00；闭园时间：18:00；售票时间:08:30-16:00;停止检票时间：17:00\n\n大足石刻北山景区(夜游)\n开园时间：19:30；闭园时间：23:00；售票时间:19:30-21:00;停止检票时间：21:30\n\n大足石刻博物馆\n开放时间：周二至周日，每日09:00-17:00（周一闭馆，法定节假日除外）；停止售票时间：/  ；停止检票时间：16:30\n\n数字电影(4K影院和球幕影院)(6岁及以下儿童不占座免票)\n全天7场，放映时间：09:30、10:20、11:10、12:00、13:30、14:20、15:10\n\n宝顶山景区交通车(含旅游巴士及观光车)(6岁及以下儿童免票)\n旅游巴士营运时间:08:40-19:00，上下山旅游巴士间隔15分钟。\n观光车营运时间:09:00-18:30，间隔10分钟发车。\n\n大足石刻南山石刻景区\n开园时间：09:00；闭园时间：17:30；停止售票时间:16:00;停止检票时间：16:30\n\n大足石刻石门山石刻景区\n开园时间：09:00；闭园时间：17:30；停止售票时间:16:00;停止检票时间：16:30\n\n大足石刻石篆山石刻景区\n开园时间：09:00；闭园时间：17:30；停止售票时间:16:00;停止检票时间：16:30。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "从主城跨区前往大足，铁路站与石刻入口不是同一地点，保留接驳时间。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
         "en": {
-          "note": "Reliable public evidence is insufficient to confirm current regular adult admission or free-entry coverage. Platform starting prices, visitor claims and expired offers are not treated as verified tariffs."
-        },
-        "noteEn": "Reliable public evidence is insufficient to confirm current regular adult admission or free-entry coverage. Platform starting prices, visitor claims and expired offers are not treated as verified tariffs."
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Dazu is outside central Chongqing; railway stations are not at the carving entrances, so allow transfer time.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/10330.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.6/5、8117 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.6/5 from 8117 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
       }
     },
     {
       "id": "d211",
+      "canonicalPlaceId": "d211",
+      "entryType": "attraction",
       "region": "重庆",
       "regionFull": "重庆市",
       "area": "西南",
+      "city": "重庆",
+      "district": "酉阳县",
       "name": "酉阳龚滩古镇",
-      "theme": "县域探索",
-      "location": "重庆市",
-      "description": "重庆市县域旅行备选，详细交通、开放状态、实景和消费资料仍待逐项补核。",
-      "food": "大足邮亭鲫鱼、重庆小面",
-      "season": "春秋",
-      "transport": "具体交通与接驳方式待核实。",
-      "budget": 300,
-      "budgetStatus": "编辑估算",
-      "days": 2,
-      "wiki": null,
-      "sources": [],
-      "reviews": null,
-      "tier": "待调研",
-      "lowCrowd": true,
+      "theme": "古村古建",
+      "location": "酉阳县 · 重庆市酉阳县龚滩古镇207号",
+      "description": "乌江边的吊脚楼街巷与古镇景观。搬迁重建背景与老建筑材料需要区分，常规古镇公共区域免费；游船、展馆和住宿另计。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "从酉阳或彭水方向衔接公路交通，提前确认末班车；不按主城市内景点安排。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
       "mobility": "未核实",
-      "updated": "2026-10-16",
-      "en": {
-        "name": "Gongtan Ancient Town, Youyang",
-        "location": "County-level discovery lead",
-        "description": "A candidate for exploring beyond the major cities. Transport, opening status, photos and costs still need destination-specific research.",
-        "transport": "Transport routes and local connections have not yet been verified.",
-        "food": "Local specialties and individual restaurants still need research."
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/youyangcounty2025213/43803.html",
+          "title": "携程：酉阳龚滩古镇资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：景区公共区域及门票信息",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-43803.jpg",
+        "url": "https://you.ctrip.com/sight/youyangcounty2025213/43803.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/010161200086v76v77BB1.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/youyangcounty2025213/43803.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "酉阳龚滩古镇 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Gongtan Ancient Town, Youyang · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-16",
-        "auditMethod": "public-source-search",
-        "scope": "现行票价未确认",
-        "scopeEn": "Current tariff unconfirmed",
-        "note": "未取得足以确认现行常规成人票或免费入园范围的可靠公开资料；不采用平台起价、网友报价或过期活动作为已核实票价。",
+        "status": "verified",
+        "amount": 0,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "常规公共区域入场",
+        "scopeEn": "Regular public-area entry",
+        "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+        "note": "仅常规公共区域；游船、演出、馆舍和购物餐饮另计。",
+        "noteEn": "Public areas only; cruises, shows, indoor venues, shopping and dining are separate."
+      },
+      "en": {
+        "name": "Gongtan Ancient Town, Youyang",
+        "location": "Youyang, Chongqing · Chinese navigation address: 重庆市酉阳县龚滩古镇207号",
+        "description": "Explore stilt-house lanes beside the Wujiang. Distinguish relocated or reconstructed buildings from original materials. Regular public-town entry is free; cruises, displays and lodging are separate.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Confirm road connections and last buses via Youyang or Pengshui; this is not a central-city stop."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 全天开放。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "从酉阳或彭水方向衔接公路交通，提前确认末班车；不按主城市内景点安排。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
         "en": {
-          "note": "Reliable public evidence is insufficient to confirm current regular adult admission or free-entry coverage. Platform starting prices, visitor claims and expired offers are not treated as verified tariffs."
-        },
-        "noteEn": "Reliable public evidence is insufficient to confirm current regular adult admission or free-entry coverage. Platform starting prices, visitor claims and expired offers are not treated as verified tariffs."
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Confirm road connections and last buses via Youyang or Pengshui; this is not a central-city stop.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/youyangcounty2025213/43803.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.3/5、649 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.3/5 from 649 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
       }
     },
     {
@@ -3673,7 +3757,10 @@
           "note": "This is an area or combined destination. One ticket cannot represent all visits; individual attractions and services need separate price checks."
         },
         "noteEn": "This is an area or combined destination. One ticket cannot represent all visits; individual attractions and services need separate price checks."
-      }
+      },
+      "city": "重庆",
+      "entryType": "area",
+      "district": "丰都县"
     },
     {
       "id": "d220",
@@ -45332,6 +45419,2044 @@
           "ticket": "Current admission unconfirmed; visitor prices are not treated as confirmed tariffs."
         }
       }
+    },
+    {
+      "id": "cq-sight-50223",
+      "canonicalPlaceId": "cq-sight-50223",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "渝中区",
+      "name": "洪崖洞民俗风貌区",
+      "theme": "历史人文",
+      "location": "渝中区 · 重庆市渝中区朝天门街道嘉陵江滨江路88号",
+      "description": "沿江吊脚楼式建筑与两江夜景。这里是当代文旅商业空间，分清沧白路上层与嘉滨路下层入口；节假日按现场人流管制行走。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "轨道至小什字或临江门后步行，核对入口楼层；不购买所谓快速入场带路。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/50223.html",
+          "title": "携程：洪崖洞民俗风貌区资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：景区公共区域及门票信息",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-50223.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/50223.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/10020s000000hqkwh48D9.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/50223.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "洪崖洞民俗风貌区 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Hongyadong · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 0,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "常规公共区域入场",
+        "scopeEn": "Regular public-area entry",
+        "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+        "note": "仅常规公共区域；游船、演出、馆舍和购物餐饮另计。",
+        "noteEn": "Public areas only; cruises, shows, indoor venues, shopping and dining are separate."
+      },
+      "en": {
+        "name": "Hongyadong",
+        "location": "Yuzhong, Chongqing · Chinese navigation address: 重庆市渝中区朝天门街道嘉陵江滨江路88号",
+        "description": "Riverside stilt-style buildings and night views in a modern visitor complex. Distinguish the upper Cangbai Road and lower Jiabin Road entrances; follow holiday crowd controls.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Walk from Xiaoshizi or Linjiangmen and check the entrance level. Do not pay for purported fast-entry guidance."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 全天开放、景区23点关灯。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "轨道至小什字或临江门后步行，核对入口楼层；不购买所谓快速入场带路。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Walk from Xiaoshizi or Linjiangmen and check the entrance level. Do not pay for purported fast-entry guidance.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/50223.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.6/5、8738 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.6/5 from 8738 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-45804",
+      "canonicalPlaceId": "cq-sight-45804",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "渝中区",
+      "name": "重庆中国三峡博物馆",
+      "theme": "历史人文",
+      "location": "渝中区 · 重庆市渝中区人民路236号",
+      "description": "从三峡文物、巴渝历史和重庆城市发展选两三个展厅慢看。主馆常设展免费，特展、讲解等另查；采用已公布的免预约规则，携带有效证件。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "人民路236号；轨道至人民大礼堂或曾家岩后步行，注意周一常规闭馆及节假日调整。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/45804.html",
+          "title": "携程：重庆中国三峡博物馆资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://www.3gmuseum.cn/web/article/1430008801670434816/web/content_1430008801670434816.html",
+          "title": "馆方：免费开放范围",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zwxx_221/bmdt/tzgg/202511/t20251103_15136009.html",
+          "title": "重庆文旅：2025年10月起取消预约",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-45804.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/45804.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0105h12000h4c65gx5C31.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/45804.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "重庆中国三峡博物馆 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "China Three Gorges Museum · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 0,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "主馆常设展",
+        "scopeEn": "Main-building regular exhibitions",
+        "sourceUrl": "https://www.3gmuseum.cn/web/article/1430008801670434816/web/content_1430008801670434816.html",
+        "note": "常设展免费；特展及付费服务分别确认，白鹤梁等分馆不能套用此免费范围。",
+        "noteEn": "Regular main-building exhibitions are free; check special exhibitions and paid services. This does not make branches such as Baiheliang free."
+      },
+      "en": {
+        "name": "China Three Gorges Museum",
+        "location": "Yuzhong, Chongqing · Chinese navigation address: 重庆市渝中区人民路236号",
+        "description": "Choose two or three galleries covering Three Gorges heritage, Ba-Yu history and Chongqing’s development. Regular main-building galleries are free; check special exhibitions and interpretation separately. Bring valid ID under the published no-reservation policy.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "236 Renmin Road; walk from Renmin Dalitang or Zengjiayan. Check usual Monday closure and holiday changes."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：特殊营业时间：元旦节,春节,清明节,劳动节,端午节,中秋节,国庆节 09:00-18:00开放（17:30停止入园）;全年 周二–周日 09:00-17:00开放（16:30停止入园）;全年 周一 不开放。出发前核对官方开放及最后入场。",
+        "reservation": "主馆按官方公告自2025年10月1日起免预约，凭有效身份证件有序入馆；临时客流管制另查。",
+        "route": "人民路236号；轨道至人民大礼堂或曾家岩后步行，注意周一常规闭馆及节假日调整。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "The official notice removes main-building reservations from October 1, 2025. Bring valid ID; check temporary crowd controls.",
+          "route": "236 Renmin Road; walk from Renmin Dalitang or Zengjiayan. Check usual Monday closure and holiday changes.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/45804.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.6/5、1135 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.6/5 from 1135 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-45771",
+      "canonicalPlaceId": "cq-sight-45771",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "武隆区",
+      "name": "武隆天生三桥",
+      "theme": "自然山水",
+      "location": "武隆区 · 重庆市武隆区仙女山镇龙桥街与仙南路交汇南200米",
+      "description": "沿开放步道看三座天然石桥与天坑，不把桥下各点重复计为独立景点。谷底游线有台阶，入园、换乘车和电梯的套票范围分别核对。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "单列武隆行程；先到仙女山街道游客中心确认换乘及末班返程，不与主城夜游硬拼。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/45771.html",
+          "title": "携程：武隆天生三桥资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-45771.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/45771.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0105q120004gsttsa454D.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/45771.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "武隆天生三桥 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Three Natural Bridges, Wulong · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      },
+      "en": {
+        "name": "Three Natural Bridges, Wulong",
+        "location": "Wulong, Chongqing · Chinese navigation address: 重庆市武隆区仙女山镇龙桥街与仙南路交汇南200米",
+        "description": "See the three natural bridges and sinkholes on the open trail; individual bridge stops are not counted again. Expect steps and distinguish admission, transfers and lift coverage.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Plan Wulong separately. Confirm transfers and last returns at the Xiannvshan visitor centre rather than compressing this into a city evening."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：特殊营业时间：国庆节 07:30-17:00开放;每年9月1日-次年4月30日 08:30-16:30开放（16:30停止入园）;每年5月1日-5月31日 08:30-17:00开放（17:00停止入园）;每年6月1日-8月31日 08:00-17:00开放（17:00停止入园）。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "单列武隆行程；先到仙女山街道游客中心确认换乘及末班返程，不与主城夜游硬拼。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Plan Wulong separately. Confirm transfers and last returns at the Xiannvshan visitor centre rather than compressing this into a city evening.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/45771.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.6/5、17231 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.6/5 from 17231 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-18686",
+      "canonicalPlaceId": "cq-sight-18686",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "沙坪坝区",
+      "name": "白公馆",
+      "theme": "历史人文",
+      "location": "沙坪坝区 · 重庆市沙坪坝区壮志路治法三村63号烈士墓歌乐山烈士陵园内",
+      "description": "近现代历史遗址，结合展陈了解被关押者的经历。与渣滓洞为不同参观点，坡路步行和接驳需另留时间，保持安静参观。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "前往歌乐山片区后按官方入口参观；不要把付费讲解或交通产品当成入馆门票。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/18686.html",
+          "title": "携程：白公馆资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-18686.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/18686.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0101212000m8yact05B31.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/18686.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "白公馆 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Bai Mansion Memorial Site · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      },
+      "en": {
+        "name": "Bai Mansion Memorial Site",
+        "location": "Shapingba, Chongqing · Chinese navigation address: 重庆市沙坪坝区壮志路治法三村63号烈士墓歌乐山烈士陵园内",
+        "description": "A modern-history memorial with displays about those imprisoned here. It is separate from Zhazidong; allow time for slopes and transfers and observe quietly.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Use the official entrance in the Geleshan area. Paid interpretation or transport products are not admission evidence."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 09:00-17:00开放（16:30停止入园）、具体营业状态以当天开放情况为准。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "前往歌乐山片区后按官方入口参观；不要把付费讲解或交通产品当成入馆门票。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Use the official entrance in the Geleshan area. Paid interpretation or transport products are not admission evidence.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/18686.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.6/5、838 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.6/5 from 838 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-18685",
+      "canonicalPlaceId": "cq-sight-18685",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "沙坪坝区",
+      "name": "渣滓洞",
+      "theme": "历史人文",
+      "location": "沙坪坝区 · 重庆市沙坪坝区渣滓洞景区",
+      "description": "由旧煤窑改建的历史关押场所，重点看院落与史料展陈。与白公馆分开安排，烈日或雨天减少连续爬坡；当前入馆要求查官方通知。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "歌乐山片区坡道较多，按体力安排两馆顺序，返程交通提前确认。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/18685.html",
+          "title": "携程：渣滓洞资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-18685.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/18685.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0102812000lxklujrCFE2.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/18685.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "渣滓洞 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Zhazidong Memorial Site · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      },
+      "en": {
+        "name": "Zhazidong Memorial Site",
+        "location": "Shapingba, Chongqing · Chinese navigation address: 重庆市沙坪坝区渣滓洞景区",
+        "description": "A former mine converted into a detention site. Focus on the courtyards and historical displays. Plan separately from Bai Mansion and check current entry notices.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Expect slopes in the Geleshan area; choose the order of memorial visits for your group and confirm return transport."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 09:00-17:00开放（16:30停止入园）。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "歌乐山片区坡道较多，按体力安排两馆顺序，返程交通提前确认。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Expect slopes in the Geleshan area; choose the order of memorial visits for your group and confirm return transport.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/18685.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.5/5、1080 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.5/5 from 1080 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-135585",
+      "canonicalPlaceId": "cq-sight-135585",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "渝中区",
+      "name": "山城步道",
+      "theme": "历史人文",
+      "location": "渝中区 · 重庆市渝中区中兴路234号旁",
+      "description": "通过山城巷、悬空栈道与旧街巷理解上下半城。选一段公共步道即可，不保证连续无台阶；雨天留意湿滑，展馆、店铺另计消费。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "按上下坡方向选择入口，不能只凭地图平面距离判断体力消耗。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/135585.html",
+          "title": "携程：山城步道资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-135585.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/135585.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/1A0213000000vnejs3E9A.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/135585.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "山城步道 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Shancheng Walking Trail · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      },
+      "en": {
+        "name": "Shancheng Walking Trail",
+        "location": "Yuzhong, Chongqing · Chinese navigation address: 重庆市渝中区中兴路234号旁",
+        "description": "Explore lanes and elevated walkways linking the upper and lower city. Choose a manageable public section; step-free continuity is unverified. Shops and indoor attractions charge separately.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Choose an entrance for your preferred uphill or downhill direction; map distance understates the effort."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 全天开放。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "按上下坡方向选择入口，不能只凭地图平面距离判断体力消耗。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Choose an entrance for your preferred uphill or downhill direction; map distance understates the effort.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/135585.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.6/5、516 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.6/5 from 516 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-10380",
+      "canonicalPlaceId": "cq-sight-10380",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "渝中区",
+      "name": "鹅岭公园",
+      "theme": "自然山水",
+      "location": "渝中区 · 重庆市渝中区鹅岭正街176号",
+      "description": "城市山脊上的园林、石桥与两江眺望。根据体力选择园内短线，登楼和台阶单独考虑；与二厂相邻但属于不同场地。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "轨道鹅岭站后步行上坡，观夜景后核对返程；不进入关闭楼层。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/10380.html",
+          "title": "携程：鹅岭公园资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-10380.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/10380.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0101j12000f9dadpmFE2E.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/10380.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "鹅岭公园 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Eling Park · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      },
+      "en": {
+        "name": "Eling Park",
+        "location": "Yuzhong, Chongqing · Chinese navigation address: 重庆市渝中区鹅岭正街176号",
+        "description": "A hilltop garden with a stone bridge and river views. Choose a short garden walk; towers and steps need separate consideration. Nearby Testbed 2 is a distinct venue.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Walk uphill from Eling Station and check your return after dusk; stay out of closed tower levels."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 06:00-22:00开放（21:50停止入园）。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "轨道鹅岭站后步行上坡，观夜景后核对返程；不进入关闭楼层。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Walk uphill from Eling Station and check your return after dusk; stay out of closed tower levels.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/10380.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.7/5、346 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.7/5 from 346 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-43811",
+      "canonicalPlaceId": "cq-sight-43811",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "沙坪坝区",
+      "name": "磁器口古镇",
+      "theme": "古村古建",
+      "location": "沙坪坝区 · 重庆市沙坪坝区磁南街1号",
+      "description": "沿公共老街看码头商业与巴渝街巷，部分建筑经过翻修。主街常规入街免费，茶馆、演出和院落项目另查价格，不以排队长短判断店铺真伪。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "轨道磁器口站后按指示进入；主街人多时选择开放支巷，不擅入居民院落。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/43811.html",
+          "title": "携程：磁器口古镇资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：景区公共区域及门票信息",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-43811.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/43811.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0106z120008iqyn71AE84.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/43811.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "磁器口古镇 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Ciqikou Ancient Town · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 0,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "常规公共区域入场",
+        "scopeEn": "Regular public-area entry",
+        "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+        "note": "仅常规公共区域；游船、演出、馆舍和购物餐饮另计。",
+        "noteEn": "Public areas only; cruises, shows, indoor venues, shopping and dining are separate."
+      },
+      "en": {
+        "name": "Ciqikou Ancient Town",
+        "location": "Shapingba, Chongqing · Chinese navigation address: 重庆市沙坪坝区磁南街1号",
+        "description": "Explore the public lanes and former river-trading setting; many buildings have been renovated. Regular street entry is free. Tea, shows and courtyard visits are separate purchases.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Follow signs from Ciqikou Station; use open side lanes when crowded and respect private courtyards."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 全天开放。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "轨道磁器口站后按指示进入；主街人多时选择开放支巷，不擅入居民院落。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Follow signs from Ciqikou Station; use open side lanes when crowded and respect private courtyards.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/43811.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.6/5、14434 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.6/5 from 14434 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-5045354",
+      "canonicalPlaceId": "cq-sight-5045354",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "渝中区",
+      "name": "李子坝轻轨站观景区域",
+      "theme": "历史人文",
+      "location": "渝中区 · 重庆市渝中区李子坝地铁站",
+      "description": "从指定公共观景位置看列车穿楼。站外观景与乘坐轨道交通不同，不能把交通票当景点门票；拍摄时不堵站台或居民通道。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "轨道李子坝站，出站后按观景指引走；轨道乘车费在当地交通中填写。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/5045354.html",
+          "title": "携程：李子坝轻轨站观景区域资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-5045354.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/5045354.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0100h12000lraq9y5C3FD.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/5045354.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "李子坝轻轨站观景区域 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Liziba Rail Viewing Area · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      },
+      "en": {
+        "name": "Liziba Rail Viewing Area",
+        "location": "Yuzhong, Chongqing · Chinese navigation address: 重庆市渝中区李子坝地铁站",
+        "description": "Watch trains pass through a building from designated public viewpoints. Outdoor viewing and riding the train are different activities; do not block platforms or residential access.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Use Liziba Station and follow viewing signs. Enter train fares under local transport."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 06:31-23:13开放、周一-周五：往鱼洞6:30-22:42（首班车6:30，末班车22:42），往较场口6:32-23:16（首班车6:32，末班车23:16）；周六、周日：往鱼洞6:42-22:42（首班车6:42，末班车22:42），往较场口6:37-23:17（首班车6:37，末班车23:17）。。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "轨道李子坝站，出站后按观景指引走；轨道乘车费在当地交通中填写。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Use Liziba Station and follow viewing signs. Enter train fares under local transport.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/5045354.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.5/5、393 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.5/5 from 393 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-10386",
+      "canonicalPlaceId": "cq-sight-10386",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "渝中区",
+      "name": "解放碑步行街",
+      "theme": "历史人文",
+      "location": "渝中区 · 重庆市渝中区邹容路100号",
+      "description": "以纪念碑为中心看城市地标和商业街景，保留体力再选一条支巷。餐饮购物自选，不把附近收费观景台当成步行街必买门票。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "轨道临江门、较场口或小什字后步行，跨年与节假日留意疏导。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/10386.html",
+          "title": "携程：解放碑步行街资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-10386.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/10386.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0106912000jv5wrb3CF69.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/10386.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "解放碑步行街 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Jiefangbei Pedestrian Streets · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      },
+      "en": {
+        "name": "Jiefangbei Pedestrian Streets",
+        "location": "Yuzhong, Chongqing · Chinese navigation address: 重庆市渝中区邹容路100号",
+        "description": "See the central monument and commercial streets, then choose a side lane if time permits. Shopping and dining are optional; nearby paid observation decks are not required street-entry tickets.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Walk from Linjiangmen, Jiaochangkou or Xiaoshizi and check special crowd controls."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 全天开放。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "轨道临江门、较场口或小什字后步行，跨年与节假日留意疏导。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Walk from Linjiangmen, Jiaochangkou or Xiaoshizi and check special crowd controls.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/10386.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.7/5、5635 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.7/5 from 5635 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-43819",
+      "canonicalPlaceId": "cq-sight-43819",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "渝中区",
+      "name": "重庆湖广会馆",
+      "theme": "历史人文",
+      "location": "渝中区 · 重庆市渝中区长滨路芭蕉园1号",
+      "description": "看移民会馆建筑、戏台和湖广填四川相关展陈。常规参观与演出套票分开，建筑依坡而建，有台阶，预留细看木雕的时间。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "朝天门片区芭蕉园一带，按实际入口楼层导航；可与附近江边街巷分段安排。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/43819.html",
+          "title": "携程：重庆湖广会馆资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：湖广会馆门票",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-43819.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/43819.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/01046120008fmu5wt86CD.png",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/43819.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "重庆湖广会馆 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Huguang Guild Hall · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 25,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "常规成人参观票",
+        "scopeEn": "Regular adult visit",
+        "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+        "note": "官方文旅表列25元；不含另售演出、讲解等项目。",
+        "noteEn": "Official tourism table lists CNY 25; separately sold shows and interpretation are excluded."
+      },
+      "en": {
+        "name": "Huguang Guild Hall",
+        "location": "Yuzhong, Chongqing · Chinese navigation address: 重庆市渝中区长滨路芭蕉园1号",
+        "description": "Explore migrant guild-hall architecture, theatre stages and migration-history displays. Distinguish regular admission from show packages; allow time for carvings and stairs.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Use the signed entrance in the Bajiaoyuan area near Chaotianmen; plan river lanes as a separate short walk."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 09:00-18:00开放（17:00停止售票，17:00停止入园）。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "朝天门片区芭蕉园一带，按实际入口楼层导航；可与附近江边街巷分段安排。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Use the signed entrance in the Bajiaoyuan area near Chaotianmen; plan river lanes as a separate short walk.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/43819.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.5/5、5563 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.5/5 from 5563 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-109940",
+      "canonicalPlaceId": "cq-sight-109940",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "渝中区—南岸区",
+      "name": "长江索道",
+      "theme": "历史人文",
+      "location": "渝中区—南岸区 · 重庆市渝中区新华路151号",
+      "description": "跨江缆车体验，南北两站分别排队，购买方向和往返范围先确认。政府限价不等于当前成交价；高峰等待可能长于乘坐时间。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "北站新华路151号，南站龙门路一带；优先核对取号规则、运行公告和返程交通。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/109940.html",
+          "title": "携程：长江索道资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://fzggw.cq.gov.cn/zwgk/zfxxgkml/jgxx/jgzc/202503/t20250324_14434363.html",
+          "title": "重庆发改委：索道最高限价，非必然执行价",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://www.cqsuodao.com/zhangjiangsuodao.html",
+          "title": "索道经营方：运行通知",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-109940.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/109940.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/01A511200090idw6fDB4A.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/109940.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "长江索道 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Yangtze River Cableway · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "2025年政府文件列单程30元、往返50元为最高限价，经营方可在范围内确定执行价；尚未确认当日执行价，不把限价或旧20/30元报价自动填入。",
+        "noteEn": "The 2025 government notice sets ceilings of CNY 30 one-way and CNY 50 return, allowing the operator to apply lower fares. Current applied fares are unconfirmed; neither ceilings nor old CNY 20/30 quotes are prefilled."
+      },
+      "en": {
+        "name": "Yangtze River Cableway",
+        "location": "Yuzhong–Nan’an, Chongqing · Chinese navigation address: 重庆市渝中区新华路151号",
+        "description": "A cross-river cable-car ride with separate queues at both stations. Confirm direction and return coverage. Government price ceilings are not necessarily the current fare; waits can exceed riding time.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "North station: 151 Xinhua Road; south station: Longmen Road area. Check queue rules, service notices and return transport."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：特殊营业时间：9月23日 不开放;特殊营业时间：9月25日-10月7日 07:30-22:30开放;全年 08:00-22:00开放（21:00停止入园）。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "北站新华路151号，南站龙门路一带；优先核对取号规则、运行公告和返程交通。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "North station: 151 Xinhua Road; south station: Longmen Road area. Check queue rules, service notices and return transport.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/109940.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.2/5、18165 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.2/5 from 18165 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-10340",
+      "canonicalPlaceId": "cq-sight-10340",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "武隆区",
+      "name": "仙女山国家森林公园",
+      "theme": "自然山水",
+      "location": "武隆区 · 重庆市武隆区双河乡",
+      "description": "高山草场、林地与度假景观。草场散步与观光小火车、骑马、滑雪等项目分开核价；雪景取决于天气，不承诺冬季必有雪。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "单列武隆山上行程，核对公园与仙女山街道游客中心的区别；备外套和雨具。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/10340.html",
+          "title": "携程：仙女山国家森林公园资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：仙女山基础门票",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-10340.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/10340.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/1lo0112000bofvjoa4244.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/10340.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "仙女山国家森林公园 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Xiannvshan National Forest Park · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 50,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "常规成人入园票",
+        "scopeEn": "Regular adult park entry",
+        "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+        "note": "官方文旅表列50元；小火车、骑马、滑雪等另售项目不含。",
+        "noteEn": "Official table lists CNY 50; sightseeing trains, riding and snow activities are excluded."
+      },
+      "en": {
+        "name": "Xiannvshan National Forest Park",
+        "location": "Wulong, Chongqing · Chinese navigation address: 重庆市武隆区双河乡",
+        "description": "Mountain meadows and forest. Price the regular visit separately from sightseeing trains, riding and snow activities. Snow depends on conditions and is not guaranteed.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Plan a separate Wulong mountain visit and distinguish the park from the township visitor centre; carry a layer and rain protection."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 全天开放、景区自费项目营业时间为：08:30-16:30。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "单列武隆山上行程，核对公园与仙女山街道游客中心的区别；备外套和雨具。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Plan a separate Wulong mountain visit and distinguish the park from the township visitor centre; carry a layer and rain protection.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/10340.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.5/5、7297 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.5/5 from 7297 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-4298",
+      "canonicalPlaceId": "cq-sight-4298",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "奉节县",
+      "name": "白帝城·瞿塘峡景区",
+      "theme": "历史人文",
+      "location": "奉节县 · 重庆市奉节县白帝镇",
+      "description": "白帝城历史建筑、诗文与夔门江景。岸上参观、摆渡和峡谷游船的范围需逐项确认，不把一张门票视为包含所有三峡船程。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "先到奉节再转白帝镇，返程按铁路或公路班次安排，不能当主城半日游。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/fengjiecounty2025223/4298.html",
+          "title": "携程：白帝城·瞿塘峡景区资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-4298.jpg",
+        "url": "https://you.ctrip.com/sight/fengjiecounty2025223/4298.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0106h12000t36zq9nB717.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/fengjiecounty2025223/4298.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "白帝城·瞿塘峡景区 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Baidicheng–Qutang Gorge · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      },
+      "en": {
+        "name": "Baidicheng–Qutang Gorge",
+        "location": "Fengjie, Chongqing · Chinese navigation address: 重庆市奉节县白帝镇",
+        "description": "Historic Baidicheng buildings, poetry and Kuimen river views. Confirm land visits, ferries and sightseeing-boat coverage separately; one ticket does not cover every Three Gorges cruise.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Travel via Fengjie to Baidi and plan around actual return trains or buses; this is not a half-day city outing."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 07:40-19:00开放（17:00停止售票，17:30停止入园）、天气晴的情况，入园时间延长至19:00，闭园时间延长至21:00，观光车、旅游直通车延长至21:00；\n雨天、阴天正常开园闭园，观光车和旅游直通车也是正常运营时间。。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "先到奉节再转白帝镇，返程按铁路或公路班次安排，不能当主城半日游。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Travel via Fengjie to Baidi and plan around actual return trains or buses; this is not a half-day city outing.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/fengjiecounty2025223/4298.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.6/5、4013 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.6/5 from 4013 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-1418195",
+      "canonicalPlaceId": "cq-sight-1418195",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "黔江区",
+      "name": "濯水古镇",
+      "theme": "古村古建",
+      "location": "黔江区 · 重庆市黔江区濯水镇",
+      "description": "阿蓬江畔街巷、风雨廊桥与地方文化。古镇街区和整个濯水景区中的地下河、游船是不同范围，不能把景区套票统称古镇门票。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "到黔江后再转濯水镇，核对返程与夜间接驳；公共街区以外的展陈单独问价。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/1418195.html",
+          "title": "携程：濯水古镇资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-1418195.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/1418195.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/1lo2112000dvdcdxyD6E0.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/1418195.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "濯水古镇 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Zhuoshui Ancient Town · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      },
+      "en": {
+        "name": "Zhuoshui Ancient Town",
+        "location": "Qianjiang, Chongqing · Chinese navigation address: 重庆市黔江区濯水镇",
+        "description": "Riverside streets, a covered bridge and local culture. The town lanes differ from underground-river and boat experiences in the wider scenic area; package prices are not town-entry prices.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Connect through Qianjiang to Zhuoshui and confirm return transport, especially after dark. Ask separately about indoor displays."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 全天开放。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "到黔江后再转濯水镇，核对返程与夜间接驳；公共街区以外的展陈单独问价。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Connect through Qianjiang to Zhuoshui and confirm return transport, especially after dark. Ask separately about indoor displays.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/1418195.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.3/5、164 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.3/5 from 164 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-5717709",
+      "canonicalPlaceId": "cq-sight-5717709",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "渝中区",
+      "name": "重庆十八梯传统风貌区",
+      "theme": "历史人文",
+      "location": "渝中区 · 重庆市渝中区中兴路1号",
+      "description": "顺坡看传统街巷格局与改造后的商业空间。并非全部原貌古建筑；选定上下行方向，展馆、餐饮和体验项目另核价。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "较场口片区步行进入，台阶较密；带轮椅或推车先确认可用电梯及替代路。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/5717709.html",
+          "title": "携程：重庆十八梯传统风貌区资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-5717709.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/5717709.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0106i120008yvl37wB6EF.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/5717709.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "重庆十八梯传统风貌区 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Shibati Traditional Streets · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      },
+      "en": {
+        "name": "Shibati Traditional Streets",
+        "location": "Yuzhong, Chongqing · Chinese navigation address: 重庆市渝中区中兴路1号",
+        "description": "Follow stepped lanes through a regenerated commercial heritage area. Buildings are not all untouched originals; choose a descent or ascent and price indoor experiences separately.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Walk from Jiaochangkou; there are many steps. Confirm working lifts and alternatives for wheelchairs or strollers."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 全天开放、重庆十八梯传统风貌区景区通宵营业，山城记忆馆展馆和大隧道遗址营业时间为：8：30-20：30。。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "较场口片区步行进入，台阶较密；带轮椅或推车先确认可用电梯及替代路。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Walk from Jiaochangkou; there are many steps. Confirm working lifts and alternatives for wheelchairs or strollers.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/5717709.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.5/5、80 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.5/5 from 80 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-2491576",
+      "canonicalPlaceId": "cq-sight-2491576",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "渝中区",
+      "name": "二厂文创公园",
+      "theme": "历史人文",
+      "location": "渝中区 · 重庆市渝中区鹅岭正街1号",
+      "description": "旧印制厂改造的文创空间，沿开放厂房外部和公共巷道慢逛。咖啡、展览、屋顶及拍摄项目不一定含在同一免费范围。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "鹅岭片区坡路步行，与鹅岭公园分开计为两处；离开前核对下山路线。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/2491576.html",
+          "title": "携程：二厂文创公园资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-2491576.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/2491576.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0103p120008ir3fg1B8DA.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/2491576.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "二厂文创公园 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Testbed 2 Arts District · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      },
+      "en": {
+        "name": "Testbed 2 Arts District",
+        "location": "Yuzhong, Chongqing · Chinese navigation address: 重庆市渝中区鹅岭正街1号",
+        "description": "A former printing works converted to arts and retail spaces. Explore open lanes and exteriors; cafés, exhibitions, rooftops and photo activities may charge separately.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Expect slopes in the Eling area. The arts district and Eling Park are separate sites; check the descent route."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 全天开放。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "鹅岭片区坡路步行，与鹅岭公园分开计为两处；离开前核对下山路线。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Expect slopes in the Eling area. The arts district and Eling Park are separate sites; check the descent route.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/2491576.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.4/5、175 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.4/5 from 175 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-10377",
+      "canonicalPlaceId": "cq-sight-10377",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "九龙坡区",
+      "name": "重庆动物园",
+      "theme": "自然山水",
+      "location": "九龙坡区 · 重庆市九龙坡区西郊一村1号",
+      "description": "以大熊猫和其他动物展区为主题，按场馆开放和动物状态安排行走。禁止投喂、拍打玻璃与闪光干扰；个别展馆施工或闭展不代表全园关闭。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "轨道2号线动物园站，入园后先核对展馆安排；票价分1—11月与12月。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/10377.html",
+          "title": "携程：重庆动物园资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://english.cq.gov.cn/specials/Enjoy/Zoos/202608/t20260810_15912219.html",
+          "title": "重庆市政府：2026动物园票价与月份",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-10377.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/10377.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/350818000001513roB5BF.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/10377.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "重庆动物园 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Chongqing Zoo · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "成人票 · 按出行月份选择",
+        "scopeEn": "Adult admission · select travel month",
+        "sourceUrl": "https://english.cq.gov.cn/specials/Enjoy/Zoos/202608/t20260810_15912219.html",
+        "note": "1—11月25元，12月20元；不把低价季节默认套用于全年。场馆营业以园方公告为准。",
+        "noteEn": "January–November CNY 25; December CNY 20. Select the actual travel season; check exhibit operations.",
+        "mode": "options",
+        "options": [
+          {
+            "label": "1—11月成人票",
+            "enLabel": "January–November adult",
+            "amount": 25
+          },
+          {
+            "label": "12月成人票",
+            "enLabel": "December adult",
+            "amount": 20
+          }
+        ]
+      },
+      "en": {
+        "name": "Chongqing Zoo",
+        "location": "Jiulongpo, Chongqing · Chinese navigation address: 重庆市九龙坡区西郊一村1号",
+        "description": "Plan around open animal exhibits and animal routines. Do not feed animals, tap glass or use disturbing flash. Individual exhibit works do not necessarily close the whole zoo.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Use Zoo Station on Line 2 and check exhibit notices on entry. Admission differs between January–November and December."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 08:00-18:00开放（16:30停止入园）。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "轨道2号线动物园站，入园后先核对展馆安排；票价分1—11月与12月。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Use Zoo Station on Line 2 and check exhibit notices on entry. Admission differs between January–November and December.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/10377.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.7/5、16317 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.7/5 from 16317 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-76501",
+      "canonicalPlaceId": "cq-sight-76501",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "涪陵区",
+      "name": "816工程景区",
+      "theme": "历史人文",
+      "location": "涪陵区 · 重庆市涪陵区白涛街道武陵大道26号",
+      "description": "三线建设地下工程遗址，通过开放洞体和导览了解建设历史。按统一开放线路参观，不进入封闭设施；基础门票和交通、演出套票分开。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "涪陵白涛街道，先到游客中心确认分批入场与接驳；不是涪陵城区步行景点。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/76501.html",
+          "title": "携程：816工程景区资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：816基础门票",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-76501.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/76501.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/1lo4w12000k2a9iub3432.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/76501.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "816工程景区 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "816 Project Scenic Area · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 50,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "基础成人门票",
+        "scopeEn": "Basic adult admission",
+        "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+        "note": "官方文旅表列50元，交通、演出或组合产品另计；并非所有平台套票的总价。",
+        "noteEn": "Official table lists CNY 50 for admission; transfers, performances and package extras are separate."
+      },
+      "en": {
+        "name": "816 Project Scenic Area",
+        "location": "Fuling, Chongqing · Chinese navigation address: 重庆市涪陵区白涛街道武陵大道26号",
+        "description": "Explore the open portions of an underground Third Front industrial project with interpretation. Follow the designated route; admission, transfers and performances are distinct products.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Travel to Baitao in Fuling and confirm group entry and transfers at the visitor centre; it is outside Fuling’s central streets."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：特殊营业时间：8月1日-8月25日 09:00-20:00开放;4月1日-10月31日 09:00-17:00开放;2026年11月1日-2027年3月31日 09:00-16:30开放。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "涪陵白涛街道，先到游客中心确认分批入场与接驳；不是涪陵城区步行景点。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Travel to Baitao in Fuling and confirm group entry and transfers at the visitor centre; it is outside Fuling’s central streets.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/76501.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.7/5、2956 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.7/5 from 2956 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-76543",
+      "canonicalPlaceId": "cq-sight-76543",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "涪陵区",
+      "name": "白鹤梁水下博物馆",
+      "theme": "历史人文",
+      "location": "涪陵区 · 重庆市涪陵区白鹤梁大道388号",
+      "description": "看古代水文题刻与水下保护展示，水下参观以场馆运行和能见度为准。免预约不等于免票；公开价格口径存在差异，待确认当前执行价。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "涪陵白鹤梁大道388号，跨区交通与入馆时间分别安排；身份证件及无障碍要求先联系场馆。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/76543.html",
+          "title": "携程：白鹤梁水下博物馆资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：白鹤梁价格资料",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://fzggw.cq.gov.cn/zwgk/zfxxgkml/jgxx/jgzc/202003/t20200304_5579834_wap.html",
+          "title": "2011季节价格文件：与当前表格口径有差异",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zwxx_221/bmdt/tzgg/202511/t20251103_15136009.html",
+          "title": "免预约公告：白鹤梁仍需购票",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-76543.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/76543.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0104d12000iirs1kpB53C.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/76543.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "白鹤梁水下博物馆 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Baiheliang Underwater Museum · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "官方文旅表列50元，2011年价格文件另有淡旺季50/60元口径；当前执行价与入馆范围待复核。免预约不等于免票。",
+        "noteEn": "The tourism table lists CNY 50 while a 2011 tariff notice has seasonal CNY 50/60 rates. Current applied pricing needs reconfirmation; no reservation does not mean free admission."
+      },
+      "en": {
+        "name": "Baiheliang Underwater Museum",
+        "location": "Fuling, Chongqing · Chinese navigation address: 重庆市涪陵区白鹤梁大道388号",
+        "description": "See ancient hydrological inscriptions and underwater conservation displays. Access depends on operation and visibility. No reservation does not mean free admission; published tariff scopes differ.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "388 Baiheliang Avenue, Fuling. Allow separate interdistrict travel time and ask about ID and accessibility requirements."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：特殊营业时间：每年10月1日-10月6日 09:00-18:00开放（17:30停止售票，17:30停止入园）;全年 周一 不开放;全年 周二–周日 09:00-17:00开放（16:30停止售票，16:30停止入园）、周一闭馆(法定节假日和特殊情况除外)。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "涪陵白鹤梁大道388号，跨区交通与入馆时间分别安排；身份证件及无障碍要求先联系场馆。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "388 Baiheliang Avenue, Fuling. Allow separate interdistrict travel time and ask about ID and accessibility requirements.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/76543.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.6/5、1209 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.6/5 from 1209 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
+    },
+    {
+      "id": "cq-sight-10354",
+      "canonicalPlaceId": "cq-sight-10354",
+      "entryType": "attraction",
+      "region": "重庆",
+      "regionFull": "重庆市",
+      "area": "西南",
+      "city": "重庆",
+      "district": "合川区",
+      "name": "钓鱼城",
+      "theme": "历史人文",
+      "location": "合川区 · 重庆市合川区钓鱼城大道",
+      "description": "沿开放城门、城墙与遗址展陈了解山城防御体系，部分结构为修复展示。9月25日起已恢复成人60元，8月限期30元优惠不能继续套用。",
+      "food": "小面、抄手、江湖菜与火锅按具体门店选择；武隆另有碗碗羊肉。",
+      "transport": "先到合川再到水师码头游客中心，摆渡与步行登山分别确认，车费不含在基础门票内。",
+      "season": "全年",
+      "days": 1,
+      "tier": "景点资料",
+      "mobility": "未核实",
+      "lowCrowd": false,
+      "updated": "2026-10-17",
+      "researchBatch": 1,
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/10354.html",
+          "title": "携程：钓鱼城资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://www.hcdyc.cn/dyc/jqzx/jqgg/gydycjqhfmpyjdgg/index.html",
+          "title": "景区：2026年9月25日起恢复60元",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://www.hcdyc.cn/webeditor/uploadfile/20260924205638291.jpg",
+          "title": "公告原图：已人工阅读票价及生效日期",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "image": {
+        "path": "assets/cq-sight-10354.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/10354.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0100212000kkjz67mD4EC.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/10354.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "钓鱼城 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Diaoyucheng Fortress · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 60,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "成人全价门票",
+        "scopeEn": "Full-price adult admission",
+        "sourceUrl": "https://www.hcdyc.cn/dyc/jqzx/jqgg/gydycjqhfmpyjdgg/index.html",
+        "note": "景区2026年9月24日公告：9月25日起恢复60元；此前30元限期优惠结束，摆渡车等另计。",
+        "noteEn": "The September 24, 2026 operator notice restores CNY 60 from September 25, ending the temporary CNY 30 offer. Shuttles are separate.",
+        "validFrom": "2026-09-25"
+      },
+      "en": {
+        "name": "Diaoyucheng Fortress",
+        "location": "Hechuan, Chongqing · Chinese navigation address: 重庆市合川区钓鱼城大道",
+        "description": "Explore open gates, walls and displays of mountain-fortress defence; some structures are restored. Adult admission returned to CNY 60 on September 25; the August CNY 30 offer has ended.",
+        "food": "Choose specific noodle, wonton, regional-cuisine and hotpot branches; Wulong also has local lamb bowls.",
+        "transport": "Connect through Hechuan to the Shuishi Matou visitor centre. Confirm shuttles versus climbing; transfer fares are outside regular admission."
+      },
+      "guide": {
+        "complete": false,
+        "checked": "2026-10-17",
+        "admission": "当前票价见门票核对，首道门票与场内项目分别核价。",
+        "opening": "平台列示：全年 08:30-17:00开放（17:00停止入园）。出发前核对官方开放及最后入场。",
+        "reservation": "具体入场、证件和临时限流要求以官方当日公告为准。",
+        "route": "先到合川再到水师码头游客中心，摆渡与步行登山分别确认，车费不含在基础门票内。",
+        "accessibility": "连续无障碍路线、台阶、电梯和卫生间尚未完整核实；按同行者需要联系场馆。",
+        "en": {
+          "admission": "See the admission audit; check entry separately from paid on-site activities.",
+          "opening": "Consult current operator notices for hours and last admission; a platform listing is not a live opening guarantee.",
+          "reservation": "Check official notices for entry, identity documents and temporary capacity controls.",
+          "route": "Connect through Hechuan to the Shuishi Matou visitor centre. Confirm shuttles versus climbing; transfer fares are outside regular admission.",
+          "accessibility": "Continuous accessible routes, steps, lifts and toilets are not fully verified; contact the venue for your group’s needs."
+        }
+      },
+      "reviews": {
+        "url": "https://you.ctrip.com/sight/chongqing158/10354.html",
+        "checked": "2026-10-17",
+        "positive": "携程公开汇总 4.6/5、514 条评价（查阅快照），不代表本站到访。",
+        "negative": "未完成正负体验的系统抽样；平台评分和评价真实性未独立核验。",
+        "ticket": "网友消费与平台起价不作已核实门票。",
+        "en": {
+          "positive": "Ctrip aggregate 4.6/5 from 514 reviews at checking time; not a visit by this site.",
+          "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
+          "ticket": "Visitor spending and starting prices are not verified admission tariffs."
+        }
+      }
     }
   ],
   "foods": [
@@ -52063,6 +54188,784 @@
         "good": "Amap lists the address and a 2025 composite index of 4.51, but no review volume or independent spending account. That index is not a five-star user rating or proof of a visit.",
         "caution": "Confirm location and operation, then ask about trotter size, char-siu extras and noodle portions. This is a map-list lead, not a taste guarantee; enter your own price."
       }
+    },
+    {
+      "id": "food-cq-11576405",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "渝中区",
+      "place": "重庆",
+      "name": "尘香(创汇首座店)",
+      "address": "渝中区 · 新华路388号创汇首座LG层",
+      "dishes": "泡椒糯皮仔兔、锅巴肉片、辣子鸡",
+      "localSpecialty": "精品川菜",
+      "price": "平台人均参考 CNY 104",
+      "priceCNY": {
+        "low": 104,
+        "high": 104
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "平台公开评分与具体门店资料作为筛选线索；未完成独立到访核验和正负体验的系统抽样。",
+      "caution": "共享正餐按人数减量；兔、蛙或鱼类先确认同行者是否接受，辣度与配料单独沟通。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11576405.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "count": 439,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11576405.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Chen Xiang · Chuanghui Shouzuo",
+        "address": "Yuzhong, Chongqing · Chinese navigation address: 新华路388号创汇首座LG层",
+        "dishes": "Pickled-chilli rabbit; pork with crisp rice; chilli chicken",
+        "localSpecialty": "Refined regional Sichuan dishes",
+        "price": "Platform average reference CNY 104",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Public ratings and branch details are screening evidence, not independently verified visits or a systematic review sample.",
+        "caution": "Order shared portions for your group and confirm acceptance of rabbit, frog or fish; specify spice and ingredients. Review authenticity is not independently verified."
+      }
+    },
+    {
+      "id": "food-cq-24568837",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "渝中区",
+      "place": "重庆",
+      "name": "杨记隆府(重庆总店)",
+      "address": "渝中区 · 重庆市临江支路32号附7号",
+      "dishes": "民国辣子鸡、霸王兔、红糖阴米粥",
+      "localSpecialty": "重庆江湖菜",
+      "price": "平台人均参考 CNY 80",
+      "priceCNY": {
+        "low": 80,
+        "high": 80
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "历史体验样本：YoYo_5B1T4F9S（2026-07-10）：该作者称四人点九道菜偏多，店员曾提醒；是单次历史体验，不保证当前服务。 评价真实性未独立核验。",
+      "caution": "热门时段可能等位，正餐与小吃分开选，不照单点满；店名中的总店不等于本站认定唯一正宗。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/24568837.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.9,
+        "count": 1177,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/24568837.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/11896102/12/747755905.html",
+          "title": "带作者与日期的历史体验样本",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Yang Ji Long Fu · Chongqing Main Branch",
+        "address": "Yuzhong, Chongqing · Chinese navigation address: 重庆市临江支路32号附7号",
+        "dishes": "Chilli chicken; spicy rabbit; brown-sugar rice porridge",
+        "localSpecialty": "Chongqing regional shared dishes",
+        "price": "Platform average reference CNY 80",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Historical sample: YoYo_5B1T4F9S (2026-07-10): The author reports over-ordering nine dishes for four people and a staff reminder; one historical experience, not a current service guarantee. Review authenticity is not independently verified.",
+        "caution": "Allow for queues and choose a modest shared meal. “Main branch” is the source’s branch name, not this site’s authenticity certification. Review authenticity is not independently verified."
+      },
+      "reviewSample": {
+        "author": "YoYo_5B1T4F9S",
+        "date": "2026-07-10",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/11896102/12/747755905.html",
+        "summary": "该作者称四人点九道菜偏多，店员曾提醒；是单次历史体验，不保证当前服务。",
+        "summaryEn": "The author reports over-ordering nine dishes for four people and a staff reminder; one historical experience, not a current service guarantee."
+      }
+    },
+    {
+      "id": "food-cq-25100058",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "九龙坡区",
+      "place": "重庆",
+      "name": "秦云老太婆摊摊面(全国总店)",
+      "address": "九龙坡区 · 谢家湾正街华润二十四城万象城万象美食街(华润小学对面)",
+      "dishes": "干溜豌杂面、小面、肥肠面",
+      "localSpecialty": "重庆小面与干溜豌杂面",
+      "price": "平台人均参考 CNY 14",
+      "priceCNY": {
+        "low": 14,
+        "high": 14
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "平台公开评分与具体门店资料作为筛选线索；未完成独立到访核验和正负体验的系统抽样。",
+      "caution": "平台店址为万象美食街，历史评论有老店称谓；按本条店址复核，不混同七星岗等其他分店，碗量和加料另问。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/25100058.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "count": 77,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/25100058.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Qin Yun Laotaipo Noodles · Listed Main Branch",
+        "address": "Jiulongpo, Chongqing · Chinese navigation address: 谢家湾正街华润二十四城万象城万象美食街(华润小学对面)",
+        "dishes": "Dry pea-pork noodles; Chongqing noodles; pork-intestine noodles",
+        "localSpecialty": "Chongqing noodles and dry pea-pork noodles",
+        "price": "Platform average reference CNY 14",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Public ratings and branch details are screening evidence, not independently verified visits or a systematic review sample.",
+        "caution": "The listing identifies Wanxiang Food Street; historic comments also use old-branch wording. Reconfirm this address, not Qixinggang or another branch; ask about sizes and extras. Review authenticity is not independently verified."
+      }
+    },
+    {
+      "id": "food-cq-31634641",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "渝中区",
+      "place": "重庆",
+      "name": "在渝里·重庆火锅(解放碑好吃街店)",
+      "address": "渝中区 · 重庆市八一路218号解放碑好吃街如家精选酒店2楼",
+      "dishes": "麻辣牛肉、屠场三色毛肚、现炸酥肉",
+      "localSpecialty": "重庆牛油火锅",
+      "price": "平台人均参考 CNY 68",
+      "priceCNY": {
+        "low": 68,
+        "high": 68
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "历史体验样本：Elaine6666（2026-10-08）：该作者称重访八一路二楼门店，环境和菜品较旧时有变化；本站未核验其到访。 评价真实性未独立核验。",
+      "caution": "二楼具体门店，锅底、油碟、茶位和套餐适用人数先问；微辣仍可能较辣，不将锅底费重复算成人均。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/31634641.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "count": 31,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/31634641.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/16069428/12/852801384.html",
+          "title": "带作者与日期的历史体验样本",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Zai Yu Li Hotpot · Jiefangbei Food Street",
+        "address": "Yuzhong, Chongqing · Chinese navigation address: 重庆市八一路218号解放碑好吃街如家精选酒店2楼",
+        "dishes": "Spicy beef; tripe; fried pork strips",
+        "localSpecialty": "Chongqing beef-tallow hotpot",
+        "price": "Platform average reference CNY 68",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Historical sample: Elaine6666 (2026-10-08): The author reports revisiting the second-floor Bayi Road branch and changes to the setting and menu; attendance is unverified. Review authenticity is not independently verified.",
+        "caution": "This branch is on the second floor. Confirm broth, dips, cover charges and package group size; mild may still be hot. Review authenticity is not independently verified."
+      },
+      "reviewSample": {
+        "author": "Elaine6666",
+        "date": "2026-10-08",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/16069428/12/852801384.html",
+        "summary": "该作者称重访八一路二楼门店，环境和菜品较旧时有变化；本站未核验其到访。",
+        "summaryEn": "The author reports revisiting the second-floor Bayi Road branch and changes to the setting and menu; attendance is unverified."
+      }
+    },
+    {
+      "id": "food-cq-11573562",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "渝中区",
+      "place": "重庆",
+      "name": "酱老麻抄手重庆小面馆（解放碑总店）",
+      "address": "渝中区 · 重庆市解放碑民生路250号（海航保利国际中心正对面）",
+      "dishes": "老麻抄手、清汤抄手、干溜豌杂面",
+      "localSpecialty": "老麻抄手与豌杂面",
+      "price": "平台人均参考 CNY 19",
+      "priceCNY": {
+        "low": 19,
+        "high": 19
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "平台公开评分与具体门店资料作为筛选线索；未完成独立到访核验和正负体验的系统抽样。",
+      "caution": "麻与辣可分别沟通；清汤是否仍含葱蒜、肉汤或其他配料先问，不保证历史评论中的赠饮。 小样本候选，满分不等于稳定口碑。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11573562.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "count": 6,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11573562.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Jiang Laoma Wontons · Jiefangbei Main Branch",
+        "address": "Yuzhong, Chongqing · Chinese navigation address: 重庆市解放碑民生路250号（海航保利国际中心正对面）",
+        "dishes": "Peppery wontons; clear-broth wontons; dry pea-pork noodles",
+        "localSpecialty": "Peppery wontons and pea-pork noodles",
+        "price": "Platform average reference CNY 19",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Public ratings and branch details are screening evidence, not independently verified visits or a systematic review sample.",
+        "caution": "Discuss numbing pepper and chilli separately. Ask about clear-broth ingredients; historical complimentary drinks are not guaranteed. Small-sample candidate; a perfect score is not stable quality evidence. Review authenticity is not independently verified."
+      }
+    },
+    {
+      "id": "food-cq-16997092",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "渝中区",
+      "place": "重庆",
+      "name": "李子坝梁山鸡(公园二鸡哥店)",
+      "address": "渝中区 · 重庆市李子坝正街60号（近轨道2号线李子坝站1号口，李子坝公园正对面）",
+      "dishes": "李子坝梁山鸡小锅、芋儿鸡、李子坝板栗鸡",
+      "localSpecialty": "梁山鸡与芋儿鸡",
+      "price": "平台人均参考 CNY 86",
+      "priceCNY": {
+        "low": 86,
+        "high": 86
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "历史体验样本：ScorpioF（2023-12-03）：该作者认为小锅份量较足，口味可接受；整锅重量和辣度仍须按当日菜单确认。 评价真实性未独立核验。",
+      "caution": "按整锅或鸡重量核价，先问最低起点和是否适合两人；配菜与汤底费用另查，不引用药膳保健功效。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/16997092.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "count": 178,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/16997092.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/8630921/12/179984259.html",
+          "title": "带作者与日期的历史体验样本",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Liziba Liangshan Chicken · Park Erjige Branch",
+        "address": "Yuzhong, Chongqing · Chinese navigation address: 重庆市李子坝正街60号（近轨道2号线李子坝站1号口，李子坝公园正对面）",
+        "dishes": "Small Liangshan chicken pot; taro chicken; chestnut chicken",
+        "localSpecialty": "Liangshan-style chicken and taro chicken",
+        "price": "Platform average reference CNY 86",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Historical sample: ScorpioF (2023-12-03): The author found a small pot generous and the flavour acceptable; confirm current weights and spice. Review authenticity is not independently verified.",
+        "caution": "Confirm pot or chicken-weight pricing and minimum order, especially for two diners. Check sides and broth; no medicinal benefits are claimed. Review authenticity is not independently verified."
+      },
+      "reviewSample": {
+        "author": "ScorpioF",
+        "date": "2023-12-03",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/8630921/12/179984259.html",
+        "summary": "该作者认为小锅份量较足，口味可接受；整锅重量和辣度仍须按当日菜单确认。",
+        "summaryEn": "The author found a small pot generous and the flavour acceptable; confirm current weights and spice."
+      }
+    },
+    {
+      "id": "food-cq-379002",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "渝中区",
+      "place": "重庆",
+      "name": "花市豌杂面(民生路店)",
+      "address": "渝中区 · 民生路85号",
+      "dishes": "花市豌杂面、红油抄手、红烧肥肠面",
+      "localSpecialty": "豌杂面与重庆小面",
+      "price": "平台人均参考 CNY 17",
+      "priceCNY": {
+        "low": 17,
+        "high": 17
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "平台公开评分与具体门店资料作为筛选线索；未完成独立到访核验和正负体验的系统抽样。 部分公开评价赞豌豆与份量，也有口味及服务不满意的评价，不能只凭店名下结论。",
+      "caution": "民生路85号门店；有口味和服务分歧，不把名气当保证。按食量选面量、干溜或汤面，配料加价另问。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/379002.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.3,
+        "count": 679,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/379002.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Huashi Pea-Pork Noodles · Minsheng Road",
+        "address": "Yuzhong, Chongqing · Chinese navigation address: 民生路85号",
+        "dishes": "Pea-pork noodles; chilli-oil wontons; braised-intestine noodles",
+        "localSpecialty": "Pea-pork and Chongqing noodles",
+        "price": "Platform average reference CNY 17",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Public ratings and branch details are screening evidence, not independently verified visits or a systematic review sample. Public comments praise peas and portions but also criticise flavour and service; the name alone does not establish quality.",
+        "caution": "Use the 85 Minsheng Road branch. Reviews differ on flavour and service; fame is not a guarantee. Choose size and dry or soup style; extras vary. Review authenticity is not independently verified."
+      }
+    },
+    {
+      "id": "food-cq-61345026",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "渝中区",
+      "place": "重庆",
+      "name": "山城老堂口·1636重庆老菜(解放碑洪崖洞店)",
+      "address": "渝中区 · 重庆市八一路五一天地88号首一层（距解放碑150米）",
+      "dishes": "传统毛血旺、歌乐山辣子鸡、酸菜鱼",
+      "localSpecialty": "毛血旺与歌乐山辣子鸡",
+      "price": "平台人均参考 CNY 75",
+      "priceCNY": {
+        "low": 75,
+        "high": 75
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "平台公开评分与具体门店资料作为筛选线索；未完成独立到访核验和正负体验的系统抽样。",
+      "caution": "按八一路88号首一层地址核对；大量探店式好评不代表独立到访核验，鱼和内脏菜先确认配料及份量。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/61345026.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.9,
+        "count": 27,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/61345026.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Shancheng Laotangkou 1636 · Jiefangbei Hongyadong",
+        "address": "Yuzhong, Chongqing · Chinese navigation address: 重庆市八一路五一天地88号首一层（距解放碑150米）",
+        "dishes": "Maoxuewang; chilli chicken; pickled-mustard fish",
+        "localSpecialty": "Maoxuewang stew and Gele-style chilli chicken",
+        "price": "Platform average reference CNY 75",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Public ratings and branch details are screening evidence, not independently verified visits or a systematic review sample.",
+        "caution": "Confirm the first-floor listing at 88 Bayi Road. Promotional-looking praise is not independent visit verification; check fish and offal portions and ingredients. Review authenticity is not independently verified."
+      }
+    },
+    {
+      "id": "food-cq-15307150",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "渝中区",
+      "place": "重庆",
+      "name": "醉八仙热酒馆(渝中店)",
+      "address": "渝中区 · 华一路17号华一大楼1楼",
+      "dishes": "蒜泥白肉、火爆肥肠、豌豆蹄花汤",
+      "localSpecialty": "江湖菜与蒜泥白肉",
+      "price": "平台人均参考 CNY 56",
+      "priceCNY": {
+        "low": 56,
+        "high": 56
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "平台公开评分与具体门店资料作为筛选线索；未完成独立到访核验和正负体验的系统抽样。",
+      "caution": "历史样本较多，当前营业和菜单先查；适合共享正餐，酒水自选，不把小酒馆名称理解为必须饮酒。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/15307150.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "count": 118,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/15307150.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Zui Ba Xian Regional Tavern · Yuzhong",
+        "address": "Yuzhong, Chongqing · Chinese navigation address: 华一路17号华一大楼1楼",
+        "dishes": "Garlic pork; stir-fried intestines; pea and pork-trotter soup",
+        "localSpecialty": "Regional dishes and garlic pork",
+        "price": "Platform average reference CNY 56",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Public ratings and branch details are screening evidence, not independently verified visits or a systematic review sample.",
+        "caution": "Many samples are historical: reconfirm current operation and menu. Share a meal; alcoholic drinks are optional. Review authenticity is not independently verified."
+      }
+    },
+    {
+      "id": "food-cq-11566727",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "南岸区",
+      "place": "重庆",
+      "name": "巴倒烫陆派火锅山庄(南山总店)",
+      "address": "南岸区 · 黄金公路南山街道黄桷垭镇龙井村大田社（第二师范学院对面）",
+      "dishes": "龙井泉水石磨豆花、陆派整根鸭肠、现炸酥肉",
+      "localSpecialty": "南山重庆火锅",
+      "price": "平台人均参考 CNY 109",
+      "priceCNY": {
+        "low": 109,
+        "high": 109
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "平台公开评分与具体门店资料作为筛选线索；未完成独立到访核验和正负体验的系统抽样。",
+      "caution": "南山郊外店单列交通，先确认门区、营业和返程；锅底、配料与环境体验费用不默认包含在人均。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11566727.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "count": 472,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11566727.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Ba Dao Tang Hotpot Manor · Nanshan Main Branch",
+        "address": "Nan’an, Chongqing · Chinese navigation address: 黄金公路南山街道黄桷垭镇龙井村大田社（第二师范学院对面）",
+        "dishes": "Stone-ground tofu; duck intestines; fried pork strips",
+        "localSpecialty": "Nanshan-style Chongqing hotpot",
+        "price": "Platform average reference CNY 109",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Public ratings and branch details are screening evidence, not independently verified visits or a systematic review sample.",
+        "caution": "Budget a separate Nanshan journey and confirm entrance, hours and return transport. Broth, sides and venue experiences may be extra. Review authenticity is not independently verified."
+      }
+    },
+    {
+      "id": "food-cq-11568652",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "渝中区",
+      "place": "重庆",
+      "name": "饭江湖·江湖菜(湖广会馆店)",
+      "address": "渝中区 · 重庆市朝天门街道长江滨江路芭蕉园6号",
+      "dishes": "袍哥鳝段、辣子鸡、毛血旺",
+      "localSpecialty": "会馆片区江湖菜",
+      "price": "平台人均参考 CNY 64",
+      "priceCNY": {
+        "low": 64,
+        "high": 64
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "平台公开评分与具体门店资料作为筛选线索；未完成独立到访核验和正负体验的系统抽样。",
+      "caution": "芭蕉园6号，先问鳝鱼与肉菜份量、辣度；与会馆参观可分段衔接，但不是已实测步行路线。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11568652.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.4,
+        "count": 78,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11568652.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Fan Jiang Hu · Huguang Guild Hall Branch",
+        "address": "Yuzhong, Chongqing · Chinese navigation address: 重庆市朝天门街道长江滨江路芭蕉园6号",
+        "dishes": "Eel pieces; chilli chicken; maoxuewang stew",
+        "localSpecialty": "Regional dishes near Huguang Guild Hall",
+        "price": "Platform average reference CNY 64",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Public ratings and branch details are screening evidence, not independently verified visits or a systematic review sample.",
+        "caution": "6 Bajiaoyuan: confirm eel and meat portions and spice. Combine with the guild-hall area as a meal outline, not a verified walk. Review authenticity is not independently verified."
+      }
+    },
+    {
+      "id": "food-cq-37036657",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "渝中区",
+      "place": "重庆",
+      "name": "巴将军·非遗原味火锅(解放碑店)",
+      "address": "渝中区 · 重庆市民权路17号附3楼（督邮街巷内，人民解放纪念碑南行100米）",
+      "dishes": "屠场鲜毛肚、军营炸酥肉、老肉片",
+      "localSpecialty": "重庆原味火锅",
+      "price": "平台人均参考 CNY 76",
+      "priceCNY": {
+        "low": 76,
+        "high": 76
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "平台公开评分与具体门店资料作为筛选线索；未完成独立到访核验和正负体验的系统抽样。",
+      "caution": "督邮街巷内三楼，先确认上楼方式。锅底、油碟及可能加酒的增香方式可提前沟通，同行有忌口时逐项确认。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/37036657.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.8,
+        "count": 110,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/37036657.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Ba Jiang Jun Hotpot · Jiefangbei",
+        "address": "Yuzhong, Chongqing · Chinese navigation address: 重庆市民权路17号附3楼（督邮街巷内，人民解放纪念碑南行100米）",
+        "dishes": "Fresh tripe; fried pork strips; sliced pork",
+        "localSpecialty": "Chongqing hotpot",
+        "price": "Platform average reference CNY 76",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Public ratings and branch details are screening evidence, not independently verified visits or a systematic review sample.",
+        "caution": "Third floor off Duyou Lane: confirm access. Discuss broth, dips and any alcohol added for aroma; check each diner’s restrictions. Review authenticity is not independently verified."
+      }
+    },
+    {
+      "id": "food-cq-15318356",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "渝中区",
+      "place": "重庆",
+      "name": "珮姐重庆火锅(较场口创始店)",
+      "address": "渝中区 · 民生路5号第一层（山城羊肉馆对面）",
+      "dishes": "经典老肉片、武隆苕粉、屠场鲜毛肚",
+      "localSpecialty": "重庆九宫格火锅",
+      "price": "平台人均参考 CNY 78",
+      "priceCNY": {
+        "low": 78,
+        "high": 78
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "平台公开评分与具体门店资料作为筛选线索；未完成独立到访核验和正负体验的系统抽样。",
+      "caution": "平台列民生路5号，品牌官网旧分店页列四贤巷1号；地址存在差异，先在品牌当前门店导航确认，勿与八一路解放碑店混同。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/15318356.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.4,
+        "count": 321,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/15318356.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        },
+        {
+          "platform": "餐厅官方",
+          "url": "https://www.peijielaohuoguo.com/store/",
+          "title": "品牌分店表：与平台店址有差异，请复核当前入口",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Peijie Hotpot · Jiaochangkou Founding Branch",
+        "address": "Yuzhong, Chongqing · Chinese navigation address: 民生路5号第一层（山城羊肉馆对面）",
+        "dishes": "Sliced pork; Wulong sweet-potato noodles; fresh tripe",
+        "localSpecialty": "Chongqing nine-compartment hotpot",
+        "price": "Platform average reference CNY 78",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Public ratings and branch details are screening evidence, not independently verified visits or a systematic review sample.",
+        "caution": "The platform lists 5 Minsheng Road while an older brand page lists 1 Sixian Lane. Reconfirm the current founding-branch entrance; do not confuse it with the Bayi Road branch. Review authenticity is not independently verified."
+      }
+    },
+    {
+      "id": "food-cq-62202974",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "武隆区",
+      "place": "重庆",
+      "name": "羊角老地方碗碗羊肉总店(黄金水岸店)",
+      "address": "武隆区 · 重庆市武隆区芙蓉西路82号1-35",
+      "dishes": "碗碗羊肉、酸辣羊血、渣海椒洋芋",
+      "localSpecialty": "武隆碗碗羊肉",
+      "price": "平台人均参考 CNY 39",
+      "priceCNY": {
+        "low": 39,
+        "high": 39
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "历史体验样本：YoYo_0U4M6A9M（2020-04-27）：该作者称喜欢酸辣羊血与盐菜，属于较早样本，不能证明当前营业或口味。 评价真实性未独立核验。",
+      "caution": "武隆城区门店，与仙女山山上店不同；公开体验样本较早，先复核营业、碗量和当前价格。 小样本候选，满分不等于稳定口碑。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/62202974.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "count": 10,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/62202974.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/62202974/12/163317447.html",
+          "title": "带作者与日期的历史体验样本",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Yangjiao Laodifang Lamb Bowls · Huangjin Shui’an",
+        "address": "Wulong, Chongqing · Chinese navigation address: 重庆市武隆区芙蓉西路82号1-35",
+        "dishes": "Lamb bowls; sour-spicy lamb blood; fermented-chilli potatoes",
+        "localSpecialty": "Wulong lamb bowls",
+        "price": "Platform average reference CNY 39",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Historical sample: YoYo_0U4M6A9M (2020-04-27): The author liked the sour-spicy lamb blood and preserved vegetables; this old sample does not establish current operation or taste. Review authenticity is not independently verified.",
+        "caution": "This is in Wulong town, not on Xiannvshan. Public experience samples are old; reconfirm operation, portions and current prices. Small-sample candidate; a perfect score is not stable quality evidence. Review authenticity is not independently verified."
+      },
+      "reviewSample": {
+        "author": "YoYo_0U4M6A9M",
+        "date": "2020-04-27",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/62202974/12/163317447.html",
+        "summary": "该作者称喜欢酸辣羊血与盐菜，属于较早样本，不能证明当前营业或口味。",
+        "summaryEn": "The author liked the sour-spicy lamb blood and preserved vegetables; this old sample does not establish current operation or taste."
+      }
+    },
+    {
+      "id": "food-cq-11566074",
+      "region": "重庆",
+      "city": "重庆",
+      "district": "渝中区",
+      "place": "重庆",
+      "name": "纯阳老酒馆·川菜(七星岗店)",
+      "address": "渝中区 · 中一支路50号(七星岗2号出口)",
+      "dishes": "蒜泥白肉、活捉莴笋、豌豆汤",
+      "localSpecialty": "蒜泥白肉与川味小菜",
+      "price": "平台人均参考 CNY 66",
+      "priceCNY": {
+        "low": 66,
+        "high": 66
+      },
+      "basis": "携程门店公开人均聚合，非现行菜单；样本消费发生日期与聚合方法不明确，加入预算仅作可修改参考。",
+      "good": "平台公开评分与具体门店资料作为筛选线索；未完成独立到访核验和正负体验的系统抽样。",
+      "caution": "按当前平台中一支路50号核对，历史资料另有纯阳洞店址称谓；菜量、营业和分店先确认，酒水不默认计入参考。 评价真实性未独立验证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11566074.html",
+      "checked": "2026-10-17",
+      "researchBatch": 1,
+      "mealType": "当地特色",
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "count": 202,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11566074.html",
+          "title": "门店资料、用户反馈人均与公开评价",
+          "checked": "2026-10-17"
+        }
+      ],
+      "en": {
+        "name": "Chun Yang Regional Tavern · Qixinggang",
+        "address": "Yuzhong, Chongqing · Chinese navigation address: 中一支路50号(七星岗2号出口)",
+        "dishes": "Garlic pork; dressed lettuce stem; pea soup",
+        "localSpecialty": "Garlic pork and regional small dishes",
+        "price": "Platform average reference CNY 66",
+        "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
+        "good": "Public ratings and branch details are screening evidence, not independently verified visits or a systematic review sample.",
+        "caution": "Confirm the current 50 Zhongyi Branch Road listing; older sources use Chunyangdong wording. Check branch, portions and hours; drinks are not assumed included. Review authenticity is not independently verified."
+      }
     }
   ],
   "budgetNote": "编辑规划估算，人民币／人／天；按普通双人间两人分摊住宿，包含餐饮、当地交通与门票预留。不是实时价格；独自一人、儿童、节假日和具体房型需在预算表中调整。港澳台预算以人民币规划，不代表实时汇率。",
@@ -52149,6 +55052,28 @@
           "count": 156,
           "cities": 14,
           "date": "2026-10-17"
+        }
+      ]
+    },
+    "重庆": {
+      "date": "2026-10-17",
+      "batch": 1,
+      "count": 23,
+      "cities": 1,
+      "added": 21,
+      "upgraded": 2,
+      "scope": "重庆直辖市首批收录23个独立景点、15家当地特色餐饮参考和9条分餐安排。主城区与武隆、大足、涪陵、合川、奉节、酉阳、黔江分开说明；8个是最低标准，不是上限，丰都县待调研线索不计入。",
+      "en": {
+        "scope": "The first Chongqing municipality batch covers 23 independent attractions, 15 local-food references and 9 meal outlines. Central districts and Wulong, Dazu, Fuling, Hechuan, Fengjie, Youyang and Qianjiang are identified separately. Eight is a minimum, not a cap; the pending Fengdu county lead is excluded."
+      },
+      "batches": [
+        {
+          "date": "2026-10-17",
+          "batch": 1,
+          "added": 21,
+          "upgraded": 2,
+          "count": 23,
+          "cities": 1
         }
       ]
     }
@@ -52438,13 +55363,21 @@
       "en": {
         "name": "Chongzuo"
       }
+    },
+    {
+      "id": "重庆:重庆",
+      "region": "重庆",
+      "name": "重庆",
+      "en": {
+        "name": "Chongqing"
+      }
     }
   ],
   "ticketAudit": {
     "checked": "2026-10-17",
-    "entries": 500,
-    "verified": 34,
-    "unverified": 466,
+    "entries": 521,
+    "verified": 43,
+    "unverified": 478,
     "method": "官方景区、场馆与文旅公开票务资料；不把历史活动、政府最高限价、导览服务起价或网友报价当作现行门票。"
   },
   "cityExpansion": {
@@ -52557,6 +55490,183 @@
     ]
   },
   "foodGuides": [
+    {
+      "id": "route-cq-01",
+      "region": "重庆",
+      "city": "重庆",
+      "researchBatch": 1,
+      "title": "解放碑：小面与抄手二选一",
+      "route": "选一碗豌杂面或一份抄手作一餐，配料和辣度先问；两店不是必须连吃。",
+      "editorial": true,
+      "checked": "2026-10-17",
+      "note": "编辑分餐安排，非实测步行路线。新加入店铺默认不计费，选定后勾选；自填餐费只含清单外餐食。",
+      "foodIds": [
+        "food-cq-379002",
+        "food-cq-11573562"
+      ],
+      "en": {
+        "title": "Jiefangbei: choose noodles or wontons",
+        "route": "Choose one noodle or wonton meal, confirming extras and spice; visiting both is optional.",
+        "note": "Editorial meal outline, not a verified walk. New branches are excluded until selected. Manual dining covers meals outside the selected guide list."
+      }
+    },
+    {
+      "id": "route-cq-02",
+      "region": "重庆",
+      "city": "重庆",
+      "researchBatch": 1,
+      "title": "解放碑：一顿火锅，三店选一",
+      "route": "从三家具体门店选一家，先核对店址、锅底与油碟；不要把三家人均相加当作同一餐。",
+      "editorial": true,
+      "checked": "2026-10-17",
+      "note": "编辑分餐安排，非实测步行路线。新加入店铺默认不计费，选定后勾选；自填餐费只含清单外餐食。",
+      "foodIds": [
+        "food-cq-31634641",
+        "food-cq-37036657",
+        "food-cq-15318356"
+      ],
+      "en": {
+        "title": "Jiefangbei: choose one hotpot meal",
+        "route": "Choose one branch, checking address, broth and dips; do not add all three averages as one meal.",
+        "note": "Editorial meal outline, not a verified walk. New branches are excluded until selected. Manual dining covers meals outside the selected guide list."
+      }
+    },
+    {
+      "id": "route-cq-03",
+      "region": "重庆",
+      "city": "重庆",
+      "researchBatch": 1,
+      "title": "江湖菜正餐：按人数选一家",
+      "route": "杨记、老堂口或尘香三选一，先少量点菜，再按人数加菜；兔、蛙、内脏等配料按接受程度选择。",
+      "editorial": true,
+      "checked": "2026-10-17",
+      "note": "编辑分餐安排，非实测步行路线。新加入店铺默认不计费，选定后勾选；自填餐费只含清单外餐食。",
+      "foodIds": [
+        "food-cq-24568837",
+        "food-cq-61345026",
+        "food-cq-11576405"
+      ],
+      "en": {
+        "title": "Regional shared meal: choose one restaurant",
+        "route": "Choose Yang Ji, Laotangkou or Chen Xiang and order modestly; check preferences for rabbit, frog and offal.",
+        "note": "Editorial meal outline, not a verified walk. New branches are excluded until selected. Manual dining covers meals outside the selected guide list."
+      }
+    },
+    {
+      "id": "route-cq-04",
+      "region": "重庆",
+      "city": "重庆",
+      "researchBatch": 1,
+      "title": "李子坝：观景后共享梁山鸡",
+      "route": "观景后另留一餐共享梁山鸡，先确认整锅最小份、鸡重量与加菜费用；非实测步行导览。",
+      "editorial": true,
+      "checked": "2026-10-17",
+      "note": "编辑分餐安排，非实测步行路线。新加入店铺默认不计费，选定后勾选；自填餐费只含清单外餐食。",
+      "foodIds": [
+        "food-cq-16997092"
+      ],
+      "en": {
+        "title": "Liziba: share a chicken pot after viewing",
+        "route": "Allow a separate shared chicken meal after viewing. Confirm minimum pot, weight and sides; this is not a verified walking tour.",
+        "note": "Editorial meal outline, not a verified walk. New branches are excluded until selected. Manual dining covers meals outside the selected guide list."
+      }
+    },
+    {
+      "id": "route-cq-05",
+      "region": "重庆",
+      "city": "重庆",
+      "researchBatch": 1,
+      "title": "会馆片区：先参观，再选江湖菜",
+      "route": "按会馆开放时间参观，再自行导航到具体门店；鳝段或辣子鸡按人数点，不默认配齐所有招牌。",
+      "editorial": true,
+      "checked": "2026-10-17",
+      "note": "编辑分餐安排，非实测步行路线。新加入店铺默认不计费，选定后勾选；自填餐费只含清单外餐食。",
+      "foodIds": [
+        "food-cq-11568652"
+      ],
+      "en": {
+        "title": "Guild-hall area: heritage, then regional dishes",
+        "route": "Visit during guild-hall hours, then navigate to the branch; size eel or chicken dishes for the group.",
+        "note": "Editorial meal outline, not a verified walk. New branches are excluded until selected. Manual dining covers meals outside the selected guide list."
+      }
+    },
+    {
+      "id": "route-cq-06",
+      "region": "重庆",
+      "city": "重庆",
+      "researchBatch": 1,
+      "title": "七星岗与渝中小菜馆二选一",
+      "route": "纯阳与醉八仙选择一家作正餐，豆腐、蔬菜和肉菜搭配；酒水可不点，历史地址出发前复核。",
+      "editorial": true,
+      "checked": "2026-10-17",
+      "note": "编辑分餐安排，非实测步行路线。新加入店铺默认不计费，选定后勾选；自填餐费只含清单外餐食。",
+      "foodIds": [
+        "food-cq-11566074",
+        "food-cq-15307150"
+      ],
+      "en": {
+        "title": "Choose a Qixinggang or Yuzhong small-dish meal",
+        "route": "Choose Chun Yang or Zui Ba Xian for a shared meal with vegetables, tofu and meat; drinks are optional. Reconfirm older addresses.",
+        "note": "Editorial meal outline, not a verified walk. New branches are excluded until selected. Manual dining covers meals outside the selected guide list."
+      }
+    },
+    {
+      "id": "route-cq-07",
+      "region": "重庆",
+      "city": "重庆",
+      "researchBatch": 1,
+      "title": "南山：把火锅与返程一起安排",
+      "route": "南山山庄单列往返交通与餐费，夜间先确认叫车或接驳，再决定是否前往；不拼成步行美食线。",
+      "editorial": true,
+      "checked": "2026-10-17",
+      "note": "编辑分餐安排，非实测步行路线。新加入店铺默认不计费，选定后勾选；自填餐费只含清单外餐食。",
+      "foodIds": [
+        "food-cq-11566727"
+      ],
+      "en": {
+        "title": "Nanshan: plan hotpot and the return together",
+        "route": "Budget the Nanshan journey separately and confirm night transport before committing; this is not a walking food route.",
+        "note": "Editorial meal outline, not a verified walk. New branches are excluded until selected. Manual dining covers meals outside the selected guide list."
+      }
+    },
+    {
+      "id": "route-cq-08",
+      "region": "重庆",
+      "city": "重庆",
+      "researchBatch": 1,
+      "title": "武隆：城区碗碗羊肉的一餐",
+      "route": "在武隆城区选一餐碗碗羊肉，与仙女山上行程分开安排；先复核营业与店址，不为吃饭额外跨区折返。",
+      "editorial": true,
+      "checked": "2026-10-17",
+      "note": "编辑分餐安排，非实测步行路线。新加入店铺默认不计费，选定后勾选；自填餐费只含清单外餐食。",
+      "foodIds": [
+        "food-cq-62202974"
+      ],
+      "en": {
+        "title": "Wulong town: one lamb-bowl meal",
+        "route": "Choose a lamb-bowl meal in Wulong town, separately from the mountain visit. Reconfirm operation and avoid a dedicated interdistrict detour.",
+        "note": "Editorial meal outline, not a verified walk. New branches are excluded until selected. Manual dining covers meals outside the selected guide list."
+      }
+    },
+    {
+      "id": "route-cq-09",
+      "region": "重庆",
+      "city": "重庆",
+      "researchBatch": 1,
+      "title": "九龙坡：动物园行程中的一碗小面",
+      "route": "两处并非同一地点，按实际交通衔接选择面馆；不把地图附近理解成已核验步行可达。",
+      "editorial": true,
+      "checked": "2026-10-17",
+      "note": "编辑分餐安排，非实测步行路线。新加入店铺默认不计费，选定后勾选；自填餐费只含清单外餐食。",
+      "foodIds": [
+        "food-cq-25100058"
+      ],
+      "en": {
+        "title": "Jiulongpo: a noodle meal around a zoo day",
+        "route": "The zoo and noodle branch are different locations; choose transport based on the actual route rather than assuming walkability.",
+        "note": "Editorial meal outline, not a verified walk. New branches are excluded until selected. Manual dining covers meals outside the selected guide list."
+      }
+    },
     {
       "id": "route-gx3-01",
       "region": "广西",
@@ -53705,7 +56815,7 @@
       }
     ]
   },
-  "latestRegion": "广西",
+  "latestRegion": "重庆",
   "regionalExpansions": {
     "广西": {
       "method": "广西按城市交通集散能力、旅游需求与目的地分布作编辑分配：桂林山水及县域目的地较密集，南宁为区内交通枢纽，柳州和北海兼顾城市与周边旅游。不是官方排名或实时热度指数，其他城市同样保持至少8个独立景点。",
@@ -53772,6 +56882,24 @@
         {
           "url": "https://gx.people.com.cn/n2/2025/0802/c179430-41310873.html",
           "title": "广西周末旅游线路公开报道（2025）"
+        }
+      ]
+    },
+    "重庆": {
+      "method": "重庆为直辖市，城市筛选统一为重庆，区县写入具体地点。按主城交通和游客需求优先补充，同时收录跨区自然与文化目的地；不将区县误列为地级城市，不把同一景区内部节点重复计数。",
+      "methodEn": "Chongqing is a municipality, so the city filter uses Chongqing while individual locations retain districts/counties. Editorial coverage prioritises central visitor demand and transport plus outlying nature and heritage. Districts are not mislabelled as prefectural cities; internal stops are not counted repeatedly.",
+      "cities": [
+        {
+          "city": "重庆",
+          "count": 23
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅公开景区资料",
+          "type": "官方资料",
+          "checked": "2026-10-17"
         }
       ]
     }

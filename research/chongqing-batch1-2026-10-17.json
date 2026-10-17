@@ -1,0 +1,1329 @@
+{
+  "checked": "2026-10-17",
+  "region": "重庆",
+  "attractions": [
+    {
+      "id": "cq-sight-50223",
+      "name": "洪崖洞民俗风貌区",
+      "district": "渝中区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/50223.html",
+          "title": "携程：洪崖洞民俗风貌区资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：景区公共区域及门票信息",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-50223.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/50223.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/10020s000000hqkwh48D9.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/50223.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "洪崖洞民俗风貌区 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Hongyadong · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 0,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "常规公共区域入场",
+        "scopeEn": "Regular public-area entry",
+        "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+        "note": "仅常规公共区域；游船、演出、馆舍和购物餐饮另计。",
+        "noteEn": "Public areas only; cruises, shows, indoor venues, shopping and dining are separate."
+      }
+    },
+    {
+      "id": "cq-sight-45804",
+      "name": "重庆中国三峡博物馆",
+      "district": "渝中区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/45804.html",
+          "title": "携程：重庆中国三峡博物馆资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://www.3gmuseum.cn/web/article/1430008801670434816/web/content_1430008801670434816.html",
+          "title": "馆方：免费开放范围",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zwxx_221/bmdt/tzgg/202511/t20251103_15136009.html",
+          "title": "重庆文旅：2025年10月起取消预约",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-45804.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/45804.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0105h12000h4c65gx5C31.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/45804.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "重庆中国三峡博物馆 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "China Three Gorges Museum · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 0,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "主馆常设展",
+        "scopeEn": "Main-building regular exhibitions",
+        "sourceUrl": "https://www.3gmuseum.cn/web/article/1430008801670434816/web/content_1430008801670434816.html",
+        "note": "常设展免费；特展及付费服务分别确认，白鹤梁等分馆不能套用此免费范围。",
+        "noteEn": "Regular main-building exhibitions are free; check special exhibitions and paid services. This does not make branches such as Baiheliang free."
+      }
+    },
+    {
+      "id": "cq-sight-45771",
+      "name": "武隆天生三桥",
+      "district": "武隆区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/45771.html",
+          "title": "携程：武隆天生三桥资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-45771.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/45771.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0105q120004gsttsa454D.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/45771.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "武隆天生三桥 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Three Natural Bridges, Wulong · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      }
+    },
+    {
+      "id": "cq-sight-18686",
+      "name": "白公馆",
+      "district": "沙坪坝区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/18686.html",
+          "title": "携程：白公馆资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-18686.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/18686.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0101212000m8yact05B31.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/18686.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "白公馆 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Bai Mansion Memorial Site · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      }
+    },
+    {
+      "id": "cq-sight-18685",
+      "name": "渣滓洞",
+      "district": "沙坪坝区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/18685.html",
+          "title": "携程：渣滓洞资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-18685.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/18685.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0102812000lxklujrCFE2.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/18685.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "渣滓洞 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Zhazidong Memorial Site · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      }
+    },
+    {
+      "id": "cq-sight-135585",
+      "name": "山城步道",
+      "district": "渝中区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/135585.html",
+          "title": "携程：山城步道资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-135585.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/135585.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/1A0213000000vnejs3E9A.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/135585.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "山城步道 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Shancheng Walking Trail · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      }
+    },
+    {
+      "id": "cq-sight-10380",
+      "name": "鹅岭公园",
+      "district": "渝中区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/10380.html",
+          "title": "携程：鹅岭公园资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-10380.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/10380.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0101j12000f9dadpmFE2E.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/10380.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "鹅岭公园 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Eling Park · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      }
+    },
+    {
+      "id": "cq-sight-43811",
+      "name": "磁器口古镇",
+      "district": "沙坪坝区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/43811.html",
+          "title": "携程：磁器口古镇资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：景区公共区域及门票信息",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-43811.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/43811.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0106z120008iqyn71AE84.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/43811.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "磁器口古镇 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Ciqikou Ancient Town · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 0,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "常规公共区域入场",
+        "scopeEn": "Regular public-area entry",
+        "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+        "note": "仅常规公共区域；游船、演出、馆舍和购物餐饮另计。",
+        "noteEn": "Public areas only; cruises, shows, indoor venues, shopping and dining are separate."
+      }
+    },
+    {
+      "id": "cq-sight-5045354",
+      "name": "李子坝轻轨站观景区域",
+      "district": "渝中区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/5045354.html",
+          "title": "携程：李子坝轻轨站观景区域资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-5045354.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/5045354.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0100h12000lraq9y5C3FD.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/5045354.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "李子坝轻轨站观景区域 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Liziba Rail Viewing Area · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      }
+    },
+    {
+      "id": "cq-sight-10386",
+      "name": "解放碑步行街",
+      "district": "渝中区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/10386.html",
+          "title": "携程：解放碑步行街资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-10386.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/10386.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0106912000jv5wrb3CF69.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/10386.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "解放碑步行街 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Jiefangbei Pedestrian Streets · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      }
+    },
+    {
+      "id": "cq-sight-43819",
+      "name": "重庆湖广会馆",
+      "district": "渝中区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/43819.html",
+          "title": "携程：重庆湖广会馆资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：湖广会馆门票",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-43819.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/43819.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/01046120008fmu5wt86CD.png",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/43819.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "重庆湖广会馆 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Huguang Guild Hall · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 25,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "常规成人参观票",
+        "scopeEn": "Regular adult visit",
+        "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+        "note": "官方文旅表列25元；不含另售演出、讲解等项目。",
+        "noteEn": "Official tourism table lists CNY 25; separately sold shows and interpretation are excluded."
+      }
+    },
+    {
+      "id": "cq-sight-109940",
+      "name": "长江索道",
+      "district": "渝中区—南岸区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/109940.html",
+          "title": "携程：长江索道资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://fzggw.cq.gov.cn/zwgk/zfxxgkml/jgxx/jgzc/202503/t20250324_14434363.html",
+          "title": "重庆发改委：索道最高限价，非必然执行价",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://www.cqsuodao.com/zhangjiangsuodao.html",
+          "title": "索道经营方：运行通知",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-109940.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/109940.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/01A511200090idw6fDB4A.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/109940.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "长江索道 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Yangtze River Cableway · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "2025年政府文件列单程30元、往返50元为最高限价，经营方可在范围内确定执行价；尚未确认当日执行价，不把限价或旧20/30元报价自动填入。",
+        "noteEn": "The 2025 government notice sets ceilings of CNY 30 one-way and CNY 50 return, allowing the operator to apply lower fares. Current applied fares are unconfirmed; neither ceilings nor old CNY 20/30 quotes are prefilled."
+      }
+    },
+    {
+      "id": "d210",
+      "name": "大足石刻",
+      "district": "大足区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/10330.html",
+          "title": "携程：大足石刻资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/d210.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Dazu_2007_685_full_view.jpg",
+        "author": "G41rn8",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "date": "2007",
+        "caption": "大足石刻所在地区参考实景 · 原文件：Dazu_2007_685_full_view.jpg",
+        "modified": "网页展示时裁切，色彩未修改"
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      }
+    },
+    {
+      "id": "d211",
+      "name": "酉阳龚滩古镇",
+      "district": "酉阳县",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/youyangcounty2025213/43803.html",
+          "title": "携程：酉阳龚滩古镇资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：景区公共区域及门票信息",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-43803.jpg",
+        "url": "https://you.ctrip.com/sight/youyangcounty2025213/43803.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/010161200086v76v77BB1.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/youyangcounty2025213/43803.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "酉阳龚滩古镇 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Gongtan Ancient Town, Youyang · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 0,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "常规公共区域入场",
+        "scopeEn": "Regular public-area entry",
+        "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+        "note": "仅常规公共区域；游船、演出、馆舍和购物餐饮另计。",
+        "noteEn": "Public areas only; cruises, shows, indoor venues, shopping and dining are separate."
+      }
+    },
+    {
+      "id": "cq-sight-10340",
+      "name": "仙女山国家森林公园",
+      "district": "武隆区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/10340.html",
+          "title": "携程：仙女山国家森林公园资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：仙女山基础门票",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-10340.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/10340.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/1lo0112000bofvjoa4244.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/10340.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "仙女山国家森林公园 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Xiannvshan National Forest Park · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 50,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "常规成人入园票",
+        "scopeEn": "Regular adult park entry",
+        "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+        "note": "官方文旅表列50元；小火车、骑马、滑雪等另售项目不含。",
+        "noteEn": "Official table lists CNY 50; sightseeing trains, riding and snow activities are excluded."
+      }
+    },
+    {
+      "id": "cq-sight-4298",
+      "name": "白帝城·瞿塘峡景区",
+      "district": "奉节县",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/fengjiecounty2025223/4298.html",
+          "title": "携程：白帝城·瞿塘峡景区资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-4298.jpg",
+        "url": "https://you.ctrip.com/sight/fengjiecounty2025223/4298.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0106h12000t36zq9nB717.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/fengjiecounty2025223/4298.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "白帝城·瞿塘峡景区 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Baidicheng–Qutang Gorge · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      }
+    },
+    {
+      "id": "cq-sight-1418195",
+      "name": "濯水古镇",
+      "district": "黔江区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/1418195.html",
+          "title": "携程：濯水古镇资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-1418195.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/1418195.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/1lo2112000dvdcdxyD6E0.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/1418195.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "濯水古镇 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Zhuoshui Ancient Town · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      }
+    },
+    {
+      "id": "cq-sight-5717709",
+      "name": "重庆十八梯传统风貌区",
+      "district": "渝中区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/5717709.html",
+          "title": "携程：重庆十八梯传统风貌区资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-5717709.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/5717709.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0106i120008yvl37wB6EF.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/5717709.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "重庆十八梯传统风貌区 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Shibati Traditional Streets · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      }
+    },
+    {
+      "id": "cq-sight-2491576",
+      "name": "二厂文创公园",
+      "district": "渝中区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/2491576.html",
+          "title": "携程：二厂文创公园资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-2491576.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/2491576.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0103p120008ir3fg1B8DA.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/2491576.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "二厂文创公园 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Testbed 2 Arts District · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "当前常规入园范围和执行价尚未充分核实，不用平台起价或套票宣传自动计费。",
+        "noteEn": "Current regular-entry coverage and the applied fare have not been sufficiently confirmed; starting prices and packages are not prefilled."
+      }
+    },
+    {
+      "id": "cq-sight-10377",
+      "name": "重庆动物园",
+      "district": "九龙坡区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/10377.html",
+          "title": "携程：重庆动物园资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://english.cq.gov.cn/specials/Enjoy/Zoos/202608/t20260810_15912219.html",
+          "title": "重庆市政府：2026动物园票价与月份",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-10377.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/10377.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/350818000001513roB5BF.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/10377.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "重庆动物园 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Chongqing Zoo · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "成人票 · 按出行月份选择",
+        "scopeEn": "Adult admission · select travel month",
+        "sourceUrl": "https://english.cq.gov.cn/specials/Enjoy/Zoos/202608/t20260810_15912219.html",
+        "note": "1—11月25元，12月20元；不把低价季节默认套用于全年。场馆营业以园方公告为准。",
+        "noteEn": "January–November CNY 25; December CNY 20. Select the actual travel season; check exhibit operations.",
+        "mode": "options",
+        "options": [
+          {
+            "label": "1—11月成人票",
+            "enLabel": "January–November adult",
+            "amount": 25
+          },
+          {
+            "label": "12月成人票",
+            "enLabel": "December adult",
+            "amount": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "cq-sight-76501",
+      "name": "816工程景区",
+      "district": "涪陵区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/76501.html",
+          "title": "携程：816工程景区资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：816基础门票",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-76501.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/76501.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/1lo4w12000k2a9iub3432.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/76501.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "816工程景区 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "816 Project Scenic Area · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 50,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "基础成人门票",
+        "scopeEn": "Basic adult admission",
+        "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+        "note": "官方文旅表列50元，交通、演出或组合产品另计；并非所有平台套票的总价。",
+        "noteEn": "Official table lists CNY 50 for admission; transfers, performances and package extras are separate."
+      }
+    },
+    {
+      "id": "cq-sight-76543",
+      "name": "白鹤梁水下博物馆",
+      "district": "涪陵区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/76543.html",
+          "title": "携程：白鹤梁水下博物馆资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+          "title": "重庆文旅：白鹤梁价格资料",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://fzggw.cq.gov.cn/zwgk/zfxxgkml/jgxx/jgzc/202003/t20200304_5579834_wap.html",
+          "title": "2011季节价格文件：与当前表格口径有差异",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://whlyw.cq.gov.cn/zwxx_221/bmdt/tzgg/202511/t20251103_15136009.html",
+          "title": "免预约公告：白鹤梁仍需购票",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-76543.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/76543.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0104d12000iirs1kpB53C.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/76543.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "白鹤梁水下博物馆 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Baiheliang Underwater Museum · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-17",
+        "scope": "现行票价待核实",
+        "scopeEn": "Current admission unconfirmed",
+        "note": "官方文旅表列50元，2011年价格文件另有淡旺季50/60元口径；当前执行价与入馆范围待复核。免预约不等于免票。",
+        "noteEn": "The tourism table lists CNY 50 while a 2011 tariff notice has seasonal CNY 50/60 rates. Current applied pricing needs reconfirmation; no reservation does not mean free admission."
+      }
+    },
+    {
+      "id": "cq-sight-10354",
+      "name": "钓鱼城",
+      "district": "合川区",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chongqing158/10354.html",
+          "title": "携程：钓鱼城资料与公开评价",
+          "type": "游客平台",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://www.hcdyc.cn/dyc/jqzx/jqgg/gydycjqhfmpyjdgg/index.html",
+          "title": "景区：2026年9月25日起恢复60元",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://www.hcdyc.cn/webeditor/uploadfile/20260924205638291.jpg",
+          "title": "公告原图：已人工阅读票价及生效日期",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        }
+      ],
+      "photo": {
+        "path": "assets/cq-sight-10354.jpg",
+        "url": "https://you.ctrip.com/sight/chongqing158/10354.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0100212000kkjz67mD4EC.jpg",
+        "author": "原页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chongqing158/10354.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "钓鱼城 · 来源页参考实景，拍摄日期未明确",
+        "modified": "网页展示时裁切和缩放",
+        "en": {
+          "caption": "Diaoyucheng Fortress · real reference photograph from the linked source; capture date unspecified",
+          "license": "Source copyright; not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "verified",
+        "amount": 60,
+        "currency": "CNY",
+        "checked": "2026-10-17",
+        "scope": "成人全价门票",
+        "scopeEn": "Full-price adult admission",
+        "sourceUrl": "https://www.hcdyc.cn/dyc/jqzx/jqgg/gydycjqhfmpyjdgg/index.html",
+        "note": "景区2026年9月24日公告：9月25日起恢复60元；此前30元限期优惠结束，摆渡车等另计。",
+        "noteEn": "The September 24, 2026 operator notice restores CNY 60 from September 25, ending the temporary CNY 30 offer. Shuttles are separate.",
+        "validFrom": "2026-09-25"
+      }
+    }
+  ],
+  "foods": [
+    {
+      "id": "food-cq-11576405",
+      "name": "尘香(创汇首座店)",
+      "district": "渝中区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11576405.html",
+      "score": {
+        "platform": "携程",
+        "score": 4.7,
+        "count": 439,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 104,
+        "high": 104
+      },
+      "reviewSample": null
+    },
+    {
+      "id": "food-cq-24568837",
+      "name": "杨记隆府(重庆总店)",
+      "district": "渝中区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/24568837.html",
+      "score": {
+        "platform": "携程",
+        "score": 4.9,
+        "count": 1177,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 80,
+        "high": 80
+      },
+      "reviewSample": {
+        "author": "YoYo_5B1T4F9S",
+        "date": "2026-07-10",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/11896102/12/747755905.html",
+        "summary": "该作者称四人点九道菜偏多，店员曾提醒；是单次历史体验，不保证当前服务。",
+        "summaryEn": "The author reports over-ordering nine dishes for four people and a staff reminder; one historical experience, not a current service guarantee."
+      }
+    },
+    {
+      "id": "food-cq-25100058",
+      "name": "秦云老太婆摊摊面(全国总店)",
+      "district": "九龙坡区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/25100058.html",
+      "score": {
+        "platform": "携程",
+        "score": 4.5,
+        "count": 77,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 14,
+        "high": 14
+      },
+      "reviewSample": null
+    },
+    {
+      "id": "food-cq-31634641",
+      "name": "在渝里·重庆火锅(解放碑好吃街店)",
+      "district": "渝中区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/31634641.html",
+      "score": {
+        "platform": "携程",
+        "score": 4.5,
+        "count": 31,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 68,
+        "high": 68
+      },
+      "reviewSample": {
+        "author": "Elaine6666",
+        "date": "2026-10-08",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/16069428/12/852801384.html",
+        "summary": "该作者称重访八一路二楼门店，环境和菜品较旧时有变化；本站未核验其到访。",
+        "summaryEn": "The author reports revisiting the second-floor Bayi Road branch and changes to the setting and menu; attendance is unverified."
+      }
+    },
+    {
+      "id": "food-cq-11573562",
+      "name": "酱老麻抄手重庆小面馆（解放碑总店）",
+      "district": "渝中区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11573562.html",
+      "score": {
+        "platform": "携程",
+        "score": 5,
+        "count": 6,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 19,
+        "high": 19
+      },
+      "reviewSample": null
+    },
+    {
+      "id": "food-cq-16997092",
+      "name": "李子坝梁山鸡(公园二鸡哥店)",
+      "district": "渝中区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/16997092.html",
+      "score": {
+        "platform": "携程",
+        "score": 4.7,
+        "count": 178,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 86,
+        "high": 86
+      },
+      "reviewSample": {
+        "author": "ScorpioF",
+        "date": "2023-12-03",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/8630921/12/179984259.html",
+        "summary": "该作者认为小锅份量较足，口味可接受；整锅重量和辣度仍须按当日菜单确认。",
+        "summaryEn": "The author found a small pot generous and the flavour acceptable; confirm current weights and spice."
+      }
+    },
+    {
+      "id": "food-cq-379002",
+      "name": "花市豌杂面(民生路店)",
+      "district": "渝中区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/379002.html",
+      "score": {
+        "platform": "携程",
+        "score": 4.3,
+        "count": 679,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 17,
+        "high": 17
+      },
+      "reviewSample": null
+    },
+    {
+      "id": "food-cq-61345026",
+      "name": "山城老堂口·1636重庆老菜(解放碑洪崖洞店)",
+      "district": "渝中区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/61345026.html",
+      "score": {
+        "platform": "携程",
+        "score": 4.9,
+        "count": 27,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 75,
+        "high": 75
+      },
+      "reviewSample": null
+    },
+    {
+      "id": "food-cq-15307150",
+      "name": "醉八仙热酒馆(渝中店)",
+      "district": "渝中区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/15307150.html",
+      "score": {
+        "platform": "携程",
+        "score": 4.5,
+        "count": 118,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 56,
+        "high": 56
+      },
+      "reviewSample": null
+    },
+    {
+      "id": "food-cq-11566727",
+      "name": "巴倒烫陆派火锅山庄(南山总店)",
+      "district": "南岸区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11566727.html",
+      "score": {
+        "platform": "携程",
+        "score": 4.7,
+        "count": 472,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 109,
+        "high": 109
+      },
+      "reviewSample": null
+    },
+    {
+      "id": "food-cq-11568652",
+      "name": "饭江湖·江湖菜(湖广会馆店)",
+      "district": "渝中区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11568652.html",
+      "score": {
+        "platform": "携程",
+        "score": 4.4,
+        "count": 78,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 64,
+        "high": 64
+      },
+      "reviewSample": null
+    },
+    {
+      "id": "food-cq-37036657",
+      "name": "巴将军·非遗原味火锅(解放碑店)",
+      "district": "渝中区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/37036657.html",
+      "score": {
+        "platform": "携程",
+        "score": 4.8,
+        "count": 110,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 76,
+        "high": 76
+      },
+      "reviewSample": null
+    },
+    {
+      "id": "food-cq-15318356",
+      "name": "珮姐重庆火锅(较场口创始店)",
+      "district": "渝中区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/15318356.html",
+      "score": {
+        "platform": "携程",
+        "score": 4.4,
+        "count": 321,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 78,
+        "high": 78
+      },
+      "reviewSample": null
+    },
+    {
+      "id": "food-cq-62202974",
+      "name": "羊角老地方碗碗羊肉总店(黄金水岸店)",
+      "district": "武隆区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/62202974.html",
+      "score": {
+        "platform": "携程",
+        "score": 5,
+        "count": 10,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 39,
+        "high": 39
+      },
+      "reviewSample": {
+        "author": "YoYo_0U4M6A9M",
+        "date": "2020-04-27",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/62202974/12/163317447.html",
+        "summary": "该作者称喜欢酸辣羊血与盐菜，属于较早样本，不能证明当前营业或口味。",
+        "summaryEn": "The author liked the sour-spicy lamb blood and preserved vegetables; this old sample does not establish current operation or taste."
+      }
+    },
+    {
+      "id": "food-cq-11566074",
+      "name": "纯阳老酒馆·川菜(七星岗店)",
+      "district": "渝中区",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11566074.html",
+      "score": {
+        "platform": "携程",
+        "score": 4.7,
+        "count": 202,
+        "checked": "2026-10-17",
+        "independentVerified": false
+      },
+      "referenceCNY": {
+        "low": 66,
+        "high": 66
+      },
+      "reviewSample": null
+    }
+  ],
+  "excluded": [
+    {
+      "name": "丰都县",
+      "reason": "保留原有区域线索，不当作独立景点计入23处"
+    },
+    {
+      "name": "胡记蹄花汤、鲁祖庙古法火锅",
+      "reason": "平台评价较低或分歧明显，未列入本批优先餐饮"
+    },
+    {
+      "name": "内江黔江特色鸡杂（大佛寺店）",
+      "reason": "实际位于四川内江，不能因菜名将其归入重庆黔江"
+    },
+    {
+      "name": "安居古城",
+      "reason": "公开评价分歧较大，本批先收录其他来源较完整目的地"
+    }
+  ],
+  "pricingNotes": [
+    "长江索道政府最高限价并非当日执行价，保持待核实",
+    "白鹤梁现价与季节口径差异，保持待核实",
+    "钓鱼城公告原图已人工阅读：2026-09-25恢复60元",
+    "动物园季节票需按月份选择，不默认全年最低价"
+  ]
+}
