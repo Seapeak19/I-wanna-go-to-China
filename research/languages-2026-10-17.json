@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-17",
+  "method": "Local Argos Translate / CTranslate2; interface wording reviewed; traditional Chinese converted with OpenCC s2t",
+  "source": "https://www.argosopentech.com/",
+  "modelIndex": "https://raw.githubusercontent.com/argosopentech/argospm-index/main/index.json",
+  "coverage": {
+    "ja": {
+      "entries": 4380,
+      "englishFallbacks": 256
+    },
+    "ko": {
+      "entries": 4380,
+      "englishFallbacks": 147
+    },
+    "fr": {
+      "entries": 4380,
+      "englishFallbacks": 150
+    },
+    "de": {
+      "entries": 4380,
+      "englishFallbacks": 168
+    },
+    "es": {
+      "entries": 4380,
+      "englishFallbacks": 383
+    },
+    "it": {
+      "entries": 4380,
+      "englishFallbacks": 191
+    },
+    "pt": {
+      "entries": 4380,
+      "englishFallbacks": 115
+    },
+    "nl": {
+      "entries": 4380,
+      "englishFallbacks": 203
+    },
+    "ru": {
+      "entries": 4380,
+      "englishFallbacks": 35
+    }
+  },
+  "policy": "Machine translations are reading aids, not verified official translations. Unreliable token restoration falls back to the English source. Proper names retain existing English spellings with original Chinese names. Currency codes, addresses, URLs and monetary values are preserved.",
+  "models": {
+    "ja": {
+      "version": "1.1",
+      "url": "https://argos-net.com/v1/translate-en_ja-1_1.argosmodel"
+    },
+    "ko": {
+      "version": "1.1",
+      "url": "https://argos-net.com/v1/translate-en_ko-1_1.argosmodel"
+    },
+    "fr": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_fr-1_9.argosmodel"
+    },
+    "de": {
+      "version": "1.3",
+      "url": "https://argos-net.com/v1/translate-en_de-1_3.argosmodel"
+    },
+    "es": {
+      "version": "1.0",
+      "url": "https://argos-net.com/v1/translate-en_es-1_0.argosmodel"
+    },
+    "it": {
+      "version": "1.0",
+      "url": "https://argos-net.com/v1/translate-en_it-1_0.argosmodel"
+    },
+    "pt": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_pt-1_9.argosmodel"
+    },
+    "nl": {
+      "version": "1.8",
+      "url": "https://argos-net.com/v1/translate-en_nl-1_8.argosmodel"
+    },
+    "ru": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_ru-1_9.argosmodel"
+    }
+  },
+  "credits": {
+    "ArgosTranslate": "https://www.argosopentech.com/",
+    "OpenCC": "https://github.com/BYVoid/OpenCC",
+    "OPUS": "https://opus.nlpl.eu/"
+  }
+}

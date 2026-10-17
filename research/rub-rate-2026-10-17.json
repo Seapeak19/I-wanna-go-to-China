@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-17",
+  "source": "Bank of Russia",
+  "url": "https://www.cbr.ru/scripts/XML_daily.asp?date_req=17/10/2026",
+  "nominal": 1,
+  "value": 12.495,
+  "rate": 12.495,
+  "base": "CNY",
+  "quote": "RUB",
+  "meaning": "RUB per 1 CNY; dated planning reference, not a live retail exchange quote"
+}
