@@ -61,3 +61,7 @@ Object.assign(STATIC_EN,{"美食城市":"Food city","美食参考人均":"Food r
 Object.assign(STATIC_EN,{"美食攻略":"Food guide","最后整理：2026 年 10 月 17 日。以下是当前版本的实际覆盖范围与资料规则。":"Last compiled: October 17, 2026. Coverage and research rules for the current version."});
 
 Object.assign(STATIC_EN,{"城市景点如何分配":"How city coverage is allocated"});
+
+Object.assign(STATIC_EN,{"餐饮消费":"Dining costs","＋ 添加美食店或路线":"＋ Add shops or routes","自填费用只包含清单之外的餐食，避免重复。路线新增店铺默认不计费，勾选后计入；参考价格可修改。":"Only enter meals outside the saved list manually to avoid duplication. New route shops are excluded until selected; reference prices are editable.","其他餐饮 / 人 / 天":"Other meals / person / day"});
+
+Object.assign(STATIC_EN,{"添加景点、美食店或路线，再填写住宿与其他费用，统一计算整趟和人均消费。":"Add attractions, shops or food routes, then enter accommodation and other costs to calculate trip and per-person spending.","房价按每间每晚，公交按每人每天；餐饮在下方单独计算。":"Room rates are per room per night; public transport is per person per day. Dining is calculated separately below."});

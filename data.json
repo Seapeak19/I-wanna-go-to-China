@@ -31149,7 +31149,8 @@
         "low": 63,
         "high": 65,
         "historical": false
-      }
+      },
+      "id": "food-legacy-001"
     },
     {
       "region": "山西",
@@ -31175,7 +31176,8 @@
         "low": 27,
         "high": 27,
         "historical": false
-      }
+      },
+      "id": "food-legacy-002"
     },
     {
       "region": "山西",
@@ -31201,7 +31203,8 @@
         "low": 48,
         "high": 48,
         "historical": false
-      }
+      },
+      "id": "food-legacy-003"
     },
     {
       "region": "福建",
@@ -31224,7 +31227,8 @@
         "good": "artistfx1118 liked the dumpling fillings and soup. The review date was not returned.",
         "caution": "Peanuts and seafood may be present; confirm ingredients. A single review cannot establish a consensus."
       },
-      "priceCNY": null
+      "priceCNY": null,
+      "id": "food-legacy-004"
     },
     {
       "region": "四川",
@@ -31250,7 +31254,8 @@
         "low": 35,
         "high": 35,
         "historical": true
-      }
+      },
+      "id": "food-legacy-005"
     },
     {
       "region": "澳门",
@@ -31276,7 +31281,8 @@
         "low": 58,
         "high": 58,
         "historical": false
-      }
+      },
+      "id": "food-legacy-006"
     },
     {
       "region": "上海",
@@ -31302,7 +31308,8 @@
         "low": 86,
         "high": 86,
         "historical": false
-      }
+      },
+      "id": "food-legacy-007"
     },
     {
       "id": "food-gd-001",
