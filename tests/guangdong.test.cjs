@@ -22,6 +22,6 @@ test('reviews stay attributable and conflicting or historical operations remain 
 test('second batch preserves provenance and labels changing operations',()=>{
  assert.equal(gd.filter(d=>d.researchBatch===2).length,9);assert.equal(data.provinceUpdates.广东.batches.length,4);
  assert.match(gd.find(d=>d.id==='gd016').name,/凤山民俗文化/);assert.match(gd.find(d=>d.id==='gd016').guide.admission,/历史参考/);
- assert.match(gd.find(d=>d.id==='gd013').guide.admission,/冲突/);assert.match(gd.find(d=>d.id==='gd014').guide.admission,/未注明时间/);
+ assert.equal(gd.find(d=>d.id==='gd013').ticket.status,'verified');assert.equal(gd.find(d=>d.id==='gd013').ticket.amount,0);assert.match(gd.find(d=>d.id==='gd014').guide.admission,/未注明时间/);
  assert.match(gd.find(d=>d.id==='gd017').guide.reservation,/免预约/);assert(gd.find(d=>d.id==='gd015').image);
 });
