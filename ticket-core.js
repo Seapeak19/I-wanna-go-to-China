@@ -16,5 +16,15 @@
   if(!Number.isFinite(t.amount)||t.amount<0)return pending;
   return {verified:true,multiple:false,min:t.amount,max:t.amount,free:t.amount===0};
  }
- return Object.freeze({quote});
+ function planTicket(destination,stop={},today){
+  const current=Number.isFinite(stop.ticketPrice)&&stop.ticketPrice>=0?stop.ticketPrice:null;
+  if(stop.ticketOrigin==='manual'||(!stop.ticketOrigin&&current!==null))return {ticketPrice:current,ticketOrigin:'manual',ticketOption:null};
+  const q=quote(destination,today);
+  if(!q.verified)return {ticketPrice:null,ticketOrigin:'pending',ticketOption:null};
+  if(!q.multiple||q.free)return {ticketPrice:q.min,ticketOrigin:'auto',ticketOption:null};
+  const index=stop.ticketOption;
+  if(Number.isInteger(index)&&index>=0&&index<destination.ticket.options.length)return {ticketPrice:destination.ticket.options[index].amount,ticketOrigin:'auto',ticketOption:index};
+  return {ticketPrice:null,ticketOrigin:'pending',ticketOption:null};
+ }
+ return Object.freeze({quote,planTicket});
 });

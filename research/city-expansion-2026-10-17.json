@@ -1,0 +1,1272 @@
+{
+  "checked": "2026-10-17",
+  "method": "编辑结合城市规模、公共交通、旅游接待与景点独立性分配；不是官方城市排名。最低8个不变，不设上限。",
+  "methodEn": "Editorial allocation considers city scale, transport, tourism demand and distinct attractions. It is not an official city ranking. The minimum remains eight, without a cap.",
+  "sources": [
+    {
+      "url": "https://tjj.gz.gov.cn/gkmlpt/content/10/10800/post_10800227.html",
+      "title": "广州2025年统计公报"
+    },
+    {
+      "url": "https://tjj.sz.gov.cn/gkmlpt/content/12/12803/post_12803919.html",
+      "title": "深圳2025年统计公报"
+    },
+    {
+      "url": "https://jtys.sz.gov.cn/jtzx/wycx/glcx/cxtx/content/post_12989819.html",
+      "title": "深圳2026国庆出行指引与热门景区"
+    },
+    {
+      "url": "https://whly.gd.gov.cn/news_newzwhd/content/post_4699948.html",
+      "title": "广东影视文旅线路"
+    }
+  ],
+  "cities": [
+    {
+      "city": "广州",
+      "count": 20
+    },
+    {
+      "city": "深圳",
+      "count": 18
+    },
+    {
+      "city": "珠海",
+      "count": 14
+    },
+    {
+      "city": "汕头",
+      "count": 12
+    },
+    {
+      "city": "佛山",
+      "count": 14
+    },
+    {
+      "city": "韶关",
+      "count": 10
+    },
+    {
+      "city": "河源",
+      "count": 10
+    },
+    {
+      "city": "梅州",
+      "count": 10
+    },
+    {
+      "city": "惠州",
+      "count": 12
+    },
+    {
+      "city": "汕尾",
+      "count": 10
+    },
+    {
+      "city": "东莞",
+      "count": 12
+    },
+    {
+      "city": "中山",
+      "count": 10
+    },
+    {
+      "city": "江门",
+      "count": 12
+    },
+    {
+      "city": "阳江",
+      "count": 10
+    },
+    {
+      "city": "湛江",
+      "count": 10
+    },
+    {
+      "city": "茂名",
+      "count": 10
+    },
+    {
+      "city": "肇庆",
+      "count": 10
+    },
+    {
+      "city": "清远",
+      "count": 10
+    },
+    {
+      "city": "潮州",
+      "count": 12
+    },
+    {
+      "city": "揭阳",
+      "count": 10
+    },
+    {
+      "city": "云浮",
+      "count": 10
+    }
+  ],
+  "entries": [
+    {
+      "id": "gd-dir-22",
+      "name": "广州塔",
+      "city": "广州",
+      "cityEvidence": {
+        "name": "广州市广州塔景区",
+        "city": "广州",
+        "directoryRow": 22,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 广州市广州塔景区",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E5%A1%94",
+          "title": "维基百科：广州塔（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-14",
+      "name": "广东科学中心",
+      "city": "广州",
+      "cityEvidence": {
+        "name": "广东科学中心",
+        "city": "广州",
+        "directoryRow": 14,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 广东科学中心",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E5%B9%BF%E4%B8%9C%E7%A7%91%E5%AD%A6%E4%B8%AD%E5%BF%83",
+          "title": "维基百科：广东科学中心（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-13",
+      "name": "广州动物园",
+      "city": "广州",
+      "cityEvidence": {
+        "name": "广州动物园",
+        "city": "广州",
+        "directoryRow": 13,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 广州动物园",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E5%8A%A8%E7%89%A9%E5%9B%AD",
+          "title": "维基百科：广州动物园（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-6",
+      "name": "黄花岗公园",
+      "city": "广州",
+      "cityEvidence": {
+        "name": "广州市黄花岗公园",
+        "city": "广州",
+        "directoryRow": 6,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 广州市黄花岗公园",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E9%BB%84%E8%8A%B1%E5%B2%97%E5%85%AC%E5%9B%AD",
+          "title": "维基百科：黄花岗公园（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-12",
+      "name": "广州起义烈士陵园",
+      "city": "广州",
+      "cityEvidence": {
+        "name": "广州起义烈士陵园",
+        "city": "广州",
+        "directoryRow": 12,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 广州起义烈士陵园",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E8%B5%B7%E4%B9%89%E7%83%88%E5%A3%AB%E9%99%B5%E5%9B%AD",
+          "title": "维基百科：广州起义烈士陵园（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-24",
+      "name": "北京路文化旅游区",
+      "city": "广州",
+      "cityEvidence": {
+        "name": "广州市北京路文化旅游区",
+        "city": "广州",
+        "directoryRow": 24,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 广州市北京路文化旅游区",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E8%B7%AF_%28%E8%B6%8A%E7%A7%80%E5%8C%BA%29",
+          "title": "维基百科：北京路 (越秀区)（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-27",
+      "name": "永庆坊",
+      "city": "广州",
+      "cityEvidence": {
+        "name": "广州市西关永庆坊旅游区",
+        "city": "广州",
+        "directoryRow": 27,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 广州市西关永庆坊旅游区",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E6%B0%B8%E5%BA%86%E5%9D%8A",
+          "title": "维基百科：永庆坊（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-35",
+      "name": "余荫山房",
+      "city": "广州",
+      "cityEvidence": {
+        "name": "广州市余荫山房景区",
+        "city": "广州",
+        "directoryRow": 35,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 广州市余荫山房景区",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E4%BD%99%E8%8D%AB%E5%B1%B1%E6%88%BF",
+          "title": "维基百科：余荫山房（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-25",
+      "name": "沙湾古镇",
+      "city": "广州",
+      "cityEvidence": {
+        "name": "广州市沙湾古镇景区",
+        "city": "广州",
+        "directoryRow": 25,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 广州市沙湾古镇景区",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E6%B2%99%E6%B9%BE%E9%95%87",
+          "title": "维基百科：沙湾镇（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 沙湾古镇",
+          "url": "https://commons.wikimedia.org/wiki/File%3A%E6%B2%99%E6%B9%BE%E5%8F%A4%E9%95%87.jpg",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-36",
+      "name": "海珠湿地",
+      "city": "广州",
+      "cityEvidence": {
+        "name": "广州市海珠湿地公园景区",
+        "city": "广州",
+        "directoryRow": 36,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 广州市海珠湿地公园景区",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E6%B5%B7%E7%8F%A0%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD",
+          "title": "维基百科：海珠湿地公园（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 海珠湿地",
+          "url": "https://commons.wikimedia.org/wiki/File%3AA%20BRIDGE%20IN%20HAIZHU%20WETLAND.jpg",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-sz-0",
+      "name": "世界之窗",
+      "city": "深圳",
+      "cityEvidence": {
+        "name": "世界之窗",
+        "city": "深圳",
+        "source": "https://wtl.sz.gov.cn/ggfw/lyl/jqjdylb/index.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "城市公共游览与文化资料",
+          "url": "https://wtl.sz.gov.cn/ggfw/lyl/jqjdylb/index.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "城市游览交叉资料",
+          "url": "https://www.sz.gov.cn/ztfw/gysy/wyk_183958/content/post_11530290.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E4%B9%8B%E7%AA%97",
+          "title": "维基百科：世界之窗（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 世界之窗",
+          "url": "https://commons.wikimedia.org/wiki/File%3AWINDOWS%20OF%20THE%20WORLD%20SHENZHEN%20(21).jpg",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-sz-1",
+      "name": "大芬油画村",
+      "city": "深圳",
+      "cityEvidence": {
+        "name": "大芬油画村",
+        "city": "深圳",
+        "source": "https://www.lg.gov.cn/bmzz/wtlyj/xxgk/qt/whcyjjkjhzdwhqy/content/post_8335285.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "url": "https://www.lg.gov.cn/bmzz/wtlyj/xxgk/qt/whcyjjkjhzdwhqy/content/post_8335285.html",
+          "title": "城市文化与旅游资料",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://wtl.sz.gov.cn/ggfw/whl/whcyyqlyb/content/post_11100325.html",
+          "title": "深圳文化空间公开资料",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%8A%AC%E6%9D%91",
+          "title": "维基百科：大芬村（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-sz-2",
+      "name": "平安金融中心云际观光层",
+      "city": "深圳",
+      "cityEvidence": {
+        "name": "平安金融中心云际观光层",
+        "city": "深圳",
+        "source": "https://jtys.sz.gov.cn/jtzx/wycx/glcx/cxtx/content/post_12989819.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "url": "https://jtys.sz.gov.cn/jtzx/wycx/glcx/cxtx/content/post_12989819.html",
+          "title": "城市文化与旅游资料",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://wtl.sz.gov.cn/ggfw/whl/whcyyqlyb/content/post_11100325.html",
+          "title": "深圳文化空间公开资料",
+          "type": "官方资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E5%B9%B3%E5%AE%89%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83",
+          "title": "维基百科：平安金融中心（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-122",
+      "name": "东部华侨城",
+      "city": "深圳",
+      "cityEvidence": {
+        "name": "深圳市东部华侨城旅游度假区",
+        "city": "深圳",
+        "directoryRow": 122,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 深圳市东部华侨城旅游度假区",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%9C%E9%83%A8%E5%8D%8E%E4%BE%A8%E5%9F%8E",
+          "title": "维基百科：东部华侨城（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-sz-4",
+      "name": "深圳湾公园",
+      "city": "深圳",
+      "cityEvidence": {
+        "name": "深圳湾公园",
+        "city": "深圳",
+        "source": "https://wtl.sz.gov.cn/ggfw/lyl/jqjdylb/index.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "城市公共游览与文化资料",
+          "url": "https://wtl.sz.gov.cn/ggfw/lyl/jqjdylb/index.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "城市游览交叉资料",
+          "url": "https://www.sz.gov.cn/ztfw/gysy/wyk_183958/content/post_11530290.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 深圳湾公园",
+          "url": "https://commons.wikimedia.org/wiki/File%3AShenzhen%20Bay%20Park%20Sunrise%20Theatre%2020210904.jpg",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-sz-5",
+      "name": "莲花山公园",
+      "city": "深圳",
+      "cityEvidence": {
+        "name": "莲花山公园",
+        "city": "深圳",
+        "source": "https://wtl.sz.gov.cn/ggfw/lyl/jqjdylb/index.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "城市公共游览与文化资料",
+          "url": "https://wtl.sz.gov.cn/ggfw/lyl/jqjdylb/index.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "城市游览交叉资料",
+          "url": "https://www.sz.gov.cn/ztfw/gysy/wyk_183958/content/post_11530290.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E8%8E%B2%E8%8A%B1%E5%B1%B1_%28%E6%B7%B1%E5%9C%B3%29",
+          "title": "维基百科：莲花山 (深圳)（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-sz-6",
+      "name": "深圳博物馆",
+      "city": "深圳",
+      "cityEvidence": {
+        "name": "深圳博物馆",
+        "city": "深圳",
+        "source": "https://wtl.sz.gov.cn/ggfw/lyl/jqjdylb/index.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "城市公共游览与文化资料",
+          "url": "https://wtl.sz.gov.cn/ggfw/lyl/jqjdylb/index.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "城市游览交叉资料",
+          "url": "https://wtl.sz.gov.cn/ggfw/whl/bwgylb/",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%9C%B3%E5%8D%9A%E7%89%A9%E9%A6%86",
+          "title": "维基百科：深圳博物馆（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-sz-7",
+      "name": "深圳当代艺术与城市规划馆",
+      "city": "深圳",
+      "cityEvidence": {
+        "name": "深圳当代艺术与城市规划馆",
+        "city": "深圳",
+        "source": "https://wtl.sz.gov.cn/ggfw/lyl/jqjdylb/index.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "城市公共游览与文化资料",
+          "url": "https://wtl.sz.gov.cn/ggfw/lyl/jqjdylb/index.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "城市游览交叉资料",
+          "url": "https://wtl.sz.gov.cn/ggfw/whl/bwgylb/",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%BD%93%E4%BB%A3%E8%89%BA%E6%9C%AF%E4%B8%8E%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%92%E9%A6%86",
+          "title": "维基百科：深圳市当代艺术与城市规划馆（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-197",
+      "name": "梁园",
+      "city": "佛山",
+      "cityEvidence": {
+        "name": "佛山市梁园景区",
+        "city": "佛山",
+        "directoryRow": 197,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 佛山市梁园景区",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E6%A2%81%E5%9B%AD",
+          "title": "维基百科：梁园（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 梁园",
+          "url": "https://commons.wikimedia.org/wiki/File%3A20251122%20Liang%20Yuan%20(153235).jpg",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-fs-0",
+      "name": "岭南天地",
+      "city": "佛山",
+      "cityEvidence": {
+        "name": "岭南天地",
+        "city": "佛山",
+        "source": "https://www.xinhuanet.com/photo/2021-04/19/c_1127349185_2.htm",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "type": "新闻资料",
+          "title": "新华社：佛山岭南天地历史街区",
+          "url": "https://www.xinhuanet.com/photo/2021-04/19/c_1127349185_2.htm",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "岭南天地建筑图册",
+          "url": "https://panosoft.cn/picture_directory/441/",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-192",
+      "name": "顺德和园",
+      "city": "佛山",
+      "cityEvidence": {
+        "name": "佛山市顺德区岭南和园景区",
+        "city": "佛山",
+        "directoryRow": 192,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 佛山市顺德区岭南和园景区",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 顺德和园",
+          "url": "https://app.shundeplus.com/m/a/210733.html",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-193",
+      "name": "顺德欢乐海岸PLUS",
+      "city": "佛山",
+      "cityEvidence": {
+        "name": "佛山市顺德区欢乐海岸PLUS景区",
+        "city": "佛山",
+        "directoryRow": 193,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 佛山市顺德区欢乐海岸PLUS景区",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 顺德欢乐海岸PLUS",
+          "url": "https://www.octharbourplus.com/",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-zh-0",
+      "name": "珠海渔女",
+      "city": "珠海",
+      "cityEvidence": {
+        "name": "珠海渔女",
+        "city": "珠海",
+        "source": "https://pub-zhtb.hizh.cn/s/202311/26/AP6562bc4ae4b0b4ef207f9dbe.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "城市公共游览与文化资料",
+          "url": "https://pub-zhtb.hizh.cn/s/202311/26/AP6562bc4ae4b0b4ef207f9dbe.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "城市游览交叉资料",
+          "url": "https://www.gd.gov.cn/gdywdt/zwzt/whlvx/dshd/zh/mindex.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E7%8F%A0%E6%B5%B7%E6%B8%94%E5%A5%B3",
+          "title": "维基百科：珠海渔女（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-zh-1",
+      "name": "珠海大剧院",
+      "city": "珠海",
+      "cityEvidence": {
+        "name": "珠海大剧院",
+        "city": "珠海",
+        "source": "https://pub-zhtb.hizh.cn/s/202311/26/AP6562bc4ae4b0b4ef207f9dbe.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "城市公共游览与文化资料",
+          "url": "https://pub-zhtb.hizh.cn/s/202311/26/AP6562bc4ae4b0b4ef207f9dbe.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "城市游览交叉资料",
+          "url": "https://www.gd.gov.cn/gdywdt/zwzt/whlvx/dshd/zh/mindex.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 珠海大剧院",
+          "url": "https://commons.wikimedia.org/wiki/File%3AZhuhai%20Grand%20Theatre%20Exterior%20Southeast2021.jpg",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-zh-2",
+      "name": "珠海博物馆",
+      "city": "珠海",
+      "cityEvidence": {
+        "name": "珠海博物馆",
+        "city": "珠海",
+        "source": "https://pub-zhtb.hizh.cn/s/202311/26/AP6562bc4ae4b0b4ef207f9dbe.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "城市公共游览与文化资料",
+          "url": "https://pub-zhtb.hizh.cn/s/202311/26/AP6562bc4ae4b0b4ef207f9dbe.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "城市游览交叉资料",
+          "url": "https://www.gd.gov.cn/gdywdt/zwzt/whlvx/dshd/zh/mindex.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E7%8F%A0%E6%B5%B7%E5%8D%9A%E7%89%A9%E9%A6%86",
+          "title": "维基百科：珠海博物馆（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-zh-3",
+      "name": "景山公园",
+      "city": "珠海",
+      "cityEvidence": {
+        "name": "景山公园",
+        "city": "珠海",
+        "source": "https://pub-zhtb.hizh.cn/s/202311/26/AP6562bc4ae4b0b4ef207f9dbe.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "城市公共游览与文化资料",
+          "url": "https://pub-zhtb.hizh.cn/s/202311/26/AP6562bc4ae4b0b4ef207f9dbe.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "城市游览交叉资料",
+          "url": "https://www.gd.gov.cn/gdywdt/zwzt/whlvx/dshd/zh/mindex.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 景山公园",
+          "url": "https://pub-zhtb.hizh.cn/s/202603/10/AP69af9637e4b00e8ea1bbd471.html",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-413",
+      "name": "东莞展览馆",
+      "city": "东莞",
+      "cityEvidence": {
+        "name": "东莞市展览馆",
+        "city": "东莞",
+        "directoryRow": 413,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 东莞市展览馆",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 东莞展览馆",
+          "url": "https://www.dgec.org.cn/",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-419",
+      "name": "隐贤山庄",
+      "city": "东莞",
+      "cityEvidence": {
+        "name": "东莞市隐贤山庄",
+        "city": "东莞",
+        "directoryRow": 419,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 东莞市隐贤山庄",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 隐贤山庄",
+          "url": "https://uk.trip.com/travel-guide/attraction/dongguan/yinxian-resort-81369/",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-355",
+      "name": "东平窑陶瓷文化园",
+      "city": "惠州",
+      "cityEvidence": {
+        "name": "惠州市东平窑陶瓷文化园旅游景区",
+        "city": "惠州",
+        "directoryRow": 355,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 惠州市东平窑陶瓷文化园旅游景区",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 东平窑陶瓷文化园",
+          "url": "https://k.sina.com.cn/article_5787187353_158f1789902001czrj.html",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-hz-1",
+      "name": "水东街",
+      "city": "惠州",
+      "cityEvidence": {
+        "name": "水东街",
+        "city": "惠州",
+        "source": "https://zjj.huizhou.gov.cn/zwgk/jytaxxgk/content/post_4067964.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "城市公共游览与文化资料",
+          "url": "https://zjj.huizhou.gov.cn/zwgk/jytaxxgk/content/post_4067964.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "城市游览交叉资料",
+          "url": "https://static.nfnews.com/content/202312/13/c8399515.html",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-487",
+      "name": "启明里",
+      "city": "江门",
+      "cityEvidence": {
+        "name": "江门市启明里景区",
+        "city": "江门",
+        "directoryRow": 487,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 江门市启明里景区",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E5%90%AF%E6%98%8E%E9%87%8C",
+          "title": "维基百科：启明里（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 启明里",
+          "url": "https://www.jiangmen.gov.cn/jmwgj/gkmlpt/content/2/2993/post_2993518.html",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-483",
+      "name": "五邑华侨华人博物馆",
+      "city": "江门",
+      "cityEvidence": {
+        "name": "江门五邑华侨华人博物馆",
+        "city": "江门",
+        "directoryRow": 483,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 江门五邑华侨华人博物馆",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 五邑华侨华人博物馆",
+          "url": "https://www.jiangmen.gov.cn/newzjqx/lyzy/lyjd/qxwh/content/post_3545773.html",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-st-0",
+      "name": "汕头市博物馆",
+      "city": "汕头",
+      "cityEvidence": {
+        "name": "汕头市博物馆",
+        "city": "汕头",
+        "source": "https://www.shantou.gov.cn/cnst/zdly/lyscjgzfxxgk/cyzl/content/post_1342470.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "城市公共游览与文化资料",
+          "url": "https://www.shantou.gov.cn/cnst/zdly/lyscjgzfxxgk/cyzl/content/post_1342470.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "城市游览交叉资料",
+          "url": "https://english.shantou.gov.cn/english/livingtourism/touristresorts/guide/content/post_1726445.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E6%B1%95%E5%A4%B4%E5%B8%82%E5%8D%9A%E7%89%A9%E9%A6%86",
+          "title": "维基百科：汕头市博物馆（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 汕头市博物馆",
+          "url": "https://stgsl.shantou.gov.cn/stgsl/zjshm/201907/1fb9a5d978104679b0ea8f847c8a2213.shtml",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-extra-st-1",
+      "name": "北山湾",
+      "city": "汕头",
+      "cityEvidence": {
+        "name": "北山湾",
+        "city": "汕头",
+        "source": "https://www.shantou.gov.cn/cnst/zdly/lyscjgzfxxgk/cyzl/content/post_1342470.html",
+        "asOf": "2026-10-17"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "城市公共游览与文化资料",
+          "url": "https://www.shantou.gov.cn/cnst/zdly/lyscjgzfxxgk/cyzl/content/post_1342470.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "城市游览交叉资料",
+          "url": "https://english.shantou.gov.cn/english/livingtourism/touristresorts/guide/content/post_1726445.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 北山湾",
+          "url": "https://you.ctrip.com/sight/shantou215/17815.html",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-693",
+      "name": "韩文公祠",
+      "city": "潮州",
+      "cityEvidence": {
+        "name": "潮州市韩文公祠",
+        "city": "潮州",
+        "directoryRow": 693,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 潮州市韩文公祠",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%96%87%E5%85%AC%E7%A5%A0",
+          "title": "维基百科：韩文公祠（背景与图片线索）",
+          "type": "百科资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "gd-dir-696",
+      "name": "绿太阳生态旅游区",
+      "city": "潮州",
+      "cityEvidence": {
+        "name": "潮州市绿太阳景区",
+        "city": "潮州",
+        "directoryRow": 696,
+        "source": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+        "asOf": "2026-08-31"
+      },
+      "sources": [
+        {
+          "type": "官方资料",
+          "title": "广东省文旅厅：A级景区名录 · 潮州市绿太阳景区",
+          "url": "https://whly.gd.gov.cn/service_newajjq/content/post_4949138.html",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "官方资料",
+          "title": "官方景区名录原表",
+          "url": "https://whly.gd.gov.cn/attachment/0/623/623880/4949138.xlsx",
+          "checked": "2026-10-17"
+        },
+        {
+          "type": "图片资料",
+          "title": "参考实景来源 · 绿太阳生态旅游区",
+          "url": "https://gs.ctrip.com/html5/you/sight/chaozhou467/1994423.html",
+          "checked": "2026-10-17"
+        }
+      ]
+    }
+  ]
+}

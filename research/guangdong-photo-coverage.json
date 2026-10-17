@@ -1,8 +1,8 @@
 {
-  "checked": "2026-10-16",
-  "destinations": 210,
+  "checked": "2026-10-17",
+  "destinations": 246,
   "cities": 21,
-  "photos": 210,
+  "photos": 246,
   "note": "Image identity and source checked. Original-source copyright is not an open license; publication and shooting dates are distinct.",
   "entries": [
     {
@@ -4268,6 +4268,671 @@
       },
       "checked": "2026-10-16",
       "sha256": "65f0e510290831dc4f9a1c67d6d393d1d84ef9af45defa9eb1ff3b89bbb8aa6c"
+    },
+    {
+      "id": "gd-dir-22",
+      "name": "广州塔",
+      "city": "广州",
+      "path": "assets/gd-dir-22.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Canton_Tower_2013.11.15_18-12-45.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2013-11-15 18:12:45",
+      "caption": "广州塔相关实景 · 原文件：Canton_Tower_2013.11.15_18-12-45.jpg",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Canton Tower · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-dir-14",
+      "name": "广东科学中心",
+      "city": "广州",
+      "path": "assets/gd-dir-14.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Aerial_View,_Guangdong_Science_Center_20230124-B.jpg",
+      "author": "Tim Wu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-01-24 16:18:15",
+      "caption": "广东科学中心相关实景 · 原文件：Aerial_View,_Guangdong_Science_Center_20230124-B.jpg",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Guangdong Science Center · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-dir-13",
+      "name": "广州动物园",
+      "city": "广州",
+      "path": "assets/gd-dir-13.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Gzzoo.jpg",
+      "author": "Mengyeyue",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2007",
+      "caption": "广州动物园相关实景 · 原文件：Gzzoo.jpg",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Guangzhou Zoo · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-dir-6",
+      "name": "黄花岗公园",
+      "city": "广州",
+      "path": "assets/gd-dir-6.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:%E9%BB%84%E8%8A%B1%E5%B2%97%E4%B8%83%E5%8D%81%E4%BA%8C%E7%83%88%E5%A3%AB%E5%A2%93.jpg",
+      "author": "Zhou Guanhuai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2010-10-17 12:28:32",
+      "caption": "黄花岗公园相关实景 · 原文件：黄花岗七十二烈士墓.jpg",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Huanghuagang Park · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-dir-12",
+      "name": "广州起义烈士陵园",
+      "city": "广州",
+      "path": "assets/gd-dir-12.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Guangzhou_Insurrectional_Martyr_Cemetery_Park_20211101_01.jpg",
+      "author": "沈澄心",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2021-11-01 14:37:08",
+      "caption": "广州起义烈士陵园相关实景 · 原文件：Guangzhou_Insurrectional_Martyr_Cemetery_Park_20211101_01.jpg",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Guangzhou Uprising Martyrs Cemetery · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-dir-24",
+      "name": "北京路文化旅游区",
+      "city": "广州",
+      "path": "assets/gd-dir-24.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E4%BA%AC%E8%B7%AF%E6%AD%A5%E8%A1%8C%E8%A1%97%E5%8C%97%E7%AB%AF_2020-08-02.jpg",
+      "author": "David290",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2020-08-02 15:40:24",
+      "caption": "北京路 (越秀区)相关实景 · 原文件：北京路步行街北端_2020-08-02.jpg",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Beijing Road Cultural Tourism Area · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-dir-27",
+      "name": "永庆坊",
+      "city": "广州",
+      "path": "assets/gd-dir-27.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:WingHingFong.jpg",
+      "author": "PQ77wd",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2018-11-07 20:23:13",
+      "caption": "永庆坊相关实景 · 原文件：WingHingFong.jpg",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Yongqing Fang · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-dir-35",
+      "name": "余荫山房",
+      "city": "广州",
+      "path": "assets/gd-dir-35.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Guangzhou_Panyu_Yuyin_Shanfang_2012.11.19_16-11-37.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2012-11-19 16:11:37",
+      "caption": "余荫山房相关实景 · 原文件：Guangzhou_Panyu_Yuyin_Shanfang_2012.11.19_16-11-37.jpg",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Yuyin Shanfang · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-dir-25",
+      "name": "沙湾古镇",
+      "city": "广州",
+      "path": "assets/gd-dir-25.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%E6%B2%99%E6%B9%BE%E5%8F%A4%E9%95%87.jpg",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%E6%B2%99%E6%B9%BE%E5%8F%A4%E9%95%87.jpg/1280px-%E6%B2%99%E6%B9%BE%E5%8F%A4%E9%95%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "乐夏天",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "date": "2019-05-01 13:45:39",
+      "dateStatus": "known",
+      "caption": "沙湾古镇参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "en": {
+        "caption": "Shawan Ancient Town · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "乐夏天",
+        "license": "CC BY 2.5"
+      }
+    },
+    {
+      "id": "gd-dir-36",
+      "name": "海珠湿地",
+      "city": "广州",
+      "path": "assets/gd-dir-36.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AA%20BRIDGE%20IN%20HAIZHU%20WETLAND.jpg",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/A_BRIDGE_IN_HAIZHU_WETLAND.jpg/1280px-A_BRIDGE_IN_HAIZHU_WETLAND.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "CRCHF",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2015-02-21 13:33:00",
+      "dateStatus": "known",
+      "caption": "海珠湿地参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "en": {
+        "caption": "Haizhu Wetland · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "CRCHF",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "gd-extra-sz-0",
+      "name": "世界之窗",
+      "city": "深圳",
+      "path": "assets/gd-extra-sz-0.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AWINDOWS%20OF%20THE%20WORLD%20SHENZHEN%20(21).jpg",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/WINDOWS_OF_THE_WORLD_SHENZHEN_%2821%29.jpg/1280px-WINDOWS_OF_THE_WORLD_SHENZHEN_%2821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-04-12 14:14:19",
+      "dateStatus": "known",
+      "caption": "世界之窗参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "en": {
+        "caption": "Window of the World · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Dinkun Chen",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "gd-extra-sz-1",
+      "name": "大芬油画村",
+      "city": "深圳",
+      "path": "assets/gd-extra-sz-1.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Dafen_Oil_Painting_Village_(Day).JPG",
+      "author": "寿司猫",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2012-01-31",
+      "caption": "大芬村相关实景 · 原文件：Dafen_Oil_Painting_Village_(Day).JPG",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Dafen Oil Painting Village · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-extra-sz-2",
+      "name": "平安金融中心云际观光层",
+      "city": "深圳",
+      "path": "assets/gd-extra-sz-2.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Pingan_International_Finance_Center_by2020.jpg",
+      "author": "Charlie fong",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-01-01 15:21:42",
+      "caption": "平安金融中心相关实景 · 原文件：Pingan_International_Finance_Center_by2020.jpg",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Ping An Finance Centre Observation Deck · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-dir-122",
+      "name": "东部华侨城",
+      "city": "深圳",
+      "path": "assets/gd-dir-122.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:OCT_East.JPG",
+      "author": "Huangdan2060 at Chinese Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:OCT_East.JPG",
+      "date": "2011-10-02",
+      "caption": "东部华侨城相关实景 · 原文件：OCT_East.JPG",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "OCT East · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-extra-sz-4",
+      "name": "深圳湾公园",
+      "city": "深圳",
+      "path": "assets/gd-extra-sz-4.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AShenzhen%20Bay%20Park%20Sunrise%20Theatre%2020210904.jpg",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Shenzhen_Bay_Park_Sunrise_Theatre_20210904.jpg/1280px-Shenzhen_Bay_Park_Sunrise_Theatre_20210904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "歪歪",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-09-04 17:29:17",
+      "dateStatus": "known",
+      "caption": "深圳湾公园参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "en": {
+        "caption": "Shenzhen Bay Park · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "歪歪",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "gd-extra-sz-5",
+      "name": "莲花山公园",
+      "city": "深圳",
+      "path": "assets/gd-extra-sz-5.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Shenzhen_Lianhuashan_Park_South_East.JPG",
+      "author": "biny86755",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2014-06-01",
+      "caption": "莲花山 (深圳)相关实景 · 原文件：Shenzhen_Lianhuashan_Park_South_East.JPG",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Lianhuashan Park · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-extra-sz-6",
+      "name": "深圳博物馆",
+      "city": "深圳",
+      "path": "assets/gd-extra-sz-6.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Shenzhen_museum.JPG",
+      "author": "user:pubuhan",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "date": "2008-12-25",
+      "caption": "深圳博物馆相关实景 · 原文件：Shenzhen_museum.JPG",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Shenzhen Museum · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-extra-sz-7",
+      "name": "深圳当代艺术与城市规划馆",
+      "city": "深圳",
+      "path": "assets/gd-extra-sz-7.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_Futian_Fuzhong_Road_MOCAPE_Museum_of_Contemporary_Art_%26_Planning_Exhibition_facade_Sept_2017_IX1_03.jpg",
+      "author": "Timeahfurm002",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2017-09-01 15:58:39",
+      "caption": "深圳市当代艺术与城市规划馆相关实景 · 原文件：SZ_深圳_Shenzhen_Futian_Fuzhong_Road_MOCAPE_Museum_of_Contemporary_Art_&_Planning_Exhibition_facade_Sept_2017_IX1_03.jpg",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Museum of Contemporary Art & Planning Exhibition · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-dir-197",
+      "name": "梁园",
+      "city": "佛山",
+      "path": "assets/gd-dir-197.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3A20251122%20Liang%20Yuan%20(153235).jpg",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/20251122_Liang_Yuan_%28153235%29.jpg/1280px-20251122_Liang_Yuan_%28153235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2025-11-22 15:32:35",
+      "dateStatus": "known",
+      "caption": "梁园参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "en": {
+        "caption": "Liang Garden · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Yumeto",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "gd-extra-fs-0",
+      "name": "岭南天地",
+      "city": "佛山",
+      "path": "assets/gd-extra-fs-0.jpg",
+      "url": "https://www.xinhuanet.com/photo/2021-04/19/c_1127349185_2.htm",
+      "originalUrl": "https://www.xinhuanet.com/photo/2021-04/19/1127349185_16188449300231n.jpg",
+      "author": "原站未注明摄影者",
+      "license": "原站版权 · 非开放许可；转载授权未核实",
+      "licenseUrl": "https://www.xinhuanet.com/photo/2021-04/19/c_1127349185_2.htm",
+      "date": "2014",
+      "dateStatus": "known",
+      "caption": "岭南天地2014年历史实景；新华社2021年发布，不代表当前环境。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "rightsStatus": "source-copyright",
+      "en": {
+        "caption": "Lingnan Tiandi in 2014, published by Xinhua in 2021; historical conditions.",
+        "author": "Photographer not identified by the source",
+        "license": "Original-source copyright; not openly licensed. Republishing permission unverified."
+      }
+    },
+    {
+      "id": "gd-dir-192",
+      "name": "顺德和园",
+      "city": "佛山",
+      "path": "assets/gd-dir-192.jpg",
+      "url": "https://app.shundeplus.com/m/a/210733.html",
+      "originalUrl": "https://shundeplus.imgs.shundecity.com/shundeplus/images/article/2024/10/28/f65de20241028234209670180.jpg",
+      "author": "原站未注明摄影者",
+      "license": "原站版权 · 非开放许可；转载授权未核实",
+      "licenseUrl": "https://app.shundeplus.com/m/a/210733.html",
+      "date": "",
+      "dateStatus": "unknown",
+      "caption": "顺德和园参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "rightsStatus": "source-copyright",
+      "en": {
+        "caption": "Shunde He Garden · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Photographer not identified by the source",
+        "license": "Original-source copyright; not openly licensed. Republishing permission unverified."
+      }
+    },
+    {
+      "id": "gd-dir-193",
+      "name": "顺德欢乐海岸PLUS",
+      "city": "佛山",
+      "path": "assets/gd-dir-193.jpg",
+      "url": "https://www.octharbourplus.com/",
+      "originalUrl": "https://www.octharbourplus.com/upload/Play/2020/05/18/722d738f-836c-4ad5-a6ea-c3a45024e6db.jpg",
+      "author": "原站未注明摄影者",
+      "license": "原站版权 · 非开放许可；转载授权未核实",
+      "licenseUrl": "https://www.octharbourplus.com/",
+      "date": "",
+      "dateStatus": "unknown",
+      "caption": "顺德欢乐海岸PLUS参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "rightsStatus": "source-copyright",
+      "en": {
+        "caption": "Shunde OCT Harbour PLUS · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Photographer not identified by the source",
+        "license": "Original-source copyright; not openly licensed. Republishing permission unverified."
+      }
+    },
+    {
+      "id": "gd-extra-zh-0",
+      "name": "珠海渔女",
+      "city": "珠海",
+      "path": "assets/gd-extra-zh-0.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Zhuhai_Fisher_Girl_statue.jpg",
+      "author": "钉钉",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-12-30",
+      "caption": "珠海渔女相关实景 · 原文件：Zhuhai_Fisher_Girl_statue.jpg",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Fisher Girl Statue · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-extra-zh-1",
+      "name": "珠海大剧院",
+      "city": "珠海",
+      "path": "assets/gd-extra-zh-1.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File%3AZhuhai%20Grand%20Theatre%20Exterior%20Southeast2021.jpg",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Zhuhai_Grand_Theatre_Exterior_Southeast2021.jpg/1280px-Zhuhai_Grand_Theatre_Exterior_Southeast2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Charlie fong",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-02-11 08:28:54",
+      "dateStatus": "known",
+      "caption": "珠海大剧院参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "en": {
+        "caption": "Zhuhai Grand Theatre · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Charlie fong",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "gd-extra-zh-2",
+      "name": "珠海博物馆",
+      "city": "珠海",
+      "path": "assets/gd-extra-zh-2.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:%E7%8F%A0%E6%B5%B7%E5%8D%9A%E7%89%A9%E9%A6%86.jpg",
+      "author": "钉钉",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-12-30 10:51:52",
+      "caption": "珠海博物馆相关实景 · 原文件：珠海博物馆.jpg",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Zhuhai Museum · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-extra-zh-3",
+      "name": "景山公园",
+      "city": "珠海",
+      "path": "assets/gd-extra-zh-3.jpg",
+      "url": "https://pub-zhtb.hizh.cn/s/202603/10/AP69af9637e4b00e8ea1bbd471.html",
+      "originalUrl": "https://pub-point.hizh.cn/images/202603/10/69af967a522ca35001fdb663.jpeg",
+      "author": "原站未注明摄影者",
+      "license": "原站版权 · 非开放许可；转载授权未核实",
+      "licenseUrl": "https://pub-zhtb.hizh.cn/s/202603/10/AP69af9637e4b00e8ea1bbd471.html",
+      "date": "",
+      "dateStatus": "unknown",
+      "caption": "景山公园参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "rightsStatus": "source-copyright",
+      "en": {
+        "caption": "Jingshan Park, Zhuhai · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Photographer not identified by the source",
+        "license": "Original-source copyright; not openly licensed. Republishing permission unverified."
+      }
+    },
+    {
+      "id": "gd-dir-413",
+      "name": "东莞展览馆",
+      "city": "东莞",
+      "path": "assets/gd-dir-413.jpg",
+      "url": "https://www.dgec.org.cn/",
+      "originalUrl": "https://www.dgec.org.cn/v2/api/static/upload/20230302/1677720179859.jpg",
+      "author": "原站未注明摄影者",
+      "license": "原站版权 · 非开放许可；转载授权未核实",
+      "licenseUrl": "https://www.dgec.org.cn/",
+      "date": "",
+      "dateStatus": "unknown",
+      "caption": "东莞展览馆参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "rightsStatus": "source-copyright",
+      "en": {
+        "caption": "Dongguan Exhibition Center · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Photographer not identified by the source",
+        "license": "Original-source copyright; not openly licensed. Republishing permission unverified."
+      }
+    },
+    {
+      "id": "gd-dir-419",
+      "name": "隐贤山庄",
+      "city": "东莞",
+      "path": "assets/gd-dir-419.jpg",
+      "url": "https://uk.trip.com/travel-guide/attraction/dongguan/yinxian-resort-81369/",
+      "originalUrl": "https://ak-d.tripcdn.com/images/01072120008mksh732135.jpg",
+      "author": "原站未注明摄影者",
+      "license": "原站版权 · 非开放许可；转载授权未核实",
+      "licenseUrl": "https://uk.trip.com/travel-guide/attraction/dongguan/yinxian-resort-81369/",
+      "date": "",
+      "dateStatus": "unknown",
+      "caption": "隐贤山庄参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "rightsStatus": "source-copyright",
+      "en": {
+        "caption": "Yinxian Mountain Resort · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Photographer not identified by the source",
+        "license": "Original-source copyright; not openly licensed. Republishing permission unverified."
+      }
+    },
+    {
+      "id": "gd-dir-355",
+      "name": "东平窑陶瓷文化园",
+      "city": "惠州",
+      "path": "assets/gd-dir-355.jpg",
+      "url": "https://k.sina.com.cn/article_5787187353_158f1789902001czrj.html",
+      "originalUrl": "https://n.sinaimg.cn/sinakd20211015s/150/w1000h750/20211015/d2ef-752f7c474557dce50ab0e8bf7d1dfd00.jpg",
+      "author": "原站未注明摄影者",
+      "license": "原站版权 · 非开放许可；转载授权未核实",
+      "licenseUrl": "https://k.sina.com.cn/article_5787187353_158f1789902001czrj.html",
+      "date": "",
+      "dateStatus": "unknown",
+      "caption": "东平窑陶瓷文化园参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "rightsStatus": "source-copyright",
+      "en": {
+        "caption": "Dongping Kiln Ceramic Culture Park · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Photographer not identified by the source",
+        "license": "Original-source copyright; not openly licensed. Republishing permission unverified."
+      }
+    },
+    {
+      "id": "gd-extra-hz-1",
+      "name": "水东街",
+      "city": "惠州",
+      "path": "assets/gd-extra-hz-1.jpg",
+      "url": "https://static.nfnews.com/content/202312/13/c8399515.html",
+      "originalUrl": "https://pic.nfapp.southcn.com/media-nfh/image/202312/13/4206b386c34245e08eb117d439254ed3.jpeg?x-oss-process=style/w640",
+      "author": "原站未注明摄影者",
+      "license": "原站版权 · 非开放许可；转载授权未核实",
+      "licenseUrl": "https://static.nfnews.com/content/202312/13/c8399515.html",
+      "date": "",
+      "dateStatus": "unknown",
+      "caption": "水东街参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "rightsStatus": "source-copyright",
+      "en": {
+        "caption": "Shuidong Street · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Photographer not identified by the source",
+        "license": "Original-source copyright; not openly licensed. Republishing permission unverified."
+      }
+    },
+    {
+      "id": "gd-dir-487",
+      "name": "启明里",
+      "city": "江门",
+      "path": "assets/gd-dir-487.jpg",
+      "url": "https://www.jiangmen.gov.cn/jmwgj/gkmlpt/content/2/2993/post_2993518.html",
+      "originalUrl": "https://www.jiangmen.gov.cn/jmwgj/img/1/1168/1168089/2993518.jpg",
+      "author": "原站未注明摄影者",
+      "license": "原站版权 · 非开放许可；转载授权未核实",
+      "licenseUrl": "https://www.jiangmen.gov.cn/jmwgj/gkmlpt/content/2/2993/post_2993518.html",
+      "date": "",
+      "dateStatus": "unknown",
+      "caption": "启明里参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "rightsStatus": "source-copyright",
+      "en": {
+        "caption": "Qimingli · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Photographer not identified by the source",
+        "license": "Original-source copyright; not openly licensed. Republishing permission unverified."
+      }
+    },
+    {
+      "id": "gd-dir-483",
+      "name": "五邑华侨华人博物馆",
+      "city": "江门",
+      "path": "assets/gd-dir-483.jpg",
+      "url": "https://www.jiangmen.gov.cn/newzjqx/lyzy/lyjd/qxwh/content/post_3545773.html",
+      "originalUrl": "https://www.jiangmen.gov.cn/img/1/1470/1470282/3545773.png",
+      "author": "原站未注明摄影者",
+      "license": "原站版权 · 非开放许可；转载授权未核实",
+      "licenseUrl": "https://www.jiangmen.gov.cn/newzjqx/lyzy/lyjd/qxwh/content/post_3545773.html",
+      "date": "",
+      "dateStatus": "unknown",
+      "caption": "五邑华侨华人博物馆参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "rightsStatus": "source-copyright",
+      "en": {
+        "caption": "Wuyi Overseas Chinese Museum · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Photographer not identified by the source",
+        "license": "Original-source copyright; not openly licensed. Republishing permission unverified."
+      }
+    },
+    {
+      "id": "gd-extra-st-0",
+      "name": "汕头市博物馆",
+      "city": "汕头",
+      "path": "assets/gd-extra-st-0.jpg",
+      "url": "https://stgsl.shantou.gov.cn/stgsl/zjshm/201907/1fb9a5d978104679b0ea8f847c8a2213.shtml",
+      "originalUrl": "https://stgsl.shantou.gov.cn/stgsl/zjshm/201907/1fb9a5d978104679b0ea8f847c8a2213/images/20190723113845315002.jpg",
+      "author": "原站未注明摄影者",
+      "license": "原站版权 · 非开放许可；转载授权未核实",
+      "licenseUrl": "https://stgsl.shantou.gov.cn/stgsl/zjshm/201907/1fb9a5d978104679b0ea8f847c8a2213.shtml",
+      "date": "",
+      "dateStatus": "unknown",
+      "caption": "汕头市博物馆参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "rightsStatus": "source-copyright",
+      "en": {
+        "caption": "Shantou Museum · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Photographer not identified by the source",
+        "license": "Original-source copyright; not openly licensed. Republishing permission unverified."
+      }
+    },
+    {
+      "id": "gd-extra-st-1",
+      "name": "北山湾",
+      "city": "汕头",
+      "path": "assets/gd-extra-st-1.jpg",
+      "url": "https://you.ctrip.com/sight/shantou215/17815.html",
+      "originalUrl": "https://dimg04.c-ctrip.com/images/0102i120009n0nbr36DAB_W_640_10000.jpg?proc=autoorient",
+      "author": "原站未注明摄影者",
+      "license": "原站版权 · 非开放许可；转载授权未核实",
+      "licenseUrl": "https://you.ctrip.com/sight/shantou215/17815.html",
+      "date": "",
+      "dateStatus": "unknown",
+      "caption": "北山湾参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "rightsStatus": "source-copyright",
+      "en": {
+        "caption": "Beishan Bay · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Photographer not identified by the source",
+        "license": "Original-source copyright; not openly licensed. Republishing permission unverified."
+      }
+    },
+    {
+      "id": "gd-dir-693",
+      "name": "韩文公祠",
+      "city": "潮州",
+      "path": "assets/gd-dir-693.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Chaozhou_Hanwengong_Ci_2013.10.27_09-04-35.jpg",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2013-10-27 09:04:35",
+      "caption": "韩文公祠相关实景 · 原文件：Chaozhou_Hanwengong_Ci_2013.10.27_09-04-35.jpg",
+      "modified": "网页展示时裁切，色彩未修改",
+      "en": {
+        "caption": "Han Yu Memorial Temple · reference photograph; see original image for identification."
+      }
+    },
+    {
+      "id": "gd-dir-696",
+      "name": "绿太阳生态旅游区",
+      "city": "潮州",
+      "path": "assets/gd-dir-696.jpg",
+      "url": "https://gs.ctrip.com/html5/you/sight/chaozhou467/1994423.html",
+      "originalUrl": "https://dimg04.c-ctrip.com/images/1lo2c12000fasiwj9C2A6_W_1080_0_Q80.jpg?proc=crop/m_c,w_1785,h_1190,x_0,y_71,D216&_fr=wc",
+      "author": "原站未注明摄影者",
+      "license": "原站版权 · 非开放许可；转载授权未核实",
+      "licenseUrl": "https://gs.ctrip.com/html5/you/sight/chaozhou467/1994423.html",
+      "date": "",
+      "dateStatus": "unknown",
+      "caption": "绿太阳生态旅游区参考实景（局部）；拍摄时间见原站，不能代表当前现场。",
+      "modified": "网页缩略显示，保留原图内容与水印",
+      "rightsStatus": "source-copyright",
+      "en": {
+        "caption": "Green Sun Ecotourism Area · reference photo of part of the site. See original attribution; it does not establish current conditions.",
+        "author": "Photographer not identified by the source",
+        "license": "Original-source copyright; not openly licensed. Republishing permission unverified."
+      }
     }
   ]
 }

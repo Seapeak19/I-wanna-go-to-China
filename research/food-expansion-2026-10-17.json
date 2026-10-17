@@ -1,0 +1,769 @@
+{
+  "checked": "2026-10-17",
+  "newRestaurants": 40,
+  "guangdongCities": 21,
+  "method": "携程、去哪儿、大众点评公开条目，结合B站公开视频简介、餐厅官方与经营方资料。视频未完整观看；不把商家或平台推荐当作真实到访证明。",
+  "methodEn": "Public Ctrip, Qunar and Dianping listings, Bilibili video descriptions and restaurant/operator sources. Videos were not watched in full. Platform recommendations are not proof of a visit.",
+  "entries": [
+    {
+      "id": "food-gd-001",
+      "city": "广州",
+      "name": "坚记面食店",
+      "url": "https://gs.ctrip.com/html5/you/foods/guangzhou152/443214.html",
+      "price": "平台参考 CNY 23 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/guangzhou152/443214.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        },
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1CW41117xu",
+          "title": "品城记Video · 2018-10-10 · 视频简介，未完整观看",
+          "author": "品城记Video",
+          "date": "2018-10-10",
+          "evidenceType": "video-description",
+          "checked": "2026-10-17"
+        }
+      ],
+      "reviewSample": {
+        "author": "小小彬0125",
+        "date": "2022-02-07",
+        "url": "https://gs.ctrip.com/html5/you/foods/guangzhou152/443214.html",
+        "summary": "认可面店风味，也认为价格略高、环境一般。",
+        "summaryEn": "Liked the noodles but found the price somewhat high and setting ordinary.",
+        "historical": true
+      }
+    },
+    {
+      "id": "food-gd-002",
+      "city": "广州",
+      "name": "吴财记面家（大同路店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2036010/5324880.html",
+      "price": "平台参考 CNY 24 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2036010/5324880.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-003",
+      "city": "广州",
+      "name": "同记鸡粥粉面店",
+      "url": "https://you.ctrip.com/food/guangzhou152/4927181.html",
+      "price": "历史单次消费 CNY 27 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/guangzhou152/4927181.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ],
+      "reviewSample": {
+        "author": "正牌一旧云",
+        "date": "2023-01-22",
+        "url": "https://you.ctrip.com/food/guangzhou152/4927181.html",
+        "summary": "认为鸡粥与简餐有性价比；这是单次历史消费。",
+        "summaryEn": "Liked the congee and simple-meal value; a historical individual visit.",
+        "historical": true
+      }
+    },
+    {
+      "id": "food-gd-004",
+      "city": "广州",
+      "name": "达扬原味炖品（文明路店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/152/446573.html",
+      "price": "平台参考 CNY 25 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/152/446573.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-005",
+      "city": "广州",
+      "name": "开记甜品（多宝路店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/152/5325129.html",
+      "price": "平台参考 CNY 19 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/152/5325129.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-006",
+      "city": "广州",
+      "name": "南园酒家（前进路店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/152/444378.html",
+      "price": "平台参考 CNY 98 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/152/444378.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        },
+        {
+          "platform": "经营方",
+          "url": "https://gz-goam.com/info/2529",
+          "title": "经营方介绍与2024年指南记录",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-007",
+      "city": "广州",
+      "name": "广州酒家（文昌总店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/Asia120001/444379.html",
+      "price": "平台参考 CNY 111 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/Asia120001/444379.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        },
+        {
+          "platform": "餐厅官方",
+          "url": "https://www.gzr.com.cn/product/guangzhoujiujia/50.html",
+          "title": "官方总店资料",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-008",
+      "city": "深圳",
+      "name": "凤凰楼酒家（华强北店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/26/223310.html",
+      "price": "平台参考 CNY 132 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/26/223310.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        },
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1aZ6bBqEgh",
+          "title": "兔小西丶 · 2026-02-01 · 简介自述当餐人均约145元，未完整观看",
+          "author": "兔小西丶",
+          "date": "2026-02-01",
+          "evidenceType": "video-description",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-009",
+      "city": "深圳",
+      "name": "蘩楼（华强北店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/929/22640751.html",
+      "price": "平台参考 CNY 95 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/929/22640751.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-010",
+      "city": "深圳",
+      "name": "大家乐（深圳华强北店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/26/202676.html",
+      "price": "平台参考 CNY 37 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/26/202676.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-011",
+      "city": "深圳",
+      "name": "台山佬黄鳝饭（水围店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/26/20379405.html",
+      "price": "平台参考 CNY 91 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/26/20379405.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-012",
+      "city": "佛山",
+      "name": "民信老铺（华盖路店）",
+      "url": "https://www.dianping.com/shop/575232/photos/album",
+      "price": "平台参考 CNY 26 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "大众点评",
+          "url": "https://www.dianping.com/shop/575232/photos/album",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        },
+        {
+          "platform": "去哪儿",
+          "url": "https://touch.go.qunar.com/poi/3185169",
+          "title": "另一平台参考人均30元，与点评26元不同",
+          "checked": "2026-10-17"
+        },
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1qs411j7WB",
+          "title": "西DorSi · 2018-06-20 · 双皮奶探店简介，未完整观看",
+          "author": "西DorSi",
+          "date": "2018-06-20",
+          "evidenceType": "video-description",
+          "checked": "2026-10-17"
+        }
+      ],
+      "reviewSample": {
+        "author": "La_Mia",
+        "date": "2015-04-29",
+        "url": "https://www.dianping.com/shop/575232/photos/album",
+        "summary": "介绍双皮奶与姜撞奶；年代久远，只作历史口味线索。",
+        "summaryEn": "Described milk desserts; this old sample is historical context only.",
+        "historical": true
+      }
+    },
+    {
+      "id": "food-gd-013",
+      "city": "佛山",
+      "name": "仁信老铺（华盖路店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/207/5490128.html",
+      "price": "平台参考 CNY 23 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/207/5490128.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        },
+        {
+          "platform": "B站",
+          "url": "https://www.bilibili.com/video/BV1qs411j7WB",
+          "title": "西DorSi · 2018-06-20 · 双皮奶探店简介，未完整观看",
+          "author": "西DorSi",
+          "date": "2018-06-20",
+          "evidenceType": "video-description",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-014",
+      "city": "佛山",
+      "name": "黄但记·陈村粉食府",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/207/283375.html",
+      "price": "平台参考 CNY 67 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/207/283375.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-015",
+      "city": "佛山",
+      "name": "黄均记陈村粉店",
+      "url": "https://you.ctrip.com/food/207/5490804.html",
+      "price": "平台参考 CNY 18 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/food/207/5490804.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-016",
+      "city": "珠海",
+      "name": "横琴人家蚝餐馆",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/233/236415.html",
+      "price": "平台参考 CNY 102 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/233/236415.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-017",
+      "city": "珠海",
+      "name": "豪蚝记（富华里店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/27/78615236.html",
+      "price": "平台参考 CNY 83 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/27/78615236.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-018",
+      "city": "珠海",
+      "name": "蚝大仙（创新方店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/27/122953730.html",
+      "price": "平台参考 CNY 92 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/27/122953730.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-019",
+      "city": "汕头",
+      "name": "杏花吴记牛肉火锅",
+      "url": "https://gs.ctrip.com/html5/you/foods/Shantou215/16183236.html",
+      "price": "平台参考 CNY 106 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/Shantou215/16183236.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        },
+        {
+          "platform": "去哪儿",
+          "url": "https://touch.travel.qunar.com/poi/15020240",
+          "title": "同店另一平台参考人均111元",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-020",
+      "city": "汕头",
+      "name": "飘香小食店（国平路店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/215/5520208.html.html",
+      "price": "平台参考 CNY 39 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/215/5520208.html.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-021",
+      "city": "潮州",
+      "name": "官塘兄弟牛肉店（官塘总店）",
+      "url": "https://touch.go.qunar.com/poi/3355687",
+      "price": "现行参考人均待核实",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "去哪儿",
+          "url": "https://touch.go.qunar.com/poi/3355687",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-022",
+      "city": "潮州",
+      "name": "胡荣泉",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/467/115663.html",
+      "price": "平台参考 CNY 19 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/467/115663.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        },
+        {
+          "platform": "去哪儿",
+          "url": "https://touch.go.qunar.com/poi/3355716",
+          "title": "含2018–2019年好评与价格争议，不代表当前状态",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-023",
+      "city": "潮州",
+      "name": "阿彬牛肉火锅（广济桥店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/33/16239065.html",
+      "price": "平台参考 CNY 80 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/33/16239065.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ],
+      "reviewSample": {
+        "author": "又傻又笨",
+        "date": "2025-01-19",
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/33/16239065.html",
+        "summary": "觉得位置方便、套餐合适；另有样本对单点价格不满。",
+        "summaryEn": "Found the location and set meal convenient; other samples criticize a-la-carte value.",
+        "historical": true
+      }
+    },
+    {
+      "id": "food-gd-024",
+      "city": "东莞",
+      "name": "永兴烧鹅（向东路店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/212/5512668.html",
+      "price": "平台参考 CNY 69 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/212/5512668.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-025",
+      "city": "东莞",
+      "name": "石龙肥诚烧鹅餐厅（石龙总店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/152/5504475.html",
+      "price": "平台参考 CNY 53 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/152/5504475.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-026",
+      "city": "中山",
+      "name": "石岐佬中山菜馆（张溪店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/Zhongshan233/121736.html",
+      "price": "平台参考 CNY 94 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/Zhongshan233/121736.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        },
+        {
+          "platform": "去哪儿",
+          "url": "https://touch.go.qunar.com/poi/11509635",
+          "title": "另一平台人均102元，与携程94元不同",
+          "checked": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-027",
+      "city": "江门",
+      "name": "兴华黄鳝饭·黄鳝婆（彭沙坑总店）",
+      "url": "https://you.ctrip.com/food/taishan673/122689-dianping95150964.html",
+      "price": "平台参考 CNY 81 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "大众点评",
+          "url": "https://you.ctrip.com/food/taishan673/122689-dianping95150964.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-028",
+      "city": "江门",
+      "name": "鸿兴黄鳝饭",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/623/8023688.html",
+      "price": "平台参考 CNY 57 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/623/8023688.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-029",
+      "city": "惠州",
+      "name": "伙伙夹（水东街店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/213/130056162.html",
+      "price": "平台参考 CNY 27 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/213/130056162.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-030",
+      "city": "韶关",
+      "name": "南雄珠玑鹅王酒家",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2921/7918631.html",
+      "price": "平台参考 CNY 55 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2921/7918631.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-031",
+      "city": "梅州",
+      "name": "金苑酒家（江北店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/0/110305.html",
+      "price": "平台参考 CNY 59 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/0/110305.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-032",
+      "city": "清远",
+      "name": "洲心大粥肠粉店（天湖郦都店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/517/21465277.html",
+      "price": "平台参考 CNY 17 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/517/21465277.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-033",
+      "city": "湛江",
+      "name": "越百海海鲜蒸锅（海湾店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/Zhanjiang202/16175946.html",
+      "price": "平台参考 CNY 95 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/Zhanjiang202/16175946.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-034",
+      "city": "揭阳",
+      "name": "阿喜面店（步行街店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2099553/244786.html",
+      "price": "平台参考 CNY 22 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2099553/244786.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-035",
+      "city": "云浮",
+      "name": "翠园酒楼（六祖故里旅游度假区店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2919/8306315.html",
+      "price": "平台参考 CNY 52 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2919/8306315.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-036",
+      "city": "茂名",
+      "name": "正宗化州香油鸡饭店（油城五路店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/615/15154143.html",
+      "price": "平台参考 CNY 65 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/615/15154143.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ],
+      "reviewSample": {
+        "author": "克罗特斯克刘邦",
+        "date": "2020-11-27",
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/615/15154143.html",
+        "summary": "对服务、售罄情况与价格不满意；样本较旧，列待复核。",
+        "summaryEn": "Criticized service, sold-out items and price. This old sample needs rechecking.",
+        "historical": true
+      }
+    },
+    {
+      "id": "food-gd-037",
+      "city": "汕尾",
+      "name": "二马路杯杯鲜（二马路店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/624/17863927.html",
+      "price": "平台参考 CNY 12 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/624/17863927.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-038",
+      "city": "阳江",
+      "name": "十八子饭店（裕东六路店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/yangjiang363/6955502.html",
+      "price": "平台参考 CNY 59 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/yangjiang363/6955502.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-039",
+      "city": "河源",
+      "name": "东江客天下（东源星厨店）",
+      "url": "https://you.ctrip.com/yougourmet/restaurantlist/dongyuan2929.html",
+      "price": "平台参考 CNY 62 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restaurantlist/dongyuan2929.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ]
+    },
+    {
+      "id": "food-gd-040",
+      "city": "肇庆",
+      "name": "金钻鸿福酒家（端州三路店）",
+      "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/269/7851378.html",
+      "price": "平台参考 CNY 49 / 人",
+      "checked": "2026-10-17",
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/269/7851378.html",
+          "checked": "2026-10-17",
+          "title": "门店、菜品与价格线索"
+        }
+      ],
+      "reviewSample": {
+        "author": "陌染MM",
+        "date": "2025-10-10",
+        "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/269/7851378.html",
+        "summary": "认为点心选择多，同时提到上菜节奏不稳定、部分菜品口感一般。",
+        "summaryEn": "Noted a broad dim-sum choice, uneven serving pace and mixed dish quality.",
+        "historical": true
+      }
+    }
+  ]
+}

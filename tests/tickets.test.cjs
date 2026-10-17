@@ -1,7 +1,7 @@
 const {test}=require('node:test');
 const assert=require('node:assert/strict');
 const data=require('../data.json');
-const {quote}=require('../ticket-core.js');
+const {quote,planTicket}=require('../ticket-core.js');
 const get=id=>data.destinations.find(d=>d.id===id);
 const day='2026-10-17';
 test('admission audit preserves explicit unknowns and traceable confirmed scopes',()=>{
@@ -15,7 +15,7 @@ test('admission audit preserves explicit unknowns and traceable confirmed scopes
    assert.equal(new URL(d.ticket.sourceUrl).protocol,'https:');
   }else{assert.equal(d.ticket.status,'unverified');assert.equal(d.ticket.amount,undefined);assert(!quote(d,day).verified)}
  }
- const audit=require('../research/ticket-audit-2026-10-16.json');
+ const audit=require('../research/ticket-audit-2026-10-17.json');
  assert.equal(audit.entries.length,data.destinations.length);
  for(const d of data.destinations)assert.deepEqual(audit.entries.find(a=>a.id===d.id),{id:d.id,name:d.name,region:d.region,...d.ticket});
 });
@@ -41,4 +41,22 @@ test('separate parks and mixed free/paid venues retain their ranges and labels',
  const t=get('gd-dir-1').ticket;
  assert(!quote({ticket:{...t,options:[]}},day).verified);
  assert(!quote({ticket:{...t,options:[{label:'test',amount:10}]}},day).verified);
+});
+test('itineraries prefill confirmed prices and zero, while unknowns stay blank',()=>{
+ assert.equal(planTicket(get('gd002'),{},day).ticketPrice,5);
+ assert.equal(planTicket(get('gd013'),{},day).ticketPrice,0);
+ assert.equal(planTicket(get('gd-dir-388'),{},day).ticketPrice,null);
+ assert.equal(planTicket(get('gd006'),{ticketOrigin:'auto',ticketPrice:100},'2027-01-01').ticketPrice,null);
+});
+test('manual budgets survive migration, reload and official-price updates',()=>{
+ assert.equal(planTicket(get('gd002'),{ticketPrice:3},day).ticketPrice,3);
+ assert.equal(planTicket(get('gd002'),{ticketOrigin:'manual',ticketPrice:0},day).ticketPrice,0);
+ assert.equal(planTicket(get('gd002'),{ticketOrigin:'manual',ticketPrice:null},day).ticketPrice,null);
+ assert.equal(planTicket(get('gd002'),{ticketOrigin:'auto',ticketPrice:3},day).ticketPrice,5);
+});
+test('separate park tariffs require a valid choice instead of automatically choosing cheapest entry',()=>{
+ assert.equal(planTicket(get('gd-dir-1'),{},day).ticketPrice,null);
+ assert.equal(planTicket(get('gd-dir-1'),{ticketOption:0,ticketOrigin:'auto'},day).ticketPrice,100);
+ assert.equal(planTicket(get('gd-dir-1'),{ticketOption:99,ticketOrigin:'auto'},day).ticketPrice,null);
+ assert.equal(planTicket(get('gd-dir-471'),{ticketOption:0,ticketOrigin:'auto'},day).ticketPrice,0);
 });

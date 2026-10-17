@@ -51,3 +51,13 @@ Object.assign(STATIC_EN,{
 });
 
 Object.assign(STATIC_EN,{"景点只展示门票依据或待核实状态。消费统计按用户填写的门票、住宿、餐饮及交通逐项合计，共用费用只计算一次；空白费用不等于免费。来源原价保留原币种，用户预算可切换显示货币。":"Attractions show admission evidence or an unverified status. Trip costs total user-entered tickets, accommodation, meals and transport. Shared costs are counted once; blank does not mean free. Source prices retain their currency; budget display currency can be changed."});
+
+Object.assign(STATIC_EN,{"行程与消费":"Itinerary & costs","先选景点，再填住宿与日常费用。已确认的单一门票自动填写，随时可以修改。":"Choose attractions, then add accommodation and daily costs. Verified single-ticket prices fill automatically and remain editable.","01 · 景点门票":"01 · Attraction tickets","＋ 添加景点":"＋ Add attractions","票数默认跟随同行人数；儿童、优惠票或不同园区可单独调整。":"Ticket quantities follow your group size. Adjust concessions or separate park tickets individually.","02 · 住宿与日常":"02 · Accommodation & daily costs","房价按每间每晚，餐饮与公交按每人每天；共用费用只计算一次。":"Room rate is per room per night; meals and transit are per person per day. Shared expenses count once.","更多费用与住宿设置":"More costs & accommodation settings","不需要的费用默认 0，可按实际情况修改。旧版已填写的景区附加费已合并至其他费用。":"Optional costs default to 0 and remain editable. Previously entered site extras have moved to other costs.","空白表示待填写，不代表免费；已确认没有支出时可填 0。":"Blank means not entered, not free. Use 0 when you expect no expense.","其余空白费用按 0 填写":"Set remaining blank costs to 0"});
+
+Object.assign(STATIC_EN,{"未填写的公共费用按 0 计算":"Set blank shared expenses to 0","参考人均":"Reference spending / person","低于 CNY 50":"Below CNY 50","CNY 50–100":"CNY 50–100","高于 CNY 100":"Above CNY 100","待核实":"Not verified","查看更多门店":"Show more restaurants"});
+
+Object.assign(STATIC_EN,{"美食城市":"Food city","美食参考人均":"Food reference spending"});
+
+Object.assign(STATIC_EN,{"美食攻略":"Food guide","最后整理：2026 年 10 月 17 日。以下是当前版本的实际覆盖范围与资料规则。":"Last compiled: October 17, 2026. Coverage and research rules for the current version."});
+
+Object.assign(STATIC_EN,{"城市景点如何分配":"How city coverage is allocated"});
