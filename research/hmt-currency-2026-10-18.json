@@ -1,0 +1,25 @@
+{
+  "checked": "2026-10-18",
+  "MOP": {
+    "source": "澳门金融管理局",
+    "url": "https://www.amcm.gov.mo/pt/currency/currency-in-circulation-in-macao/currency-in-circulation-in-macao-childrens",
+    "peg": {
+      "HKD": 1,
+      "MOP": 1.03
+    },
+    "crossSource": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "crossDate": "2026-10-15",
+    "note": "Derived planning cross rate, not a live quote"
+  },
+  "TWD": {
+    "source": "台湾银行",
+    "url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
+    "businessDate": "2026-10-16",
+    "observedAt": "2026-10-18 09:25",
+    "unit": "TWD per CNY",
+    "spotBuy": 4.805,
+    "spotSell": 4.865,
+    "planningArithmeticMean": 4.835,
+    "note": "Site-calculated midpoint, not an official midpoint or executable quote"
+  }
+}

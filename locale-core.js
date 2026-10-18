@@ -2,7 +2,7 @@
  'use strict';
  const languages=[
   {code:'zh',locale:'zh-CN',name:'简体中文',currencies:['CNY','SGD']},
-  {code:'zh-Hant',locale:'zh-Hant',name:'繁體中文',currencies:['HKD']},
+  {code:'zh-Hant',locale:'zh-Hant',name:'繁體中文',currencies:['HKD','MOP','TWD']},
   {code:'en',locale:'en-US',name:'English',currencies:['USD','GBP','AUD','CAD','SGD']},
   {code:'ja',locale:'ja-JP',name:'日本語',currencies:['JPY']},
   {code:'ko',locale:'ko-KR',name:'한국어',currencies:['KRW']},
