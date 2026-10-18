@@ -52082,7 +52082,9 @@
         "high": 86,
         "historical": false
       },
-      "id": "food-legacy-007"
+      "id": "food-legacy-007",
+      "city": "上海",
+      "district": "青浦区"
     },
     {
       "id": "food-gd-001",
