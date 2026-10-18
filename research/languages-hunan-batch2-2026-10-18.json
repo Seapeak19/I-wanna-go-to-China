@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-18",
+  "scope": "Hunan batch 2",
+  "sourceCatalog": 305,
+  "phases": [
+    {
+      "date": "2026-10-18",
+      "scope": "Hunan batch 2",
+      "sourceCatalog": 276,
+      "coverage": {
+        "ja": {
+          "entries": 276,
+          "englishFallbacks": 31
+        },
+        "ko": {
+          "entries": 276,
+          "englishFallbacks": 4
+        },
+        "fr": {
+          "entries": 276,
+          "englishFallbacks": 16
+        },
+        "de": {
+          "entries": 276,
+          "englishFallbacks": 20
+        },
+        "es": {
+          "entries": 276,
+          "englishFallbacks": 50
+        },
+        "it": {
+          "entries": 276,
+          "englishFallbacks": 22
+        },
+        "pt": {
+          "entries": 276,
+          "englishFallbacks": 0
+        },
+        "nl": {
+          "entries": 276,
+          "englishFallbacks": 20
+        },
+        "ru": {
+          "entries": 276,
+          "englishFallbacks": 21
+        }
+      },
+      "method": "Local Argos Translate / CTranslate2; interface wording reviewed; traditional Chinese converted with OpenCC s2t",
+      "source": "https://www.argosopentech.com/",
+      "policy": "Machine translations are reading aids, not verified official translations. Unreliable token restoration falls back to the English source. Proper names retain existing English spellings with original Chinese names. Currency codes, addresses, URLs and monetary values are preserved.",
+      "models": {
+        "ja": {
+          "version": "1.1",
+          "url": "https://argos-net.com/v1/translate-en_ja-1_1.argosmodel"
+        },
+        "ko": {
+          "version": "1.1",
+          "url": "https://argos-net.com/v1/translate-en_ko-1_1.argosmodel"
+        },
+        "fr": {
+          "version": "1.9",
+          "url": "https://argos-net.com/v1/translate-en_fr-1_9.argosmodel"
+        },
+        "de": {
+          "version": "1.3",
+          "url": "https://argos-net.com/v1/translate-en_de-1_3.argosmodel"
+        },
+        "es": {
+          "version": "1.0",
+          "url": "https://argos-net.com/v1/translate-en_es-1_0.argosmodel"
+        },
+        "it": {
+          "version": "1.0",
+          "url": "https://argos-net.com/v1/translate-en_it-1_0.argosmodel"
+        },
+        "pt": {
+          "version": "1.9",
+          "url": "https://argos-net.com/v1/translate-en_pt-1_9.argosmodel"
+        },
+        "nl": {
+          "version": "1.8",
+          "url": "https://argos-net.com/v1/translate-en_nl-1_8.argosmodel"
+        },
+        "ru": {
+          "version": "1.9",
+          "url": "https://argos-net.com/v1/translate-en_ru-1_9.argosmodel"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "scope": "Hunan batch 2",
+      "sourceCatalog": 29,
+      "coverage": {
+        "ja": {
+          "entries": 29,
+          "englishFallbacks": 6
+        },
+        "ko": {
+          "entries": 29,
+          "englishFallbacks": 2
+        },
+        "fr": {
+          "entries": 29,
+          "englishFallbacks": 1
+        },
+        "de": {
+          "entries": 29,
+          "englishFallbacks": 0
+        },
+        "es": {
+          "entries": 29,
+          "englishFallbacks": 0
+        },
+        "it": {
+          "entries": 29,
+          "englishFallbacks": 1
+        },
+        "pt": {
+          "entries": 29,
+          "englishFallbacks": 0
+        },
+        "nl": {
+          "entries": 29,
+          "englishFallbacks": 0
+        },
+        "ru": {
+          "entries": 29,
+          "englishFallbacks": 0
+        }
+      },
+      "method": "Local Argos Translate / CTranslate2; interface wording reviewed; traditional Chinese converted with OpenCC s2t",
+      "source": "https://www.argosopentech.com/",
+      "policy": "Machine translations are reading aids, not verified official translations. Unreliable token restoration falls back to the English source. Proper names retain existing English spellings with original Chinese names. Currency codes, addresses, URLs and monetary values are preserved.",
+      "models": {
+        "ja": {
+          "version": "1.1",
+          "url": "https://argos-net.com/v1/translate-en_ja-1_1.argosmodel"
+        },
+        "ko": {
+          "version": "1.1",
+          "url": "https://argos-net.com/v1/translate-en_ko-1_1.argosmodel"
+        },
+        "fr": {
+          "version": "1.9",
+          "url": "https://argos-net.com/v1/translate-en_fr-1_9.argosmodel"
+        },
+        "de": {
+          "version": "1.3",
+          "url": "https://argos-net.com/v1/translate-en_de-1_3.argosmodel"
+        },
+        "es": {
+          "version": "1.0",
+          "url": "https://argos-net.com/v1/translate-en_es-1_0.argosmodel"
+        },
+        "it": {
+          "version": "1.0",
+          "url": "https://argos-net.com/v1/translate-en_it-1_0.argosmodel"
+        },
+        "pt": {
+          "version": "1.9",
+          "url": "https://argos-net.com/v1/translate-en_pt-1_9.argosmodel"
+        },
+        "nl": {
+          "version": "1.8",
+          "url": "https://argos-net.com/v1/translate-en_nl-1_8.argosmodel"
+        },
+        "ru": {
+          "version": "1.9",
+          "url": "https://argos-net.com/v1/translate-en_ru-1_9.argosmodel"
+        }
+      }
+    }
+  ],
+  "coverage": {
+    "ja": {
+      "entries": 305,
+      "englishFallbacks": 37
+    },
+    "ko": {
+      "entries": 305,
+      "englishFallbacks": 6
+    },
+    "fr": {
+      "entries": 305,
+      "englishFallbacks": 17
+    },
+    "de": {
+      "entries": 305,
+      "englishFallbacks": 20
+    },
+    "es": {
+      "entries": 305,
+      "englishFallbacks": 50
+    },
+    "it": {
+      "entries": 305,
+      "englishFallbacks": 23
+    },
+    "pt": {
+      "entries": 305,
+      "englishFallbacks": 0
+    },
+    "nl": {
+      "entries": 305,
+      "englishFallbacks": 20
+    },
+    "ru": {
+      "entries": 305,
+      "englishFallbacks": 21
+    }
+  },
+  "policy": "Machine translations are reading aids, not verified official translations. Unreliable token restoration falls back to the English source. Proper names retain existing English spellings with original Chinese names. Currency codes, addresses, URLs and monetary values are preserved."
+}
