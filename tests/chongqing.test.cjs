@@ -4,7 +4,7 @@ const sights=data.destinations.filter(d=>d.region==='重庆'&&d.entryType==='att
 test('Chongqing municipality preserves old identifiers and distinguishes districts without counting a county as an attraction',()=>{
  assert.equal(C.options(data,'重庆').length,1);assert.equal(C.options(data,'重庆')[0].name,'重庆');assert.equal(C.stats(data,'重庆','重庆').count,23);assert.equal(new Set(sights.map(d=>d.canonicalPlaceId)).size,23);
  assert(new Set(sights.map(d=>d.district)).size>=10);assert.equal(get('d210').name,'大足石刻');assert.equal(get('d211').name,'酉阳龚滩古镇');assert.equal(data.destinations.find(d=>d.id==='d212').entryType,'area');assert(!sights.some(d=>d.name==='丰都县'));
- assert.equal(data.latestRegion,'重庆');assert.equal(data.provinceUpdates['重庆'].count,sights.length);assert.equal(data.provinceUpdates['重庆'].added,21);assert.equal(data.provinceUpdates['重庆'].upgraded,2);
+ assert(data.provinceUpdates[data.latestRegion]);assert.equal(data.provinceUpdates['重庆'].count,sights.length);assert.equal(data.provinceUpdates['重庆'].added,21);assert.equal(data.provinceUpdates['重庆'].upgraded,2);
 });
 test('all Chongqing attraction photos are local real source images and bilingual guides retain limitations',()=>{
  for(const d of sights){assert(d.sources.length&&d.en.description&&d.guide.en.route&&d.guide.en.reservation);assert.equal(d.guide.complete,false);assert(fs.statSync(path.join(__dirname,'..',d.image.path)).size>2000);assert.equal(fs.readFileSync(path.join(__dirname,'..',d.image.path)).subarray(0,2).toString('hex'),'ffd8');if(d.id==='d210')assert.equal(d.image.license,'CC BY-SA 4.0');else{assert.equal(d.image.rightsStatus,'source-copyright');assert(d.sources.some(s=>s.url===d.image.url));assert(d.image.originalUrl.startsWith('https:'));}}

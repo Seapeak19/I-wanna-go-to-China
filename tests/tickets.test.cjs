@@ -15,7 +15,7 @@ test('admission audit preserves explicit unknowns and traceable confirmed scopes
    assert.equal(new URL(d.ticket.sourceUrl).protocol,'https:');
   }else{assert.equal(d.ticket.status,'unverified');assert.equal(d.ticket.amount,undefined);assert(!quote(d,day).verified)}
  }
- const audit=require('../research/ticket-audit-2026-10-17.json');
+ const audit=require('../research/ticket-audit-'+data.ticketAudit.checked+'.json');
  assert.equal(audit.entries.length,data.destinations.length);
  for(const d of data.destinations)assert.deepEqual(audit.entries.find(a=>a.id===d.id),{id:d.id,name:d.name,region:d.region,...d.ticket});
 });
