@@ -1,0 +1,2769 @@
+{
+  "checked": "2026-10-19",
+  "batch": 2,
+  "regions": [
+    "四川"
+  ],
+  "cities": [
+    {
+      "city": "成都",
+      "count": 27
+    },
+    {
+      "city": "自贡",
+      "count": 11
+    },
+    {
+      "city": "攀枝花",
+      "count": 10
+    },
+    {
+      "city": "泸州",
+      "count": 12
+    },
+    {
+      "city": "德阳",
+      "count": 11
+    },
+    {
+      "city": "绵阳",
+      "count": 14
+    },
+    {
+      "city": "广元",
+      "count": 11
+    },
+    {
+      "city": "乐山",
+      "count": 12
+    },
+    {
+      "city": "南充",
+      "count": 10
+    },
+    {
+      "city": "眉山",
+      "count": 10
+    },
+    {
+      "city": "宜宾",
+      "count": 10
+    },
+    {
+      "city": "雅安",
+      "count": 13
+    },
+    {
+      "city": "遂宁",
+      "count": 9
+    },
+    {
+      "city": "内江",
+      "count": 11
+    },
+    {
+      "city": "广安",
+      "count": 9
+    },
+    {
+      "city": "达州",
+      "count": 9
+    },
+    {
+      "city": "巴中",
+      "count": 11
+    },
+    {
+      "city": "资阳",
+      "count": 11
+    },
+    {
+      "city": "阿坝藏族羌族自治州",
+      "count": 17
+    },
+    {
+      "city": "甘孜藏族自治州",
+      "count": 16
+    },
+    {
+      "city": "凉山彝族自治州",
+      "count": 13
+    }
+  ],
+  "attractions": [
+    {
+      "id": "sc-chengdu-sight-22176",
+      "name": "黄龙溪古镇",
+      "city": "成都",
+      "location": "双流区 · 四川省成都市双流区黄龙溪镇黄龙大道",
+      "description": "黄龙溪的滨水街巷与川西民居作为一处古镇参观，寺院、码头及三县衙门不重复拆计；不与邻近欢乐田园混同。沿开放街巷和参观线慢行，院落、宗教活动、展馆及商业演艺分别征询；不进入居民私宅或修缮区。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/chengdu104/22176.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-chengdu-sight-22176.jpg",
+        "url": "https://you.ctrip.com/sight/chengdu104/22176.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0105012000h4y4z5i1E03.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/chengdu104/22176.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "黄龙溪古镇 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Huanglongxi Town · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-chengdu-sight-1829928",
+      "name": "成都蜀锦织绣博物馆",
+      "city": "成都",
+      "location": "青羊区 · 四川省成都市青羊区草堂东路18号",
+      "description": "草堂东路的蜀锦、蜀绣展陈与织造空间合为一次参观；演示、体验课程和商品购买分别确认，不保证随到随有演示。按当期展陈选择重点，核对闭馆日、预约、末次入场与特展收费；历史开放时间不当作当天承诺。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/104/1829928.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-chengdu-sight-1829928.jpg",
+        "url": "https://you.ctrip.com/sight/104/1829928.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0101u12000ifx4pgt7481.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/104/1829928.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "成都蜀锦织绣博物馆 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Chengdu Shu Brocade and Embroidery Museum · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-chengdu-sight-1475001",
+      "name": "光严禅院",
+      "city": "成都",
+      "location": "详见具体地址 · 三街路光严禅院内(东南角)",
+      "description": "崇州街子凤栖山的光严禅院，先核对上、下古寺实际开放区域与登山入口，不将宗教空间视为随意拍摄场地。沿开放街巷和参观线慢行，院落、宗教活动、展馆及商业演艺分别征询；不进入居民私宅或修缮区。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/104/1475001.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-chengdu-sight-1475001.jpg",
+        "url": "https://you.ctrip.com/sight/104/1475001.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0103h12000f6t6gm69530.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/104/1475001.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "光严禅院 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Guangyan Temple · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-luzhou-sight-1412931",
+      "name": "太平古镇",
+      "city": "泸州",
+      "location": "古蔺县 · 四川省泸州市古蔺县太平镇",
+      "description": "古蔺太平渡一带的山城老街与四渡赤水相关陈列合为古镇片区，阶梯坡道与渡口开放分别核对。沿开放街巷和参观线慢行，院落、宗教活动、展馆及商业演艺分别征询；不进入居民私宅或修缮区。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/gulin3166/1412931.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-luzhou-sight-1412931.jpg",
+        "url": "https://you.ctrip.com/sight/gulin3166/1412931.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0105p12000f6s7xocBA1B.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/gulin3166/1412931.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "太平古镇 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Taiping Ancient Town · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-luzhou-sight-69282750",
+      "name": "大黑洞风景区",
+      "city": "泸州",
+      "location": "古蔺县 · 四川省泸州市古蔺县箭竹苗族乡团结灯桂路大黑洞风景区",
+      "description": "古蔺箭竹的大黑洞以溶洞及苗乡片区为主；洞内台阶湿滑，漂流、秋千和演出按身高、天气及当期开放另选。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/gulin3166/69282750.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-luzhou-sight-69282750.jpg",
+        "url": "https://you.ctrip.com/sight/gulin3166/69282750.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0104x120008py3c8pE7DE.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/gulin3166/69282750.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "大黑洞风景区 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Daheidong Scenic Area · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-deyang-sight-61322",
+      "name": "龙居寺",
+      "city": "德阳",
+      "location": "广汉市 · 德阳市广汉市海口路龙居寺客运站北侧约150米",
+      "description": "本条为广汉龙居寺，重点是古建及中殿壁画；壁画是否开放、照明和拍摄规则须先向寺院确认，不与其他同名寺院混淆。沿开放街巷和参观线慢行，院落、宗教活动、展馆及商业演艺分别征询；不进入居民私宅或修缮区。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/guanghan1349/61322.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": null,
+      "imageStatus": "待补可核实实景",
+      "imageNote": "来源封面为临崖建筑，不能可靠对应广汉龙居寺中殿及其周边，暂不使用。",
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-mianyang-sight-75032",
+      "name": "郪江古镇",
+      "city": "绵阳",
+      "location": "三台县 · 四川省绵阳市三台县郪江镇安郪路与玉江街交叉口东150米",
+      "description": "三台郪江古镇的木构民居、街巷与日常场镇生活；周边汉墓和其他文物点不默认包含在古街开放内。沿开放街巷和参观线慢行，院落、宗教活动、展馆及商业演艺分别征询；不进入居民私宅或修缮区。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/915/75032.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-mianyang-sight-75032.jpg",
+        "url": "https://you.ctrip.com/sight/915/75032.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0103z120009dnkp2iD198.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/915/75032.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "郪江古镇 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Qijiang Ancient Town · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-mianyang-sight-145002",
+      "name": "青林口古镇",
+      "city": "绵阳",
+      "location": "江油市 · 四川省绵阳市江油市二郎庙镇青林口",
+      "description": "江油二郎庙镇青林口的石板老街与会馆建筑，按开放区域慢行；豆腐小吃另列餐费，不承诺商铺和演出每日开放。沿开放街巷和参观线慢行，院落、宗教活动、展馆及商业演艺分别征询；不进入居民私宅或修缮区。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/915/145002.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-mianyang-sight-145002.jpg",
+        "url": "https://you.ctrip.com/sight/915/145002.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0100912000f6q4wl4D416.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/915/145002.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "青林口古镇 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Qinglinkou Ancient Town · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-guangyuan-sight-99868154",
+      "name": "米仓山大峡谷旅游景区",
+      "city": "广元",
+      "location": "旺苍县 · 四川省广元市旺苍县盐河镇",
+      "description": "旺苍盐河的米仓山大峡谷，不是巴中光雾山关联的米仓山森林景区；沿开放峡谷线看溪流与岩壁，入山道路需另核。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/wangcang1446225/99868154.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        },
+        {
+          "url": "https://scgw.gov.cn/PubDetail.aspx?id=20231113150422-42120-00-000",
+          "title": "旺苍县政府：文旅规划中的米仓山大峡谷，与巴中条目区分",
+          "type": "官方资料",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-guangyuan-sight-99868154.jpg",
+        "url": "https://you.ctrip.com/sight/wangcang1446225/99868154.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0106y1200085difp4BF97.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/wangcang1446225/99868154.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "米仓山大峡谷旅游景区 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Micang Mountain Grand Canyon Tourist Scenic Area · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-yaan-sight-63900",
+      "name": "望鱼古镇",
+      "city": "雅安",
+      "location": "雨城区 · 四川省雅安市雨城区望鱼镇雅赵路北100米",
+      "description": "雨城区望鱼老街的木构民居、茶马驿道与当期文化空间；官方报道中的书屋和手作活动不保证每天营业或免费。沿开放街巷和参观线慢行，院落、宗教活动、展馆及商业演艺分别征询；不进入居民私宅或修缮区。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/917/63900.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        },
+        {
+          "url": "https://www.yaan.gov.cn/mob/article.html?id=80976ef62acb5a58b2c522642599f951",
+          "title": "有地点说明的实景来源",
+          "type": "图片来源",
+          "checked": "2026-10-19"
+        },
+        {
+          "url": "https://www.yaan.gov.cn/mob/article.html?id=80976ef62acb5a58b2c522642599f951",
+          "title": "雅安市政府2026-03-25望鱼古镇保护与文化空间报道，不保证每日活动",
+          "type": "官方资料",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-yaan-sight-63900.jpg",
+        "url": "https://www.yaan.gov.cn/mob/article.html?id=80976ef62acb5a58b2c522642599f951",
+        "originalUrl": "https://res.yaan.gov.cn/UploadFiles/2026/03/25/73f1dbd2-862b-4b14-8c64-7fbb02f38497.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://www.yaan.gov.cn/mob/article.html?id=80976ef62acb5a58b2c522642599f951",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "望鱼古镇老街 · 雅安市政府2026-03-25报道配图，拍摄日期未注明",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Wangyu old street · photograph in the Ya’an government report dated 2026-03-25; capture date unstated",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-yaan-sight-63893",
+      "name": "东拉山大峡谷",
+      "city": "雅安",
+      "location": "宝兴县 · 雅安市宝兴县陇东镇",
+      "description": "宝兴陇东的东拉山峡谷与森林游线，彩林按季节、天气及道路条件安排，不把宣传中的景片默认全线开放。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/917/63893.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-yaan-sight-63893.jpg",
+        "url": "https://you.ctrip.com/sight/917/63893.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/100j1f000001gpt7f3F27.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/917/63893.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "东拉山大峡谷 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Dongla Canyon National Park · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-yaan-sight-2502791",
+      "name": "蜂桶寨邓池沟景区",
+      "city": "雅安",
+      "location": "宝兴县 · 四川省雅安市宝兴县蜂大路",
+      "description": "宝兴邓池沟以大熊猫科学发现史、教堂及村落文化为线索，保护区不等于公众可进入的游览范围，不保证现场见到熊猫。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/baoxing3095/2502791.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        },
+        {
+          "url": "https://www.yaan.gov.cn/zhangzhe/show/a7c30ccb-8996-4450-ae54-7afed3b8fe89.html",
+          "title": "雅安市政府：邓池沟村及科学发现史线索",
+          "type": "官方资料",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-yaan-sight-2502791.jpg",
+        "url": "https://you.ctrip.com/sight/baoxing3095/2502791.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/100f0z000000nf4ay646D.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/baoxing3095/2502791.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "蜂桶寨邓池沟景区 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Fengtongzhai Dengchi Valley Scenic Area · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-bazhong-sight-130369246",
+      "name": "空山天盆旅游景区",
+      "city": "巴中",
+      "location": "通江县 · 巴中市通江县空山镇将军路",
+      "description": "通江空山的高山盆地、森林与红色历史线索，山地道路、住宿及实际开放步道分别确认，不把林区视作任意露营区。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/tongjiang3167/130369246.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-bazhong-sight-130369246.jpg",
+        "url": "https://you.ctrip.com/sight/tongjiang3167/130369246.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0106y12000b4ihyifCBEA.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/tongjiang3167/130369246.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "空山天盆旅游景区 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Kongshan Tianpen Tourist Scenic Area · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-bazhong-sight-1713605",
+      "name": "佛头山旅游景区",
+      "city": "巴中",
+      "location": "平昌县 · 巴中市平昌县通平路(佛光广场南侧约250米)",
+      "description": "平昌佛头山的山地公园及刘伯坚相关纪念空间作为同一区域参观，纪念馆与山地步道分别核对开放。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/703/1713605.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-bazhong-sight-1713605.jpg",
+        "url": "https://you.ctrip.com/sight/703/1713605.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0104z12000f6qy3nh2919.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/703/1713605.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "佛头山旅游景区 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Fotou Mountain · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-ziyang-sight-128162",
+      "name": "报国寺",
+      "city": "资阳",
+      "location": "乐至县 · 四川省资阳市乐至县遂乐路龙门镇人民政府东16公里",
+      "description": "本条是乐至龙门一带的报国寺，不是峨眉山报国寺；台阶、宗教活动及可参观院落分别确认。沿开放街巷和参观线慢行，院落、宗教活动、展馆及商业演艺分别征询；不进入居民私宅或修缮区。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/lezhi3143/128162.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-ziyang-sight-128162.jpg",
+        "url": "https://you.ctrip.com/sight/lezhi3143/128162.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/01A041200094wbjiy5BDB.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/lezhi3143/128162.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "报国寺 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Baoguo Temple · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-ziyang-sight-136546177",
+      "name": "宝森柠檬旅游区",
+      "city": "资阳",
+      "location": "详见具体地址 · 燕桥村",
+      "description": "安岳文化镇燕桥村的柠檬农业主题旅游区，农业景观、亲子游乐和夜间活动分别查询，灯会历史照片不代表每日演出。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/anyue3092/136546177.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-ziyang-sight-136546177.jpg",
+        "url": "https://you.ctrip.com/sight/anyue3092/136546177.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0101812000f6s59r9825B.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/anyue3092/136546177.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "宝森柠檬旅游区 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Baosen Lemon Town · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-abaprefecture-sight-14872",
+      "name": "牟尼沟风景区",
+      "city": "阿坝藏族羌族自治州",
+      "location": "详见具体地址 · 四川省阿坝藏族羌族自治州松潘县",
+      "description": "松潘牟尼沟以扎嘎沟与二道海两个片区统览，瀑布和海子不另拆计；片区间交通与实际开园范围分别确认。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/songpan606/14872.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-abaprefecture-sight-14872.jpg",
+        "url": "https://you.ctrip.com/sight/songpan606/14872.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/100a1h000001huogeACAB.png",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/songpan606/14872.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "牟尼沟风景区 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Mounigou Scenic Area · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-abaprefecture-sight-77698",
+      "name": "叠溪松坪沟景区",
+      "city": "阿坝藏族羌族自治州",
+      "location": "详见具体地址 · 阿坝藏族羌族自治州茂县叠溪镇境内",
+      "description": "茂县叠溪松坪沟的海子与森林步道，游船、观光车和其他体验按具体产品另核，雨雪或地质风险管制时调整路线。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/maocounty3164/77698.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-abaprefecture-sight-77698.jpg",
+        "url": "https://you.ctrip.com/sight/maocounty3164/77698.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0105j12000a05nuhx0D25.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/maocounty3164/77698.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "叠溪松坪沟景区 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Songping Valley Scenic Area · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-abaprefecture-sight-134678",
+      "name": "奶子沟彩林谷",
+      "city": "阿坝藏族羌族自治州",
+      "location": "详见具体地址 · 阿坝藏族羌族自治州黑水县到州府马尔康县的大道旁",
+      "description": "黑水奶子沟按开放停车点及村道欣赏秋季彩林，沿途不同林段不拆计；不将道路边坡当步道，叶色不作到访保证。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/744/134678.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        },
+        {
+          "url": "https://www.heishui.gov.cn/hsxrmzf/c100133/201508/90fc944a05c547dc996439f51e3357fc.shtml",
+          "title": "黑水县政府：奶子沟概况，历史资料不保证当日叶色",
+          "type": "官方资料",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-abaprefecture-sight-134678.jpg",
+        "url": "https://you.ctrip.com/sight/744/134678.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/100v0y000000m3yyy49EF.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/744/134678.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "奶子沟彩林谷 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Naizigou's Colourful Forest Park · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-ganziprefecture-sight-76567",
+      "name": "伍须海",
+      "city": "甘孜藏族自治州",
+      "location": "甘孜藏族自治州九龙县 · 四川省甘孜藏族自治州九龙县汤古镇五须村境内",
+      "description": "九龙县伍须海的湖泊、草甸和森林游线合为一个目的地，环湖路段、观光车及当期封闭区分别核对。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/jiulong1446247/76567.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        },
+        {
+          "url": "https://www.scjl.gov.cn/lyjd/article/520738",
+          "title": "九龙县政府：伍须海位置与湖泊景观",
+          "type": "官方资料",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-ganziprefecture-sight-76567.jpg",
+        "url": "https://you.ctrip.com/sight/jiulong1446247/76567.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0103v12000jawlqb74418.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/jiulong1446247/76567.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "伍须海 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Wuxuhai Scenic Area · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-ganziprefecture-sight-22763",
+      "name": "玉龙拉措景区",
+      "city": "甘孜藏族自治州",
+      "location": "甘孜藏族自治州德格县 · 四川省甘孜藏族自治州德格县玉隆拉措风景区(317国道南)",
+      "description": "德格马尼干戈一带玉龙拉措亦称新路海，不是云南玉龙雪山；湖岸步道与保护边界按现场规定，不默认可绕湖或驾车贴近湖边。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/dege3140/22763.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        },
+        {
+          "url": "https://www.dege.gov.cn/lydt/article/701054",
+          "title": "德格文旅2026-03-01：玉龙拉措票务及服务检查，不据此推断普通票价",
+          "type": "官方资料",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-ganziprefecture-sight-22763.jpg",
+        "url": "https://you.ctrip.com/sight/dege3140/22763.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0100e12000rrv3no00F8A.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/dege3140/22763.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "玉龙拉措景区 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Yulong Lacuo Scenic Area · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-ganziprefecture-sight-128091",
+      "name": "中路藏寨",
+      "city": "甘孜藏族自治州",
+      "location": "甘孜藏族自治州丹巴县 · 四川省甘孜藏族自治州丹巴县聂呷乡中路藏寨风景区",
+      "description": "丹巴中路的嘉绒藏寨、碉楼与坡地村落整体游览，不与甲居或梭坡条目混同；私人住宅、田地及高处观景点须征得允许。沿开放街巷和参观线慢行，院落、宗教活动、展馆及商业演艺分别征询；不进入居民私宅或修缮区。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/danba704/128091.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-ganziprefecture-sight-128091.jpg",
+        "url": "https://you.ctrip.com/sight/danba704/128091.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0100b12000nt6scpbDA92.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/danba704/128091.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "中路藏寨 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Zhonglu Tibetan Village · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-liangshan-sight-1416247",
+      "name": "木里大寺",
+      "city": "凉山彝族自治州",
+      "location": "详见具体地址 · 四川省凉山彝族自治州木里藏族自治县042县道",
+      "description": "木里大寺的藏传佛教建筑与宗教文化，位于木里县境，不按西昌城区短途规划；殿堂、法事和拍摄规则分别询问。沿开放街巷和参观线慢行，院落、宗教活动、展馆及商业演艺分别征询；不进入居民私宅或修缮区。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/muli3100/1416247.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-liangshan-sight-1416247.jpg",
+        "url": "https://you.ctrip.com/sight/muli3100/1416247.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqxg05BC8.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/muli3100/1416247.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "木里大寺 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Muli Grand Temple · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-liangshan-sight-49881",
+      "name": "黄联土林",
+      "city": "凉山彝族自治州",
+      "location": "凉山彝族自治州西昌市 · 四川省凉山彝族自治州西昌市黄联关镇京昆高速公路土林景区",
+      "description": "西昌黄联的土林地貌按开放通道看崖壁纹理，松软边坡不攀爬；炎热、雨后与道路施工时重新判断可行性。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/912/49881.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-liangshan-sight-49881.jpg",
+        "url": "https://you.ctrip.com/sight/912/49881.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqx8c9548.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/912/49881.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "黄联土林 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Huanglian Soil Forest · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-liangshan-sight-1418756",
+      "name": "安哈彝寨仙人洞",
+      "city": "凉山彝族自治州",
+      "location": "西昌市 · 西昌市安哈镇内",
+      "description": "西昌安哈彝寨与仙人洞按同一目的地整理，村寨文化、溶洞灯光和体验活动分别确认，不将每座洞厅另计。先选开放短线，核对天气、坡度及往返交通；观光车、索道、游船与体验项目分开核价。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/912/1418756.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-liangshan-sight-1418756.jpg",
+        "url": "https://you.ctrip.com/sight/912/1418756.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0EQ4112000ezmxm1i784B.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/912/1418756.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "安哈彝寨仙人洞 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Anha Yi Village Fairy Cave Scenic Area · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-neijiang-sight-145228053",
+      "name": "东林寺摩崖造像",
+      "city": "内江",
+      "location": "市中区 · 四川省内江市市中区城东街道小东街114号",
+      "description": "资中东林寺摩崖造像以可开放石刻为重点，未核实连续无障碍路线；不触摸造像，也不默认可使用闪光灯。按当期展陈选择重点，核对闭馆日、预约、末次入场与特展收费；历史开放时间不当作当天承诺。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/neijiang823/145228053.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-neijiang-sight-145228053.jpg",
+        "url": "https://you.ctrip.com/sight/neijiang823/145228053.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0102e12000f3lk6fb4139.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/neijiang823/145228053.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "东林寺摩崖造像 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Donglin Temple Cliff Sculptures · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    },
+    {
+      "id": "sc-neijiang-sight-4799927",
+      "name": "翔龙山摩崖石刻",
+      "city": "内江",
+      "location": "市中区 · 四川省内江市市中区翔龙路3号",
+      "description": "内江翔龙山摩崖石刻按实际开放石刻与通道参观，不与东林寺造像混同；护栏外崖壁不作为拍照机位。按当期展陈选择重点，核对闭馆日、预约、末次入场与特展收费；历史开放时间不当作当天承诺。",
+      "sources": [
+        {
+          "url": "https://you.ctrip.com/sight/neijiang823/4799927.html",
+          "title": "携程：具体地点、照片及公开游客资料",
+          "type": "游客平台",
+          "checked": "2026-10-19"
+        }
+      ],
+      "image": {
+        "path": "assets/sc-neijiang-sight-4799927.jpg",
+        "url": "https://you.ctrip.com/sight/neijiang823/4799927.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0105k120009ddjgutAC04.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/neijiang823/4799927.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "翔龙山摩崖石刻 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Xianglongshan Cliffside Sculptures · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "ticket": {
+        "status": "unverified",
+        "checked": "2026-10-19",
+        "scope": "现行票务范围与执行价待核实",
+        "scopeEn": "Current admission scope and applied tariff unconfirmed",
+        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
+        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+      }
+    }
+  ],
+  "foods": [
+    {
+      "id": "food-sc-zigong-33656349",
+      "region": "四川",
+      "city": "自贡",
+      "district": "见分店地址",
+      "place": "自贡",
+      "name": "电子厂餐馆",
+      "address": "凉高山街27号华峰大门口沿街商铺",
+      "dishes": "爆炒腰花、火爆猪肝、鲫鱼、牛掌、韭香牛肉丝",
+      "localSpecialty": "盐帮菜、鲜锅兔、蘸水菜与本地鱼菜，先确认鲜椒辣度",
+      "price": "平台人均参考 CNY 80",
+      "priceCNY": {
+        "low": 80,
+        "high": 80
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：勤奋努力小夹子（2026-10-16）：作者喜欢璧山兔、腰花和猪肝，也提到位置隐蔽及提前联系；可读样本集中在2026-10-16，不作为持续品质证明。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 可读评价集中于少数日期，不当作持续口碑保证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/zigong575/33656349.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 80,
+        "context": "人 均： ¥ 80 (来自用户反馈) 菜 系： 川菜 电 话： +8618990085342 地 址： 凉高山街27号华峰大门口沿街商铺 营业时间： 即将营业 11:30-13:3"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.3,
+        "count": 9,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/zigong575/33656349.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/16661497/12/858021445.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "电子厂餐馆",
+        "address": "Zigong · Chinese navigation address: 凉高山街27号华峰大门口沿街商铺",
+        "dishes": "爆炒腰花、火爆猪肝、鲫鱼、牛掌、韭香牛肉丝",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 80",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: 勤奋努力小夹子 (2026-10-16): The author likes rabbit, kidney and liver dishes but notes a hidden location and advance contact. Readable samples cluster on 2026-10-16 and do not establish consistent quality. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Readable comments cluster on few dates and do not establish sustained quality."
+      },
+      "reviewSample": {
+        "author": "勤奋努力小夹子",
+        "date": "2026-10-16",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/16661497/12/858021445.html",
+        "summary": "作者喜欢璧山兔、腰花和猪肝，也提到位置隐蔽及提前联系；可读样本集中在2026-10-16，不作为持续品质证明",
+        "summaryEn": "The author likes rabbit, kidney and liver dishes but notes a hidden location and advance contact. Readable samples cluster on 2026-10-16 and do not establish consistent quality"
+      }
+    },
+    {
+      "id": "food-sc-zigong-63524009",
+      "region": "四川",
+      "city": "自贡",
+      "district": "见分店地址",
+      "place": "自贡",
+      "name": "厨神老街兔·淳朴人家店(盐帮菜风味名店)",
+      "address": "高新区紫荆城邦7栋-1-12-14号",
+      "dishes": "双椒仔兔、火爆腰花、小米排骨、鱼香茄饼、老街鲜锅兔",
+      "localSpecialty": "盐帮菜、鲜锅兔、蘸水菜与本地鱼菜，先确认鲜椒辣度",
+      "price": "平台人均参考 CNY 72",
+      "priceCNY": {
+        "low": 72,
+        "high": 72
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：YoYo_1D7X2P0S（2026-05-12）：作者认为环境干净但体验一般，并未表达强烈推荐；保留高评分与平淡文字之间的差异。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/zigong575/63524009.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 72,
+        "context": "人 均： ¥ 72 (来自用户反馈) 菜 系： 川菜 电 话： +8613340800511 地 址： 高新区紫荆城邦7栋-1-12-14号 营业时间： 营业中 10:00-21:"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "count": 8,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/zigong575/63524009.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/63524009/12/746727444.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "厨神老街兔·淳朴人家店(盐帮菜风味名店)",
+        "address": "Zigong · Chinese navigation address: 高新区紫荆城邦7栋-1-12-14号",
+        "dishes": "双椒仔兔、火爆腰花、小米排骨、鱼香茄饼、老街鲜锅兔",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 72",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: YoYo_1D7X2P0S (2026-05-12): The author finds the setting clean but the experience ordinary; the difference between a high score and restrained text is retained. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals."
+      },
+      "reviewSample": {
+        "author": "YoYo_1D7X2P0S",
+        "date": "2026-05-12",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/63524009/12/746727444.html",
+        "summary": "作者认为环境干净但体验一般，并未表达强烈推荐；保留高评分与平淡文字之间的差异",
+        "summaryEn": "The author finds the setting clean but the experience ordinary; the difference between a high score and restrained text is retained"
+      }
+    },
+    {
+      "id": "food-sc-zigong-16709390",
+      "region": "四川",
+      "city": "自贡",
+      "district": "见分店地址",
+      "place": "自贡",
+      "name": "长生面(红旗路总店)",
+      "address": "红旗路114号（中国邮政储蓄银行对面）",
+      "dishes": "长生面、牛肉干担面跟牛肉面、牛肉汤面、药膳鸡汤、杂酱面",
+      "localSpecialty": "盐帮菜、鲜锅兔、蘸水菜与本地鱼菜，先确认鲜椒辣度",
+      "price": "平台人均参考 CNY 14",
+      "priceCNY": {
+        "low": 14,
+        "high": 14
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：sonicx（2020-11-22）：2020年作者喜欢牛肉拌面与份量；这是历史样本，不能据此保证当前出品。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 可读样本均为2023年或更早，当前营业与品质需另核。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/zigong575/16709390.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 14,
+        "context": "人 均： ¥ 14 (来自用户反馈) 菜 系： 小吃 电 话： +8613990049091 地 址： 红旗路114号（中国邮政储蓄银行对面） 营业时间： 营业中 05:30-13"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "count": 11,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/zigong575/16709390.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/8065901/12/165135537.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "长生面(红旗路总店)",
+        "address": "Zigong · Chinese navigation address: 红旗路114号（中国邮政储蓄银行对面）",
+        "dishes": "长生面、牛肉干担面跟牛肉面、牛肉汤面、药膳鸡汤、杂酱面",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 14",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: sonicx (2020-11-22): The 2020 author likes the beef dry noodles and portion. This historical sample does not guarantee current food. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. All readable samples date to 2023 or earlier; recheck current operation and quality."
+      },
+      "reviewSample": {
+        "author": "sonicx",
+        "date": "2020-11-22",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/8065901/12/165135537.html",
+        "summary": "2020年作者喜欢牛肉拌面与份量；这是历史样本，不能据此保证当前出品",
+        "summaryEn": "The 2020 author likes the beef dry noodles and portion. This historical sample does not guarantee current food"
+      }
+    },
+    {
+      "id": "food-sc-luzhou-26461955",
+      "region": "四川",
+      "city": "泸州",
+      "district": "见分店地址",
+      "place": "泸州",
+      "name": "泸味2012·传统豆腐脑(慈善路店)",
+      "address": "慈善路114号",
+      "dishes": "鸡丝豆腐脑、传统豆腐、浑粑、五香糕、原味豆腐脑",
+      "localSpecialty": "泸州白糕、黄粑、猪儿粑、酸辣粉与地方宴席菜",
+      "price": "平台人均参考 CNY 12",
+      "priceCNY": {
+        "low": 12,
+        "high": 12
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：YoYo_9H5G4K5W（2025-12-07）：作者提到店面不大、桌距较挤，但收拾干净；评分与文字分别呈现。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/luzhou604/26461955.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 12,
+        "context": "人 均： ¥ 12 (来自用户反馈) 菜 系： 小吃 快餐简餐 电 话： +8613508038753 地 址： 慈善路114号 营业时间： 营业中 07:00-20:00 免责申"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.2,
+        "count": 7,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/luzhou604/26461955.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/13260584/12/750308882.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "CHUAN TONG DOU FU NAO",
+        "address": "Luzhou · Chinese navigation address: 慈善路114号",
+        "dishes": "鸡丝豆腐脑、传统豆腐、浑粑、五香糕、原味豆腐脑",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 12",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: YoYo_9H5G4K5W (2025-12-07): The author describes a small, tightly seated but tidy shop; score and wording are separate signals. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals."
+      },
+      "reviewSample": {
+        "author": "YoYo_9H5G4K5W",
+        "date": "2025-12-07",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/13260584/12/750308882.html",
+        "summary": "作者提到店面不大、桌距较挤，但收拾干净；评分与文字分别呈现",
+        "summaryEn": "The author describes a small, tightly seated but tidy shop; score and wording are separate signals"
+      }
+    },
+    {
+      "id": "food-sc-luzhou-133164689",
+      "region": "四川",
+      "city": "泸州",
+      "district": "见分店地址",
+      "place": "泸州",
+      "name": "无刺葱花鲫鱼(三星街总店)",
+      "address": "三星街16号1号楼3楼（曾三夜宵城侧面酒城串串上三楼）",
+      "dishes": "无刺葱花鲫鱼、干烧无刺鲫鱼、肥肠、酸菜炒腰豆、凉拌鲫鱼",
+      "localSpecialty": "泸州白糕、黄粑、猪儿粑、酸辣粉与地方宴席菜",
+      "price": "平台人均参考 CNY 60",
+      "priceCNY": {
+        "low": 60,
+        "high": 60
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：YoYo_7C5L8D7I（2026-04-07）：作者喜欢鱼肉与葱花酱汁，同时认为放凉后口感变差；店名“无刺”不代表完全没有鱼刺。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 确认鱼种、养殖来源、称重和加工费，不因店名“无刺”或宣传假定无鱼刺、野生来源。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/luzhou604/133164689.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 60,
+        "context": "人 均： ¥ 60 (来自用户反馈) 菜 系： 川菜 电 话： +8619960999789 地 址： 三星街16号1号楼3楼（曾三夜宵城侧面酒城串串上三楼） 营业时间： 营业中 "
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.2,
+        "count": 9,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/luzhou604/133164689.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/133164689/12/837602298.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "无刺葱花鲫鱼(三星街总店)",
+        "address": "Luzhou · Chinese navigation address: 三星街16号1号楼3楼（曾三夜宵城侧面酒城串串上三楼）",
+        "dishes": "无刺葱花鲫鱼、干烧无刺鲫鱼、肥肠、酸菜炒腰豆、凉拌鲫鱼",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 60",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: YoYo_7C5L8D7I (2026-04-07): The author likes the fish and scallion sauce but finds it worse when cold. The shop name does not establish that fish is completely boneless. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Confirm species, farmed sourcing, weight and preparation fees; branding does not establish boneless or wild-caught fish."
+      },
+      "reviewSample": {
+        "author": "YoYo_7C5L8D7I",
+        "date": "2026-04-07",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/133164689/12/837602298.html",
+        "summary": "作者喜欢鱼肉与葱花酱汁，同时认为放凉后口感变差；店名“无刺”不代表完全没有鱼刺",
+        "summaryEn": "The author likes the fish and scallion sauce but finds it worse when cold. The shop name does not establish that fish is completely boneless"
+      }
+    },
+    {
+      "id": "food-sc-leshan-11765307",
+      "region": "四川",
+      "city": "乐山",
+      "district": "见分店地址",
+      "place": "乐山",
+      "name": "谢老五跷脚牛肉·非遗传承店",
+      "address": "演武街3号1层",
+      "dishes": "爆炒脆肠、脊髓、蒸肥肠、鲜烧牛杂、跷脚牛肉",
+      "localSpecialty": "跷脚牛肉、钵钵鸡、豆腐脑、甜皮鸭与本地小吃",
+      "price": "平台人均参考 CNY 36",
+      "priceCNY": {
+        "low": 36,
+        "high": 36
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：乐山天韵城（2021-07-31）：2021年同一作者认为在乐山跷脚牛肉店中表现一般，其他日期又有好评；不把重复作者当成独立食客。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 可读样本均为2023年或更早，当前营业与品质需另核。 部分评价作者重复，不当作多个独立食客。 店名中的非遗、传承、老字号或正宗属于原站名称，本站未据此认证资质。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/leshan103/11765307.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 36,
+        "context": "人 均： ¥ 36 (来自用户反馈) 菜 系： 川菜 小吃 电 话： +8615196400983 +868336217370 地 址： 演武街3号1层 营业时间： 营业中 10:"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.6,
+        "count": 50,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/leshan103/11765307.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/5614248/12/167331888.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "Xie Laowu Qiaojiao Beef (Intangible Heritage)",
+        "address": "Leshan · Chinese navigation address: 演武街3号1层",
+        "dishes": "爆炒脆肠、脊髓、蒸肥肠、鲜烧牛杂、跷脚牛肉",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 36",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: 乐山天韵城 (2021-07-31): In 2021 the author finds the food ordinary among Leshan beef-soup shops, despite praise on other dates. Repeated authors are not independent diners. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. All readable samples date to 2023 or earlier; recheck current operation and quality. Some authors repeat and do not establish independent diners. Heritage, longstanding or authentic wording is part of the listed name, not a credential certified by this site."
+      },
+      "reviewSample": {
+        "author": "乐山天韵城",
+        "date": "2021-07-31",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/5614248/12/167331888.html",
+        "summary": "2021年同一作者认为在乐山跷脚牛肉店中表现一般，其他日期又有好评；不把重复作者当成独立食客",
+        "summaryEn": "In 2021 the author finds the food ordinary among Leshan beef-soup shops, despite praise on other dates. Repeated authors are not independent diners"
+      }
+    },
+    {
+      "id": "food-sc-leshan-11764593",
+      "region": "四川",
+      "city": "乐山",
+      "district": "见分店地址",
+      "place": "乐山",
+      "name": "游记肥肠市井川菜·第五代非物质文化遗产传承店",
+      "address": "海棠街道箱箱街161号(建川药品对面)",
+      "dishes": "游记元帅肥肠汤、粉蒸肥肠、甜皮鸭、毛血旺、酥肉豆腐脑",
+      "localSpecialty": "跷脚牛肉、钵钵鸡、豆腐脑、甜皮鸭与本地小吃",
+      "price": "平台人均参考 CNY 49",
+      "priceCNY": {
+        "low": 49,
+        "high": 49
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：毛毛bear（2021-08-22）：2021年作者喜欢肥肠和配菜，认为辣度较高、上菜较快；仅作历史体验参考。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 部分评价作者重复，不当作多个独立食客。 店名中的非遗、传承、老字号或正宗属于原站名称，本站未据此认证资质。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/leshan103/11764593.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 49,
+        "context": "人 均： ¥ 49 (来自用户反馈) 菜 系： 川菜 小吃 电 话： +868332123059 +8618981333544 +86833212-3059 地 址： 海棠街道箱箱"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.6,
+        "count": 26,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/leshan103/11764593.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/5613534/12/167500483.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "You Ji Feichang Sichuan Cuisine · Fifth-Generation Intangible Cultural Heritage",
+        "address": "Leshan · Chinese navigation address: 海棠街道箱箱街161号(建川药品对面)",
+        "dishes": "游记元帅肥肠汤、粉蒸肥肠、甜皮鸭、毛血旺、酥肉豆腐脑",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 49",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: 毛毛bear (2021-08-22): The 2021 author likes the intestines and side dishes and reports strong heat and quick service; historical experience only. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Some authors repeat and do not establish independent diners. Heritage, longstanding or authentic wording is part of the listed name, not a credential certified by this site."
+      },
+      "reviewSample": {
+        "author": "毛毛bear",
+        "date": "2021-08-22",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/5613534/12/167500483.html",
+        "summary": "2021年作者喜欢肥肠和配菜，认为辣度较高、上菜较快；仅作历史体验参考",
+        "summaryEn": "The 2021 author likes the intestines and side dishes and reports strong heat and quick service; historical experience only"
+      }
+    },
+    {
+      "id": "food-sc-yibin-16155052",
+      "region": "四川",
+      "city": "宜宾",
+      "district": "见分店地址",
+      "place": "宜宾",
+      "name": "何三白肉第一刀",
+      "address": "顺河街89号",
+      "dishes": "李庄白肉、鲜椒嫩牛肉、炒苕尖",
+      "localSpecialty": "宜宾燃面、李庄白肉、鲜锅兔与地方家常菜",
+      "price": "平台人均参考 CNY 58",
+      "priceCNY": {
+        "low": 58,
+        "high": 58
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：寂寞的恋人啊（2026-03-30）：2026年作者认为菜式有地方特色，但整体味道普通、性价比感受一般；保留与历史好评的差异。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/yibin278/16155052.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 58,
+        "context": "人 均： ¥ 58 (来自用户反馈) 菜 系： 川菜 电 话： +8608312443468 地 址： 顺河街89号 营业时间： 营业中 10:30-20:30 免责申明： *仅提"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.3,
+        "count": 9,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/yibin278/16155052.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/7679123/12/664782420.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "HESANBAIROUDIYIDAO",
+        "address": "Yibin · Chinese navigation address: 顺河街89号",
+        "dishes": "李庄白肉、鲜椒嫩牛肉、炒苕尖",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 58",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: 寂寞的恋人啊 (2026-03-30): The 2026 author finds local character in the dishes but ordinary flavours and limited value; this differs from older praise. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals."
+      },
+      "reviewSample": {
+        "author": "寂寞的恋人啊",
+        "date": "2026-03-30",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/7679123/12/664782420.html",
+        "summary": "2026年作者认为菜式有地方特色，但整体味道普通、性价比感受一般；保留与历史好评的差异",
+        "summaryEn": "The 2026 author finds local character in the dishes but ordinary flavours and limited value; this differs from older praise"
+      }
+    },
+    {
+      "id": "food-sc-yibin-16154646",
+      "region": "四川",
+      "city": "宜宾",
+      "district": "见分店地址",
+      "place": "宜宾",
+      "name": "九里香(水东门店)",
+      "address": "专署街15号",
+      "dishes": "酥肉、花鲢鱼、牛蛙、冷锅鱼、花鲢鲜鱼",
+      "localSpecialty": "宜宾燃面、李庄白肉、鲜锅兔与地方家常菜",
+      "price": "平台人均参考 CNY 77",
+      "priceCNY": {
+        "low": 77,
+        "high": 77
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：XCNR_****00378（2026-09-01）：作者喜欢鱼火锅、份量和服务；现杀及新鲜程度是其个人反馈，本站未现场核验。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/yibin278/16154646.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 77,
+        "context": "人 均： ¥ 77 (来自用户反馈) 菜 系： 火锅 电 话： +8608318204808 +8613568091370 地 址： 专署街15号 营业时间： 营业中 10:00-"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "count": 27,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/yibin278/16154646.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/7678252/12/811501853.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "九里香(水东门店)",
+        "address": "Yibin · Chinese navigation address: 专署街15号",
+        "dishes": "酥肉、花鲢鱼、牛蛙、冷锅鱼、花鲢鲜鱼",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 77",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: XCNR_****00378 (2026-09-01): The author likes the fish hotpot, portion and service. Statements about freshly prepared fish are personal feedback, not an inspection by this site. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals."
+      },
+      "reviewSample": {
+        "author": "XCNR_****00378",
+        "date": "2026-09-01",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/7678252/12/811501853.html",
+        "summary": "作者喜欢鱼火锅、份量和服务；现杀及新鲜程度是其个人反馈，本站未现场核验",
+        "summaryEn": "The author likes the fish hotpot, portion and service. Statements about freshly prepared fish are personal feedback, not an inspection by this site"
+      }
+    },
+    {
+      "id": "food-sc-yaan-130206354",
+      "region": "四川",
+      "city": "雅安",
+      "district": "见分店地址",
+      "place": "雅安",
+      "name": "荥小妹·挞挞面棒棒鸡(胡长保店)",
+      "address": "荥兴路西二段34号",
+      "dishes": "挞挞面、棒棒鸡（具体口味及价格向分店确认）",
+      "localSpecialty": "雅鱼风味、蒙顶山茶餐与上里家常菜；鱼种、养殖来源和时价向店家确认",
+      "price": "平台人均参考 CNY 21",
+      "priceCNY": {
+        "low": 21,
+        "high": 21
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：YoYo_0K3O2R6B（2024-01-18）：2024年作者喜欢藤椒口味棒棒鸡，并提到小份选择；面与鸡按实际点单分开核价。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 可读评价集中于少数日期，不当作持续口碑保证。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/yaan917/130206354.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 21,
+        "context": "人 均： ¥ 21 (来自用户反馈) 菜 系： 快餐简餐 电 话： +868357633555 地 址： 荥兴路西二段34号 营业时间： 营业中 06:00-18:00 免责申明："
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "count": 100,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/yaan917/130206354.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/130206354/12/180438043.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "荥小妹·挞挞面棒棒鸡(胡长保店)",
+        "address": "Ya’an · Chinese navigation address: 荥兴路西二段34号",
+        "dishes": "Hand-pulled noodles and bangbang chicken; confirm flavours and prices with this branch",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 21",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: YoYo_0K3O2R6B (2024-01-18): The 2024 author likes the green-peppercorn chicken and mentions small portions; noodles and chicken require actual menu prices. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Readable comments cluster on few dates and do not establish sustained quality."
+      },
+      "reviewSample": {
+        "author": "YoYo_0K3O2R6B",
+        "date": "2024-01-18",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/130206354/12/180438043.html",
+        "summary": "2024年作者喜欢藤椒口味棒棒鸡，并提到小份选择；面与鸡按实际点单分开核价",
+        "summaryEn": "The 2024 author likes the green-peppercorn chicken and mentions small portions; noodles and chicken require actual menu prices"
+      }
+    },
+    {
+      "id": "food-sc-bazhong-140546687",
+      "region": "四川",
+      "city": "巴中",
+      "district": "见分店地址",
+      "place": "巴中",
+      "name": "巴中恩阳花间堂·米仓道·花间食",
+      "address": "巴中市恩阳区恩阳古镇北入口C区",
+      "dishes": "冬瓜文蛤汤、萝卜干炒回锅肉、黄瓜野菌竹荪汤、老卤黄牛肉、干拌恩阳香干",
+      "localSpecialty": "枣林鱼、巴山土鸡与平昌地方菜",
+      "price": "早餐与正餐范围不同，人均待确认",
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：YoYo_4K2E0Z2R（2025-03-07）：作者文字认可川菜和早餐，但只给出3分；酒店早餐与正餐的价格范围分开看待。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 平台75元人均和评论里的早餐48元、餐饮或住宿300元范围不一致，加入消费后留空，按实际餐型填写。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/bazhong703/140546687.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 75,
+        "context": "人 均： ¥ 75 (来自用户反馈) 菜 系： 其他 电 话： 0827-5233333 地 址： 巴中市恩阳区恩阳古镇北入口C区 营业时间： 营业中 07:00-20:00 免责"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.4,
+        "count": 8,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/bazhong703/140546687.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/140546687/12/545443417.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "巴中恩阳花间堂·米仓道·花间食",
+        "address": "Bazhong · Chinese navigation address: 巴中市恩阳区恩阳古镇北入口C区",
+        "dishes": "冬瓜文蛤汤、萝卜干炒回锅肉、黄瓜野菌竹荪汤、老卤黄牛肉、干拌恩阳香干",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Breakfast and main-meal scopes differ; spending needs confirmation",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: YoYo_4K2E0Z2R (2025-03-07): The wording praises Sichuan dishes and breakfast but the score is 3. Hotel breakfast and main-meal spending are separate scopes. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. The platform CNY 75 average and comments mentioning CNY 48 breakfast or CNY 300 meals or lodging have different scopes. Leave the budget blank until the actual meal is chosen."
+      },
+      "reviewSample": {
+        "author": "YoYo_4K2E0Z2R",
+        "date": "2025-03-07",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/140546687/12/545443417.html",
+        "summary": "作者文字认可川菜和早餐，但只给出3分；酒店早餐与正餐的价格范围分开看待",
+        "summaryEn": "The wording praises Sichuan dishes and breakfast but the score is 3. Hotel breakfast and main-meal spending are separate scopes"
+      }
+    },
+    {
+      "id": "food-sc-ziyang-37554602",
+      "region": "四川",
+      "city": "资阳",
+      "district": "见分店地址",
+      "place": "资阳",
+      "name": "吴名烧鸡店(交通北街店)",
+      "address": "交通北街阳光幼儿园东行30米路南",
+      "dishes": "吴名烧鸡、鸡杂粉条、滑肉汤、素炒大头菜、鸡血素菜汤",
+      "localSpecialty": "安岳周礼伤心凉粉、地方烧鸡与乐至风味",
+      "price": "平台人均参考 CNY 67",
+      "priceCNY": {
+        "low": 67,
+        "high": 67
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：YoYo_4D2Q8V5Q（2023-04-17）：2023年作者喜欢烧鸡的软糯口感与辣味；旧评论不证明当前营业和价格。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 可读样本均为2023年或更早，当前营业与品质需另核。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/ziyang918/37554602.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 67,
+        "context": "人 均： ¥ 67 (来自用户反馈) 菜 系： 快餐简餐 电 话： +862824603018 地 址： 交通北街阳光幼儿园东行30米路南 营业时间： 营业中 08:00-次日01"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "count": 20,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/ziyang918/37554602.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/18186972/12/175541330.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "吴名烧鸡店(交通北街店)",
+        "address": "Ziyang · Chinese navigation address: 交通北街阳光幼儿园东行30米路南",
+        "dishes": "吴名烧鸡、鸡杂粉条、滑肉汤、素炒大头菜、鸡血素菜汤",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 67",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: YoYo_4D2Q8V5Q (2023-04-17): The 2023 author likes the tender chicken and chilli flavour; old comments do not establish current operation or prices. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. All readable samples date to 2023 or earlier; recheck current operation and quality."
+      },
+      "reviewSample": {
+        "author": "YoYo_4D2Q8V5Q",
+        "date": "2023-04-17",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/18186972/12/175541330.html",
+        "summary": "2023年作者喜欢烧鸡的软糯口感与辣味；旧评论不证明当前营业和价格",
+        "summaryEn": "The 2023 author likes the tender chicken and chilli flavour; old comments do not establish current operation or prices"
+      }
+    },
+    {
+      "id": "food-sc-ganziprefecture-50949170",
+      "region": "四川",
+      "city": "甘孜藏族自治州",
+      "district": "见分店地址",
+      "place": "甘孜藏族自治州",
+      "name": "玛拉亚藏餐厅",
+      "address": "沿河东路139号6楼(近水井子)",
+      "dishes": "藏式土豆泥、炸酸奶、牛肉包子、手抓牛肉、酥油茶",
+      "localSpecialty": "康定新式藏餐、牦牛肉汤锅、青稞制品与火塘餐饮；菌类和肉类组成、熟度向店家确认",
+      "price": "平台人均参考 CNY 83",
+      "priceCNY": {
+        "low": 83,
+        "high": 83
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：CD云上（2020-08-17）：2020年作者喜欢酥油茶、牛肉盖被与土豆，但认为肉食份量较足；不采用原评论中的健康功效说法。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 可读样本均为2023年或更早，当前营业与品质需另核。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/ganziprefecture754/50949170.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 83,
+        "context": "人 均： ¥ 83 (来自用户反馈) 菜 系： 其他 电 话： +868362877111 地 址： 沿河东路139号6楼(近水井子) 营业时间： 暂无营业时间 免责申明： *仅提"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "count": 4,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/ganziprefecture754/50949170.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/21453262/12/164143772.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "MALAYA TIBETAN RESTAURANT",
+        "address": "Garze Tibetan Autonomous Prefecture · Chinese navigation address: 沿河东路139号6楼(近水井子)",
+        "dishes": "藏式土豆泥、炸酸奶、牛肉包子、手抓牛肉、酥油茶",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 83",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: CD云上 (2020-08-17): The 2020 author likes butter tea, beef with bread and potatoes but finds the meat-heavy meal filling; health-benefit claims are not adopted. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. All readable samples date to 2023 or earlier; recheck current operation and quality."
+      },
+      "reviewSample": {
+        "author": "CD云上",
+        "date": "2020-08-17",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/21453262/12/164143772.html",
+        "summary": "2020年作者喜欢酥油茶、牛肉盖被与土豆，但认为肉食份量较足；不采用原评论中的健康功效说法",
+        "summaryEn": "The 2020 author likes butter tea, beef with bread and potatoes but finds the meat-heavy meal filling; health-benefit claims are not adopted"
+      }
+    },
+    {
+      "id": "food-sc-liangshan-33658197",
+      "region": "四川",
+      "city": "凉山彝族自治州",
+      "district": "见分店地址",
+      "place": "凉山彝族自治州",
+      "name": "王记清香牛羊杂粉(海河帝景店)",
+      "address": "风情园中路213号",
+      "dishes": "清炖牛杂粉、清炖牛肚米线、羊杂粉、清炖牛肉粉、羊肉粉",
+      "localSpecialty": "彝家风味、冕宁土菜、牛羊杂粉与西昌烧烤；火盆形式须向具体店确认",
+      "price": "平台人均参考 CNY 17",
+      "priceCNY": {
+        "low": 17,
+        "high": 17
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：CD云上（2020-10-30）：2020年作者喜欢牛肉牛杂粉和自调佐料，同时认为价格不算便宜；历史13元不替代平台人均或当前菜单。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 可读样本均为2023年或更早，当前营业与品质需另核。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/liangshan912/33658197.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 17,
+        "context": "人 均： ¥ 17 (来自用户反馈) 菜 系： 小吃 电 话： 13795663064 地 址： 风情园中路213号 营业时间： 营业中 06:00-15:00 免责申明： *仅提"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.7,
+        "count": 3,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/liangshan912/33658197.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/16662975/12/164932517.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "Wang Ji Qing Xiang Beef & Lamb Offal Rice Noodles (Haihe Dijing Branch)",
+        "address": "Liangshan Yi Autonomous Prefecture · Chinese navigation address: 风情园中路213号",
+        "dishes": "清炖牛杂粉、清炖牛肚米线、羊杂粉、清炖牛肉粉、羊肉粉",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 17",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: CD云上 (2020-10-30): The 2020 author likes the beef and offal rice noodles and condiments but finds them relatively costly. The historical CNY 13 dish price does not replace an average or current menu. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. All readable samples date to 2023 or earlier; recheck current operation and quality."
+      },
+      "reviewSample": {
+        "author": "CD云上",
+        "date": "2020-10-30",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/16662975/12/164932517.html",
+        "summary": "2020年作者喜欢牛肉牛杂粉和自调佐料，同时认为价格不算便宜；历史13元不替代平台人均或当前菜单",
+        "summaryEn": "The 2020 author likes the beef and offal rice noodles and condiments but finds them relatively costly. The historical CNY 13 dish price does not replace an average or current menu"
+      }
+    },
+    {
+      "id": "food-sc-liangshan-33656971",
+      "region": "四川",
+      "city": "凉山彝族自治州",
+      "district": "见分店地址",
+      "place": "凉山彝族自治州",
+      "name": "正宗会理鸡火丝(龙眼井店)",
+      "address": "龙眼井街大成商业广场59号附3号",
+      "dishes": "鸡火丝饵块（小碗）、火腿片、鸡火丝米粉、细米粉、牛肉粉",
+      "localSpecialty": "彝家风味、冕宁土菜、牛羊杂粉与西昌烧烤；火盆形式须向具体店确认",
+      "price": "平台人均参考 CNY 21",
+      "priceCNY": {
+        "low": 21,
+        "high": 21
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "历史公开样本：XCNR_****00378（2025-09-04）：唯一可读样本认为配菜丰富、份量较大；1条评价不代表稳定口碑，当前营业仍需确认。发帖日期不保证是用餐日，真实性未独立核验。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 店名中的非遗、传承、老字号或正宗属于原站名称，本站未据此认证资质。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/liangshan912/33656971.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 21,
+        "context": "人 均： ¥ 21 (来自用户反馈) 菜 系： 小吃 快餐简餐 电 话： +8613981539226 地 址： 龙眼井街大成商业广场59号附3号 营业时间： 营业中 07:00-"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "count": 1,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/liangshan912/33656971.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        },
+        {
+          "platform": "携程",
+          "url": "https://m.ctrip.com/webapp/you/comment/detail/16661504/12/222871573.html",
+          "title": "有作者与日期的体验摘要，保留分歧",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "Zheng Zong Hui Li Ji Huo Si (Longyanjing Branch)",
+        "address": "Liangshan Yi Autonomous Prefecture · Chinese navigation address: 龙眼井街大成商业广场59号附3号",
+        "dishes": "鸡火丝饵块（小碗）、火腿片、鸡火丝米粉、细米粉、牛肉粉",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 21",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Historical public sample: XCNR_****00378 (2025-09-04): The only readable sample finds varied sides and a large portion. One review does not establish consistent quality; current operation needs confirming. Posting date may differ from dining date; authenticity is not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Heritage, longstanding or authentic wording is part of the listed name, not a credential certified by this site."
+      },
+      "reviewSample": {
+        "author": "XCNR_****00378",
+        "date": "2025-09-04",
+        "url": "https://m.ctrip.com/webapp/you/comment/detail/16661504/12/222871573.html",
+        "summary": "唯一可读样本认为配菜丰富、份量较大；1条评价不代表稳定口碑，当前营业仍需确认",
+        "summaryEn": "The only readable sample finds varied sides and a large portion. One review does not establish consistent quality; current operation needs confirming"
+      }
+    }
+  ],
+  "researchOnlyFoods": [
+    {
+      "id": "food-sc-chengdu-24849986",
+      "region": "四川",
+      "city": "成都",
+      "district": "见分店地址",
+      "place": "成都",
+      "name": "小龙翻大江文化火锅(宽窄店)",
+      "address": "成都市窄巷子28号",
+      "dishes": "妈妈酥肉、功夫土豆、竹荪龙鱼、神仙肥牛、麻辣牛肉",
+      "localSpecialty": "家常川菜、麻婆豆腐、回锅肉、蹄花与冒烤鸭；火锅和不辣菜分别选择",
+      "price": "平台人均参考 CNY 110",
+      "priceCNY": {
+        "low": 110,
+        "high": 110
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "携程公开聚合 4/5、199 条评价，作为筛选线索；未独立核验真实消费与评价真实性。",
+      "caution": "确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 可读样本存在近年价格、份量及支付体验分歧，暂不列入推荐路线。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chengdu104/24849986.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 110,
+        "context": "人 均： ¥ 110 (来自用户反馈) 菜 系： 火锅 电 话： +862886648888 +8618180596999 +86288664-8888 地 址： 成都市窄巷子28"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4,
+        "count": 199,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chengdu104/24849986.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "The Way of The Dragon (Kuanzhai)",
+        "address": "Chengdu · Chinese navigation address: 成都市窄巷子28号",
+        "dishes": "妈妈酥肉、功夫土豆、竹荪龙鱼、神仙肥牛、麻辣牛肉",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 110",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Ctrip aggregate 4/5 from 199 reviews is screening evidence; actual dining and review authenticity are not independently verified.",
+        "caution": "Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Limited, conflicting, clustered or promotional evidence; retained for research only."
+      },
+      "recommendationStatus": "research-only",
+      "researchReason": "可读样本存在近年价格、份量及支付体验分歧，暂不列入推荐路线"
+    },
+    {
+      "id": "food-sc-chengdu-57248352",
+      "region": "四川",
+      "city": "成都",
+      "district": "见分店地址",
+      "place": "成都",
+      "name": "Silver pot·银锅现代川菜(悠方店)",
+      "address": "成都高新区交子大道300号悠方ICP写字楼M6座5层532号",
+      "dishes": "橙皮牛肉、贡椒焖乳鸽、灯影鱼片、炉端和牛、低温俄罗斯大扇贝",
+      "localSpecialty": "家常川菜、麻婆豆腐、回锅肉、蹄花与冒烤鸭；火锅和不辣菜分别选择",
+      "price": "平台人均参考 CNY 640",
+      "priceCNY": {
+        "low": 640,
+        "high": 640
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "携程公开聚合 4.1/5、9 条评价，作为筛选线索；未独立核验真实消费与评价真实性。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 少量公开样本含显著性价比分歧及宣传性内容，当前体验证据不足。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/chengdu104/57248352.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 640,
+        "context": "人 均： ¥ 640 (来自用户反馈) 菜 系： 川菜 创意菜 电 话： +862865777598 地 址： 成都高新区交子大道300号悠方ICP写字楼M6座5层532号 营业时"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.1,
+        "count": 9,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/chengdu104/57248352.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "Silver pot",
+        "address": "Chengdu · Chinese navigation address: 成都高新区交子大道300号悠方ICP写字楼M6座5层532号",
+        "dishes": "橙皮牛肉、贡椒焖乳鸽、灯影鱼片、炉端和牛、低温俄罗斯大扇贝",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 640",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Ctrip aggregate 4.1/5 from 9 reviews is screening evidence; actual dining and review authenticity are not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Limited, conflicting, clustered or promotional evidence; retained for research only."
+      },
+      "recommendationStatus": "research-only",
+      "researchReason": "少量公开样本含显著性价比分歧及宣传性内容，当前体验证据不足"
+    },
+    {
+      "id": "food-sc-panzhihua-27102385",
+      "region": "四川",
+      "city": "攀枝花",
+      "district": "见分店地址",
+      "place": "攀枝花",
+      "name": "笮山羊双鑫羊肉米线店",
+      "address": "东环南路烟草公司烤烟库房三岔口旁",
+      "dishes": "羊肉米线、双绍猪肉粉、草莓手打柠檬、手工香菇馅水饺、双黄蛋",
+      "localSpecialty": "米易鱼菜、地方家常菜与四川汤锅；跷脚牛肉属于乐山风味在本地的分店选择",
+      "price": "平台人均参考 CNY 13",
+      "priceCNY": {
+        "low": 13,
+        "high": 13
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "携程公开聚合 5/5、106 条评价，作为筛选线索；未独立核验真实消费与评价真实性。",
+      "caution": "确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 可读样本集中同一天，菜品清单混有较多不相关商品，独立到店证据不足。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/panzhihua786/27102385.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 13,
+        "context": "人 均： ¥ 13 (来自用户反馈) 菜 系： 其他中餐 其他 快餐简餐 电 话： +8618982364462 地 址： 东环南路烟草公司烤烟库房三岔口旁 营业时间： 营业中 0"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "count": 106,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/panzhihua786/27102385.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "SHUANG XIN YANG ROU GUAN",
+        "address": "Panzhihua · Chinese navigation address: 东环南路烟草公司烤烟库房三岔口旁",
+        "dishes": "羊肉米线、双绍猪肉粉、草莓手打柠檬、手工香菇馅水饺、双黄蛋",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 13",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Ctrip aggregate 5/5 from 106 reviews is screening evidence; actual dining and review authenticity are not independently verified.",
+        "caution": "Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Limited, conflicting, clustered or promotional evidence; retained for research only."
+      },
+      "recommendationStatus": "research-only",
+      "researchReason": "可读样本集中同一天，菜品清单混有较多不相关商品，独立到店证据不足"
+    },
+    {
+      "id": "food-sc-panzhihua-34824877",
+      "region": "四川",
+      "city": "攀枝花",
+      "district": "见分店地址",
+      "place": "攀枝花",
+      "name": "雷王烤鲜牛肉(盐边店)",
+      "address": "西环南路376号",
+      "dishes": "五花肉、牛肉、小肠土豆、三月瓜、毛肚",
+      "localSpecialty": "米易鱼菜、地方家常菜与四川汤锅；跷脚牛肉属于乐山风味在本地的分店选择",
+      "price": "平台人均参考 CNY 61",
+      "priceCNY": {
+        "low": 61,
+        "high": 61
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "携程公开聚合 5/5、122 条评价，作为筛选线索；未独立核验真实消费与评价真实性。",
+      "caution": "确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 可读样本均集中于2023-12-31，当前独立体验证据不足。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/panzhihua786/34824877.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 61,
+        "context": "人 均： ¥ 61 (来自用户反馈) 菜 系： 烧烤 电 话： +8613540501585 +8615387692705 地 址： 西环南路376号 营业时间： 休息中 17:0"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "count": 122,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/panzhihua786/34824877.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "雷王烤鲜牛肉(盐边店)",
+        "address": "Panzhihua · Chinese navigation address: 西环南路376号",
+        "dishes": "五花肉、牛肉、小肠土豆、三月瓜、毛肚",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 61",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Ctrip aggregate 5/5 from 122 reviews is screening evidence; actual dining and review authenticity are not independently verified.",
+        "caution": "Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Limited, conflicting, clustered or promotional evidence; retained for research only."
+      },
+      "recommendationStatus": "research-only",
+      "researchReason": "可读样本均集中于2023-12-31，当前独立体验证据不足"
+    },
+    {
+      "id": "food-sc-yaan-16466406",
+      "region": "四川",
+      "city": "雅安",
+      "district": "见分店地址",
+      "place": "雅安",
+      "name": "雅鱼王老字号",
+      "address": "四川省雅安市雨城区碧峰峡路路116号",
+      "dishes": "砂锅雅鱼、坛子肉、红汤雅鱼、凉拌土鸡、泡椒雅鱼",
+      "localSpecialty": "雅鱼风味、蒙顶山茶餐与上里家常菜；鱼种、养殖来源和时价向店家确认",
+      "price": "平台人均参考 CNY 63",
+      "priceCNY": {
+        "low": 63,
+        "high": 63
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "携程公开聚合 4.5/5、14 条评价，作为筛选线索；未独立核验真实消费与评价真实性。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 样本中包含与店名相同的作者及较强宣传式表达，不作为独立食客证明。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/yaan917/16466406.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 63,
+        "context": "人 均： ¥ 63 (来自用户反馈) 菜 系： 川菜 电 话： +8613547450969 +868352873888 地 址： 四川省雅安市雨城区碧峰峡路路116号 营业时间："
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.5,
+        "count": 14,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/yaan917/16466406.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "雅鱼王老字号",
+        "address": "Ya’an · Chinese navigation address: 四川省雅安市雨城区碧峰峡路路116号",
+        "dishes": "砂锅雅鱼、坛子肉、红汤雅鱼、凉拌土鸡、泡椒雅鱼",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 63",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Ctrip aggregate 4.5/5 from 14 reviews is screening evidence; actual dining and review authenticity are not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Limited, conflicting, clustered or promotional evidence; retained for research only."
+      },
+      "recommendationStatus": "research-only",
+      "researchReason": "样本中包含与店名相同的作者及较强宣传式表达，不作为独立食客证明"
+    },
+    {
+      "id": "food-sc-neijiang-26474818",
+      "region": "四川",
+      "city": "内江",
+      "district": "见分店地址",
+      "place": "内江",
+      "name": "球溪周福记鲶鱼总店",
+      "address": "成渝高速球溪收费东站正对面（资中县球溪镇大佛沟村9组37号）",
+      "dishes": "麻辣土鲶鱼、水库鲶鱼、本土鲶鱼麻辣味、酸菜鲶鱼、秘制肥肠",
+      "localSpecialty": "内江拌菜、凉粉、牛肉面与球溪鲶鱼，按具体分店核对菜单",
+      "price": "平台人均参考 CNY 59",
+      "priceCNY": {
+        "low": 59,
+        "high": 59
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "携程公开聚合 4.4/5、9 条评价，作为筛选线索；未独立核验真实消费与评价真实性。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 可读体验存在具体分歧，相关说法未经核验，暂不列入推荐路线。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/neijiang823/26474818.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 59,
+        "context": "人 均： ¥ 59 (来自用户反馈) 菜 系： 川菜 海鲜 电 话： +8613183689986 地 址： 成渝高速球溪收费东站正对面（资中县球溪镇大佛沟村9组37号） 营业时间"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 4.4,
+        "count": 9,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/neijiang823/26474818.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "ZHENG ZONG LAO SHU JI NIAN YU ZONG DIAN",
+        "address": "Neijiang · Chinese navigation address: 成渝高速球溪收费东站正对面（资中县球溪镇大佛沟村9组37号）",
+        "dishes": "麻辣土鲶鱼、水库鲶鱼、本土鲶鱼麻辣味、酸菜鲶鱼、秘制肥肠",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 59",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Ctrip aggregate 4.4/5 from 9 reviews is screening evidence; actual dining and review authenticity are not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Limited, conflicting, clustered or promotional evidence; retained for research only."
+      },
+      "recommendationStatus": "research-only",
+      "researchReason": "可读体验存在具体分歧，相关说法未经核验，暂不列入推荐路线"
+    },
+    {
+      "id": "food-sc-ganziprefecture-26218337",
+      "region": "四川",
+      "city": "甘孜藏族自治州",
+      "district": "见分店地址",
+      "place": "甘孜藏族自治州",
+      "name": "杂七杂八牛杂汤锅(康定店)",
+      "address": "炉城镇情歌大道云知酒店二楼",
+      "dishes": "牛肉、牛杂、黄喉、牛肝菌、豌豆尖",
+      "localSpecialty": "康定新式藏餐、牦牛肉汤锅、青稞制品与火塘餐饮；菌类和肉类组成、熟度向店家确认",
+      "price": "平台人均参考 CNY 80",
+      "priceCNY": {
+        "low": 80,
+        "high": 80
+      },
+      "basis": "携程以¥展示的用户反馈人均，仅作可修改的人民币预算参考；不是现行菜单、单品价或官方收费，消费日期与汇总方法未明。平台空值或零值不当作免费。",
+      "good": "携程公开聚合 5/5、5 条评价，作为筛选线索；未独立核验真实消费与评价真实性。",
+      "caution": "公开评价少于20条，满分和推荐用语不代表稳定品质。确认本分店当前营业、辣度、份量、过敏原、时价及服务费；小吃人均不自动视为完整正餐。 仅取得少量2021年泛泛评价，缺少可对应菜品的近期体验。",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/ganziprefecture754/26218337.html",
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "mealType": "当地特色",
+      "sourcePrice": {
+        "currency": "CNY",
+        "amount": 80,
+        "context": "人 均： ¥ 80 (来自用户反馈) 菜 系： 火锅 电 话： +868362870186 地 址： 炉城镇情歌大道云知酒店二楼 营业时间： 即将营业 11:30-23:30 免责"
+      },
+      "reviewEvidence": {
+        "platform": "携程",
+        "score": 5,
+        "count": 5,
+        "checked": "2026-10-19",
+        "independentVerified": false
+      },
+      "sources": [
+        {
+          "platform": "携程",
+          "url": "https://you.ctrip.com/yougourmet/restdetail/ganziprefecture754/26218337.html",
+          "title": "具体分店、人均与公开评价快照",
+          "checked": "2026-10-19"
+        }
+      ],
+      "en": {
+        "name": "ZA QI ZA BA NIU ZA TANG GUO",
+        "address": "Garze Tibetan Autonomous Prefecture · Chinese navigation address: 炉城镇情歌大道云知酒店二楼",
+        "dishes": "牛肉、牛杂、黄喉、牛肝菌、豌豆尖",
+        "localSpecialty": "Sichuan regional dishes or local snacks; use this branch’s listed dishes",
+        "price": "Platform average reference CNY 80",
+        "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
+        "good": "Ctrip aggregate 5/5 from 5 reviews is screening evidence; actual dining and review authenticity are not independently verified.",
+        "caution": "Fewer than 20 public reviews; a perfect score or promotional wording does not establish consistent quality. Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Limited, conflicting, clustered or promotional evidence; retained for research only."
+      },
+      "recommendationStatus": "research-only",
+      "researchReason": "仅取得少量2021年泛泛评价，缺少可对应菜品的近期体验"
+    }
+  ],
+  "routes": [
+    {
+      "id": "route-sc2-zigong-1",
+      "region": "四川",
+      "city": "自贡",
+      "title": "自贡 · 地方小吃与正餐备选",
+      "route": "电子厂餐馆（凉高山街27号华峰大门口沿街商铺）；厨神老街兔·淳朴人家店(盐帮菜风味名店)（高新区紫荆城邦7栋-1-12-14号）；长生面(红旗路总店)（红旗路114号（中国邮政储蓄银行对面））。按具体分店和所在区县择一餐或分日安排，不是已实测步行路线；同一市州内也可能跨县，不把所有店默认安排为同日连吃。",
+      "foodIds": [
+        "food-sc-zigong-33656349",
+        "food-sc-zigong-63524009",
+        "food-sc-zigong-16709390"
+      ],
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "editorial": true,
+      "note": "整条加入后新店默认不勾选，逐店启用再计费；早餐、小吃和正餐按份量分别调整，自填餐费覆盖清单外餐食。",
+      "en": {
+        "title": "Zigong · local snack and main-meal alternatives",
+        "route": "电子厂餐馆 (凉高山街27号华峰大门口沿街商铺); 厨神老街兔·淳朴人家店(盐帮菜风味名店) (高新区紫荆城邦7栋-1-12-14号); 长生面(红旗路总店) (红旗路114号（中国邮政储蓄银行对面）). Choose a meal or separate days by exact branch and county. This is not a tested walking route; shops within one prefecture may be in different counties and are not all intended for one day.",
+        "note": "New shops imported with an outline stay unchecked until enabled. Adjust breakfast, snacks and meals by portion; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "route-sc2-luzhou-2",
+      "region": "四川",
+      "city": "泸州",
+      "title": "泸州 · 地方小吃与正餐备选",
+      "route": "泸味2012·传统豆腐脑(慈善路店)（慈善路114号）；无刺葱花鲫鱼(三星街总店)（三星街16号1号楼3楼（曾三夜宵城侧面酒城串串上三楼））。按具体分店和所在区县择一餐或分日安排，不是已实测步行路线；同一市州内也可能跨县，不把所有店默认安排为同日连吃。",
+      "foodIds": [
+        "food-sc-luzhou-26461955",
+        "food-sc-luzhou-133164689"
+      ],
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "editorial": true,
+      "note": "整条加入后新店默认不勾选，逐店启用再计费；早餐、小吃和正餐按份量分别调整，自填餐费覆盖清单外餐食。",
+      "en": {
+        "title": "Luzhou · local snack and main-meal alternatives",
+        "route": "CHUAN TONG DOU FU NAO (慈善路114号); 无刺葱花鲫鱼(三星街总店) (三星街16号1号楼3楼（曾三夜宵城侧面酒城串串上三楼）). Choose a meal or separate days by exact branch and county. This is not a tested walking route; shops within one prefecture may be in different counties and are not all intended for one day.",
+        "note": "New shops imported with an outline stay unchecked until enabled. Adjust breakfast, snacks and meals by portion; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "route-sc2-leshan-3",
+      "region": "四川",
+      "city": "乐山",
+      "title": "乐山 · 地方小吃与正餐备选",
+      "route": "谢老五跷脚牛肉·非遗传承店（演武街3号1层）；游记肥肠市井川菜·第五代非物质文化遗产传承店（海棠街道箱箱街161号(建川药品对面)）。按具体分店和所在区县择一餐或分日安排，不是已实测步行路线；同一市州内也可能跨县，不把所有店默认安排为同日连吃。",
+      "foodIds": [
+        "food-sc-leshan-11765307",
+        "food-sc-leshan-11764593"
+      ],
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "editorial": true,
+      "note": "整条加入后新店默认不勾选，逐店启用再计费；早餐、小吃和正餐按份量分别调整，自填餐费覆盖清单外餐食。",
+      "en": {
+        "title": "Leshan · local snack and main-meal alternatives",
+        "route": "Xie Laowu Qiaojiao Beef (Intangible Heritage) (演武街3号1层); You Ji Feichang Sichuan Cuisine · Fifth-Generation Intangible Cultural Heritage (海棠街道箱箱街161号(建川药品对面)). Choose a meal or separate days by exact branch and county. This is not a tested walking route; shops within one prefecture may be in different counties and are not all intended for one day.",
+        "note": "New shops imported with an outline stay unchecked until enabled. Adjust breakfast, snacks and meals by portion; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "route-sc2-yibin-4",
+      "region": "四川",
+      "city": "宜宾",
+      "title": "宜宾 · 地方小吃与正餐备选",
+      "route": "何三白肉第一刀（顺河街89号）；九里香(水东门店)（专署街15号）。按具体分店和所在区县择一餐或分日安排，不是已实测步行路线；同一市州内也可能跨县，不把所有店默认安排为同日连吃。",
+      "foodIds": [
+        "food-sc-yibin-16155052",
+        "food-sc-yibin-16154646"
+      ],
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "editorial": true,
+      "note": "整条加入后新店默认不勾选，逐店启用再计费；早餐、小吃和正餐按份量分别调整，自填餐费覆盖清单外餐食。",
+      "en": {
+        "title": "Yibin · local snack and main-meal alternatives",
+        "route": "HESANBAIROUDIYIDAO (顺河街89号); 九里香(水东门店) (专署街15号). Choose a meal or separate days by exact branch and county. This is not a tested walking route; shops within one prefecture may be in different counties and are not all intended for one day.",
+        "note": "New shops imported with an outline stay unchecked until enabled. Adjust breakfast, snacks and meals by portion; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "route-sc2-yaan-5",
+      "region": "四川",
+      "city": "雅安",
+      "title": "雅安 · 地方小吃与正餐备选",
+      "route": "荥小妹·挞挞面棒棒鸡(胡长保店)（荥兴路西二段34号）。按具体分店和所在区县择一餐或分日安排，不是已实测步行路线；同一市州内也可能跨县，不把所有店默认安排为同日连吃。",
+      "foodIds": [
+        "food-sc-yaan-130206354"
+      ],
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "editorial": true,
+      "note": "整条加入后新店默认不勾选，逐店启用再计费；早餐、小吃和正餐按份量分别调整，自填餐费覆盖清单外餐食。",
+      "en": {
+        "title": "Ya’an · local snack and main-meal alternatives",
+        "route": "荥小妹·挞挞面棒棒鸡(胡长保店) (荥兴路西二段34号). Choose a meal or separate days by exact branch and county. This is not a tested walking route; shops within one prefecture may be in different counties and are not all intended for one day.",
+        "note": "New shops imported with an outline stay unchecked until enabled. Adjust breakfast, snacks and meals by portion; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "route-sc2-bazhong-6",
+      "region": "四川",
+      "city": "巴中",
+      "title": "巴中 · 地方小吃与正餐备选",
+      "route": "巴中恩阳花间堂·米仓道·花间食（巴中市恩阳区恩阳古镇北入口C区）。按具体分店和所在区县择一餐或分日安排，不是已实测步行路线；同一市州内也可能跨县，不把所有店默认安排为同日连吃。",
+      "foodIds": [
+        "food-sc-bazhong-140546687"
+      ],
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "editorial": true,
+      "note": "整条加入后新店默认不勾选，逐店启用再计费；早餐、小吃和正餐按份量分别调整，自填餐费覆盖清单外餐食。",
+      "en": {
+        "title": "Bazhong · local snack and main-meal alternatives",
+        "route": "巴中恩阳花间堂·米仓道·花间食 (巴中市恩阳区恩阳古镇北入口C区). Choose a meal or separate days by exact branch and county. This is not a tested walking route; shops within one prefecture may be in different counties and are not all intended for one day.",
+        "note": "New shops imported with an outline stay unchecked until enabled. Adjust breakfast, snacks and meals by portion; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "route-sc2-ziyang-7",
+      "region": "四川",
+      "city": "资阳",
+      "title": "资阳 · 地方小吃与正餐备选",
+      "route": "吴名烧鸡店(交通北街店)（交通北街阳光幼儿园东行30米路南）。按具体分店和所在区县择一餐或分日安排，不是已实测步行路线；同一市州内也可能跨县，不把所有店默认安排为同日连吃。",
+      "foodIds": [
+        "food-sc-ziyang-37554602"
+      ],
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "editorial": true,
+      "note": "整条加入后新店默认不勾选，逐店启用再计费；早餐、小吃和正餐按份量分别调整，自填餐费覆盖清单外餐食。",
+      "en": {
+        "title": "Ziyang · local snack and main-meal alternatives",
+        "route": "吴名烧鸡店(交通北街店) (交通北街阳光幼儿园东行30米路南). Choose a meal or separate days by exact branch and county. This is not a tested walking route; shops within one prefecture may be in different counties and are not all intended for one day.",
+        "note": "New shops imported with an outline stay unchecked until enabled. Adjust breakfast, snacks and meals by portion; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "route-sc2-ganziprefecture-8",
+      "region": "四川",
+      "city": "甘孜藏族自治州",
+      "title": "甘孜藏族自治州 · 地方小吃与正餐备选",
+      "route": "玛拉亚藏餐厅（沿河东路139号6楼(近水井子)）。按具体分店和所在区县择一餐或分日安排，不是已实测步行路线；同一市州内也可能跨县，不把所有店默认安排为同日连吃。",
+      "foodIds": [
+        "food-sc-ganziprefecture-50949170"
+      ],
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "editorial": true,
+      "note": "整条加入后新店默认不勾选，逐店启用再计费；早餐、小吃和正餐按份量分别调整，自填餐费覆盖清单外餐食。",
+      "en": {
+        "title": "Garze Tibetan Autonomous Prefecture · local snack and main-meal alternatives",
+        "route": "MALAYA TIBETAN RESTAURANT (沿河东路139号6楼(近水井子)). Choose a meal or separate days by exact branch and county. This is not a tested walking route; shops within one prefecture may be in different counties and are not all intended for one day.",
+        "note": "New shops imported with an outline stay unchecked until enabled. Adjust breakfast, snacks and meals by portion; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "route-sc2-liangshan-9",
+      "region": "四川",
+      "city": "凉山彝族自治州",
+      "title": "凉山彝族自治州 · 地方小吃与正餐备选",
+      "route": "王记清香牛羊杂粉(海河帝景店)（风情园中路213号）；正宗会理鸡火丝(龙眼井店)（龙眼井街大成商业广场59号附3号）。按具体分店和所在区县择一餐或分日安排，不是已实测步行路线；同一市州内也可能跨县，不把所有店默认安排为同日连吃。",
+      "foodIds": [
+        "food-sc-liangshan-33658197",
+        "food-sc-liangshan-33656971"
+      ],
+      "checked": "2026-10-19",
+      "researchBatch": 2,
+      "editorial": true,
+      "note": "整条加入后新店默认不勾选，逐店启用再计费；早餐、小吃和正餐按份量分别调整，自填餐费覆盖清单外餐食。",
+      "en": {
+        "title": "Liangshan Yi Autonomous Prefecture · local snack and main-meal alternatives",
+        "route": "Wang Ji Qing Xiang Beef & Lamb Offal Rice Noodles (Haihe Dijing Branch) (风情园中路213号); Zheng Zong Hui Li Ji Huo Si (Longyanjing Branch) (龙眼井街大成商业广场59号附3号). Choose a meal or separate days by exact branch and county. This is not a tested walking route; shops within one prefecture may be in different counties and are not all intended for one day.",
+        "note": "New shops imported with an outline stay unchecked until enabled. Adjust breakfast, snacks and meals by portion; manual dining covers meals outside the list."
+      }
+    }
+  ],
+  "photoReview": {
+    "candidates": 27,
+    "missing": [
+      {
+        "id": "sc-deyang-sight-61322",
+        "name": "龙居寺",
+        "reason": "来源封面为临崖建筑，不能可靠对应广汉龙居寺中殿及其周边，暂不使用。"
+      }
+    ],
+    "method": "逐张检查27处封面及疑点备选，龙居寺错配封面不采用；望鱼改用官方2026-03-25报道老街照片，奶子沟使用林木近景，伍须海重取湖景。原站版权不等于开放许可，拍摄日期未核实。"
+  },
+  "ticketPolicy": "No new official applied tariffs confirmed. Platform starting prices, old event tariffs and optional transport remain pending; prior verified scopes and manual overrides are preserved."
+}
