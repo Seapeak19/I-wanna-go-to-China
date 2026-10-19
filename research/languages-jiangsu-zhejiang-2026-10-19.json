@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-19",
+  "scope": "Jiangsu and Zhejiang batch 1",
+  "sourceCatalog": 2546,
+  "coverage": {
+    "ja": {
+      "entries": 2546,
+      "englishFallbacks": 352
+    },
+    "ko": {
+      "entries": 2546,
+      "englishFallbacks": 67
+    },
+    "fr": {
+      "entries": 2546,
+      "englishFallbacks": 269
+    },
+    "de": {
+      "entries": 2546,
+      "englishFallbacks": 203
+    },
+    "es": {
+      "entries": 2546,
+      "englishFallbacks": 669
+    },
+    "it": {
+      "entries": 2546,
+      "englishFallbacks": 240
+    },
+    "pt": {
+      "entries": 2546,
+      "englishFallbacks": 78
+    },
+    "nl": {
+      "entries": 2546,
+      "englishFallbacks": 219
+    },
+    "ru": {
+      "entries": 2546,
+      "englishFallbacks": 235
+    }
+  },
+  "method": "Local Argos Translate / CTranslate2; interface wording reviewed; traditional Chinese converted with OpenCC s2t",
+  "source": "https://www.argosopentech.com/",
+  "policy": "Machine translations are reading aids, not verified official translations. Unreliable token restoration falls back to the English source. Proper names retain existing English spellings with original Chinese names. Currency codes, addresses, URLs and monetary values are preserved.",
+  "models": {
+    "ja": {
+      "version": "1.1",
+      "url": "https://argos-net.com/v1/translate-en_ja-1_1.argosmodel"
+    },
+    "ko": {
+      "version": "1.1",
+      "url": "https://argos-net.com/v1/translate-en_ko-1_1.argosmodel"
+    },
+    "fr": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_fr-1_9.argosmodel"
+    },
+    "de": {
+      "version": "1.3",
+      "url": "https://argos-net.com/v1/translate-en_de-1_3.argosmodel"
+    },
+    "es": {
+      "version": "1.0",
+      "url": "https://argos-net.com/v1/translate-en_es-1_0.argosmodel"
+    },
+    "it": {
+      "version": "1.0",
+      "url": "https://argos-net.com/v1/translate-en_it-1_0.argosmodel"
+    },
+    "pt": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_pt-1_9.argosmodel"
+    },
+    "nl": {
+      "version": "1.8",
+      "url": "https://argos-net.com/v1/translate-en_nl-1_8.argosmodel"
+    },
+    "ru": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_ru-1_9.argosmodel"
+    }
+  },
+  "postReviewSupplement": {
+    "entries": 3,
+    "chinese": 8,
+    "coverage": {
+      "ja": {
+        "entries": 3,
+        "englishFallbacks": 0
+      },
+      "ko": {
+        "entries": 3,
+        "englishFallbacks": 0
+      },
+      "fr": {
+        "entries": 3,
+        "englishFallbacks": 0
+      },
+      "de": {
+        "entries": 3,
+        "englishFallbacks": 0
+      },
+      "es": {
+        "entries": 3,
+        "englishFallbacks": 0
+      },
+      "it": {
+        "entries": 3,
+        "englishFallbacks": 0
+      },
+      "pt": {
+        "entries": 3,
+        "englishFallbacks": 0
+      },
+      "nl": {
+        "entries": 3,
+        "englishFallbacks": 0
+      },
+      "ru": {
+        "entries": 3,
+        "englishFallbacks": 0
+      }
+    }
+  }
+}
