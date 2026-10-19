@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-19",
+  "scope": "Ningxia and Qinghai batch 1",
+  "sourceCatalog": 1040,
+  "coverage": {
+    "ja": {
+      "entries": 1040,
+      "englishFallbacks": 216
+    },
+    "ko": {
+      "entries": 1040,
+      "englishFallbacks": 31
+    },
+    "fr": {
+      "entries": 1040,
+      "englishFallbacks": 89
+    },
+    "de": {
+      "entries": 1040,
+      "englishFallbacks": 67
+    },
+    "es": {
+      "entries": 1040,
+      "englishFallbacks": 199
+    },
+    "it": {
+      "entries": 1040,
+      "englishFallbacks": 78
+    },
+    "pt": {
+      "entries": 1040,
+      "englishFallbacks": 18
+    },
+    "nl": {
+      "entries": 1040,
+      "englishFallbacks": 66
+    },
+    "ru": {
+      "entries": 1040,
+      "englishFallbacks": 71
+    }
+  },
+  "method": "Local Argos Translate / CTranslate2; interface wording reviewed; traditional Chinese converted with OpenCC s2t",
+  "source": "https://www.argosopentech.com/",
+  "policy": "Machine translations are reading aids, not verified official translations. Unreliable token restoration falls back to the English source. Proper names retain existing English spellings with original Chinese names. Currency codes, addresses, URLs and monetary values are preserved.",
+  "models": {
+    "ja": {
+      "version": "1.1",
+      "url": "https://argos-net.com/v1/translate-en_ja-1_1.argosmodel"
+    },
+    "ko": {
+      "version": "1.1",
+      "url": "https://argos-net.com/v1/translate-en_ko-1_1.argosmodel"
+    },
+    "fr": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_fr-1_9.argosmodel"
+    },
+    "de": {
+      "version": "1.3",
+      "url": "https://argos-net.com/v1/translate-en_de-1_3.argosmodel"
+    },
+    "es": {
+      "version": "1.0",
+      "url": "https://argos-net.com/v1/translate-en_es-1_0.argosmodel"
+    },
+    "it": {
+      "version": "1.0",
+      "url": "https://argos-net.com/v1/translate-en_it-1_0.argosmodel"
+    },
+    "pt": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_pt-1_9.argosmodel"
+    },
+    "nl": {
+      "version": "1.8",
+      "url": "https://argos-net.com/v1/translate-en_nl-1_8.argosmodel"
+    },
+    "ru": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_ru-1_9.argosmodel"
+    }
+  }
+}
