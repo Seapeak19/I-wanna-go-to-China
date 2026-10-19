@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-19",
+  "scope": "Xinjiang and Inner Mongolia tariff and photograph supplement",
+  "sourceCatalog": 7,
+  "coverage": {
+    "ja": {
+      "entries": 7,
+      "englishFallbacks": 0
+    },
+    "ko": {
+      "entries": 7,
+      "englishFallbacks": 0
+    },
+    "fr": {
+      "entries": 7,
+      "englishFallbacks": 0
+    },
+    "de": {
+      "entries": 7,
+      "englishFallbacks": 0
+    },
+    "es": {
+      "entries": 7,
+      "englishFallbacks": 0
+    },
+    "it": {
+      "entries": 7,
+      "englishFallbacks": 1
+    },
+    "pt": {
+      "entries": 7,
+      "englishFallbacks": 0
+    },
+    "nl": {
+      "entries": 7,
+      "englishFallbacks": 0
+    },
+    "ru": {
+      "entries": 7,
+      "englishFallbacks": 0
+    }
+  },
+  "method": "Local Argos Translate / CTranslate2; interface wording reviewed; traditional Chinese converted with OpenCC s2t",
+  "source": "https://www.argosopentech.com/",
+  "policy": "Machine translations are reading aids, not verified official translations. Unreliable token restoration falls back to the English source. Proper names retain existing English spellings with original Chinese names. Currency codes, addresses, URLs and monetary values are preserved.",
+  "models": {
+    "ja": {
+      "version": "1.1",
+      "url": "https://argos-net.com/v1/translate-en_ja-1_1.argosmodel"
+    },
+    "ko": {
+      "version": "1.1",
+      "url": "https://argos-net.com/v1/translate-en_ko-1_1.argosmodel"
+    },
+    "fr": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_fr-1_9.argosmodel"
+    },
+    "de": {
+      "version": "1.3",
+      "url": "https://argos-net.com/v1/translate-en_de-1_3.argosmodel"
+    },
+    "es": {
+      "version": "1.0",
+      "url": "https://argos-net.com/v1/translate-en_es-1_0.argosmodel"
+    },
+    "it": {
+      "version": "1.0",
+      "url": "https://argos-net.com/v1/translate-en_it-1_0.argosmodel"
+    },
+    "pt": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_pt-1_9.argosmodel"
+    },
+    "nl": {
+      "version": "1.8",
+      "url": "https://argos-net.com/v1/translate-en_nl-1_8.argosmodel"
+    },
+    "ru": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_ru-1_9.argosmodel"
+    }
+  }
+}
