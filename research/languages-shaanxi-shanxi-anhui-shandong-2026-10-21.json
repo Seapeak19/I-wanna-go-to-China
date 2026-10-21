@@ -1,42 +1,42 @@
 {
   "date": "2026-10-21",
   "scope": "Shaanxi, Shanxi, Anhui and Shandong batch 1",
-  "sourceCatalog": 4276,
+  "sourceCatalog": 4284,
   "coverage": {
     "ja": {
-      "entries": 4276,
-      "englishFallbacks": 436
+      "entries": 4284,
+      "englishFallbacks": 443
     },
     "ko": {
-      "entries": 4276,
-      "englishFallbacks": 58
+      "entries": 4284,
+      "englishFallbacks": 59
     },
     "fr": {
-      "entries": 4276,
+      "entries": 4284,
       "englishFallbacks": 277
     },
     "de": {
-      "entries": 4276,
+      "entries": 4284,
       "englishFallbacks": 248
     },
     "es": {
-      "entries": 4276,
+      "entries": 4284,
       "englishFallbacks": 913
     },
     "it": {
-      "entries": 4276,
+      "entries": 4284,
       "englishFallbacks": 291
     },
     "pt": {
-      "entries": 4276,
+      "entries": 4284,
       "englishFallbacks": 65
     },
     "nl": {
-      "entries": 4276,
+      "entries": 4284,
       "englishFallbacks": 355
     },
     "ru": {
-      "entries": 4276,
+      "entries": 4284,
       "englishFallbacks": 281
     }
   },
@@ -84,6 +84,6 @@
   "serialization": {
     "format": "shared-key-table-v1",
     "lossless": true,
-    "bytes": 72578305
+    "bytes": 72614430
   }
 }
