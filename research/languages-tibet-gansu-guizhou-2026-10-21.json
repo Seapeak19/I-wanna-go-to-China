@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-21",
+  "scope": "Tibet and Gansu batch 1; Guizhou batch 2",
+  "sourceCatalog": 1815,
+  "coverage": {
+    "ja": {
+      "entries": 1815,
+      "englishFallbacks": 234
+    },
+    "ko": {
+      "entries": 1815,
+      "englishFallbacks": 43
+    },
+    "fr": {
+      "entries": 1815,
+      "englishFallbacks": 171
+    },
+    "de": {
+      "entries": 1815,
+      "englishFallbacks": 161
+    },
+    "es": {
+      "entries": 1815,
+      "englishFallbacks": 423
+    },
+    "it": {
+      "entries": 1815,
+      "englishFallbacks": 179
+    },
+    "pt": {
+      "entries": 1815,
+      "englishFallbacks": 59
+    },
+    "nl": {
+      "entries": 1815,
+      "englishFallbacks": 164
+    },
+    "ru": {
+      "entries": 1815,
+      "englishFallbacks": 180
+    }
+  },
+  "method": "Local Argos Translate / CTranslate2; interface wording reviewed; traditional Chinese converted with OpenCC s2t",
+  "source": "https://www.argosopentech.com/",
+  "policy": "Machine translations are reading aids, not verified official translations. Unreliable token restoration falls back to the English source. Proper names retain existing English spellings with original Chinese names. Currency codes, addresses, URLs and monetary values are preserved.",
+  "models": {
+    "ja": {
+      "version": "1.1",
+      "url": "https://argos-net.com/v1/translate-en_ja-1_1.argosmodel"
+    },
+    "ko": {
+      "version": "1.1",
+      "url": "https://argos-net.com/v1/translate-en_ko-1_1.argosmodel"
+    },
+    "fr": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_fr-1_9.argosmodel"
+    },
+    "de": {
+      "version": "1.3",
+      "url": "https://argos-net.com/v1/translate-en_de-1_3.argosmodel"
+    },
+    "es": {
+      "version": "1.0",
+      "url": "https://argos-net.com/v1/translate-en_es-1_0.argosmodel"
+    },
+    "it": {
+      "version": "1.0",
+      "url": "https://argos-net.com/v1/translate-en_it-1_0.argosmodel"
+    },
+    "pt": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_pt-1_9.argosmodel"
+    },
+    "nl": {
+      "version": "1.8",
+      "url": "https://argos-net.com/v1/translate-en_nl-1_8.argosmodel"
+    },
+    "ru": {
+      "version": "1.9",
+      "url": "https://argos-net.com/v1/translate-en_ru-1_9.argosmodel"
+    }
+  },
+  "serialization": {
+    "format": "shared-key-table-v1",
+    "lossless": true,
+    "bytes": 77264134
+  },
+  "preservedTranslations": 339824
+}
