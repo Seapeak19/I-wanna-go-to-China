@@ -1,6 +1,6 @@
 const test=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path'),vm=require('node:vm');
 const root=path.join(__dirname,'..'),ctx={};
-vm.runInNewContext(fs.readFileSync(path.join(root,'locale-extra.js'),'utf8')+'\n'+fs.readFileSync(path.join(root,'locale-core.js'),'utf8'),ctx);
+vm.runInNewContext(require('./helpers/translations.cjs').source()+'\n'+fs.readFileSync(path.join(root,'locale-core.js'),'utf8'),ctx);
 const I=ctx.TravelI18n,M=require('../currency-core.js'),pack=ctx.TRAVEL_TRANSLATIONS;
 test('twelve languages cover all thirteen currencies without coupling their selection',()=>{assert.equal(I.codes.length,12);assert.equal(M.codes.length,13);for(const c of M.codes)assert(I.languages.some(l=>l.currencies.includes(c)),c);assert.equal(I.normalize('ru-RU'),'ru');assert.equal(I.normalize('zh-TW'),'zh-Hant');assert.equal(I.normalize('ja-JP'),'ja');assert.equal(I.normalize('unknown'),'en')});
 test('each added language has packaged guide translations and reviewed primary navigation',()=>{for(const lang of I.codes.filter(x=>!['zh','zh-Hant','en'].includes(x))){assert(pack.messages[lang],lang);assert(pack.metadata.coverage[lang].entries>=4380);for(const key of ['Explore','Food guide','Itinerary & costs','Ticket price','Total dining'])assert.notEqual(I.translate(key,lang),key,lang+': '+key);assert(I.translate('Machine-translated reading aid. Check Chinese names, addresses and original sources before booking.',lang))}});

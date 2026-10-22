@@ -1,0 +1,14 @@
+{
+  "name": "i-wanna-go-to-china",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sourced China travel guides and trip planning",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs && node scripts/styles.mjs && node scripts/prepare-site.mjs",
+    "test": "node --test --test-concurrency=2 tests/*.test.cjs",
+    "check": "node scripts/check.mjs"
+  }
+}

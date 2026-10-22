@@ -1,0 +1,20 @@
+node_modules/
+dist/
+data/region-*.json.gz
+data/catalog.json.gz
+data/index.json
+data/covers.json
+bundle.css
+.playwright-cli/
+# Local design experiments retained outside the published build.
+source/
+preview.html
+admin-map.html
+admin-map.js
+destination-cards.html
+immersive-home.html
+immersive.js
+vendor/three/
+assets/globe-earth.jpg
+map-data/*.json.gz
+tests/map.test.cjs

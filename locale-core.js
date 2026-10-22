@@ -25,5 +25,5 @@
  function resolve(zh,en,lang){return chinese(lang)?(lang==='zh-Hant'?traditional(zh):zh):translate(en,lang)}
  function field(o,key,lang){return chinese(lang)?(lang==='zh-Hant'?traditional(o?.[key]):o?.[key]):translate(o?.en?.[key]??o?.[key]??'',lang)}
  function localizeDom(container,lang){if(lang==='zh'||lang==='en')return;const doc=container.ownerDocument,skip='script,style,#language,.original-name,[lang="zh-CN"],input,textarea';const walk=doc.createTreeWalker(container,4);while(walk.nextNode()){const n=walk.currentNode;if(n.parentElement?.closest(skip)||!n.nodeValue.trim())continue;const value=translate(n.nodeValue,lang);if(value!==n.nodeValue)n.nodeValue=value}for(const el of container.querySelectorAll('[aria-label],[alt],[title]')){if(el.closest('#language'))continue;for(const attr of ['aria-label','alt','title'])if(el.hasAttribute(attr)){const before=el.getAttribute(attr),value=translate(before,lang);if(value!==before)el.setAttribute(attr,value)}}}
- return Object.freeze({languages,codes,chinese,normalize,locale,translate,traditional,resolve,field,localizeDom});
+ return Object.freeze({invalidate:()=>{compiled=null;},languages,codes,chinese,normalize,locale,translate,traditional,resolve,field,localizeDom});
 });
