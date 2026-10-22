@@ -1,0 +1,14 @@
+{
+  "scope": "Local province/city/county card preview, replacing 3D camera navigation",
+  "library": {
+    "name": "three",
+    "version": "0.186.1",
+    "source": "https://registry.npmjs.org/three/-/three-0.186.1.tgz",
+    "license": "MIT",
+    "licenseFile": "vendor/three/LICENSE"
+  },
+  "boundaries": "See research/admin-map-audit.json and map-data/manifest.json. Local gzip snapshots; no runtime third-party map requests.",
+  "destinationPhotos": "Only existing real, sourced images from the exact province/city/district scope. Captions identify the city and attraction. Representative city lists are editorial entry suggestions.",
+  "limitations": "Historical boundary snapshots, not a verified 2026 administrative census. Uniform 3D extrusion is decorative, not terrain.",
+  "runtime": "destination-cards.js and destination-cards.css; no Three.js or compressed boundaries loaded"
+}
