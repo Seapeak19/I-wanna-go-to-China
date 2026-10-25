@@ -18,3 +18,10 @@ vendor/three/
 assets/globe-earth.jpg
 map-data/*.json.gz
 tests/map.test.cjs
+# Local design boards and review captures (not shipping artifacts).
+.impeccable/mocks/
+.impeccable/questions/
+.impeccable/review/
+.impeccable/direction-*.json
+.impeccable/direction-candidates.md
+.impeccable/home-direction.md
