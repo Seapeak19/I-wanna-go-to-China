@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-26",
   "regions": [
     {
       "id": "北京",
@@ -7137,12 +7137,19 @@
       "budgetStatus": "编辑估算",
       "days": 2,
       "wiki": null,
-      "sources": [],
+      "sources": [
+        {
+          "type": "门票依据",
+          "title": "澳门文化局龙环葡韵参观资料",
+          "url": "https://www.macauculture.gov.mo/en/housesmuseum",
+          "checked": "2026-10-26"
+        }
+      ],
       "reviews": null,
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-16",
+      "updated": "2026-10-26",
       "en": {
         "name": "Taipa Houses",
         "location": "County-level discovery lead",
@@ -7151,16 +7158,16 @@
         "food": "Local specialties and individual restaurants still need research."
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-16",
-        "auditMethod": "public-source-search",
-        "scope": "现行票价未确认",
-        "scopeEn": "Current tariff unconfirmed",
-        "note": "未取得足以确认现行常规成人票或免费入园范围的可靠公开资料；不采用平台起价、网友报价或过期活动作为已核实票价。",
-        "en": {
-          "note": "Reliable public evidence is insufficient to confirm current regular adult admission or free-entry coverage. Platform starting prices, visitor claims and expired offers are not treated as verified tariffs."
-        },
-        "noteEn": "Reliable public evidence is insufficient to confirm current regular adult admission or free-entry coverage. Platform starting prices, visitor claims and expired offers are not treated as verified tariffs."
+        "status": "verified",
+        "amount": 0,
+        "currency": "MOP",
+        "scope": "博物馆一般参观",
+        "scopeEn": "General museum admission",
+        "note": "免费参观；10:00–19:00，18:30停止入场，周一休馆。独立经营的书店、餐饮及活动按各自规则消费。",
+        "noteEn": "Museum admission is free; 10:00–19:00, last entry 18:30, closed Mondays. Independently operated shops, dining and events have their own terms.",
+        "sourceUrl": "https://www.macauculture.gov.mo/en/housesmuseum",
+        "sourceTitle": "澳门文化局龙环葡韵参观资料",
+        "checked": "2026-10-26"
       },
       "city": "澳门"
     },
@@ -54024,7 +54031,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-26",
       "image": {
         "path": "assets/hk-sight-134064807.jpg",
         "url": "https://you.ctrip.com/sight/hongkong38/134064807.html",
@@ -54043,12 +54050,16 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-18",
-        "scope": "现行门票待核实",
-        "scopeEn": "Current admission unconfirmed",
-        "note": "现行常规票务、免费范围及适用条件待官方核实；不将平台起价、旧促销或付费导览当作基础门票。",
-        "noteEn": "Current regular admission, free areas and conditions await official confirmation; platform starting prices, old promotions and paid tours are not basic admission."
+        "status": "verified",
+        "amount": 70,
+        "currency": "HKD",
+        "scope": "成人普通门票（指定日期时段）",
+        "scopeEn": "Regular adult ticket, specified date and session",
+        "note": "HKD 70普通门票适用于展厅1至7；弹性成人票HKD 90。其他展览以当期购票页面为准。",
+        "noteEn": "The HKD 70 regular ticket covers galleries 1–7 at the chosen date and time; the adult flex ticket is HKD 90. Check separate exhibition arrangements.",
+        "sourceUrl": "https://www.hkpm.org.hk/en/visit/ticket",
+        "sourceTitle": "香港故宫文化博物馆官方门票",
+        "checked": "2026-10-26"
       },
       "sources": [
         {
@@ -54056,6 +54067,12 @@
           "title": "携程：具体景点资料、图片与公开反馈",
           "type": "游客平台",
           "checked": "2026-10-18"
+        },
+        {
+          "type": "门票依据",
+          "title": "香港故宫文化博物馆官方门票",
+          "url": "https://www.hkpm.org.hk/en/visit/ticket",
+          "checked": "2026-10-26"
         }
       ],
       "en": {
@@ -54067,14 +54084,14 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
-        "admission": "按已核对票务范围或待核实标注安排；商业展览、交通、演出与活动另核。",
+        "checked": "2026-10-26",
+        "admission": "HKD 70普通门票适用于展厅1至7；弹性成人票HKD 90。其他展览以当期购票页面为准。",
         "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "九龙站或柯士甸站后按西九文化区指引换乘或步行。",
         "en": {
-          "admission": "Use the checked ticket scope or pending label; commercial shows, transport, performances and activities are separate.",
+          "admission": "The HKD 70 regular ticket covers galleries 1–7 at the chosen date and time; the adult flex ticket is HKD 90. Check separate exhibition arrangements.",
           "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
@@ -54086,11 +54103,11 @@
         "checked": "2026-10-18",
         "positive": "携程公开汇总 4.7/5、6774 条评价，查阅快照仅作参考，不代表本站亲访。",
         "negative": "评价真实性未独立核验，未完成正负体验系统抽样；图中景色、活动和季节不代表当天状态。",
-        "ticket": "网友消费、导览与套票不作为基础门票依据。",
+        "ticket": "HKD 70普通门票适用于展厅1至7；弹性成人票HKD 90。其他展览以当期购票页面为准。",
         "en": {
           "positive": "Ctrip aggregate 4.7/5 from 6774 reviews at checking time; not a visit by this site.",
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
-          "ticket": "Visitor spending, tours and packages do not establish basic admission."
+          "ticket": "The HKD 70 regular ticket covers galleries 1–7 at the chosen date and time; the adult flex ticket is HKD 90. Check separate exhibition arrangements."
         }
       }
     },
@@ -54297,7 +54314,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-26",
       "image": {
         "path": "assets/hk-sight-135990065.jpg",
         "url": "https://you.ctrip.com/sight/hongkong38/135990065.html",
@@ -54316,12 +54333,16 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-18",
-        "scope": "现行门票待核实",
-        "scopeEn": "Current admission unconfirmed",
-        "note": "现行常规票务、免费范围及适用条件待官方核实；不将平台起价、旧促销或付费导览当作基础门票。",
-        "noteEn": "Current regular admission, free areas and conditions await official confirmation; platform starting prices, old promotions and paid tours are not basic admission."
+        "status": "verified",
+        "amount": 190,
+        "currency": "HKD",
+        "scope": "成人正价门票",
+        "scopeEn": "Standard adult admission",
+        "note": "成人HKD 190，特惠票HKD 100；部分公共区域免费。按所选入场时段购票，不把公共区域免费等同全部展览免费。",
+        "noteEn": "Standard adult admission is HKD 190; concessions HKD 100. Selected public spaces are free. Choose the required admission session.",
+        "sourceUrl": "https://www.mplus.org.hk/en/admission-tickets/",
+        "sourceTitle": "M+官方门票",
+        "checked": "2026-10-26"
       },
       "sources": [
         {
@@ -54329,6 +54350,12 @@
           "title": "携程：具体景点资料、图片与公开反馈",
           "type": "游客平台",
           "checked": "2026-10-18"
+        },
+        {
+          "type": "门票依据",
+          "title": "M+官方门票",
+          "url": "https://www.mplus.org.hk/en/admission-tickets/",
+          "checked": "2026-10-26"
         }
       ],
       "en": {
@@ -54340,14 +54367,14 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
-        "admission": "按已核对票务范围或待核实标注安排；商业展览、交通、演出与活动另核。",
+        "checked": "2026-10-26",
+        "admission": "成人HKD 190，特惠票HKD 100；部分公共区域免费。按所选入场时段购票，不把公共区域免费等同全部展览免费。",
         "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "从九龙站按西九文化区步行指引抵达，注意室外路段日晒。",
         "en": {
-          "admission": "Use the checked ticket scope or pending label; commercial shows, transport, performances and activities are separate.",
+          "admission": "Standard adult admission is HKD 190; concessions HKD 100. Selected public spaces are free. Choose the required admission session.",
           "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
@@ -54359,11 +54386,11 @@
         "checked": "2026-10-18",
         "positive": "携程公开汇总 4.7/5、2116 条评价，查阅快照仅作参考，不代表本站亲访。",
         "negative": "评价真实性未独立核验，未完成正负体验系统抽样；图中景色、活动和季节不代表当天状态。",
-        "ticket": "网友消费、导览与套票不作为基础门票依据。",
+        "ticket": "成人HKD 190，特惠票HKD 100；部分公共区域免费。按所选入场时段购票，不把公共区域免费等同全部展览免费。",
         "en": {
           "positive": "Ctrip aggregate 4.7/5 from 2116 reviews at checking time; not a visit by this site.",
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
-          "ticket": "Visitor spending, tours and packages do not establish basic admission."
+          "ticket": "Standard adult admission is HKD 190; concessions HKD 100. Selected public spaces are free. Choose the required admission session."
         }
       }
     },
@@ -54388,7 +54415,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-26",
       "image": {
         "path": "assets/hk-sight-1416016.jpg",
         "url": "https://you.ctrip.com/sight/38/1416016.html",
@@ -54407,12 +54434,16 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-18",
-        "scope": "现行门票待核实",
-        "scopeEn": "Current admission unconfirmed",
-        "note": "现行常规票务、免费范围及适用条件待官方核实；不将平台起价、旧促销或付费导览当作基础门票。",
-        "noteEn": "Current regular admission, free areas and conditions await official confirmation; platform starting prices, old promotions and paid tours are not basic admission."
+        "status": "verified",
+        "amount": 0,
+        "currency": "HKD",
+        "scope": "园区一般参观",
+        "scopeEn": "General site admission",
+        "note": "园区一般参观免费；指定展览、演出或活动可能另收费，应查各活动页面。",
+        "noteEn": "General site access is free; selected exhibitions, performances or programmes may charge separately.",
+        "sourceUrl": "https://www.taikwun.hk/en/visit/visiting_information",
+        "sourceTitle": "大馆官方参观信息",
+        "checked": "2026-10-26"
       },
       "sources": [
         {
@@ -54420,6 +54451,12 @@
           "title": "携程：具体景点资料、图片与公开反馈",
           "type": "游客平台",
           "checked": "2026-10-18"
+        },
+        {
+          "type": "门票依据",
+          "title": "大馆官方参观信息",
+          "url": "https://www.taikwun.hk/en/visit/visiting_information",
+          "checked": "2026-10-26"
         }
       ],
       "en": {
@@ -54431,14 +54468,14 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
-        "admission": "按已核对票务范围或待核实标注安排；商业展览、交通、演出与活动另核。",
+        "checked": "2026-10-26",
+        "admission": "园区一般参观免费；指定展览、演出或活动可能另收费，应查各活动页面。",
         "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "中环站后步行上坡，可结合荷李活道，同行推车需另查无障碍入口。",
         "en": {
-          "admission": "Use the checked ticket scope or pending label; commercial shows, transport, performances and activities are separate.",
+          "admission": "General site access is free; selected exhibitions, performances or programmes may charge separately.",
           "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
@@ -54450,11 +54487,11 @@
         "checked": "2026-10-18",
         "positive": "携程公开汇总 4.6/5、200 条评价，查阅快照仅作参考，不代表本站亲访。",
         "negative": "评价真实性未独立核验，未完成正负体验系统抽样；图中景色、活动和季节不代表当天状态。",
-        "ticket": "网友消费、导览与套票不作为基础门票依据。",
+        "ticket": "园区一般参观免费；指定展览、演出或活动可能另收费，应查各活动页面。",
         "en": {
           "positive": "Ctrip aggregate 4.6/5 from 200 reviews at checking time; not a visit by this site.",
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
-          "ticket": "Visitor spending, tours and packages do not establish basic admission."
+          "ticket": "General site access is free; selected exhibitions, performances or programmes may charge separately."
         }
       }
     },
@@ -54479,7 +54516,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-26",
       "image": {
         "path": "assets/hk-sight-3343.jpg",
         "url": "https://you.ctrip.com/sight/hongkong38/3343.html",
@@ -54498,12 +54535,16 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-18",
-        "scope": "现行门票待核实",
-        "scopeEn": "Current admission unconfirmed",
-        "note": "现行常规票务、免费范围及适用条件待官方核实；不将平台起价、旧促销或付费导览当作基础门票。",
-        "noteEn": "Current regular admission, free areas and conditions await official confirmation; platform starting prices, old promotions and paid tours are not basic admission."
+        "status": "verified",
+        "amount": 10,
+        "currency": "HKD",
+        "scope": "展览厅标准票",
+        "scopeEn": "Exhibition halls standard admission",
+        "note": "展览厅标准票HKD 10；周三及符合条件的学生免费。天象厅电影须另购HKD 30或40门票，不包含在此价格内。",
+        "noteEn": "Exhibition halls cost HKD 10; Wednesdays and eligible students are free. Space Theatre shows require a separate HKD 30 or 40 ticket.",
+        "sourceUrl": "https://hk.space.museum/en/web/spm/visit-and-facilities.html",
+        "sourceTitle": "香港太空馆参观与票务",
+        "checked": "2026-10-26"
       },
       "sources": [
         {
@@ -54511,6 +54552,12 @@
           "title": "携程：具体景点资料、图片与公开反馈",
           "type": "游客平台",
           "checked": "2026-10-18"
+        },
+        {
+          "type": "门票依据",
+          "title": "香港太空馆参观与票务",
+          "url": "https://hk.space.museum/en/web/spm/visit-and-facilities.html",
+          "checked": "2026-10-26"
         }
       ],
       "en": {
@@ -54522,14 +54569,14 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
-        "admission": "按已核对票务范围或待核实标注安排；商业展览、交通、演出与活动另核。",
+        "checked": "2026-10-26",
+        "admission": "展览厅标准票HKD 10；周三及符合条件的学生免费。天象厅电影须另购HKD 30或40门票，不包含在此价格内。",
         "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "尖沙咀或尖东站步行至梳士巴利道，与海滨安排同片区。",
         "en": {
-          "admission": "Use the checked ticket scope or pending label; commercial shows, transport, performances and activities are separate.",
+          "admission": "Exhibition halls cost HKD 10; Wednesdays and eligible students are free. Space Theatre shows require a separate HKD 30 or 40 ticket.",
           "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
@@ -54541,11 +54588,11 @@
         "checked": "2026-10-18",
         "positive": "携程公开汇总 4.8/5、6245 条评价，查阅快照仅作参考，不代表本站亲访。",
         "negative": "评价真实性未独立核验，未完成正负体验系统抽样；图中景色、活动和季节不代表当天状态。",
-        "ticket": "网友消费、导览与套票不作为基础门票依据。",
+        "ticket": "展览厅标准票HKD 10；周三及符合条件的学生免费。天象厅电影须另购HKD 30或40门票，不包含在此价格内。",
         "en": {
           "positive": "Ctrip aggregate 4.8/5 from 6245 reviews at checking time; not a visit by this site.",
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
-          "ticket": "Visitor spending, tours and packages do not establish basic admission."
+          "ticket": "Exhibition halls cost HKD 10; Wednesdays and eligible students are free. Space Theatre shows require a separate HKD 30 or 40 ticket."
         }
       }
     },
@@ -55337,7 +55384,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-26",
       "image": {
         "path": "assets/mo-sight-54151.jpg",
         "url": "https://you.ctrip.com/sight/macau39/54151.html",
@@ -55356,12 +55403,16 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-18",
-        "scope": "现行门票待核实",
-        "scopeEn": "Current admission unconfirmed",
-        "note": "现行常规票务、免费范围及适用条件待官方核实；不将平台起价、旧促销或付费导览当作基础门票。",
-        "noteEn": "Current regular admission, free areas and conditions await official confirmation; platform starting prices, old promotions and paid tours are not basic admission."
+        "status": "verified",
+        "amount": 80,
+        "currency": "MOP",
+        "scope": "成人标准门票",
+        "scopeEn": "Standard adult admission",
+        "note": "标准票MOP 80，适用12岁以上、65岁以下访客；优惠资格及指定免费日须另核，不默认套用促销。",
+        "noteEn": "The standard ticket costs MOP 80 for visitors over 12 and under 65. Check concession eligibility and designated free dates separately.",
+        "sourceUrl": "https://mgpm.macaotourism.gov.mo/en/about/ticketing",
+        "sourceTitle": "澳门大赛车博物馆官方票务",
+        "checked": "2026-10-26"
       },
       "sources": [
         {
@@ -55369,6 +55420,12 @@
           "title": "携程：具体景点资料、图片与公开反馈",
           "type": "游客平台",
           "checked": "2026-10-18"
+        },
+        {
+          "type": "门票依据",
+          "title": "澳门大赛车博物馆官方票务",
+          "url": "https://mgpm.macaotourism.gov.mo/en/about/ticketing",
+          "checked": "2026-10-26"
         }
       ],
       "en": {
@@ -55380,14 +55437,14 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
-        "admission": "按已核对票务范围或待核实标注安排；商业展览、交通、演出与活动另核。",
+        "checked": "2026-10-26",
+        "admission": "标准票MOP 80，适用12岁以上、65岁以下访客；优惠资格及指定免费日须另核，不默认套用促销。",
         "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "公交至高美士街附近后步行，核对闭馆日。",
         "en": {
-          "admission": "Use the checked ticket scope or pending label; commercial shows, transport, performances and activities are separate.",
+          "admission": "The standard ticket costs MOP 80 for visitors over 12 and under 65. Check concession eligibility and designated free dates separately.",
           "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
@@ -55399,11 +55456,11 @@
         "checked": "2026-10-18",
         "positive": "携程公开汇总 4.7/5、978 条评价，查阅快照仅作参考，不代表本站亲访。",
         "negative": "评价真实性未独立核验，未完成正负体验系统抽样；图中景色、活动和季节不代表当天状态。",
-        "ticket": "网友消费、导览与套票不作为基础门票依据。",
+        "ticket": "标准票MOP 80，适用12岁以上、65岁以下访客；优惠资格及指定免费日须另核，不默认套用促销。",
         "en": {
           "positive": "Ctrip aggregate 4.7/5 from 978 reviews at checking time; not a visit by this site.",
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
-          "ticket": "Visitor spending, tours and packages do not establish basic admission."
+          "ticket": "The standard ticket costs MOP 80 for visitors over 12 and under 65. Check concession eligibility and designated free dates separately."
         }
       }
     },
@@ -55813,7 +55870,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-26",
       "image": {
         "path": "assets/mo-sight-26481.jpg",
         "url": "https://you.ctrip.com/sight/macau39/26481.html",
@@ -55832,12 +55889,16 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-18",
-        "scope": "现行门票待核实",
-        "scopeEn": "Current admission unconfirmed",
-        "note": "现行常规票务、免费范围及适用条件待官方核实；不将平台起价、旧促销或付费导览当作基础门票。",
-        "noteEn": "Current regular admission, free areas and conditions await official confirmation; platform starting prices, old promotions and paid tours are not basic admission."
+        "status": "verified",
+        "amount": 0,
+        "currency": "MOP",
+        "scope": "一般参观",
+        "scopeEn": "General admission",
+        "note": "免费参观；10:00–18:00，17:30停止入场，周三休馆（公众假期除外）。周末粤语导赏须按官方规则预约。",
+        "noteEn": "Free admission; 10:00–18:00, last entry 17:30. Closed Wednesdays except public holidays. Reserve weekend Cantonese tours under official rules.",
+        "sourceUrl": "https://www.macaotourism.gov.mo/zh-hans/sightseeing/museums-and-galleries/mandarins-house",
+        "sourceTitle": "澳门旅游局郑家大屋参观资料",
+        "checked": "2026-10-26"
       },
       "sources": [
         {
@@ -55845,6 +55906,12 @@
           "title": "携程：具体景点资料、图片与公开反馈",
           "type": "游客平台",
           "checked": "2026-10-18"
+        },
+        {
+          "type": "门票依据",
+          "title": "澳门旅游局郑家大屋参观资料",
+          "url": "https://www.macaotourism.gov.mo/zh-hans/sightseeing/museums-and-galleries/mandarins-house",
+          "checked": "2026-10-26"
         }
       ],
       "en": {
@@ -55856,14 +55923,14 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
-        "admission": "按已核对票务范围或待核实标注安排；商业展览、交通、演出与活动另核。",
+        "checked": "2026-10-26",
+        "admission": "免费参观；10:00–18:00，17:30停止入场，周三休馆（公众假期除外）。周末粤语导赏须按官方规则预约。",
         "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "亚婆井前地附近，结合妈阁片区步行并预留坡道时间。",
         "en": {
-          "admission": "Use the checked ticket scope or pending label; commercial shows, transport, performances and activities are separate.",
+          "admission": "Free admission; 10:00–18:00, last entry 17:30. Closed Wednesdays except public holidays. Reserve weekend Cantonese tours under official rules.",
           "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
@@ -55875,11 +55942,11 @@
         "checked": "2026-10-18",
         "positive": "携程公开汇总 4.5/5、217 条评价，查阅快照仅作参考，不代表本站亲访。",
         "negative": "评价真实性未独立核验，未完成正负体验系统抽样；图中景色、活动和季节不代表当天状态。",
-        "ticket": "网友消费、导览与套票不作为基础门票依据。",
+        "ticket": "免费参观；10:00–18:00，17:30停止入场，周三休馆（公众假期除外）。周末粤语导赏须按官方规则预约。",
         "en": {
           "positive": "Ctrip aggregate 4.5/5 from 217 reviews at checking time; not a visit by this site.",
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
-          "ticket": "Visitor spending, tours and packages do not establish basic admission."
+          "ticket": "Free admission; 10:00–18:00, last entry 17:30. Closed Wednesdays except public holidays. Reserve weekend Cantonese tours under official rules."
         }
       }
     },
@@ -56359,7 +56426,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-26",
       "image": {
         "path": "assets/tw-tpe-sight-19884.jpg",
         "url": "https://you.ctrip.com/sight/taipei360/19884.html",
@@ -56379,14 +56446,15 @@
       },
       "ticket": {
         "status": "verified",
+        "amount": 350,
         "currency": "TWD",
-        "checked": "2026-10-18",
-        "scope": "台北北院普通参观券，不含额外服务",
-        "scopeEn": "Taipei northern branch regular ticket, excluding extras",
+        "scope": "北部院区普通参观券",
+        "scopeEn": "Northern branch regular admission",
+        "note": "普通参观券TWD 350；优惠及免票按证件核验，团体导览设备租金另计，不能把优惠票当作所有游客默认票价。",
+        "noteEn": "Regular northern-branch admission is TWD 350. Concessions and exemptions require qualifying documents; group audio rental is separate.",
         "sourceUrl": "https://www.npm.edu.tw/Articles.aspx?l=2&sno=02007004",
-        "note": "普通票350新台币；优惠票150新台币须符合馆方资格，团体语音设备等另计，不套用嘉义南院价格。",
-        "noteEn": "Regular admission is TWD 350. The TWD 150 concession requires official eligibility; group audio equipment and other extras are separate. Southern-branch fares do not apply.",
-        "amount": 350
+        "sourceTitle": "台北故宫博物院官方门票",
+        "checked": "2026-10-26"
       },
       "sources": [
         {
@@ -56400,6 +56468,12 @@
           "title": "官方：门票范围与资格",
           "type": "官方资料",
           "checked": "2026-10-18"
+        },
+        {
+          "type": "门票依据",
+          "title": "台北故宫博物院官方门票",
+          "url": "https://www.npm.edu.tw/Articles.aspx?l=2&sno=02007004",
+          "checked": "2026-10-26"
         }
       ],
       "en": {
@@ -56411,14 +56485,14 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
-        "admission": "按已核对票务范围或待核实标注安排；商业展览、交通、演出与活动另核。",
+        "checked": "2026-10-26",
+        "admission": "普通参观券TWD 350；优惠及免票按证件核验，团体导览设备租金另计，不能把优惠票当作所有游客默认票价。",
         "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "市区捷运换乘往至善路方向公交，核对当前开放日及证件优惠资格。",
         "en": {
-          "admission": "Use the checked ticket scope or pending label; commercial shows, transport, performances and activities are separate.",
+          "admission": "Regular northern-branch admission is TWD 350. Concessions and exemptions require qualifying documents; group audio rental is separate.",
           "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
@@ -56430,11 +56504,11 @@
         "checked": "2026-10-18",
         "positive": "携程公开汇总 4.7/5、9719 条评价，查阅快照仅作参考，不代表本站亲访。",
         "negative": "评价真实性未独立核验，未完成正负体验系统抽样；图中景色、活动和季节不代表当天状态。",
-        "ticket": "网友消费、导览与套票不作为基础门票依据。",
+        "ticket": "普通参观券TWD 350；优惠及免票按证件核验，团体导览设备租金另计，不能把优惠票当作所有游客默认票价。",
         "en": {
           "positive": "Ctrip aggregate 4.7/5 from 9719 reviews at checking time; not a visit by this site.",
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
-          "ticket": "Visitor spending, tours and packages do not establish basic admission."
+          "ticket": "Regular northern-branch admission is TWD 350. Concessions and exemptions require qualifying documents; group audio rental is separate."
         }
       }
     },
@@ -56641,7 +56715,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-26",
       "image": {
         "path": "assets/tw-tpe-sight-19883.jpg",
         "url": "https://you.ctrip.com/sight/taipei360/19883.html",
@@ -56660,12 +56734,16 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-18",
-        "scope": "现行门票待核实",
-        "scopeEn": "Current admission unconfirmed",
-        "note": "现行常规票务、免费范围及适用条件待官方核实；不将平台起价、旧促销或付费导览当作基础门票。",
-        "noteEn": "Current regular admission, free areas and conditions await official confirmation; platform starting prices, old promotions and paid tours are not basic admission."
+        "status": "verified",
+        "amount": 100,
+        "currency": "TWD",
+        "scope": "一般成人入园票",
+        "scopeEn": "General adult admission",
+        "note": "一般入园票TWD 100；台北市民、学生及其他优惠按证件核验。教育中心TWD 20、游园列车TWD 5另计。",
+        "noteEn": "General admission is TWD 100. Resident, student and other concessions require eligibility checks. Education Center TWD 20 and shuttle train TWD 5 are separate.",
+        "sourceUrl": "https://english.zoo.gov.taipei/cp.aspx?n=8ED5B9F3BA1D301D&s=4B50296785955F05",
+        "sourceTitle": "台北市立动物园官方票价",
+        "checked": "2026-10-26"
       },
       "sources": [
         {
@@ -56673,6 +56751,12 @@
           "title": "携程：具体景点资料、图片与公开反馈",
           "type": "游客平台",
           "checked": "2026-10-18"
+        },
+        {
+          "type": "门票依据",
+          "title": "台北市立动物园官方票价",
+          "url": "https://english.zoo.gov.taipei/cp.aspx?n=8ED5B9F3BA1D301D&s=4B50296785955F05",
+          "checked": "2026-10-26"
         }
       ],
       "en": {
@@ -56684,14 +56768,14 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
-        "admission": "按已核对票务范围或待核实标注安排；商业展览、交通、演出与活动另核。",
+        "checked": "2026-10-26",
+        "admission": "一般入园票TWD 100；台北市民、学生及其他优惠按证件核验。教育中心TWD 20、游园列车TWD 5另计。",
         "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "捷运动物园站抵达，末次入场与园内交通另查。",
         "en": {
-          "admission": "Use the checked ticket scope or pending label; commercial shows, transport, performances and activities are separate.",
+          "admission": "General admission is TWD 100. Resident, student and other concessions require eligibility checks. Education Center TWD 20 and shuttle train TWD 5 are separate.",
           "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
@@ -56703,11 +56787,11 @@
         "checked": "2026-10-18",
         "positive": "携程公开汇总 4.8/5、1598 条评价，查阅快照仅作参考，不代表本站亲访。",
         "negative": "评价真实性未独立核验，未完成正负体验系统抽样；图中景色、活动和季节不代表当天状态。",
-        "ticket": "网友消费、导览与套票不作为基础门票依据。",
+        "ticket": "一般入园票TWD 100；台北市民、学生及其他优惠按证件核验。教育中心TWD 20、游园列车TWD 5另计。",
         "en": {
           "positive": "Ctrip aggregate 4.8/5 from 1598 reviews at checking time; not a visit by this site.",
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
-          "ticket": "Visitor spending, tours and packages do not establish basic admission."
+          "ticket": "General admission is TWD 100. Resident, student and other concessions require eligibility checks. Education Center TWD 20 and shuttle train TWD 5 are separate."
         }
       }
     },
@@ -57824,7 +57908,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-26",
       "image": {
         "path": "assets/tw-ntp-sight-136620.jpg",
         "url": "https://you.ctrip.com/sight/2063/136620.html",
@@ -57843,12 +57927,16 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-18",
-        "scope": "现行门票待核实",
-        "scopeEn": "Current admission unconfirmed",
-        "note": "现行常规票务、免费范围及适用条件待官方核实；不将平台起价、旧促销或付费导览当作基础门票。",
-        "noteEn": "Current regular admission, free areas and conditions await official confirmation; platform starting prices, old promotions and paid tours are not basic admission."
+        "status": "verified",
+        "amount": 80,
+        "currency": "TWD",
+        "scope": "一般入馆票",
+        "scopeEn": "General museum admission",
+        "note": "一般门票TWD 80；新北市民、符合条件的学生及其他免票对象须出示证件。体验活动费用另计。",
+        "noteEn": "General admission is TWD 80. Eligible local residents, students and other exempt visitors must show qualifying documents. Workshops cost extra.",
+        "sourceUrl": "https://www.ceramics.ntpc.gov.tw/files/file_pool/1/0N310504807960339935/門票資訊-更新.pdf",
+        "sourceTitle": "莺歌陶瓷博物馆官方门票说明",
+        "checked": "2026-10-26"
       },
       "sources": [
         {
@@ -57856,6 +57944,12 @@
           "title": "携程：具体景点资料、图片与公开反馈",
           "type": "游客平台",
           "checked": "2026-10-18"
+        },
+        {
+          "type": "门票依据",
+          "title": "莺歌陶瓷博物馆官方门票说明",
+          "url": "https://www.ceramics.ntpc.gov.tw/files/file_pool/1/0N310504807960339935/門票資訊-更新.pdf",
+          "checked": "2026-10-26"
         }
       ],
       "en": {
@@ -57867,14 +57961,14 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
-        "admission": "按已核对票务范围或待核实标注安排；商业展览、交通、演出与活动另核。",
+        "checked": "2026-10-26",
+        "admission": "一般门票TWD 80；新北市民、符合条件的学生及其他免票对象须出示证件。体验活动费用另计。",
         "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "莺歌车站后步行至文化路，老街购物另预留时间。",
         "en": {
-          "admission": "Use the checked ticket scope or pending label; commercial shows, transport, performances and activities are separate.",
+          "admission": "General admission is TWD 80. Eligible local residents, students and other exempt visitors must show qualifying documents. Workshops cost extra.",
           "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
@@ -57886,11 +57980,11 @@
         "checked": "2026-10-18",
         "positive": "携程公开汇总 4.4/5、59 条评价，查阅快照仅作参考，不代表本站亲访。",
         "negative": "评价真实性未独立核验，未完成正负体验系统抽样；图中景色、活动和季节不代表当天状态。",
-        "ticket": "网友消费、导览与套票不作为基础门票依据。",
+        "ticket": "一般门票TWD 80；新北市民、符合条件的学生及其他免票对象须出示证件。体验活动费用另计。",
         "en": {
           "positive": "Ctrip aggregate 4.4/5 from 59 reviews at checking time; not a visit by this site.",
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
-          "ticket": "Visitor spending, tours and packages do not establish basic admission."
+          "ticket": "General admission is TWD 80. Eligible local residents, students and other exempt visitors must show qualifying documents. Workshops cost extra."
         }
       }
     },
@@ -58006,7 +58100,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-26",
       "image": {
         "path": "assets/tw-txg-sight-1744995.jpg",
         "url": "https://you.ctrip.com/sight/taichung1369/1744995.html",
@@ -58025,12 +58119,16 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-18",
-        "scope": "现行门票待核实",
-        "scopeEn": "Current admission unconfirmed",
-        "note": "现行常规票务、免费范围及适用条件待官方核实；不将平台起价、旧促销或付费导览当作基础门票。",
-        "noteEn": "Current regular admission, free areas and conditions await official confirmation; platform starting prices, old promotions and paid tours are not basic admission."
+        "status": "verified",
+        "amount": 120,
+        "currency": "TWD",
+        "scope": "展示场一般成人票",
+        "scopeEn": "General exhibition-hall admission",
+        "note": "展示场TWD 120，包含生命科学厅、人类文化厅及地球环境厅；剧场、温室和科学中心另计。官网公告2026年每周五14:00–17:00展示场免费，出行前复核。",
+        "noteEn": "Exhibition halls cost TWD 120 and include life science, human cultures and the global environment. Theatres, greenhouse and science center cost extra. The official 2026 Friday 14:00–17:00 free-hall offer requires a pre-visit check.",
+        "sourceUrl": "https://www.nmns.edu.tw/ch/visit/ticket/",
+        "sourceTitle": "台湾自然科学博物馆官方票价",
+        "checked": "2026-10-26"
       },
       "sources": [
         {
@@ -58038,6 +58136,12 @@
           "title": "携程：具体景点资料、图片与公开反馈",
           "type": "游客平台",
           "checked": "2026-10-18"
+        },
+        {
+          "type": "门票依据",
+          "title": "台湾自然科学博物馆官方票价",
+          "url": "https://www.nmns.edu.tw/ch/visit/ticket/",
+          "checked": "2026-10-26"
         }
       ],
       "en": {
@@ -58049,14 +58153,14 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
-        "admission": "按已核对票务范围或待核实标注安排；商业展览、交通、演出与活动另核。",
+        "checked": "2026-10-26",
+        "admission": "展示场TWD 120，包含生命科学厅、人类文化厅及地球环境厅；剧场、温室和科学中心另计。官网公告2026年每周五14:00–17:00展示场免费，出行前复核。",
         "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "市区公交至馆前路附近，按想看展馆安排室内时间。",
         "en": {
-          "admission": "Use the checked ticket scope or pending label; commercial shows, transport, performances and activities are separate.",
+          "admission": "Exhibition halls cost TWD 120 and include life science, human cultures and the global environment. Theatres, greenhouse and science center cost extra. The official 2026 Friday 14:00–17:00 free-hall offer requires a pre-visit check.",
           "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
@@ -58068,11 +58172,11 @@
         "checked": "2026-10-18",
         "positive": "携程公开汇总 4.8/5、308 条评价，查阅快照仅作参考，不代表本站亲访。",
         "negative": "评价真实性未独立核验，未完成正负体验系统抽样；图中景色、活动和季节不代表当天状态。",
-        "ticket": "网友消费、导览与套票不作为基础门票依据。",
+        "ticket": "展示场TWD 120，包含生命科学厅、人类文化厅及地球环境厅；剧场、温室和科学中心另计。官网公告2026年每周五14:00–17:00展示场免费，出行前复核。",
         "en": {
           "positive": "Ctrip aggregate 4.8/5 from 308 reviews at checking time; not a visit by this site.",
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
-          "ticket": "Visitor spending, tours and packages do not establish basic admission."
+          "ticket": "Exhibition halls cost TWD 120 and include life science, human cultures and the global environment. Theatres, greenhouse and science center cost extra. The official 2026 Friday 14:00–17:00 free-hall offer requires a pre-visit check."
         }
       }
     },
@@ -59007,7 +59111,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-26",
       "image": {
         "path": "assets/tw-tnn-sight-1787597.jpg",
         "url": "https://you.ctrip.com/sight/tainan757/1787597.html",
@@ -59026,12 +59130,16 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-18",
-        "scope": "现行门票待核实",
-        "scopeEn": "Current admission unconfirmed",
-        "note": "现行常规票务、免费范围及适用条件待官方核实；不将平台起价、旧促销或付费导览当作基础门票。",
-        "noteEn": "Current regular admission, free areas and conditions await official confirmation; platform starting prices, old promotions and paid tours are not basic admission."
+        "status": "verified",
+        "amount": 200,
+        "currency": "TWD",
+        "scope": "常设展一般成人票",
+        "scopeEn": "Permanent exhibition general admission",
+        "note": "常设展一般票TWD 200；特展、导览与其他体验另计，团体设备租用要求须另查。",
+        "noteEn": "Permanent exhibition admission is TWD 200. Special exhibitions, guided services and experiences are separate; check group audio-system requirements.",
+        "sourceUrl": "https://www.chimeimuseum.tw/en",
+        "sourceTitle": "奇美博物馆官方参观信息",
+        "checked": "2026-10-26"
       },
       "sources": [
         {
@@ -59039,6 +59147,12 @@
           "title": "携程：具体景点资料、图片与公开反馈",
           "type": "游客平台",
           "checked": "2026-10-18"
+        },
+        {
+          "type": "门票依据",
+          "title": "奇美博物馆官方参观信息",
+          "url": "https://www.chimeimuseum.tw/en",
+          "checked": "2026-10-26"
         }
       ],
       "en": {
@@ -59050,14 +59164,14 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
-        "admission": "按已核对票务范围或待核实标注安排；商业展览、交通、演出与活动另核。",
+        "checked": "2026-10-26",
+        "admission": "常设展一般票TWD 200；特展、导览与其他体验另计，团体设备租用要求须另查。",
         "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "可由保安车站方向接入，确认步行距离及返程班次。",
         "en": {
-          "admission": "Use the checked ticket scope or pending label; commercial shows, transport, performances and activities are separate.",
+          "admission": "Permanent exhibition admission is TWD 200. Special exhibitions, guided services and experiences are separate; check group audio-system requirements.",
           "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
@@ -59069,11 +59183,11 @@
         "checked": "2026-10-18",
         "positive": "携程公开汇总 4.8/5、686 条评价，查阅快照仅作参考，不代表本站亲访。",
         "negative": "评价真实性未独立核验，未完成正负体验系统抽样；图中景色、活动和季节不代表当天状态。",
-        "ticket": "网友消费、导览与套票不作为基础门票依据。",
+        "ticket": "常设展一般票TWD 200；特展、导览与其他体验另计，团体设备租用要求须另查。",
         "en": {
           "positive": "Ctrip aggregate 4.8/5 from 686 reviews at checking time; not a visit by this site.",
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
-          "ticket": "Visitor spending, tours and packages do not establish basic admission."
+          "ticket": "Permanent exhibition admission is TWD 200. Special exhibitions, guided services and experiences are separate; check group audio-system requirements."
         }
       }
     },
@@ -59280,7 +59394,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-26",
       "image": {
         "path": "assets/tw-tnn-sight-1746978.jpg",
         "url": "https://you.ctrip.com/sight/757/1746978.html",
@@ -59299,12 +59413,16 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-18",
-        "scope": "现行门票待核实",
-        "scopeEn": "Current admission unconfirmed",
-        "note": "现行常规票务、免费范围及适用条件待官方核实；不将平台起价、旧促销或付费导览当作基础门票。",
-        "noteEn": "Current regular admission, free areas and conditions await official confirmation; platform starting prices, old promotions and paid tours are not basic admission."
+        "status": "verified",
+        "amount": 100,
+        "currency": "TWD",
+        "scope": "展示场全票",
+        "scopeEn": "Full-price exhibition admission",
+        "note": "展示场全票TWD 100；学生、儿童及其他优惠按证件和当前官方规则核验，团体与家庭票不作为单人成本默认值。",
+        "noteEn": "Full-price exhibition admission is TWD 100. Verify student, child and other concessions with current official rules; group and family tickets are not the default individual price.",
+        "sourceUrl": "https://the.nmth.gov.tw/nmth/zh-TW/Feedback",
+        "sourceTitle": "台湾历史博物馆官方参观问答",
+        "checked": "2026-10-26"
       },
       "sources": [
         {
@@ -59312,6 +59430,12 @@
           "title": "携程：具体景点资料、图片与公开反馈",
           "type": "游客平台",
           "checked": "2026-10-18"
+        },
+        {
+          "type": "门票依据",
+          "title": "台湾历史博物馆官方参观问答",
+          "url": "https://the.nmth.gov.tw/nmth/zh-TW/Feedback",
+          "checked": "2026-10-26"
         }
       ],
       "en": {
@@ -59323,14 +59447,14 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
-        "admission": "按已核对票务范围或待核实标注安排；商业展览、交通、演出与活动另核。",
+        "checked": "2026-10-26",
+        "admission": "展示场全票TWD 100；学生、儿童及其他优惠按证件和当前官方规则核验，团体与家庭票不作为单人成本默认值。",
         "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "位于市区北侧，公交路线与末班车提前查。",
         "en": {
-          "admission": "Use the checked ticket scope or pending label; commercial shows, transport, performances and activities are separate.",
+          "admission": "Full-price exhibition admission is TWD 100. Verify student, child and other concessions with current official rules; group and family tickets are not the default individual price.",
           "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
@@ -59342,11 +59466,11 @@
         "checked": "2026-10-18",
         "positive": "携程公开汇总 4.9/5、59 条评价，查阅快照仅作参考，不代表本站亲访。",
         "negative": "评价真实性未独立核验，未完成正负体验系统抽样；图中景色、活动和季节不代表当天状态。",
-        "ticket": "网友消费、导览与套票不作为基础门票依据。",
+        "ticket": "展示场全票TWD 100；学生、儿童及其他优惠按证件和当前官方规则核验，团体与家庭票不作为单人成本默认值。",
         "en": {
           "positive": "Ctrip aggregate 4.9/5 from 59 reviews at checking time; not a visit by this site.",
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
-          "ticket": "Visitor spending, tours and packages do not establish basic admission."
+          "ticket": "Full-price exhibition admission is TWD 100. Verify student, child and other concessions with current official rules; group and family tickets are not the default individual price."
         }
       }
     },
@@ -582280,10 +582404,10 @@
     }
   ],
   "ticketAudit": {
-    "checked": "2026-10-21",
+    "checked": "2026-10-26",
     "entries": 4937,
-    "verified": 256,
-    "unverified": 4681,
+    "verified": 268,
+    "unverified": 4669,
     "method": "官方景区、场馆与文旅公开票务资料；不把历史活动、政府最高限价、导览服务起价或网友报价当作现行门票。"
   },
   "cityExpansion": {

@@ -1,0 +1,66 @@
+{
+  "checked": "2026-10-26",
+  "base": "CNY",
+  "ecb": {
+    "date": "2026-10-23",
+    "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "perEUR": {
+      "EUR": 1,
+      "USD": 1.1193,
+      "JPY": 175.51,
+      "CZK": 24.327,
+      "DKK": 7.4748,
+      "GBP": 0.83728,
+      "HUF": 366.73,
+      "PLN": 4.3945,
+      "RON": 5.3492,
+      "SEK": 11.131,
+      "CHF": 0.9227,
+      "ISK": 136.2,
+      "NOK": 10.4665,
+      "TRY": 55.6715,
+      "AUD": 1.5939,
+      "BRL": 5.6485,
+      "CAD": 1.5665,
+      "CNY": 7.466,
+      "HKD": 8.7793,
+      "IDR": 20268.06,
+      "ILS": 3.4939,
+      "INR": 106.272,
+      "KRW": 1482.46,
+      "MXN": 21.0226,
+      "MYR": 4.5729,
+      "NZD": 1.9682,
+      "PHP": 71.235,
+      "SGD": 1.431,
+      "THB": 37.771,
+      "ZAR": 18.5777
+    }
+  },
+  "rub": {
+    "date": "2026-10-24",
+    "source": "Bank of Russia",
+    "url": "https://www.cbr.ru/scripts/XML_daily.asp?date_req=24/10/2026",
+    "nominal": 1,
+    "value": 12.0557,
+    "rate": 12.0557
+  },
+  "twd": {
+    "date": "2026-10-26",
+    "businessDate": "2026-10-23",
+    "observedAt": "2026-10-26 19:45",
+    "source": "Bank of Taiwan / calculated midpoint",
+    "url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
+    "buy": 4.845,
+    "sell": 4.905,
+    "rate": 4.875,
+    "cashBuy": 4.778,
+    "cashSell": 4.94,
+    "note": "Page heading says 2026-10-23; latest quotation timestamp says 2026-10-26 19:45. Both original labels are retained. Midpoint uses spot buy/sell, not cash."
+  },
+  "mop": {
+    "peg": 1.03,
+    "url": "https://www.amcm.gov.mo/en/currency/currency-in-circulation-in-macao/coins/currency-in-circulation-in-macao",
+    "method": "ECB HKD/CNY cross rate multiplied by monetary-authority issuance peg; not a retail exchange quote."
+  }
+}
