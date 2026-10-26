@@ -31,6 +31,16 @@
         "name": "island-duration",
         "value": "750ms",
         "purpose": "照片交互过渡"
+      },
+      {
+        "name": "island-refresh-exit",
+        "value": "260ms",
+        "purpose": "随机刷新时六张城市卡片向后翻转"
+      },
+      {
+        "name": "island-refresh-enter",
+        "value": "680ms",
+        "purpose": "六张新城市卡片错位展开，间隔35ms"
       }
     ],
     "breakpoints": [
