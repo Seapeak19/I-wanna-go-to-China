@@ -4,6 +4,10 @@ data/region-*.json.gz
 data/catalog.json.gz
 data/index.json
 data/covers.json
+data/browse.json.gz
+data/images.json
+data/image-jobs.json
+assets/optimized/
 bundle.css
 .playwright-cli/
 # Local design experiments retained outside the published build.
