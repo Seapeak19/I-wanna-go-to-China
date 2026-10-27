@@ -29,3 +29,6 @@ tests/map.test.cjs
 .impeccable/direction-*.json
 .impeccable/direction-candidates.md
 .impeccable/home-direction.md
+
+data/quality.json.gz
+data/seo-summary.json

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "regions": [
     {
       "id": "北京",
@@ -7142,14 +7142,14 @@
           "type": "门票依据",
           "title": "澳门文化局龙环葡韵参观资料",
           "url": "https://www.macauculture.gov.mo/en/housesmuseum",
-          "checked": "2026-10-26"
+          "checked": "2026-10-27"
         }
       ],
       "reviews": null,
       "tier": "待调研",
       "lowCrowd": true,
       "mobility": "未核实",
-      "updated": "2026-10-26",
+      "updated": "2026-10-27",
       "en": {
         "name": "Taipa Houses",
         "location": "County-level discovery lead",
@@ -7169,7 +7169,32 @@
         "sourceTitle": "澳门文化局龙环葡韵参观资料",
         "checked": "2026-10-26"
       },
-      "city": "澳门"
+      "city": "澳门",
+      "guide": {
+        "complete": false,
+        "admission": "博物馆一般参观",
+        "reservation": "预约与同行证件条件按官方渠道核对。",
+        "accessibility": "连续无障碍路线与设施运行未完整核实。",
+        "route": "具体交通与接驳方式待核实。",
+        "en": {
+          "admission": "General museum admission",
+          "reservation": "Confirm reservations and party documents through official channels.",
+          "accessibility": "Continuous accessible routes and operating facilities are not fully verified.",
+          "route": "Transport routes and local connections have not yet been verified.",
+          "opening": "Museum 10:00–19:00, last entry 18:30; closed Mondays. Nearby commercial spaces keep separate hours."
+        },
+        "opening": "博物馆10:00—19:00，18:30停止入场，周一休馆；周边商业空间各自营业。",
+        "checked": "2026-10-27"
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.macauculture.gov.mo/en/housesmuseum",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      }
     },
     {
       "id": "d322",
@@ -49336,7 +49361,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/bj-sight-229.jpg",
         "url": "https://you.ctrip.com/sight/beijing1/229.html",
@@ -49395,6 +49420,12 @@
           "title": "故宫官方：实名订票与证件",
           "type": "官方资料",
           "checked": "2026-10-18"
+        },
+        {
+          "url": "https://www.dpm.org.cn/Visit.html",
+          "title": "官方开放、预约与适用范围",
+          "type": "官方资料",
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -49406,16 +49437,16 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
+        "checked": "2026-10-27",
         "admission": "以门票核对中的范围、票种和有效期为准，其他体验及交通另核；资料查阅不是当日现场核验。",
-        "opening": "平台开放信息仅作线索；出发前查场馆官方开放、闭馆日、末次入场和天气或活动通知。",
-        "reservation": "全员实名预约购票，官网说明不出售当日票；按官方系统可用日期和证件类型操作，广场预约不能替代。",
+        "opening": "4月1日—10月31日08:30—17:00，16:00停止入馆；11月1日—次年3月31日08:30—16:30，15:30停止入馆。常规周一闭馆，法定节假日例外。",
+        "reservation": "通过故宫官方渠道提前实名购票，不售当日票。旺季60元、淡季40元须按到访日选，珍宝馆和钟表馆各10元另购；局部展厅关闭不代表全院关闭。",
         "accessibility": "台阶、连续无障碍路线、卫生间和电梯运行未完整核实，按同行需要联系场馆。",
         "route": "按午门入院方向规划，单列安检、步行与神武门离场时间。",
         "en": {
           "admission": "Use the audited coverage, ticket type and validity; check optional activities and transport separately. Source checking is not an on-site inspection.",
-          "opening": "Platform hours are leads only; check operator notices for closure days, last admission, weather and events.",
-          "reservation": "Identity-based advance booking is required; the official site states no same-day ticket sales. A square reservation is separate.",
+          "opening": "April–October 08:30–17:00, last entry 16:00; November–March 08:30–16:30, last entry 15:30. Normally closed Mondays except national holidays.",
+          "reservation": "Book ahead with real ID through Palace Museum channels; same-day tickets are not sold. Select the CNY 60/40 season for the visit date; Treasure and Clock galleries each cost CNY 10 extra. Local hall closures do not close the whole museum.",
           "accessibility": "Steps, continuous accessible routes, toilets and operating lifts are not fully verified; contact the venue for your group.",
           "route": "Plan around entry at the Meridian Gate and exit near Shenwu Gate; allow for security and walking."
         }
@@ -49431,6 +49462,15 @@
           "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
           "ticket": "Visitor spending, packages and tours are not basic-admission evidence."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.dpm.org.cn/Visit.html",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -49886,7 +49926,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/bj-sight-62722.jpg",
         "url": "https://you.ctrip.com/sight/beijing1/62722.html",
@@ -49927,6 +49967,12 @@
           "title": "国博官方：观众预约须知",
           "type": "官方资料",
           "checked": "2026-10-18"
+        },
+        {
+          "url": "https://pcticket.chnmuseum.cn/museum-en/",
+          "title": "官方开放、预约与适用范围",
+          "type": "官方资料",
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -49938,16 +49984,16 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
+        "checked": "2026-10-27",
         "admission": "以门票核对中的范围、票种和有效期为准，其他体验及交通另核；资料查阅不是当日现场核验。",
-        "opening": "平台开放信息仅作线索；出发前查场馆官方开放、闭馆日、末次入场和天气或活动通知。",
-        "reservation": "官方须知说明可提前7日实名预约，需本人预约证件原件；周一通常闭馆，当前开放与放票时段查官方系统。",
+        "opening": "常规09:00—17:00，16:00停止入馆；6月1日—10月31日延长至17:30，16:30停止入馆。常规周一闭馆，节假日安排另查。",
+        "reservation": "免费基本参观须提前实名预约，收费特展另核；使用官方渠道并核对所持证件原件。",
         "accessibility": "台阶、连续无障碍路线、卫生间和电梯运行未完整核实，按同行需要联系场馆。",
         "route": "天安门东一带步行安检较多，按北门观众入口和预约时段入馆。",
         "en": {
           "admission": "Use the audited coverage, ticket type and validity; check optional activities and transport separately. Source checking is not an on-site inspection.",
-          "opening": "Platform hours are leads only; check operator notices for closure days, last admission, weather and events.",
-          "reservation": "The official rules allow identity-based booking up to seven days ahead, with the original reserved ID required; check current slots and usual Monday closure.",
+          "opening": "Normally 09:00–17:00, last entry 16:00; June–October extended to 17:30, last entry 16:30. Monday closure and holiday exceptions require checking.",
+          "reservation": "Free basic admission requires advance identity-based reservations; check paid exhibitions and original documents through official channels.",
           "accessibility": "Steps, continuous accessible routes, toilets and operating lifts are not fully verified; contact the venue for your group.",
           "route": "Allow security time near Tiananmen East and use the museum visitor entrance for your reserved slot."
         }
@@ -49963,6 +50009,15 @@
           "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
           "ticket": "Visitor spending, packages and tours are not basic-admission evidence."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://pcticket.chnmuseum.cn/museum-en/",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -51979,7 +52034,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/sh-sight-3733.jpg",
         "url": "https://you.ctrip.com/sight/shanghai2/3733.html",
@@ -52033,7 +52088,7 @@
           "url": "https://www.shanghaimuseum.cn/mu/frontend/pg/service/visit-west",
           "title": "上博官方：人民广场馆特展期间安排",
           "type": "官方资料",
-          "checked": "2026-10-18"
+          "checked": "2026-10-27"
         },
         {
           "url": "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/I00005037",
@@ -52057,15 +52112,15 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
+        "checked": "2026-10-27",
         "admission": "以门票核对中的范围、票种和有效期为准，其他体验及交通另核；资料查阅不是当日现场核验。",
-        "opening": "人民广场馆9:00—17:00，15:00停止入场，通常周一闭馆；特展安排有效期至2027年11月14日，展后规则需重核。",
+        "opening": "人民广场馆09:00—17:00，15:00停止入场；延时场次到21:00、19:00停止入场，以票面日期为准。周一闭馆，国定假日例外。特展安排至2027年11月14日。",
         "reservation": "特展期间按官方实名预约购票，指定日须符合日期限制；不要把东馆免预约或旧的常设展免费规则套用到本馆。",
         "accessibility": "台阶、连续无障碍路线、卫生间和电梯运行未完整核实，按同行需要联系场馆。",
         "route": "人民大道201号，按武胜路南门散客入口及所购场次入馆。",
         "en": {
           "admission": "Use the audited coverage, ticket type and validity; check optional activities and transport separately. Source checking is not an on-site inspection.",
-          "opening": "People’s Square: 09:00–17:00, last entry 15:00, usual Monday closure. These exhibition arrangements end November 14, 2027; later rules need checking.",
+          "opening": "People’s Square 09:00–17:00, last entry 15:00. Dated extended sessions end at 21:00, last entry 19:00; use the booked session. Closed Mondays except national holidays. Exhibition arrangements end November 14, 2027.",
           "reservation": "Book the exhibition with valid ID and check designated-day restrictions. East-branch or old free-permanent-gallery rules do not apply.",
           "accessibility": "Steps, continuous accessible routes, toilets and operating lifts are not fully verified; contact the venue for your group.",
           "route": "Use the Wusheng Road south visitor gate at 201 Renmin Avenue for your booked session."
@@ -52082,6 +52137,15 @@
           "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
           "ticket": "Visitor spending, packages and tours are not basic-admission evidence."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.shanghaimuseum.cn/mu/frontend/pg/service/visit-west",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -52105,7 +52169,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/sh-sight-5717748.jpg",
         "url": "https://you.ctrip.com/sight/shanghai2/5717748.html",
@@ -52151,7 +52215,7 @@
           "url": "https://www.shanghaimuseum.cn/mu/frontend/pg/service/visit-east",
           "title": "上博官方：东馆开放与入馆",
           "type": "官方资料",
-          "checked": "2026-10-18"
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -52163,16 +52227,16 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
+        "checked": "2026-10-27",
         "admission": "以门票核对中的范围、票种和有效期为准，其他体验及交通另核；资料查阅不是当日现场核验。",
-        "opening": "东馆10:00—18:00，17:00停止入场；通常周二闭馆，国家法定节假日另查。",
-        "reservation": "馆方说明散客免预约，凭有效证件经地下东门安检；古代文明探索宫、数字馆等互动空间仍需专项预约。",
+        "opening": "东馆10:00—18:00，17:00停止入场；周二闭馆，国定假日例外。",
+        "reservation": "散客基础参观免预约，持有效证件原件从B1东门安检刷证。古代文明探索宫、数字馆等互动空间需专项预约，收费特展单独购票。",
         "accessibility": "台阶、连续无障碍路线、卫生间和电梯运行未完整核实，按同行需要联系场馆。",
         "route": "世纪大道1952号；散客按丁香路附近地下东门安检，周二通常闭馆。",
         "en": {
           "admission": "Use the audited coverage, ticket type and validity; check optional activities and transport separately. Source checking is not an on-site inspection.",
-          "opening": "East: 10:00–18:00, last entry 17:00; usual Tuesday closure except public holidays.",
-          "reservation": "Individuals do not need a general reservation; bring valid ID to the B1 east gate. Curio-City and digital interactive spaces still require specific bookings.",
+          "opening": "East branch 10:00–18:00, last entry 17:00; closed Tuesdays except national holidays.",
+          "reservation": "Individual general visitors enter without reservations using original valid ID at the B1 east gate. Interactive spaces need separate reservations; paid special exhibitions need separate tickets.",
           "accessibility": "Steps, continuous accessible routes, toilets and operating lifts are not fully verified; contact the venue for your group.",
           "route": "1952 Century Avenue: use the B1 east visitor gate near Dingxiang Road; usual closure is Tuesday."
         }
@@ -52188,6 +52252,15 @@
           "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
           "ticket": "Visitor spending, packages and tours are not basic-admission evidence."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.shanghaimuseum.cn/mu/frontend/pg/service/visit-east",
+        "closedWeekdays": [
+          2
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -52211,7 +52284,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/sh-sight-5646.jpg",
         "url": "https://you.ctrip.com/sight/shanghai2/5646.html",
@@ -52230,12 +52303,15 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-18",
-        "scope": "现行门票待核实",
-        "scopeEn": "Current admission unconfirmed",
-        "note": "常规入场范围与现行执行价尚未充分核实；不将平台起价、历史促销或付费导览当基础门票。",
-        "noteEn": "Current regular-entry coverage and applied fares remain unconfirmed; platform starting prices, old offers and paid tours are not admission evidence."
+        "status": "verified",
+        "amount": 30,
+        "currency": "CNY",
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.snhm.org.cn/cgfw/cgzx.htm",
+        "scope": "18周岁以上成人参观票，不含四维影院",
+        "scopeEn": "Adult admission for visitors aged over 18; excludes 4D cinema",
+        "note": "学生、老年及免票资格按官网证件条件核对；四维影院30元/人另购，不自动叠加。",
+        "noteEn": "Check documented student, senior and free-entry eligibility. The separate 4D cinema costs CNY 30 per person and is not automatically added."
       },
       "sources": [
         {
@@ -52243,6 +52319,12 @@
           "title": "携程：上海自然博物馆资料与公开反馈",
           "type": "游客平台",
           "checked": "2026-10-18"
+        },
+        {
+          "url": "https://www.snhm.org.cn/cgfw/cgzx.htm",
+          "title": "官方开放、预约与适用范围",
+          "type": "官方资料",
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -52254,16 +52336,16 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
+        "checked": "2026-10-27",
         "admission": "以门票核对中的范围、票种和有效期为准，其他体验及交通另核；资料查阅不是当日现场核验。",
-        "opening": "平台开放信息仅作线索；出发前查场馆官方开放、闭馆日、末次入场和天气或活动通知。",
-        "reservation": "按官方渠道确认预约、证件、时段和购票；未完成全流程代订或外籍证件现场验证。",
+        "opening": "09:00—17:00，16:00停止入馆；常规周二休馆，国定假日与临时公告另核。",
+        "reservation": "通过馆方线上实名购票；影院另购，探索中心和部分活动另预约。原件要求按所用证件核对，外籍证件购票全流程未实测。",
         "accessibility": "台阶、连续无障碍路线、卫生间和电梯运行未完整核实，按同行需要联系场馆。",
         "route": "自然博物馆站后按场馆入口到达，先确认预约购票。",
         "en": {
           "admission": "Use the audited coverage, ticket type and validity; check optional activities and transport separately. Source checking is not an on-site inspection.",
-          "opening": "Platform hours are leads only; check operator notices for closure days, last admission, weather and events.",
-          "reservation": "Confirm official booking, identity documents and time slots. End-to-end booking and foreign-ID entry have not been tested.",
+          "opening": "09:00–17:00; last entry 16:00. Normally closed Tuesdays, with national-holiday and temporary exceptions.",
+          "reservation": "Buy identity-based tickets through the museum. Cinema tickets and activity reservations are separate. Confirm original-document requirements; overseas-document checkout has not been tested.",
           "accessibility": "Steps, continuous accessible routes, toilets and operating lifts are not fully verified; contact the venue for your group.",
           "route": "Use Natural History Museum Station and confirm the required booking before travelling."
         }
@@ -52279,6 +52361,15 @@
           "negative": "Positive and negative experiences have not been systematically sampled; ratings and review authenticity are not independently verified.",
           "ticket": "Visitor spending, packages and tours are not basic-admission evidence."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.snhm.org.cn/cgfw/cgzx.htm",
+        "closedWeekdays": [
+          2
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -55870,7 +55961,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-26",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/mo-sight-26481.jpg",
         "url": "https://you.ctrip.com/sight/macau39/26481.html",
@@ -55911,7 +56002,7 @@
           "type": "门票依据",
           "title": "澳门旅游局郑家大屋参观资料",
           "url": "https://www.macaotourism.gov.mo/zh-hans/sightseeing/museums-and-galleries/mandarins-house",
-          "checked": "2026-10-26"
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -55923,15 +56014,15 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-26",
+        "checked": "2026-10-27",
         "admission": "免费参观；10:00–18:00，17:30停止入场，周三休馆（公众假期除外）。周末粤语导赏须按官方规则预约。",
-        "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
+        "opening": "10:00—18:00，17:30停止入场；周三休息，公众假期例外。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "亚婆井前地附近，结合妈阁片区步行并预留坡道时间。",
         "en": {
           "admission": "Free admission; 10:00–18:00, last entry 17:30. Closed Wednesdays except public holidays. Reserve weekend Cantonese tours under official rules.",
-          "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
+          "opening": "10:00–18:00, last entry 17:30; closed Wednesdays except public holidays.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
           "route": "Use the exact Chinese navigation address below and check current local public transport and return services. The Chinese guide contains a suggested approach: 亚婆井前地附近，结合妈阁片区步行并预留坡道时间。"
@@ -55948,6 +56039,15 @@
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
           "ticket": "Free admission; 10:00–18:00, last entry 17:30. Closed Wednesdays except public holidays. Reserve weekend Cantonese tours under official rules."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.macaotourism.gov.mo/zh-hans/sightseeing/museums-and-galleries/mandarins-house",
+        "closedWeekdays": [
+          3
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -59111,7 +59211,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-26",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/tw-tnn-sight-1787597.jpg",
         "url": "https://you.ctrip.com/sight/tainan757/1787597.html",
@@ -59152,7 +59252,7 @@
           "type": "门票依据",
           "title": "奇美博物馆官方参观信息",
           "url": "https://www.chimeimuseum.tw/en",
-          "checked": "2026-10-26"
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -59164,15 +59264,15 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-26",
+        "checked": "2026-10-27",
         "admission": "常设展一般票TWD 200；特展、导览与其他体验另计，团体设备租用要求须另查。",
-        "opening": "平台资料仅作线索，闭馆日、台风暴雨、检修与末次入场须查官方当期公告。",
+        "opening": "09:30—17:30，17:00停止入场；周三及除夕休馆，临时和假日安排另核。",
         "reservation": "按官方渠道确认预约、证件及优惠资格；本批未完成境外证件购票全流程测试。",
         "accessibility": "连续无障碍路线、坡道、电梯、卫生间及婴儿车可达性未完整核实，按同行需要联系场馆。",
         "route": "可由保安车站方向接入，确认步行距离及返程班次。",
         "en": {
           "admission": "Permanent exhibition admission is TWD 200. Special exhibitions, guided services and experiences are separate; check group audio-system requirements.",
-          "opening": "Platform information is a lead only. Confirm current official closure days, storm or maintenance notices and last entry.",
+          "opening": "09:30–17:30, last entry 17:00; closed Wednesdays and Lunar New Year’s Eve. Check temporary and holiday notices.",
           "reservation": "Confirm official booking, identity documents and concessions. Booking with overseas documents has not been tested end to end.",
           "accessibility": "Continuous accessible routes, slopes, lifts, toilets and stroller access are not fully verified; contact the venue for your group.",
           "route": "Use the exact Chinese navigation address below and check current local public transport and return services. The Chinese guide contains a suggested approach: 可由保安车站方向接入，确认步行距离及返程班次。"
@@ -59189,6 +59289,15 @@
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Photographs do not establish current conditions.",
           "ticket": "Permanent exhibition admission is TWD 200. Special exhibitions, guided services and experiences are separate; check group audio-system requirements."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.chimeimuseum.tw/en",
+        "closedWeekdays": [
+          3
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -136344,22 +136453,22 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-18",
+      "updated": "2026-10-27",
       "image": {
-        "path": "assets/sc-deyang-sight-48854.jpg",
-        "url": "https://you.ctrip.com/sight/guanghan1349/48854.html",
-        "originalUrl": "https://dimg04.c-ctrip.com/images/0104o12000h0jx9pr937E.jpg",
-        "author": "来源页未明确摄影署名",
-        "license": "原站版权图片，非开放许可；转载授权未核实",
-        "licenseUrl": "https://you.ctrip.com/sight/guanghan1349/48854.html",
-        "date": "",
-        "dateStatus": "unknown",
-        "rightsStatus": "source-copyright",
-        "caption": "三星堆博物馆 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
-        "modified": "网页裁切缩放",
+        "path": "assets/licensed-sanxingdui.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:New_Sandingdui_Museum_02.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/New_Sandingdui_Museum_02.jpg",
+        "author": "STW932",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "date": "2023-08-24",
+        "dateStatus": "known",
+        "rightsStatus": "open-license",
+        "caption": "三星堆博物馆新馆 · 2023-08-24实景照片，不代表当前现场状态",
+        "modified": "网页裁切缩放和WebP压缩，保留完整来源",
         "en": {
-          "caption": "Sanxingdui Museum · source-page reference photograph; capture date, season and editing unconfirmed",
-          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+          "caption": "Sanxingdui Museum · real photograph taken 2023-08-24; not a current site inspection",
+          "license": "CC BY-SA 4.0"
         }
       },
       "ticket": {
@@ -136386,7 +136495,13 @@
           "url": "https://www.sxd.cn/Guide?type=3",
           "title": "官方票务范围与公示资料，非实时订单",
           "type": "官方资料",
-          "checked": "2026-10-18"
+          "checked": "2026-10-27"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:New_Sandingdui_Museum_02.jpg",
+          "title": "Wikimedia Commons：作者、拍摄日期与CC BY-SA 4.0许可",
+          "type": "图片来源",
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -136398,16 +136513,16 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-18",
+        "checked": "2026-10-27",
         "admission": "按门票核对中注明的范围与来源日期安排；政府公示基础票不是实时订单，交通、演出及可选体验另查。",
-        "opening": "闭馆日、天气、汛情、施工、演出及末次入场须查运营方当期公告；资料查阅不是当日现场核验。",
-        "reservation": "按官方渠道确认实名预约、同行证件及优惠资格，本批未测试外籍证件购票全流程。",
+        "opening": "常规08:30—18:00，17:00停止入馆；节假日延长时段以当期公告为准，除夕闭馆规则另查。",
+        "reservation": "通过官方票务渠道按证件预约，普通票72元；学生优惠、退役军人票及人工或设备讲解分别核对。携带预约证件原件，外籍证件现场流程未实测。",
         "accessibility": "连续无障碍路线、山地台阶、村寨石板路、电梯及卫生间设施未完整核实，按同行需要联系场馆。",
         "route": "先按“德阳市广汉市西安路133号”定位本条目入口，核对所在区县与返程班次。市区公交、步行入口与停车按当日条件选择。",
         "en": {
           "admission": "Use the stated ticket scope and source date. Published government base tariffs are not live checkout quotes; check transport, performances and optional activities separately.",
-          "opening": "Confirm current operator notices for closure days, weather, flooding, works, performances and last entry. Source reading is not a same-day inspection.",
-          "reservation": "Confirm official identity-based booking, travel-party documents and concessions. Overseas-document checkout has not been tested end to end.",
+          "opening": "Normally 08:30–18:00, last entry 17:00. Recheck holiday extensions and Lunar New Year’s Eve closure notices.",
+          "reservation": "Reserve through official channels with the original document. Standard admission is CNY 72; confirm student/veteran eligibility and separate guiding charges. Overseas-document entry has not been tested on site.",
           "accessibility": "Continuous step-free routes, mountain steps, village paving, lifts and toilets are not fully verified; contact the venue for your group.",
           "route": "Navigate to the exact Chinese address: 德阳市广汉市西安路133号. Check the district, actual entrance and return services; county and rural trips need separate transport planning."
         }
@@ -136423,6 +136538,13 @@
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Historical photographs and performance reviews do not establish current access.",
           "ticket": "Visitor spending, vehicles, guiding and packages do not establish basic admission."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.sxd.cn/Guide?type=3",
+        "closedWeekdays": [],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -200378,7 +200500,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-19",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/hh-zhengzhou-sight-9593.jpg",
         "url": "https://you.ctrip.com/sight/zhengzhou157/9593.html",
@@ -200421,6 +200543,12 @@
           "title": "官方票务范围和公示资料参考，非实时订单",
           "type": "官方资料",
           "checked": "2026-10-19"
+        },
+        {
+          "url": "https://www.chnmus.net/ch/service/index.html?active=2",
+          "title": "官方开放、预约与适用范围",
+          "type": "官方资料",
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -200432,16 +200560,16 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-19",
+        "checked": "2026-10-27",
         "admission": "按门票核对中注明的范围与来源日期安排；政府公示基础票不是实时订单，交通、演出及可选体验另查。",
-        "opening": "闭馆日、天气、汛情、施工、演出及末次入场须查运营方当期公告；资料查阅不是当日现场核验。 戏剧园、漂流、温泉水乐和滑雪项目按季节及场次另核，“全年”分类不保证每日开放。",
-        "reservation": "按官方渠道确认实名预约、同行证件及优惠资格，本批未测试外籍证件购票全流程。",
+        "opening": "当前官网列周二至周日09:00—20:30，19:30停止入馆，周一闭馆（国定假日例外）；晚间票须按当期放票规则，延时安排可能调整。",
+        "reservation": "基本参观免费实名预约，可提前5日、每日17时放票；延长时段当日另放票，官网段落存在14时与16时两种说明，需在官方小程序核对，不承诺名额。支持护照及港澳台通行证等所列证件，携原件。",
         "accessibility": "连续无障碍路线、山地台阶、村寨石板路、电梯及卫生间设施未完整核实，按同行需要联系场馆。",
         "route": "先按“郑州市金水区农业路8号”定位本条目入口，核对所在区县与返程班次。市区公交、步行入口与停车按当日条件选择。",
         "en": {
           "admission": "Use the stated ticket scope and source date. Published government base tariffs are not live checkout quotes; check transport, performances and optional activities separately.",
-          "opening": "Confirm current operator notices for closure days, weather, flooding, works, performances and last entry. Source reading is not a same-day inspection. Theatre parks, rafting, water activities and skiing follow seasonal or session-specific operation; the year-round category does not promise daily access.",
-          "reservation": "Confirm official identity-based booking, travel-party documents and concessions. Overseas-document checkout has not been tested end to end.",
+          "opening": "Current official page lists Tuesday–Sunday 09:00–20:30, last entry 19:30; closed Mondays except national holidays. Evening tickets follow current release rules; extended access can change.",
+          "reservation": "Free identity-based booking opens five days ahead at 17:00. Evening tickets are released the same day; page sections conflict on 14:00 versus 16:00, so confirm in the official mini-program. Listed passports and HK/Macao/Taiwan permits require originals; availability is not guaranteed.",
           "accessibility": "Continuous step-free routes, mountain steps, village paving, lifts and toilets are not fully verified; contact the venue for your group.",
           "route": "Navigate to the exact Chinese address: 郑州市金水区农业路8号. Check the district, actual entrance and return services; county and rural trips need separate transport planning."
         }
@@ -200457,6 +200585,15 @@
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Historical photographs and performance reviews do not establish current access.",
           "ticket": "Visitor spending, vehicles, guiding and packages do not establish basic admission."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.chnmus.net/ch/service/index.html?active=2",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -239985,7 +240122,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-19",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/jz-nanjing-sight-19519.jpg",
         "url": "https://you.ctrip.com/sight/nanjing9/19519.html",
@@ -240027,7 +240164,7 @@
           "url": "https://www.njmuseum.org.cn/zh/visitIndex",
           "title": "官方公开票务范围参考，保留发布日期与适用条件",
           "type": "官方资料",
-          "checked": "2026-10-19"
+          "checked": "2026-10-27"
         },
         {
           "url": "https://www.njmuseum.org.cn/es/newsDetails?id=381200",
@@ -240045,16 +240182,16 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-19",
+        "checked": "2026-10-27",
         "admission": "按门票核对中注明的范围与来源日期安排；政府公示基础票不是实时订单，交通、演出及可选体验另查。",
-        "opening": "官网2026-08-31公告说明非遗馆展厅继续展陈提升，恢复开放另行通知；这是部分展厅调整，不等于全馆闭馆。其他展厅、闭馆日、预约与末次入场按当期公告确认。",
-        "reservation": "官网要求实名分时预约；港澳台通行证、外国人永久居留身份证或外籍护照观众按预约证件原件及凭证到指定绿色通道人工核验，本批未测试购票全流程。",
+        "opening": "常规09:00—17:00，16:00停止检票；周一闭馆，国定假日、寒暑假及临时延时安排另核。个别展厅维护不等于全馆闭馆，开放展厅分别核对。",
+        "reservation": "常设展免费实名预约，市场化临时特展另购，不以付费讲解代替入馆预约。",
         "accessibility": "官网参观须知列有电动轮椅及老年代步车限制，行动辅助设备与人工协助须提前联系；不保证全馆连续无障碍。",
         "route": "先按“江苏省南京市玄武区中山东路321号”定位本条目入口，核对所在区县与返程班次。市区公交、步行入口与停车按当日条件选择。",
         "en": {
           "admission": "Use the stated ticket scope and source date. Published government base tariffs are not live checkout quotes; check transport, performances and optional activities separately.",
-          "opening": "The official notice of 2026-08-31 says the intangible-heritage exhibition hall remains under improvement with reopening to be announced. This is a partial gallery adjustment, not a whole-museum closure. Confirm other galleries, closure days, booking and last entry.",
-          "reservation": "Use official timed real-name booking. Visitors using listed overseas or regional documents should use the original booking document and confirmation at the designated staffed channel; the full process has not been tested.",
+          "opening": "Normally 09:00–17:00, last entry 16:00. Closed Mondays; recheck national holidays, school-holiday and temporary extensions. Maintenance of individual galleries does not close the entire museum; check each gallery.",
+          "reservation": "Permanent galleries require free identity-based reservations. Commercial temporary exhibitions charge separately; paid guiding is not an admission reservation.",
           "accessibility": "Official visitor rules list restrictions on powered wheelchairs and mobility scooters; contact the museum before bringing mobility equipment or requesting assistance. A continuous accessible route is not guaranteed.",
           "route": "Navigate to the exact Chinese address: 江苏省南京市玄武区中山东路321号. Check the district, actual entrance and return services; county and rural trips need separate transport planning."
         }
@@ -240070,6 +240207,15 @@
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Historical photographs and performance reviews do not establish current access.",
           "ticket": "Visitor spending, vehicles, guiding and packages do not establish basic admission."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.njmuseum.org.cn/zh/visitIndex",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -371083,7 +371229,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-21",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/ssas-hefei-sight-1682342.jpg",
         "url": "https://you.ctrip.com/sight/hefei196/1682342.html",
@@ -371115,6 +371261,12 @@
           "title": "携程：具体地点、照片及公开游客资料",
           "type": "游客平台",
           "checked": "2026-10-21"
+        },
+        {
+          "url": "https://www.ahm.cn/En/Home",
+          "title": "官方开放、预约与适用范围",
+          "type": "官方资料",
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -371126,15 +371278,15 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-21",
+        "checked": "2026-10-27",
         "admission": "按门票核对中注明的范围与来源日期安排；政府公示基础票不是实时订单，交通、演出及可选体验另查。",
-        "opening": "闭馆日、天气、汛情、施工、演出及末次入场须查运营方当期公告；资料查阅不是当日现场核验。",
+        "opening": "新馆常规周二至周日09:00—17:00，16:30停止入馆；周一闭馆，法定节假日例外。",
         "reservation": "按官方渠道确认实名预约、同行证件及优惠资格，本批未测试外籍证件购票全流程。",
         "accessibility": "连续无障碍路线、山地台阶、村寨石板路、电梯及卫生间设施未完整核实，按同行需要联系场馆。",
         "route": "先按“安徽省合肥市怀宁路87号”定位本条目入口，核对所在区县与返程班次。市区公交、步行入口与停车按当日条件选择。",
         "en": {
           "admission": "Use the stated ticket scope and source date. Published government base tariffs are not live checkout quotes; check transport, performances and optional activities separately.",
-          "opening": "Confirm current operator notices for closure days, weather, flooding, works, performances and last entry. Source reading is not a same-day inspection.",
+          "opening": "New museum normally Tuesday–Sunday 09:00–17:00, last entry 16:30; Monday closure except national holidays.",
           "reservation": "Confirm official identity-based booking, travel-party documents and concessions. Overseas-document checkout has not been tested end to end.",
           "accessibility": "Continuous step-free routes, mountain steps, village paving, lifts and toilets are not fully verified; contact the venue for your group.",
           "route": "Navigate to the exact Chinese address: 安徽省合肥市怀宁路87号. Check the district, actual entrance and return services; county and rural trips need separate transport planning."
@@ -371151,6 +371303,15 @@
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Historical photographs and performance reviews do not establish current access.",
           "ticket": "Visitor spending, vehicles, guiding and packages do not establish basic admission."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.ahm.cn/En/Home",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -374441,7 +374602,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-21",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/ssas-jinan-sight-4971.jpg",
         "url": "https://you.ctrip.com/sight/jinan128/4971.html",
@@ -374460,12 +374621,15 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-21",
-        "scope": "现行票务范围与执行价待核实",
-        "scopeEn": "Current admission scope and applied tariff unconfirmed",
-        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
-        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+        "status": "verified",
+        "amount": 40,
+        "currency": "CNY",
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.jinan.gov.cn/col/col118356/art/2026/art_5091525fd2244615b82340ef347bab01.html",
+        "scope": "趵突泉景区成人基础门票",
+        "scopeEn": "Baotu Spring scenic area standard adult admission",
+        "note": "学生20元依资格核对。历史夜游20元及其时段不作为本次统一现价；联票、船票另核。",
+        "noteEn": "Student admission is CNY 20 subject to eligibility. Older CNY 20 evening offers and schedules are not the default current fare; packages and boats are separate."
       },
       "sources": [
         {
@@ -374473,6 +374637,12 @@
           "title": "携程：具体地点、照片及公开游客资料",
           "type": "游客平台",
           "checked": "2026-10-21"
+        },
+        {
+          "url": "https://www.jinan.gov.cn/col/col118356/art/2026/art_5091525fd2244615b82340ef347bab01.html",
+          "title": "官方开放、预约与适用范围",
+          "type": "官方资料",
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -374484,16 +374654,16 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-21",
+        "checked": "2026-10-27",
         "admission": "按门票核对中注明的范围与来源日期安排；政府公示基础票不是实时订单，交通、演出及可选体验另查。",
-        "opening": "闭馆日、天气、汛情、施工、演出及末次入场须查运营方当期公告；资料查阅不是当日现场核验。",
-        "reservation": "按官方渠道确认实名预约、同行证件及优惠资格，本批未测试外籍证件购票全流程。",
+        "opening": "2026年9月公示：07:00—19:00，19:00停止售票；季节及夜游安排另核。",
+        "reservation": "当前公开指南称无需预约；出发前核对节假日、夜游及优惠资格，勿套用旧夜场时刻。",
         "accessibility": "连续无障碍路线、山地台阶、村寨石板路、电梯及卫生间设施未完整核实，按同行需要联系场馆。",
         "route": "先按“山东省济南市历下区趵突泉南路1号”定位本条目入口，核对所在区县与返程班次。市区公交、步行入口与停车按当日条件选择。",
         "en": {
           "admission": "Use the stated ticket scope and source date. Published government base tariffs are not live checkout quotes; check transport, performances and optional activities separately.",
-          "opening": "Confirm current operator notices for closure days, weather, flooding, works, performances and last entry. Source reading is not a same-day inspection.",
-          "reservation": "Confirm official identity-based booking, travel-party documents and concessions. Overseas-document checkout has not been tested end to end.",
+          "opening": "September 2026 reference: 07:00–19:00, ticket sales end at 19:00. Recheck seasonal and evening arrangements.",
+          "reservation": "The published guide says no reservation is required. Recheck holidays, evening sessions and concessions rather than reusing older night schedules.",
           "accessibility": "Continuous step-free routes, mountain steps, village paving, lifts and toilets are not fully verified; contact the venue for your group.",
           "route": "Navigate to the exact Chinese address: 山东省济南市历下区趵突泉南路1号. Check the district, actual entrance and return services; county and rural trips need separate transport planning."
         }
@@ -374509,6 +374679,13 @@
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Historical photographs and performance reviews do not establish current access.",
           "ticket": "Visitor spending, vehicles, guiding and packages do not establish basic admission."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.jinan.gov.cn/col/col118356/art/2026/art_5091525fd2244615b82340ef347bab01.html",
+        "closedWeekdays": [],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -374896,7 +375073,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-21",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/ssas-jinan-sight-4967.jpg",
         "url": "https://you.ctrip.com/sight/jinan128/4967.html",
@@ -374915,12 +375092,15 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-21",
-        "scope": "现行票务范围与执行价待核实",
-        "scopeEn": "Current admission scope and applied tariff unconfirmed",
-        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
-        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+        "status": "verified",
+        "amount": 0,
+        "currency": "CNY",
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.jinan.gov.cn/col/col118356/art/2026/art_5091525fd2244615b82340ef347bab01.html",
+        "scope": "大明湖景区公共游览区域",
+        "scopeEn": "Daming Lake public scenic grounds",
+        "note": "超然楼展陈、游船及可选体验不包含在免费范围内，各区开放时段不同。",
+        "noteEn": "Tower exhibitions, boat trips and optional experiences are excluded; opening hours differ by area."
       },
       "sources": [
         {
@@ -374928,6 +375108,12 @@
           "title": "携程：具体地点、照片及公开游客资料",
           "type": "游客平台",
           "checked": "2026-10-21"
+        },
+        {
+          "url": "https://www.jinan.gov.cn/col/col118356/art/2026/art_5091525fd2244615b82340ef347bab01.html",
+          "title": "官方开放、预约与适用范围",
+          "type": "官方资料",
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -374939,15 +375125,15 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-21",
+        "checked": "2026-10-27",
         "admission": "按门票核对中注明的范围与来源日期安排；政府公示基础票不是实时订单，交通、演出及可选体验另查。",
-        "opening": "闭馆日、天气、汛情、施工、演出及末次入场须查运营方当期公告；资料查阅不是当日现场核验。",
+        "opening": "北部老区05:00—22:00，南部新区全天开放；超然楼等独立设施另查。",
         "reservation": "按官方渠道确认实名预约、同行证件及优惠资格，本批未测试外籍证件购票全流程。",
         "accessibility": "连续无障碍路线、山地台阶、村寨石板路、电梯及卫生间设施未完整核实，按同行需要联系场馆。",
         "route": "先按“山东省济南市历下区大明湖路271号”定位本条目入口，核对所在区县与返程班次。市区公交、步行入口与停车按当日条件选择。",
         "en": {
           "admission": "Use the stated ticket scope and source date. Published government base tariffs are not live checkout quotes; check transport, performances and optional activities separately.",
-          "opening": "Confirm current operator notices for closure days, weather, flooding, works, performances and last entry. Source reading is not a same-day inspection.",
+          "opening": "Northern old area 05:00–22:00; southern new area open around the clock. Check separate buildings and facilities.",
           "reservation": "Confirm official identity-based booking, travel-party documents and concessions. Overseas-document checkout has not been tested end to end.",
           "accessibility": "Continuous step-free routes, mountain steps, village paving, lifts and toilets are not fully verified; contact the venue for your group.",
           "route": "Navigate to the exact Chinese address: 山东省济南市历下区大明湖路271号. Check the district, actual entrance and return services; county and rural trips need separate transport planning."
@@ -374964,6 +375150,13 @@
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Historical photographs and performance reviews do not establish current access.",
           "ticket": "Visitor spending, vehicles, guiding and packages do not establish basic admission."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.jinan.gov.cn/col/col118356/art/2026/art_5091525fd2244615b82340ef347bab01.html",
+        "closedWeekdays": [],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -374987,22 +375180,22 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-21",
+      "updated": "2026-10-27",
       "image": {
-        "path": "assets/ssas-jinan-sight-5412.jpg",
-        "url": "https://you.ctrip.com/sight/jinan128/5412.html",
-        "originalUrl": "https://dimg04.c-ctrip.com/images/0106w12000fe23h358DCB.jpg",
-        "author": "来源页未明确摄影署名",
-        "license": "原站版权图片，非开放许可；转载授权未核实",
-        "licenseUrl": "https://you.ctrip.com/sight/jinan128/5412.html",
-        "date": "",
-        "dateStatus": "unknown",
-        "rightsStatus": "source-copyright",
-        "caption": "山东博物馆 · 来源页建筑、局部景观、展陈或活动照片；非全景，拍摄日期未知，活动及季节效果不代表当天安排",
-        "modified": "网页裁切缩放",
+        "path": "assets/licensed-shandong-museum.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Shandong_Museum_Building.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Shandong_Museum_Building.jpg",
+        "author": "Baomi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "date": "2014-06-03",
+        "dateStatus": "known",
+        "rightsStatus": "open-license",
+        "caption": "山东博物馆 · 2014-06-03实景照片，不代表当前现场状态",
+        "modified": "网页裁切缩放和WebP压缩，保留完整来源",
         "en": {
-          "caption": "Shandong Museum · source-page building, landscape detail, display or activity photograph; not a panorama, capture date unknown, activities and seasons are not current promises",
-          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+          "caption": "Shandong Museum · real photograph taken 2014-06-03; not a current site inspection",
+          "license": "CC BY-SA 4.0"
         }
       },
       "ticket": {
@@ -375019,6 +375212,12 @@
           "title": "携程：具体地点、照片及公开游客资料",
           "type": "游客平台",
           "checked": "2026-10-21"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Shandong_Museum_Building.jpg",
+          "title": "Wikimedia Commons：作者、拍摄日期与CC BY-SA 4.0许可",
+          "type": "图片来源",
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -375078,7 +375277,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-21",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/ssas-jinan-sight-4976.jpg",
         "url": "https://you.ctrip.com/sight/jinan128/4976.html",
@@ -375097,12 +375296,15 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-21",
-        "scope": "现行票务范围与执行价待核实",
-        "scopeEn": "Current admission scope and applied tariff unconfirmed",
-        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
-        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+        "status": "verified",
+        "amount": 0,
+        "currency": "CNY",
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.jinan.gov.cn/col/col118356/art/2026/art_5091525fd2244615b82340ef347bab01.html",
+        "scope": "五龙潭公园公共游览区域",
+        "scopeEn": "Five Dragon Pool public park grounds",
+        "note": "免费指公共游览区域，不推定商业服务与活动免费。",
+        "noteEn": "Free admission covers public grounds and does not imply free commercial services or activities."
       },
       "sources": [
         {
@@ -375110,6 +375312,12 @@
           "title": "携程：具体地点、照片及公开游客资料",
           "type": "游客平台",
           "checked": "2026-10-21"
+        },
+        {
+          "url": "https://www.jinan.gov.cn/col/col118356/art/2026/art_5091525fd2244615b82340ef347bab01.html",
+          "title": "官方开放、预约与适用范围",
+          "type": "官方资料",
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -375121,15 +375329,15 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-21",
+        "checked": "2026-10-27",
         "admission": "按门票核对中注明的范围与来源日期安排；政府公示基础票不是实时订单，交通、演出及可选体验另查。",
-        "opening": "闭馆日、天气、汛情、施工、演出及末次入场须查运营方当期公告；资料查阅不是当日现场核验。",
+        "opening": "07:00—22:30，22:00停止入园；季节和临时安排另查。",
         "reservation": "按官方渠道确认实名预约、同行证件及优惠资格，本批未测试外籍证件购票全流程。",
         "accessibility": "连续无障碍路线、山地台阶、村寨石板路、电梯及卫生间设施未完整核实，按同行需要联系场馆。",
         "route": "先按“山东省济南市天桥区筐市街18号”定位本条目入口，核对所在区县与返程班次。市区公交、步行入口与停车按当日条件选择。",
         "en": {
           "admission": "Use the stated ticket scope and source date. Published government base tariffs are not live checkout quotes; check transport, performances and optional activities separately.",
-          "opening": "Confirm current operator notices for closure days, weather, flooding, works, performances and last entry. Source reading is not a same-day inspection.",
+          "opening": "07:00–22:30; last entry 22:00. Check seasonal and temporary arrangements.",
           "reservation": "Confirm official identity-based booking, travel-party documents and concessions. Overseas-document checkout has not been tested end to end.",
           "accessibility": "Continuous step-free routes, mountain steps, village paving, lifts and toilets are not fully verified; contact the venue for your group.",
           "route": "Navigate to the exact Chinese address: 山东省济南市天桥区筐市街18号. Check the district, actual entrance and return services; county and rural trips need separate transport planning."
@@ -375146,6 +375354,13 @@
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Historical photographs and performance reviews do not establish current access.",
           "ticket": "Visitor spending, vehicles, guiding and packages do not establish basic admission."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.jinan.gov.cn/col/col118356/art/2026/art_5091525fd2244615b82340ef347bab01.html",
+        "closedWeekdays": [],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -375806,7 +376021,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-21",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/ssas-jinan-sight-20916.jpg",
         "url": "https://you.ctrip.com/sight/jinan128/20916.html",
@@ -375825,12 +376040,16 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-21",
-        "scope": "现行票务范围与执行价待核实",
-        "scopeEn": "Current admission scope and applied tariff unconfirmed",
-        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
-        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+        "status": "verified",
+        "amount": 40,
+        "currency": "CNY",
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.jinan.gov.cn/api-gateway/jpaas-jpolicy-web-server/front/info/detail?iid=111535_13940",
+        "scope": "灵岩寺成人基础门票",
+        "scopeEn": "Lingyan Temple standard adult admission",
+        "note": "依据2024年10月1日生效、有效三年的公示政策；现行开放时段及附加服务另核。",
+        "noteEn": "Based on the three-year tariff policy effective October 1, 2024. Recheck current access and optional services.",
+        "validUntil": "2027-09-30"
       },
       "sources": [
         {
@@ -375838,6 +376057,12 @@
           "title": "携程：具体地点、照片及公开游客资料",
           "type": "游客平台",
           "checked": "2026-10-21"
+        },
+        {
+          "url": "https://www.jinan.gov.cn/api-gateway/jpaas-jpolicy-web-server/front/info/detail?iid=111535_13940",
+          "title": "官方票务与适用范围",
+          "type": "官方资料",
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -392547,7 +392772,7 @@
       "mobility": "未核实",
       "lowCrowd": false,
       "researchBatch": 1,
-      "updated": "2026-10-21",
+      "updated": "2026-10-27",
       "image": {
         "path": "assets/ssas-jincheng-sight-1831713.jpg",
         "url": "https://you.ctrip.com/sight/jincheng665/1831713.html",
@@ -392566,12 +392791,15 @@
         }
       },
       "ticket": {
-        "status": "unverified",
-        "checked": "2026-10-21",
-        "scope": "现行票务范围与执行价待核实",
-        "scopeEn": "Current admission scope and applied tariff unconfirmed",
-        "note": "尚未充分核实基础入场、免费范围和票种条件，不将平台起价、旧优惠、索道或导览当作基础票。",
-        "noteEn": "Basic admission, free areas and ticket conditions are not fully confirmed; platform starting prices, old offers, cableways and guiding are not basic admission."
+        "status": "verified",
+        "amount": 0,
+        "currency": "CNY",
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.jcbwg.cn/",
+        "scope": "博物馆公众基本参观",
+        "scopeEn": "General public museum entry",
+        "note": "免费仍须按馆方分时实名预约；付费讲解、活动或馆外附属文物不自动包含。",
+        "noteEn": "Free entry still requires timed identity-based booking; paid guiding, activities and separate heritage sites are not automatically included."
       },
       "sources": [
         {
@@ -392579,6 +392807,12 @@
           "title": "携程：具体地点、照片及公开游客资料",
           "type": "游客平台",
           "checked": "2026-10-21"
+        },
+        {
+          "url": "https://www.jcbwg.cn/",
+          "title": "官方开放、预约与适用范围",
+          "type": "官方资料",
+          "checked": "2026-10-27"
         }
       ],
       "en": {
@@ -392590,16 +392824,16 @@
       },
       "guide": {
         "complete": false,
-        "checked": "2026-10-21",
+        "checked": "2026-10-27",
         "admission": "按门票核对中注明的范围与来源日期安排；政府公示基础票不是实时订单，交通、演出及可选体验另查。",
-        "opening": "闭馆日、天气、汛情、施工、演出及末次入场须查运营方当期公告；资料查阅不是当日现场核验。",
-        "reservation": "按官方渠道确认实名预约、同行证件及优惠资格，本批未测试外籍证件购票全流程。",
+        "opening": "周二至周日09:00—17:00，16:00停止入场；周一闭馆，临时安排另查。",
+        "reservation": "全员分时段实名预约参观，使用馆方预约入口；预约证件与现场要求另核。",
         "accessibility": "连续无障碍路线、山地台阶、村寨石板路、电梯及卫生间设施未完整核实，按同行需要联系场馆。",
         "route": "先按“晋城市城区凤台东街1263号”定位本条目入口，核对所在区县与返程班次。市区公交、步行入口与停车按当日条件选择。",
         "en": {
           "admission": "Use the stated ticket scope and source date. Published government base tariffs are not live checkout quotes; check transport, performances and optional activities separately.",
-          "opening": "Confirm current operator notices for closure days, weather, flooding, works, performances and last entry. Source reading is not a same-day inspection.",
-          "reservation": "Confirm official identity-based booking, travel-party documents and concessions. Overseas-document checkout has not been tested end to end.",
+          "opening": "Tuesday–Sunday 09:00–17:00; last entry 16:00. Closed Mondays; check temporary notices.",
+          "reservation": "All visitors need timed, identity-based reservations through the museum; confirm document and on-site requirements.",
           "accessibility": "Continuous step-free routes, mountain steps, village paving, lifts and toilets are not fully verified; contact the venue for your group.",
           "route": "Navigate to the exact Chinese address: 晋城市城区凤台东街1263号. Check the district, actual entrance and return services; county and rural trips need separate transport planning."
         }
@@ -392615,6 +392849,15 @@
           "negative": "Review authenticity is not independently verified and experiences have not been systematically sampled. Historical photographs and performance reviews do not establish current access.",
           "ticket": "Visitor spending, vehicles, guiding and packages do not establish basic admission."
         }
+      },
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.jcbwg.cn/",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
       }
     },
     {
@@ -461928,6 +462171,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/11896102/12/747755905.html",
         "summary": "该作者称四人点九道菜偏多，店员曾提醒；是单次历史体验，不保证当前服务。",
         "summaryEn": "The author reports over-ordering nine dishes for four people and a staff reminder; one historical experience, not a current service guarantee."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -462194,6 +462447,16 @@
         "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
         "good": "Public ratings and branch details are screening evidence, not independently verified visits or a systematic review sample. Public comments praise peas and portions but also criticise flavour and service; the name alone does not establish quality.",
         "caution": "Use the 85 Minsheng Road branch. Reviews differ on flavour and service; fame is not a guarantee. Choose size and dry or soup style; extras vary. Review authenticity is not independently verified."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -462338,6 +462601,16 @@
         "basis": "Ctrip branch-level spending aggregate, not a current menu. Visit dates and aggregation methods are unclear; budget prefills are editable references only.",
         "good": "Public ratings and branch details are screening evidence, not independently verified visits or a systematic review sample.",
         "caution": "Budget a separate Nanshan journey and confirm entrance, hours and return transport. Broth, sides and venue experiences may be extra. Review authenticity is not independently verified."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -463033,6 +463306,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/4927621/12/682061472.html",
         "summary": "该作者不满意炒肝口味及下单取餐秩序；与部分较好评价存在分歧。",
         "summaryEn": "The author criticised stew flavour and queue order, differing from some positive reviews."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -463148,6 +463431,15 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/4936235/12/241801932.html",
         "summary": "该作者回忆奶油炸糕与豆汁焦圈的个人体验，带有童年口味偏好。",
         "summaryEn": "The author recalls fried cakes and fermented-drink snacks with childhood taste preferences."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "snack"
+        ],
+        "note": "可作特色加餐候选，从本分店所列特色中选一项并先问份量。小吃按需要分食，平台人均不等于完整正餐。先核对当天是否已有同类餐食，营业时间另查。",
+        "noteEn": "A local snack candidate: choose one listed speciality and ask about portions for sharing. A platform average is not a complete meal. Avoid duplicating similar food already planned; opening hours need separate checking."
       }
     },
     {
@@ -463215,6 +463507,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/4937256/12/689048032.html",
         "summary": "该作者称用餐翻台较快、羊肉新鲜，但没有独立证明到访。",
         "summaryEn": "The author describes quick table turnover and fresh lamb; attendance is not independently verified."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -463407,6 +463709,16 @@
         "basis": "Ctrip branch-level spending average, not a current menu or official tariff. Visit dates and aggregation methods are unclear; budget prefills are editable references.",
         "good": "Public aggregates are screening evidence, not systematic sampling, verified visits or a quality guarantee.",
         "caution": "242 Fuyou Road: plan a shared meal and confirm river-fish market prices, private rooms and service charges. Review authenticity is not independently verified."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -463503,6 +463815,16 @@
         "basis": "Ctrip branch-level spending average, not a current menu or official tariff. Visit dates and aggregation methods are unclear; budget prefills are editable references.",
         "good": "Public aggregates are screening evidence, not systematic sampling, verified visits or a quality guarantee.",
         "caution": "216 Jiujiang Road: confirm crab size, quantity, seasonal price and set inclusions; the average is neither one-crab nor whole-table pricing. Review authenticity is not independently verified."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -463612,6 +463934,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/4998230/12/696058070.html",
         "summary": "该作者称汤包现包现蒸需等待，并认为拌面与馄饨较普通。",
         "summaryEn": "The author notes a wait for fresh dumplings and finds noodles and wontons less distinctive."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -463861,6 +464193,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/4926728/74/724812706.html",
         "summary": "该作者认为菜量与口味普通，并对卫生设施提出改进意见。",
         "summaryEn": "The author finds portions and flavour ordinary and asks for better washroom facilities."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -466660,6 +467002,15 @@
         "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
         "good": "Ctrip aggregate 4.4/5 from 2100 reviews is screening evidence; actual dining and review authenticity are not independently verified.",
         "caution": "Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. This page includes an incoherent spam-like comment excluded from experience samples; aggregates may still contain invalid feedback."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "snack"
+        ],
+        "note": "可作特色加餐候选，从本分店所列特色中选一项并先问份量。小吃按需要分食，平台人均不等于完整正餐。先核对当天是否已有同类餐食，营业时间另查。",
+        "noteEn": "A local snack candidate: choose one listed speciality and ask about portions for sharing. A platform average is not a complete meal. Avoid duplicating similar food already planned; opening hours need separate checking."
       }
     },
     {
@@ -466726,6 +467077,15 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/4927493/12/800431822.html",
         "summary": "作者称外脆内软，同时提醒需要排队取餐；这是口味与排队体验样本。",
         "summaryEn": "The author likes the texture and notes collection queues; this is one taste and waiting-time sample."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "snack"
+        ],
+        "note": "可作特色加餐候选，从本分店所列特色中选一项并先问份量。小吃按需要分食，平台人均不等于完整正餐。先核对当天是否已有同类餐食，营业时间另查。",
+        "noteEn": "A local snack candidate: choose one listed speciality and ask about portions for sharing. A platform average is not a complete meal. Avoid duplicating similar food already planned; opening hours need separate checking."
       }
     },
     {
@@ -466792,6 +467152,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/8609957/12/800434783.html",
         "summary": "作者主要观看复古布景，提到凌晨部分店已关门，并认为所吃臭豆腐偏咸；布景热度不能代替餐饮品质。",
         "summaryEn": "The author mainly visited the nostalgic setting, found some shops closed late at night and disliked salty tofu; scene popularity does not establish food quality."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -466845,6 +467215,16 @@
         "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
         "good": "Ctrip aggregate 5/5 from 505 reviews is screening evidence; actual dining and review authenticity are not independently verified.",
         "caution": "Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -483571,6 +483951,16 @@
         "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
         "good": "Ctrip aggregate 4.3/5 from 437 reviews is screening evidence; actual dining and review authenticity are not independently verified.",
         "caution": "Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Some low scores accompany similar positive wording; scores and text are separate signals, and templated praise is not proof of authenticity."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -483677,6 +484067,16 @@
         "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
         "good": "Ctrip aggregate 4.6/5 from 85 reviews is screening evidence; actual dining and review authenticity are not independently verified.",
         "caution": "Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -483783,6 +484183,16 @@
         "basis": "Ctrip user-reported averages displayed with ¥ are editable CNY budget references, not current menus, dish prices or official tariffs. Visit dates and aggregation are unclear. Missing or zero platform values are not free meals.",
         "good": "Ctrip aggregate 4.6/5 from 301 reviews is screening evidence; actual dining and review authenticity are not independently verified.",
         "caution": "Confirm this exact branch is operating, spice level, portions, allergens, market prices and service charges. Snack averages are not automatically complete meals. Readable experiences all date to 2023 or earlier; recheck current operation and quality."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -484009,6 +484419,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/5233638/12/676646916.html",
         "summary": "作者喜欢小份麻婆豆腐，认为可同时尝试多道菜，并认可服务；排队体验仍随日期变化。",
         "summaryEn": "The author likes the small mapo-tofu portion for trying several dishes and praises service; queues still vary by date."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -512461,6 +512881,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/5089383/12/207007375.html",
         "summary": "该作者喜欢偏甜的牛肉锅贴；较新的样本认为偏咸、过甜或拥挤，适合先少量尝试。",
         "summaryEn": "The author liked the sweet beef potstickers. Newer samples report excess salt, sweetness or crowding; try a small portion first."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -512597,6 +513027,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/5106365/12/203982570.html",
         "summary": "作者认为菜式多、口味可接受，但酒酿偏甜；其他样本对烤鸭、饺子和性价比评价不同。",
         "summaryEn": "The author found the variety and flavour acceptable but the fermented-rice dessert too sweet. Other diners differed on duck, dumplings and value."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -512665,6 +513105,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/5089338/12/219945692.html",
         "summary": "作者更喜欢询问口味后单点的清淡菜及赤豆元宵，认为套餐一般；另有作者反映堂食吸烟问题。",
         "summaryEn": "The author preferred ordering mild dishes individually and liked red-bean dessert, finding the set ordinary. Another author reported indoor smoking."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -512856,6 +513306,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/4925596/12/768300044.html",
         "summary": "作者喜欢盐水鸭的嫩度，称两人用餐可询半份；另一作者觉得未预约的鸭子不如上次热，预约与供应先确认。",
         "summaryEn": "The author liked tender salted duck and suggests asking for half portions. Another found duck less hot than on a prior reserved visit."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -518250,6 +518710,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/4927384/74/672322618.html",
         "summary": "作者喜欢当晚所点菜，但称服务慢、米饭催了多次；另有样本提到经常排队。",
         "summaryEn": "The author liked dinner but reports slow service and repeated requests for rice. Other samples mention queues."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -518318,6 +518788,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/5140558/12/174871858.html",
         "summary": "作者喜欢青山环境和浓汤鱼头；近期样本对醋鱼、叫花鸡及价格不满意，植物园入园成本与停车另核。",
         "summaryEn": "The author liked the setting and fish-head soup. A newer sample disliked vinegar fish, chicken and value. Check botanical-garden access separately."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -518700,6 +519180,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/5141282/12/175176499.html",
         "summary": "作者喜欢三鲜石磨豆腐，但指出胡椒味重，等位约一小时；其他样本喜欢小黄鱼，时长仅为旧体验。",
         "summaryEn": "The author liked tofu soup but notes strong pepper and a long wait. Another liked yellow croaker. Waiting times are historical."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -518823,6 +519313,16 @@
         "url": "https://m.ctrip.com/webapp/you/comment/detail/253643/12/175852840.html",
         "summary": "作者喜欢虾爆鳝面，认为鳝丝口感合适；新样本提出卫生改进意见，另有旧样本不喜欢鳝鱼味。",
         "summaryEn": "The author liked shrimp-and-eel noodles. A newer sample requests better cleanliness and another old sample disliked the eel."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -537564,6 +538064,16 @@
         "basis": "Ctrip branch-level average, not a current menu or official tariff. Visit dates and aggregation methods are unclear; budget prefills are editable references.",
         "good": "Historical public sample: YoYo_3C6A4Z5Z (posted 2026-02-02): The author liked the tender sea cucumber and crisp duck skin. This is an expensive choice; old voucher offers are not current prices. Posting date may differ from the visit date; authenticity is unverified.",
         "caution": "This record is for the exact Chinese branch address. Confirm current operation, menu, spice, portions and the full bill. Authenticity is not independently verified."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "lunch",
+          "dinner"
+        ],
+        "note": "可作午餐或晚餐候选。从本分店所列菜品中选一项地方特色，再按同行人数与店员建议安排主食和蔬菜；核对份量、辣度、过敏原与现行菜单。此处为编辑分餐建议，不保证相应时段营业。",
+        "noteEn": "A lunch or dinner candidate. Start with one listed local dish, then arrange staples and vegetables for your group with staff advice. Confirm portions, spice, allergens and the current menu. This editorial placement does not confirm opening hours."
       }
     },
     {
@@ -538620,6 +539130,15 @@
         "basis": "Ctrip branch-level average, not a current menu or official tariff. Visit dates and aggregation methods are unclear; budget prefills are editable references.",
         "good": "Historical public sample: MaskSingle (posted 2023-07-27): The author found many similar twist shops in the town. Compare flavour, weight and packaging; souvenirs are not automatically for every diner. Posting date may differ from the visit date; authenticity is unverified.",
         "caution": "This record is for the exact Chinese branch address. Confirm current operation, menu, spice, portions and the full bill. The sample is old and does not establish current operation or quality. Authenticity is not independently verified."
+      },
+      "diningAdvice": {
+        "editorial": true,
+        "plannedAt": "2026-10-27",
+        "mealSlots": [
+          "snack"
+        ],
+        "note": "可作特色加餐候选，从本分店所列特色中选一项并先问份量。小吃按需要分食，平台人均不等于完整正餐。先核对当天是否已有同类餐食，营业时间另查。",
+        "noteEn": "A local snack candidate: choose one listed speciality and ask about portions for sharing. A platform average is not a complete meal. Avoid duplicating similar food already planned; opening hours need separate checking."
       }
     },
     {
@@ -582404,10 +582923,10 @@
     }
   ],
   "ticketAudit": {
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "entries": 4937,
-    "verified": 268,
-    "unverified": 4669,
+    "verified": 274,
+    "unverified": 4663,
     "method": "官方景区、场馆与文旅公开票务资料；不把历史活动、政府最高限价、导览服务起价或网友报价当作现行门票。"
   },
   "cityExpansion": {
@@ -596267,6 +596786,339 @@
         "title": "Longnan · 康县 local meal alternatives",
         "route": "川陇人家餐厅 (康县 · 甘肃省陇南市康县阳坝中学对面). Choose a meal or separate days by lodging, exact branch and appetite. This is not a tested walking route; travel across counties and mountain valleys can be long, so not every shop is for one day.",
         "note": "New shops imported from a route remain unchecked until enabled. Manual dining and enabled food expenses add together; adjust diners, portions and unit prices."
+      }
+    },
+    {
+      "id": "meal-20261027-0e13d60887",
+      "region": "四川",
+      "city": "成都",
+      "title": "成都：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-sc-chengdu-27388618",
+        "food-sc-chengdu-24558625"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Chengdu: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-53e3d2c843",
+      "region": "四川",
+      "city": "成都",
+      "title": "成都：地方正餐补充选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-sc-chengdu-11383520",
+        "food-sc-chengdu-11384450"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Chengdu: more local meal choices",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-e5aa762dd1",
+      "region": "重庆",
+      "city": "重庆",
+      "title": "重庆：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-17",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-cq-24568837",
+        "food-cq-379002",
+        "food-cq-11566727"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Chongqing: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-510628d55e",
+      "region": "重庆",
+      "city": "重庆",
+      "title": "重庆：特色加餐候选",
+      "route": "从下列具体分店选择一项特色加餐，先问份量与现行菜单，不当作完整正餐。当天已有同类食物可略过，是否顺路先在地图核对，不要求全部吃完。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-17",
+      "mealSlots": [
+        "snack"
+      ],
+      "foodIds": [
+        "food-mu2-cq-378998"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Chongqing: local snack candidates",
+        "route": "Choose one listed branch for a local snack and ask about portions and the current menu. This is not a complete meal. Skip similar food already planned, check locations, and do not feel obliged to eat at every stop.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-0c370ba054",
+      "region": "北京",
+      "city": "北京",
+      "title": "北京：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-mu2-bj-10562160",
+        "food-bj-10562188",
+        "food-bj-4937256"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Beijing: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-fe7458712c",
+      "region": "北京",
+      "city": "北京",
+      "title": "北京：特色加餐候选",
+      "route": "从下列具体分店选择一项特色加餐，先问份量与现行菜单，不当作完整正餐。当天已有同类食物可略过，是否顺路先在地图核对，不要求全部吃完。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "snack"
+      ],
+      "foodIds": [
+        "food-bj-4936235"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Beijing: local snack candidates",
+        "route": "Choose one listed branch for a local snack and ask about portions and the current menu. This is not a complete meal. Skip similar food already planned, check locations, and do not feel obliged to eat at every stop.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-c0c144997e",
+      "region": "上海",
+      "city": "上海",
+      "title": "上海：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-sh-10561290",
+        "food-sh-4926728"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Shanghai: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-8d1dc9c743",
+      "region": "上海",
+      "city": "上海",
+      "title": "上海：地方正餐补充选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-sh-4998230",
+        "food-sh-340902"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Shanghai: more local meal choices",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-22dad0134c",
+      "region": "江苏",
+      "city": "南京",
+      "title": "南京：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-jz-nanjing-11255719",
+        "food-jz-nanjing-11238624"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Nanjing: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-3d50ff4dbe",
+      "region": "江苏",
+      "city": "南京",
+      "title": "南京：地方正餐补充选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-jz-nanjing-11238576",
+        "food-jz-nanjing-10560185"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Nanjing: more local meal choices",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-ba9d2bcdb4",
+      "region": "浙江",
+      "city": "杭州",
+      "title": "杭州：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-jz-hangzhou-288373",
+        "food-jz-hangzhou-10561958"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Hangzhou: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-fc0962ecc7",
+      "region": "浙江",
+      "city": "杭州",
+      "title": "杭州：地方正餐补充选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-jz-hangzhou-11290799",
+        "food-jz-hangzhou-11290019"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Hangzhou: more local meal choices",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-c93dbfe96f",
+      "region": "湖南",
+      "city": "长沙",
+      "title": "长沙：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-hn-cs-16976158",
+        "food-hn-cs-57218039"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Changsha: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-3f46d27106",
+      "region": "湖南",
+      "city": "长沙",
+      "title": "长沙：特色加餐候选",
+      "route": "从下列具体分店选择一项特色加餐，先问份量与现行菜单，不当作完整正餐。当天已有同类食物可略过，是否顺路先在地图核对，不要求全部吃完。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "snack"
+      ],
+      "foodIds": [
+        "food-hn-cs-393690",
+        "food-hn-cs-10562067"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Changsha: local snack candidates",
+        "route": "Choose one listed branch for a local snack and ask about portions and the current menu. This is not a complete meal. Skip similar food already planned, check locations, and do not feel obliged to eat at every stop.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
       }
     }
   ],

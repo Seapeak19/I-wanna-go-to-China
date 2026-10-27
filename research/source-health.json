@@ -1,0 +1,284 @@
+{
+  "checked": "2026-10-27",
+  "method": "Availability only; HTTP success is not price, review or operating-status verification.",
+  "entries": [
+    {
+      "url": "https://whlyw.cq.gov.cn/zjwl/yzq/",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/"
+    },
+    {
+      "url": "https://whhlyt.nx.gov.cn/jqjd/index_4.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://whhlyt.nx.gov.cn/jqjd/index_4.html"
+    },
+    {
+      "url": "https://www.gz.gov.cn/attachment/7/7882/7882495/6514109.pdf",
+      "checked": "2026-10-27",
+      "status": "unavailable",
+      "httpStatus": 404,
+      "finalUrl": "https://www.gz.gov.cn/attachment/7/7882/7882495/6514109.pdf"
+    },
+    {
+      "url": "https://www.baiyunshan.com.cn/bys/jqzn/mobile_jqzn.shtml",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.baiyunshan.com.cn/bys/jqzn/mobile_jqzn.shtml"
+    },
+    {
+      "url": "https://dgkeyuan.org/micro/article/1763.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://dgkeyuan.org/micro/article/1763.html"
+    },
+    {
+      "url": "https://dxs.sg.gov.cn/zwgk/bmwj/content/post_2801349.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://dxs.sg.gov.cn/zwgk/bmwj/content/post_2801349.html"
+    },
+    {
+      "url": "https://www.fszumiao.cn/",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.fszumiao.cn/"
+    },
+    {
+      "url": "https://www.zhuhai-hitech.gov.cn/gxxw/mtkt/content/mpost_3611095.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.zhuhai-hitech.gov.cn/gxxw/mtkt/content/mpost_3611095.html"
+    },
+    {
+      "url": "https://www.chimelong.com/gz/ticket/",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 206,
+      "finalUrl": "https://www.chimelong.com/gz/ticket/"
+    },
+    {
+      "url": "https://www.sunyat-sen.org/",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.sunyat-sen.org/"
+    },
+    {
+      "url": "https://cgj.sz.gov.cn/xsmh/xhzwy/",
+      "checked": "2026-10-27",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.yuexiu.gov.cn/zjyx/yxjd/gzjdgms/content/post_8659223.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.yuexiu.gov.cn/zjyx/yxjd/gzjdgms/content/post_8659223.html"
+    },
+    {
+      "url": "https://www.yuexiu.gov.cn/zjyx/yxjd/csgy/content/post_8664487.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.yuexiu.gov.cn/zjyx/yxjd/csgy/content/post_8664487.html"
+    },
+    {
+      "url": "https://www.xiqiaoshantour.com/",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 206,
+      "finalUrl": "https://www.xiqiaoshantour.com/"
+    },
+    {
+      "url": "https://www.sdqinghuiyuan.cn/",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.sdqinghuiyuan.cn/"
+    },
+    {
+      "url": "https://www.heyuan.gov.cn/zwgk/zdlyxx/whjg/tsg/content/post_691096.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.heyuan.gov.cn/zwgk/zdlyxx/whjg/tsg/content/post_691096.html"
+    },
+    {
+      "url": "https://www.macauculture.gov.mo/en/housesmuseum",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.macauculture.gov.mo/en/housesmuseum"
+    },
+    {
+      "url": "https://www.nywmuseum.org.cn/News/VisitIndex/Visit",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 206,
+      "finalUrl": "https://www.nywmuseum.org.cn/News/VisitIndex/Visit"
+    },
+    {
+      "url": "https://wxwork.dgstm.org.cn/index.do?method=kfsj",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://wxwork.dgstm.org.cn/index.do?method=kfsj"
+    },
+    {
+      "url": "https://dgwater.dg.gov.cn/qsdt/content/post_4472544.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://dgwater.dg.gov.cn/qsdt/content/post_4472544.html"
+    },
+    {
+      "url": "https://www.scbg.ac.cn/dl/yjgp/",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.scbg.ac.cn/dl/yjgp/"
+    },
+    {
+      "url": "https://www.jiangmen.gov.cn/bmpd/jmswhgdlytyj/zwgk/gzdt/content/post_3189577.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.jiangmen.gov.cn/bmpd/jmswhgdlytyj/zwgk/gzdt/content/post_3189577.html"
+    },
+    {
+      "url": "https://www.jiangmen.gov.cn/newzjqx/lyzy/lyzx/content/post_3278333.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.jiangmen.gov.cn/newzjqx/lyzy/lyzx/content/post_3278333.html"
+    },
+    {
+      "url": "https://www.jiangmen.gov.cn/jmwgj/gkmlpt/content/3/3265/post_3265559.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.jiangmen.gov.cn/jmwgj/gkmlpt/content/3/3265/post_3265559.html"
+    },
+    {
+      "url": "https://www.zswoman.gov.cn/Home/Templategen/article?id=35101",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.zswoman.gov.cn/Home/Templategen/article?id=35101"
+    },
+    {
+      "url": "https://www.sg.gov.cn/bmpdlm/whgdlvtyjj/tsfw/zwgk/csjqzx/yzsg/content/post_2424532.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.sg.gov.cn/bmpdlm/whgdlvtyjj/tsfw/zwgk/csjqzx/yzsg/content/post_2424532.html"
+    },
+    {
+      "url": "https://www.kaiping.gov.cn/kpswhgdlytyj/kpbwg/bwgfw/cgxz/content/post_2372548.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.kaiping.gov.cn/kpswhgdlytyj/kpbwg/bwgfw/cgxz/content/post_2372548.html"
+    },
+    {
+      "url": "https://www.liannan.gov.cn/qylnwgltj/gkmlpt/content/1/1397/post_1397327.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.liannan.gov.cn/qylnwgltj/gkmlpt/content/1/1397/post_1397327.html"
+    },
+    {
+      "url": "https://www.nnmuseum.cn/fw/fwcgzn/1328.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 206,
+      "finalUrl": "https://www.nnmuseum.cn/fw/fwcgzn/1328.html"
+    },
+    {
+      "url": "https://www.amgx.org.cn/",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 206,
+      "finalUrl": "https://www.amgx.org.cn/"
+    },
+    {
+      "url": "https://www.dgec.org.cn/",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 206,
+      "finalUrl": "https://www.dgec.org.cn/"
+    },
+    {
+      "url": "https://www.glljsh.com/tms/ticket/149.html",
+      "checked": "2026-10-27",
+      "status": "unavailable",
+      "httpStatus": 404,
+      "finalUrl": "https://www.glljsh.com/tms/ticket/149.html"
+    },
+    {
+      "url": "https://english.cq.gov.cn/specials/Enjoy/Zoos/202608/t20260810_15912219.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://english.cq.gov.cn/specials/Enjoy/Zoos/202608/t20260810_15912219.html"
+    },
+    {
+      "url": "https://www.3gmuseum.cn/web/article/1430008801670434816/web/content_1430008801670434816.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.3gmuseum.cn/web/article/1430008801670434816/web/content_1430008801670434816.html"
+    },
+    {
+      "url": "https://data.beijing.gov.cn/zyml/wnkfsj/63f3ccb5324d460091913b8d818686d7.htm",
+      "checked": "2026-10-27",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.hcdyc.cn/dyc/jqzx/jqgg/gydycjqhfmpyjdgg/index.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.hcdyc.cn/dyc/jqzx/jqgg/gydycjqhfmpyjdgg/index.html"
+    },
+    {
+      "url": "https://pcticket.chnmuseum.cn/",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 206,
+      "finalUrl": "https://pcticket.chnmuseum.cn/"
+    },
+    {
+      "url": "https://intl.dpm.org.cn/visit.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 206,
+      "finalUrl": "https://intl.dpm.org.cn/visit.html"
+    },
+    {
+      "url": "https://gygl.beijing.gov.cn/mlgy/mlgy_lsmy/201911/t20191129_732675.html",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 206,
+      "finalUrl": "https://gygl.beijing.gov.cn/mlgy/mlgy_lsmy/201911/t20191129_732675.html"
+    },
+    {
+      "url": "https://www.huangyao.cn/faq.html?menuId=140",
+      "checked": "2026-10-27",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.huangyao.cn/faq.html?menuId=140"
+    }
+  ]
+}

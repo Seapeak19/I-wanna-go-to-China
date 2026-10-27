@@ -65,3 +65,9 @@ Object.assign(STATIC_EN,{"城市景点如何分配":"How city coverage is alloca
 Object.assign(STATIC_EN,{"餐饮消费":"Dining costs","＋ 添加美食店或路线":"＋ Add shops or routes","自填费用只包含清单之外的餐食，避免重复。路线新增店铺默认不计费，勾选后计入；参考价格可修改。":"Only enter meals outside the saved list manually to avoid duplication. New route shops are excluded until selected; reference prices are editable.","其他餐饮 / 人 / 天":"Other meals / person / day"});
 
 Object.assign(STATIC_EN,{"添加景点、美食店或路线，再填写住宿与其他费用，统一计算整趟和人均消费。":"Add attractions, shops or food routes, then enter accommodation and other costs to calculate trip and per-person spending.","房价按每间每晚，公交按每人每天；餐饮在下方单独计算。":"Room rates are per room per night; public transport is per person per day. Dining is calculated separately below."});
+
+Object.assign(STATIC_EN,{"城市攻略目录":"City guide directory"});
+
+Object.assign(STATIC_EN,{"仅开放许可图片":"Open-licence photos only","分餐建议（编辑）":"Meal suggestions (editorial)","午餐安排":"Lunch ideas","晚餐安排":"Dinner ideas","加餐安排":"Snack ideas","全国各省已分批补充景点与地方美食，各省资料深度不同；数量达标不表示每项开放与票务已核实。":"Attractions and local food have been added across all regions. Evidence depth varies; entry counts do not mean every opening rule and fare is verified.","参考汇率与来源可访问性每日定时维护，失败时保留原值与原日期。价格、开放、评价与图片仍需逐项核实；链接可访问不代表内容已核实。":"Reference rates and source availability have daily scheduled maintenance. Failures retain the prior value and date. Prices, openings, reviews and photos still require individual verification; accessible links do not verify facts."});
+
+Object.assign(STATIC_EN,{"目录覆盖 23 个省、5 个自治区、4 个直辖市、香港与澳门两个特别行政区。全国各省已分批补充景点与地方美食，各省资料深度不同；数量达标不表示每项开放与票务已核实。":"The directory covers all 34 provincial-level regions of China. Attractions and local food have been added across the country; evidence depth varies, and entry counts do not mean every opening rule or fare is verified."});

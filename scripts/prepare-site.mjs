@@ -5,9 +5,9 @@ assert(!fs.existsSync(out)||!fs.lstatSync(out).isSymbolicLink(),'Refuse to repla
 fs.rmSync(out,{recursive:true,force:true});fs.mkdirSync(out,{recursive:true});
 const images=JSON.parse(fs.readFileSync('data/images.json'));
 const rewrite=text=>text.replace(/assets\/[\w./-]+\.(?:jpg|jpeg|png|webp)/gi,p=>images[p]?.display||p);
-const sources=['index.html','.nojekyll','app.js','data-store.js','currency-core.js','locale-data.js','city-core.js','budget-core.js','ticket-core.js','locale-core.js','map-core.js','destination-cards.js','interface-motion.js','bundle.css'];
+const sources=['index.html','.nojekyll','quality-core.js','quality-ui.js','trip-core.js','trip-ui.js','app.js','data-store.js','currency-core.js','locale-data.js','city-core.js','budget-core.js','ticket-core.js','locale-core.js','map-core.js','destination-cards.js','interface-motion.js','bundle.css'];
 const digest=crypto.createHash('sha256');
-for(const file of [...sources,'data.json','data/images.json'])digest.update(fs.readFileSync(file));
+for(const file of [...sources,'data.json','data/images.json','data/quality.json.gz'])digest.update(fs.readFileSync(file));
 const version=digest.digest('hex').slice(0,16);
 for(const file of sources){
  let text=rewrite(fs.readFileSync(file,'utf8'));

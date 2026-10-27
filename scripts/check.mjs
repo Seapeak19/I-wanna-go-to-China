@@ -1,7 +1,7 @@
 import fs from 'node:fs';import zlib from 'node:zlib';import assert from 'node:assert/strict';
 const walk=p=>fs.readdirSync(p,{withFileTypes:true}).flatMap(e=>e.isDirectory()?walk(p+'/'+e.name):[p+'/'+e.name]);
 const files=walk('dist'),total=files.reduce((n,f)=>n+fs.statSync(f).size,0);
-assert(total<700_000_000,'Published site exceeds the optimized 700 MB budget');
+assert(total<800_000_000,'Published site exceeds the 800 MB site and guide-page budget');
 assert(!fs.existsSync('dist/data.json'),'Duplicate canonical source must not ship');
 for(const f of files)assert(fs.statSync(f).size<20_000_000,'File budget exceeded: '+f);
 const home=fs.readFileSync('dist/index.html','utf8');assert(!home.includes('src="locale-extra.js"'),'Eager translation bundle');assert(home.includes('data-store.js'));

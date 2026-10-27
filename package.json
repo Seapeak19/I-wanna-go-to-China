@@ -7,7 +7,7 @@
     "node": ">=22"
   },
   "scripts": {
-    "build": "node scripts/images.mjs && node scripts/build.mjs && node scripts/styles.mjs && node scripts/prepare-site.mjs",
+    "build": "node scripts/images.mjs && node scripts/build.mjs && node scripts/quality.mjs && node scripts/styles.mjs && node scripts/prepare-site.mjs && node scripts/seo.mjs",
     "test": "node --test --test-concurrency=2 tests/*.test.cjs",
     "check": "node scripts/check.mjs"
   }

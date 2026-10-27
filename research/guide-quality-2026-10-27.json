@@ -1,0 +1,907 @@
+{
+  "checked": "2026-10-27",
+  "method": "Official published guidance read individually; structured closure warnings are advisory, not live availability. Editorial meal placements reuse dated branch evidence without claiming new reviews.",
+  "openings": [
+    {
+      "id": "sh-sight-5646",
+      "name": "上海自然博物馆",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.snhm.org.cn/cgfw/cgzx.htm",
+        "closedWeekdays": [
+          2
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "09:00—17:00，16:00停止入馆；常规周二休馆，国定假日与临时公告另核。",
+      "openingEn": "09:00–17:00; last entry 16:00. Normally closed Tuesdays, with national-holiday and temporary exceptions."
+    },
+    {
+      "id": "ssas-jincheng-sight-1831713",
+      "name": "晋城博物馆",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.jcbwg.cn/",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "周二至周日09:00—17:00，16:00停止入场；周一闭馆，临时安排另查。",
+      "openingEn": "Tuesday–Sunday 09:00–17:00; last entry 16:00. Closed Mondays; check temporary notices."
+    },
+    {
+      "id": "ssas-jinan-sight-4971",
+      "name": "趵突泉景区",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.jinan.gov.cn/col/col118356/art/2026/art_5091525fd2244615b82340ef347bab01.html",
+        "closedWeekdays": [],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "2026年9月公示：07:00—19:00，19:00停止售票；季节及夜游安排另核。",
+      "openingEn": "September 2026 reference: 07:00–19:00, ticket sales end at 19:00. Recheck seasonal and evening arrangements."
+    },
+    {
+      "id": "ssas-jinan-sight-4967",
+      "name": "大明湖景区",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.jinan.gov.cn/col/col118356/art/2026/art_5091525fd2244615b82340ef347bab01.html",
+        "closedWeekdays": [],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "北部老区05:00—22:00，南部新区全天开放；超然楼等独立设施另查。",
+      "openingEn": "Northern old area 05:00–22:00; southern new area open around the clock. Check separate buildings and facilities."
+    },
+    {
+      "id": "ssas-jinan-sight-4976",
+      "name": "五龙潭公园",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.jinan.gov.cn/col/col118356/art/2026/art_5091525fd2244615b82340ef347bab01.html",
+        "closedWeekdays": [],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "07:00—22:30，22:00停止入园；季节和临时安排另查。",
+      "openingEn": "07:00–22:30; last entry 22:00. Check seasonal and temporary arrangements."
+    },
+    {
+      "id": "bj-sight-229",
+      "name": "故宫博物院",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.dpm.org.cn/Visit.html",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "4月1日—10月31日08:30—17:00，16:00停止入馆；11月1日—次年3月31日08:30—16:30，15:30停止入馆。常规周一闭馆，法定节假日例外。",
+      "openingEn": "April–October 08:30–17:00, last entry 16:00; November–March 08:30–16:30, last entry 15:30. Normally closed Mondays except national holidays."
+    },
+    {
+      "id": "bj-sight-62722",
+      "name": "中国国家博物馆",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://pcticket.chnmuseum.cn/museum-en/",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "常规09:00—17:00，16:00停止入馆；6月1日—10月31日延长至17:30，16:30停止入馆。常规周一闭馆，节假日安排另查。",
+      "openingEn": "Normally 09:00–17:00, last entry 16:00; June–October extended to 17:30, last entry 16:30. Monday closure and holiday exceptions require checking."
+    },
+    {
+      "id": "sh-sight-3733",
+      "name": "上海博物馆人民广场馆",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.shanghaimuseum.cn/mu/frontend/pg/service/visit-west",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "人民广场馆09:00—17:00，15:00停止入场；延时场次到21:00、19:00停止入场，以票面日期为准。周一闭馆，国定假日例外。特展安排至2027年11月14日。",
+      "openingEn": "People’s Square 09:00–17:00, last entry 15:00. Dated extended sessions end at 21:00, last entry 19:00; use the booked session. Closed Mondays except national holidays. Exhibition arrangements end November 14, 2027."
+    },
+    {
+      "id": "sh-sight-5717748",
+      "name": "上海博物馆东馆",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.shanghaimuseum.cn/mu/frontend/pg/service/visit-east",
+        "closedWeekdays": [
+          2
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "东馆10:00—18:00，17:00停止入场；周二闭馆，国定假日例外。",
+      "openingEn": "East branch 10:00–18:00, last entry 17:00; closed Tuesdays except national holidays."
+    },
+    {
+      "id": "sc-deyang-sight-48854",
+      "name": "三星堆博物馆",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.sxd.cn/Guide?type=3",
+        "closedWeekdays": [],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "常规08:30—18:00，17:00停止入馆；节假日延长时段以当期公告为准，除夕闭馆规则另查。",
+      "openingEn": "Normally 08:30–18:00, last entry 17:00. Recheck holiday extensions and Lunar New Year’s Eve closure notices."
+    },
+    {
+      "id": "hh-zhengzhou-sight-9593",
+      "name": "河南博物院",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.chnmus.net/ch/service/index.html?active=2",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "当前官网列周二至周日09:00—20:30，19:30停止入馆，周一闭馆（国定假日例外）；晚间票须按当期放票规则，延时安排可能调整。",
+      "openingEn": "Current official page lists Tuesday–Sunday 09:00–20:30, last entry 19:30; closed Mondays except national holidays. Evening tickets follow current release rules; extended access can change."
+    },
+    {
+      "id": "jz-nanjing-sight-19519",
+      "name": "南京博物院",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.njmuseum.org.cn/zh/visitIndex",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "常规09:00—17:00，16:00停止检票；周一闭馆，国定假日、寒暑假及临时延时安排另核。个别展厅维护不等于全馆闭馆，开放展厅分别核对。",
+      "openingEn": "Normally 09:00–17:00, last entry 16:00. Closed Mondays; recheck national holidays, school-holiday and temporary extensions. Maintenance of individual galleries does not close the entire museum; check each gallery."
+    },
+    {
+      "id": "ssas-hefei-sight-1682342",
+      "name": "安徽博物院(新馆)",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.ahm.cn/En/Home",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "新馆常规周二至周日09:00—17:00，16:30停止入馆；周一闭馆，法定节假日例外。",
+      "openingEn": "New museum normally Tuesday–Sunday 09:00–17:00, last entry 16:30; Monday closure except national holidays."
+    },
+    {
+      "id": "mo-sight-26481",
+      "name": "郑家大屋",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.macaotourism.gov.mo/zh-hans/sightseeing/museums-and-galleries/mandarins-house",
+        "closedWeekdays": [
+          3
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "10:00—18:00，17:30停止入场；周三休息，公众假期例外。",
+      "openingEn": "10:00–18:00, last entry 17:30; closed Wednesdays except public holidays."
+    },
+    {
+      "id": "d321",
+      "name": "龙环葡韵",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.macauculture.gov.mo/en/housesmuseum",
+        "closedWeekdays": [
+          1
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "博物馆10:00—19:00，18:30停止入场，周一休馆；周边商业空间各自营业。",
+      "openingEn": "Museum 10:00–19:00, last entry 18:30; closed Mondays. Nearby commercial spaces keep separate hours."
+    },
+    {
+      "id": "tw-tnn-sight-1787597",
+      "name": "奇美博物馆",
+      "visitPolicy": {
+        "checked": "2026-10-27",
+        "sourceUrl": "https://www.chimeimuseum.tw/en",
+        "closedWeekdays": [
+          3
+        ],
+        "holidayExceptions": true,
+        "note": "常规安排；节假日、临时闭馆和延长时段需另查"
+      },
+      "opening": "09:30—17:30，17:00停止入场；周三及除夕休馆，临时和假日安排另核。",
+      "openingEn": "09:30–17:30, last entry 17:00; closed Wednesdays and Lunar New Year’s Eve. Check temporary and holiday notices."
+    }
+  ],
+  "photos": [
+    {
+      "id": "ssas-jinan-sight-5412",
+      "file": "licensed-shandong-museum.jpg",
+      "name": "山东博物馆",
+      "title": "Shandong Museum Building.jpg",
+      "author": "Baomi",
+      "date": "2014-06-03",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/69/Shandong_Museum_Building.jpg",
+      "previousImage": {
+        "path": "assets/ssas-jinan-sight-5412.jpg",
+        "url": "https://you.ctrip.com/sight/jinan128/5412.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0106w12000fe23h358DCB.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/jinan128/5412.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "山东博物馆 · 来源页建筑、局部景观、展陈或活动照片；非全景，拍摄日期未知，活动及季节效果不代表当天安排",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Shandong Museum · source-page building, landscape detail, display or activity photograph; not a panorama, capture date unknown, activities and seasons are not current promises",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "sha256": "b22c7413c7dc74bdbed97eb79670b900efdd51b83b3e641e89a51014e3160fd8"
+    },
+    {
+      "id": "sc-deyang-sight-48854",
+      "file": "licensed-sanxingdui.jpg",
+      "name": "三星堆博物馆新馆",
+      "title": "New Sandingdui Museum 02.jpg",
+      "author": "STW932",
+      "date": "2023-08-24",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/71/New_Sandingdui_Museum_02.jpg",
+      "previousImage": {
+        "path": "assets/sc-deyang-sight-48854.jpg",
+        "url": "https://you.ctrip.com/sight/guanghan1349/48854.html",
+        "originalUrl": "https://dimg04.c-ctrip.com/images/0104o12000h0jx9pr937E.jpg",
+        "author": "来源页未明确摄影署名",
+        "license": "原站版权图片，非开放许可；转载授权未核实",
+        "licenseUrl": "https://you.ctrip.com/sight/guanghan1349/48854.html",
+        "date": "",
+        "dateStatus": "unknown",
+        "rightsStatus": "source-copyright",
+        "caption": "三星堆博物馆 · 来源页实景参考，拍摄日期、季节与后期处理未核实",
+        "modified": "网页裁切缩放",
+        "en": {
+          "caption": "Sanxingdui Museum · source-page reference photograph; capture date, season and editing unconfirmed",
+          "license": "Source copyright, not an open licence; republication permission unconfirmed"
+        }
+      },
+      "sha256": "09ece673d5178c258fa3a946e80deb04abde69b423dcec60763dcb0cd36529f6"
+    }
+  ],
+  "mealAdvice": [
+    {
+      "id": "food-sc-chengdu-27388618",
+      "city": "成都",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/chengdu104/27388618.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-sc-chengdu-24558625",
+      "city": "成都",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/chengdu104/24558625.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-sc-chengdu-11383520",
+      "city": "成都",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/chengdu104/11383520.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-sc-chengdu-11384450",
+      "city": "成都",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/chengdu104/11384450.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-cq-24568837",
+      "city": "重庆",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/24568837.html",
+      "sourceChecked": "2026-10-17",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-cq-379002",
+      "city": "重庆",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/379002.html",
+      "sourceChecked": "2026-10-17",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-mu2-cq-378998",
+      "city": "重庆",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/378998.html",
+      "sourceChecked": "2026-10-20",
+      "mealSlots": [
+        "snack"
+      ]
+    },
+    {
+      "id": "food-cq-11566727",
+      "city": "重庆",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/chongqing158/11566727.html",
+      "sourceChecked": "2026-10-17",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-mu2-bj-10562160",
+      "city": "北京",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/beijing1/10562160.html",
+      "sourceChecked": "2026-10-20",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-bj-10562188",
+      "city": "北京",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/Beijing1/10562188.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-bj-4936235",
+      "city": "北京",
+      "source": "https://you.ctrip.com/food/beijing1/4936235.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "snack"
+      ]
+    },
+    {
+      "id": "food-bj-4937256",
+      "city": "北京",
+      "source": "https://you.ctrip.com/food/beijing1/4937256.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-sh-10561290",
+      "city": "上海",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/Shanghai2/10561290.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-sh-4926728",
+      "city": "上海",
+      "source": "https://you.ctrip.com/food/shanghai2/4926728.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-sh-4998230",
+      "city": "上海",
+      "source": "https://you.ctrip.com/food/shanghai2/4998230.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-sh-340902",
+      "city": "上海",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/Shanghai2/340902.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-jz-nanjing-11255719",
+      "city": "南京",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/nanjing9/11255719.html",
+      "sourceChecked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-jz-nanjing-11238624",
+      "city": "南京",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/nanjing9/11238624.html",
+      "sourceChecked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-jz-nanjing-11238576",
+      "city": "南京",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/nanjing9/11238576.html",
+      "sourceChecked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-jz-nanjing-10560185",
+      "city": "南京",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/nanjing9/10560185.html",
+      "sourceChecked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-jz-hangzhou-288373",
+      "city": "杭州",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/hangzhou14/288373.html",
+      "sourceChecked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-jz-hangzhou-10561958",
+      "city": "杭州",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/hangzhou14/10561958.html",
+      "sourceChecked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-jz-hangzhou-11290799",
+      "city": "杭州",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/hangzhou14/11290799.html",
+      "sourceChecked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-jz-hangzhou-11290019",
+      "city": "杭州",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/hangzhou14/11290019.html",
+      "sourceChecked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-hn-cs-393690",
+      "city": "长沙",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/Changsha148/393690.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "snack"
+      ]
+    },
+    {
+      "id": "food-hn-cs-10562067",
+      "city": "长沙",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/Changsha148/10562067.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "snack"
+      ]
+    },
+    {
+      "id": "food-hn-cs-16976158",
+      "city": "长沙",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/Changsha148/16976158.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "food-hn-cs-57218039",
+      "city": "长沙",
+      "source": "https://you.ctrip.com/yougourmet/restdetail/Changsha148/57218039.html",
+      "sourceChecked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "id": "meal-20261027-0e13d60887",
+      "region": "四川",
+      "city": "成都",
+      "title": "成都：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-sc-chengdu-27388618",
+        "food-sc-chengdu-24558625"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Chengdu: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-53e3d2c843",
+      "region": "四川",
+      "city": "成都",
+      "title": "成都：地方正餐补充选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-sc-chengdu-11383520",
+        "food-sc-chengdu-11384450"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Chengdu: more local meal choices",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-e5aa762dd1",
+      "region": "重庆",
+      "city": "重庆",
+      "title": "重庆：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-17",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-cq-24568837",
+        "food-cq-379002",
+        "food-cq-11566727"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Chongqing: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-510628d55e",
+      "region": "重庆",
+      "city": "重庆",
+      "title": "重庆：特色加餐候选",
+      "route": "从下列具体分店选择一项特色加餐，先问份量与现行菜单，不当作完整正餐。当天已有同类食物可略过，是否顺路先在地图核对，不要求全部吃完。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-17",
+      "mealSlots": [
+        "snack"
+      ],
+      "foodIds": [
+        "food-mu2-cq-378998"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Chongqing: local snack candidates",
+        "route": "Choose one listed branch for a local snack and ask about portions and the current menu. This is not a complete meal. Skip similar food already planned, check locations, and do not feel obliged to eat at every stop.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-0c370ba054",
+      "region": "北京",
+      "city": "北京",
+      "title": "北京：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-mu2-bj-10562160",
+        "food-bj-10562188",
+        "food-bj-4937256"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Beijing: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-fe7458712c",
+      "region": "北京",
+      "city": "北京",
+      "title": "北京：特色加餐候选",
+      "route": "从下列具体分店选择一项特色加餐，先问份量与现行菜单，不当作完整正餐。当天已有同类食物可略过，是否顺路先在地图核对，不要求全部吃完。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "snack"
+      ],
+      "foodIds": [
+        "food-bj-4936235"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Beijing: local snack candidates",
+        "route": "Choose one listed branch for a local snack and ask about portions and the current menu. This is not a complete meal. Skip similar food already planned, check locations, and do not feel obliged to eat at every stop.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-c0c144997e",
+      "region": "上海",
+      "city": "上海",
+      "title": "上海：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-sh-10561290",
+        "food-sh-4926728"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Shanghai: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-8d1dc9c743",
+      "region": "上海",
+      "city": "上海",
+      "title": "上海：地方正餐补充选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-sh-4998230",
+        "food-sh-340902"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Shanghai: more local meal choices",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-22dad0134c",
+      "region": "江苏",
+      "city": "南京",
+      "title": "南京：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-jz-nanjing-11255719",
+        "food-jz-nanjing-11238624"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Nanjing: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-3d50ff4dbe",
+      "region": "江苏",
+      "city": "南京",
+      "title": "南京：地方正餐补充选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-jz-nanjing-11238576",
+        "food-jz-nanjing-10560185"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Nanjing: more local meal choices",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-ba9d2bcdb4",
+      "region": "浙江",
+      "city": "杭州",
+      "title": "杭州：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-jz-hangzhou-288373",
+        "food-jz-hangzhou-10561958"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Hangzhou: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-fc0962ecc7",
+      "region": "浙江",
+      "city": "杭州",
+      "title": "杭州：地方正餐补充选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-19",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-jz-hangzhou-11290799",
+        "food-jz-hangzhou-11290019"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Hangzhou: more local meal choices",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-c93dbfe96f",
+      "region": "湖南",
+      "city": "长沙",
+      "title": "长沙：地方正餐替代选择",
+      "route": "下列具体分店为午餐或晚餐的替代选择，先选一家再按所列地方特色点菜；核对份量、辣度、过敏原与菜单。先看当天景点与分店实际位置，跨片区不勉强连吃。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "foodIds": [
+        "food-hn-cs-16976158",
+        "food-hn-cs-57218039"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Changsha: alternative local meals",
+        "route": "These exact branches are alternatives for lunch or dinner. Choose one and order from its listed local dishes; confirm portions, spice, allergens and the current menu. Use your day’s sightseeing and actual branch locations to avoid unnecessary cross-city meals.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    },
+    {
+      "id": "meal-20261027-3f46d27106",
+      "region": "湖南",
+      "city": "长沙",
+      "title": "长沙：特色加餐候选",
+      "route": "从下列具体分店选择一项特色加餐，先问份量与现行菜单，不当作完整正餐。当天已有同类食物可略过，是否顺路先在地图核对，不要求全部吃完。",
+      "editorial": true,
+      "plannedAt": "2026-10-27",
+      "checked": "2026-10-18",
+      "mealSlots": [
+        "snack"
+      ],
+      "foodIds": [
+        "food-hn-cs-393690",
+        "food-hn-cs-10562067"
+      ],
+      "note": "编辑分餐建议，非实测步行路线或营业时间保证。沿用各分店原始查阅日期与历史人均，未将本次编辑日期冒充评价更新时间；新加入店铺默认不计费，勾选一家后计入，自填餐饮仅覆盖清单外餐食。",
+      "en": {
+        "title": "Changsha: local snack candidates",
+        "route": "Choose one listed branch for a local snack and ask about portions and the current menu. This is not a complete meal. Skip similar food already planned, check locations, and do not feel obliged to eat at every stop.",
+        "note": "Editorial meal suggestions, not a verified walk or an opening guarantee. Original branch check dates and historical averages are retained; the editorial date is not a new review check. New shops are off until selected; manual dining covers meals outside the list."
+      }
+    }
+  ]
+}
