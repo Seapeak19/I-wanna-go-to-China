@@ -16,7 +16,7 @@ I wanna go to China helps people discover destinations, inspect source-backed at
 
 ## Operating Context
 
-Visitors browse province → city/prefecture → district/county, or filter and search the catalog. Regional groups such as 华南 and 华东 remain available. Guides and food references connect to a locally saved itinerary. Full planning, comparison and source detail are useful after initial discovery.
+Visitors browse province → city/prefecture → attractions, or filter and search the catalog. Districts and counties are shown as labels on attraction photographs, using explicit records or addresses; uncertain labels remain unconfirmed. Municipalities open directly to attractions. Regional groups such as 华南 and 华东 remain available. Guides and food references connect to a locally saved itinerary. Full planning, comparison and source detail are useful after initial discovery.
 
 ## Capabilities and Constraints
 

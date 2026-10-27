@@ -12,5 +12,19 @@
  const fits=x=>x.region===region&&(!cityNode||(city&&x.city===city))&&(!county||normalize(x.district)===county||(!x.district&&normalize(x.location||x.address).includes(county)));
  return{region,city,county,cityUnmapped:!!cityNode&&!city,destinations:data.destinations.filter(x=>x.entryType==='attraction'&&fits(x)),foods:data.foods.filter(x=>x.recommendationStatus!=='research-only'&&fits(x)),pending:false};
  }
- return Object.freeze({normalize,regionShort,ancestry,scope});
+ // Browsing stops at the city. Old district links open their containing city.
+ function browseArea(nodes,id){if(id==='100000')return id;const n=nodes[id];if(!n)return'100000';if(n.level==='province'||n.level==='city')return id;const chain=ancestry(nodes,id);return chain.find(x=>x.level==='city')?.id||chain.find(x=>x.level==='province')?.id||'100000';}
+ function browseChildren(nodes,id){return Object.values(nodes).filter(n=>String(n.parent)===id&&(n.level==='province'||n.level==='city'));}
+ function showsAttractions(nodes,id){return id!=='100000'&&!!nodes[id]&&(nodes[id].level==='city'||nodes[id].level==='province'&&!browseChildren(nodes,id).length);}
+ const districtIndexes=new WeakMap();
+ function districtLabel(record,nodes){
+  if(!nodes||!record)return null;
+  let index=districtIndexes.get(nodes);if(!index){index=Object.values(nodes).filter(n=>n.level==='district').map(n=>{const chain=ancestry(nodes,n.id);return{name:n.name,key:normalize(n.name),region:regionShort(chain.find(p=>p.level==='province')?.name),city:normalize(chain.find(p=>p.level==='city')?.name)};});districtIndexes.set(nodes,index);}
+  const region=regionShort(record.region),city=normalize(record.city),district=normalize(record.district),address=normalize(record.location||'');
+  const candidates=index.filter(n=>n.region===region&&(!n.city||city&&n.city.startsWith(city)));
+  const exact=candidates.filter(n=>n.key===district);if(exact.length===1)return exact[0].name;
+  // Only the explicit address is evidence; never guess from a place name or description.
+  const matches=candidates.filter(n=>address.includes(n.key));return matches.length===1?matches[0].name:null;
+ }
+ return Object.freeze({normalize,regionShort,ancestry,scope,browseArea,browseChildren,showsAttractions,districtLabel});
 });
