@@ -1,40 +1,40 @@
 {
-  "checked": "2026-10-27",
+  "checked": "2026-10-28",
   "events": [
     {
       "provider": "ECB",
       "status": "updated",
-      "date": "2026-10-26"
+      "date": "2026-10-27"
     },
     {
       "provider": "Bank of Russia",
       "status": "updated",
-      "date": "2026-10-27"
+      "date": "2026-10-28"
     },
     {
       "provider": "Bank of Taiwan",
-      "status": "updated",
-      "date": "2026-10-27"
+      "status": "retained",
+      "reason": "Taiwan Bank access is restricted; retain the prior quote"
     }
   ],
   "referenceDates": {
-    "ecb": "2026-10-26",
-    "rub": "2026-10-27",
+    "ecb": "2026-10-27",
+    "rub": "2026-10-28",
     "twd": "2026-10-27"
   },
   "rates": {
     "CNY": 1,
-    "USD": 0.14996715949760733,
-    "EUR": 0.13404286690883743,
-    "GBP": 0.11235473104298754,
-    "JPY": 23.611651005991718,
-    "HKD": 1.1764674342854844,
-    "SGD": 0.19204321542029143,
-    "AUD": 0.2134900741257054,
-    "CAD": 0.21038027961342035,
-    "KRW": 198.74803962307146,
-    "RUB": 12.068,
-    "MOP": 1.211761457314049,
+    "USD": 0.14998049580996192,
+    "EUR": 0.13451165543494342,
+    "GBP": 0.11252976070376497,
+    "JPY": 23.670016006886996,
+    "HKD": 1.1765196454272764,
+    "SGD": 0.19214989978881672,
+    "AUD": 0.2132816808576463,
+    "CAD": 0.21032242443807755,
+    "KRW": 199.13643517210767,
+    "RUB": 12.0677,
+    "MOP": 1.2118152347900948,
     "TWD": 4.8759999999999994
   },
   "note": "Provider failures retain the prior quote and its date; no invented timestamp or executable bank quote."
