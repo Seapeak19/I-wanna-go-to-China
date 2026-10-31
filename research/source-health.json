@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-30",
+  "checked": "2026-10-31",
   "method": "Availability only; HTTP success is not price, review or operating-status verification.",
   "entries": [
     {
@@ -813,6 +813,268 @@
       "status": "reachable",
       "httpStatus": 200,
       "finalUrl": "https://whhlyt.jl.gov.cn/ggfw/whcg/bwg/201603/t20160301_3107928.html"
+    },
+    {
+      "url": "https://www.eco-city.gov.cn/p1/zwgg/20211104/46150.html",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://whly.tj.gov.cn/XWDTYXWZX6562/gzdtnew/202210/t20221027_6019690.html",
+      "checked": "2026-10-31",
+      "status": "restricted",
+      "httpStatus": 403,
+      "finalUrl": "https://whly.tj.gov.cn/XWDTYXWZX6562/gzdtnew/202210/t20221027_6019690.html"
+    },
+    {
+      "url": "https://wenwu.hebei.gov.cn/system/2024/07/09/030296951.shtml",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://whly.hebei.gov.cn/c/2025-08-21/582108.html",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://whly.hebei.gov.cn/c/2023-12-11/574692.html",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://wenwu.hebei.gov.cn/system/2023/09/27/030253954.shtml",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.tjkp.org.cn/a_gz/kpjd/202201/t20220107_160537.html",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.panda.org.cn/en/service/ticket/",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.djy517.com/online.html?channelCode=mpyd",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 206,
+      "finalUrl": "https://www.djy517.com/online.html?channelCode=mpyd"
+    },
+    {
+      "url": "https://www.sxd.cn/Guide?type=3",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.cddfct.cn/go-a2322.htm",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.cddfct.cn/go-a2322.htm"
+    },
+    {
+      "url": "https://www.cdmuseum.com/xinwen/202011/1484.html",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.cdmuseum.com/xinwen/202011/1484.html"
+    },
+    {
+      "url": "https://www.jiuzhai.com/intelligent-service/tickets",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.wlmq.gov.cn/wlmqs/c119295/202610/68c0c721ac9a4213a886064c2fcd4850.shtml",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.wuhouci.net.cn/",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.wuhouci.net.cn/"
+    },
+    {
+      "url": "https://www.leshan.gov.cn/lsswszf/zzzqgsgg/760644150124613.html",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.leshan.gov.cn/lsswszf/zzzqgsgg/760644150124613.html"
+    },
+    {
+      "url": "https://wlt.xinjiang.gov.cn/wlt/c112791/202409/e9392913591d403885cf81adac0e44f4.shtml",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.xjakt.gov.cn/xjakt/c104939/202308/497624299d0f400d86e34d0cf7e52fb5.shtml",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.sina.cn/news/detail/5327777362349693.html",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.sina.cn/news/detail/5327777362349693.html"
+    },
+    {
+      "url": "https://wlgd.baotou.gov.cn/ztzl/ggwhcphfw/202208/t20220818_76239.html",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://whhlyt.nx.gov.cn/jqjd/ycs_66553/",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://whhlyt.nx.gov.cn/jqjd/index_2.html",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://whhlyt.nx.gov.cn/jqjd/index_3.html",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://whhlyt.nx.gov.cn/jqjd/index_3.html"
+    },
+    {
+      "url": "https://whhlyt.nx.gov.cn/jqjd/ycs_66553/index_1.html",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://whhlyt.nx.gov.cn/jqjd/ycs_66553/index_1.html"
+    },
+    {
+      "url": "https://www.chnmus.net/ch/service/index.html",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.chnmus.net/ch/service/index.html"
+    },
+    {
+      "url": "https://2023.qmsyun.com/shop.php",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://2023.qmsyun.com/shop.php"
+    },
+    {
+      "url": "https://www.qhskjg.org.cn/xwzx/tzgg/art/2026/art_0fa622475e5c4b448bad26ed60a8f184.html",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.qhskjg.org.cn/xwzx/tzgg/art/2026/art_0fa622475e5c4b448bad26ed60a8f184.html"
+    },
+    {
+      "url": "https://qhsbwg.hdwbcloud.com/gticketw/",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 206,
+      "finalUrl": "https://qhsbwg.hdwbcloud.com/gticketw/"
+    },
+    {
+      "url": "https://www.kaifeng.gov.cn/kfsrmzfwz/whty/pc/content/content_1873557496836997120.html",
+      "checked": "2026-10-31",
+      "status": "restricted",
+      "httpStatus": 403,
+      "finalUrl": "https://www.kaifeng.gov.cn/kfsrmzfwz/whty/pc/content/content_1873557496836997120.html"
+    },
+    {
+      "url": "https://lmsk.cn/",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://lmsk.cn/"
+    },
+    {
+      "url": "https://www.laojunshan.cn/?locale=zh_CN",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://www.laojunshan.cn/?locale=zh_CN"
+    },
+    {
+      "url": "https://fgw.wuhan.gov.cn/zfxxgk/zfxxgk_4/sysf/202604/P020260518549310243435.pdf",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 206,
+      "finalUrl": "https://fgw.wuhan.gov.cn/zfxxgk/zfxxgk_4/sysf/202604/P020260518549310243435.pdf"
+    },
+    {
+      "url": "https://www.hbqj.gov.cn/xxgk/xxgkml/szfxxgkml/gysyjs/ly/ggfw/202502/t20250228_5557555.html",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.njmuseum.org.cn/zh/visitIndex",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 206,
+      "finalUrl": "https://www.njmuseum.org.cn/zh/visitIndex"
+    },
+    {
+      "url": "https://zschina.nanjing.gov.cn/lyzx/202509/t20250930_5660552.html",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://zschina.nanjing.gov.cn/lyzx/202509/t20250930_5660552.html"
+    },
+    {
+      "url": "https://hbww.org.cn/fuwu/index.html",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://hbww.org.cn/fuwu/index.html"
+    },
+    {
+      "url": "https://www.nanjing.gov.cn/zdgk/201011/t20101111_1055494.html",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.songshancn.com/service.php",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.njztf.cn/notice_visitors/detail/52.html",
+      "checked": "2026-10-31",
+      "status": "unavailable",
+      "httpStatus": 502,
+      "finalUrl": "https://www.njztf.cn/notice_visitors/detail/52.html"
+    },
+    {
+      "url": "https://credit.suzhou.gov.cn/html/wap_jgsc",
+      "checked": "2026-10-31",
+      "status": "reachable",
+      "httpStatus": 200,
+      "finalUrl": "https://credit.suzhou.gov.cn/html/wap_jgsc"
     }
   ]
 }
