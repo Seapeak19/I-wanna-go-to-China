@@ -1,8 +1,8 @@
 (function(root){
   'use strict';
-  const euro={"EUR":1,"CNY":7.459,"USD":1.1179,"GBP":0.83358,"JPY":176.95,"HKD":8.771,"SGD":1.4322,"AUD":1.6007,"CAD":1.5623,"KRW":1503.12};
+  const euro={"EUR":1,"CNY":7.5177,"USD":1.1267,"GBP":0.8346,"JPY":178.3,"HKD":8.8399,"SGD":1.4398,"AUD":1.6061,"CAD":1.5701,"KRW":1508.18};
   const codes=['CNY','USD','EUR','GBP','JPY','HKD','SGD','AUD','CAD','KRW','RUB','MOP','TWD'];
-  const snapshot={date:'2026-11-03',source:'European Central Bank',url:'https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml',rates:Object.fromEntries(codes.map(c=>[c,c==='RUB'?12.1816:c==='MOP'?euro.HKD/euro.CNY*1.03:c==='TWD'?4.8759999999999994:euro[c]/euro.CNY]))};
+  const snapshot={date:'2026-11-04',source:'European Central Bank',url:'https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml',rates:Object.fromEntries(codes.map(c=>[c,c==='RUB'?12.1816:c==='MOP'?euro.HKD/euro.CNY*1.03:c==='TWD'?4.8759999999999994:euro[c]/euro.CNY]))};
   const rubReference={"date":"2026-11-04","source":"Bank of Russia","url":"https://www.cbr.ru/scripts/XML_daily.asp?date_req=04/11/2026","nominal":1,"value":12.1816,"rate":12.1816};
   function reference(code){return code==='RUB'?rubReference:code==='MOP'?{date:snapshot.date,source:'AMCM / ECB cross rate',url:'https://www.amcm.gov.mo/en/currency/currency-in-circulation-in-macao/coins/currency-in-circulation-in-macao',peg:1.03,baseCurrency:'HKD',baseSourceUrl:snapshot.url}:code==='TWD'?{"date":"2026-10-27","observedAt":"2026-10-27 07:51","source":"Bank of Taiwan / calculated midpoint","url":"https://rate.bot.com.tw/xrt?Lang=zh-TW","buy":4.846,"sell":4.906,"rate":4.8759999999999994}:snapshot}
   function validRate(n){return Number.isFinite(n)&&n>0&&n<=1000000}
