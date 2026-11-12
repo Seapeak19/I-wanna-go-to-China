@@ -1,9 +1,9 @@
 (function(root){
   'use strict';
-  const euro={"EUR":1,"CNY":7.4801,"USD":1.1214,"GBP":0.83545,"JPY":177.38,"HKD":8.7973,"SGD":1.4335,"AUD":1.6244,"CAD":1.5852,"KRW":1501.56};
+  const euro={"EUR":1,"CNY":7.4225,"USD":1.1127,"GBP":0.83618,"JPY":177.18,"HKD":8.7298,"SGD":1.4271,"AUD":1.6222,"CAD":1.5839,"KRW":1487.57};
   const codes=['CNY','USD','EUR','GBP','JPY','HKD','SGD','AUD','CAD','KRW','RUB','MOP','TWD'];
-  const snapshot={date:'2026-11-10',source:'European Central Bank',url:'https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml',rates:Object.fromEntries(codes.map(c=>[c,c==='RUB'?12.3845:c==='MOP'?euro.HKD/euro.CNY*1.03:c==='TWD'?4.8759999999999994:euro[c]/euro.CNY]))};
-  const rubReference={"date":"2026-11-11","source":"Bank of Russia","url":"https://www.cbr.ru/scripts/XML_daily.asp?date_req=11/11/2026","nominal":1,"value":12.3845,"rate":12.3845};
+  const snapshot={date:'2026-11-11',source:'European Central Bank',url:'https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml',rates:Object.fromEntries(codes.map(c=>[c,c==='RUB'?12.3907:c==='MOP'?euro.HKD/euro.CNY*1.03:c==='TWD'?4.8759999999999994:euro[c]/euro.CNY]))};
+  const rubReference={"date":"2026-11-12","source":"Bank of Russia","url":"https://www.cbr.ru/scripts/XML_daily.asp?date_req=12/11/2026","nominal":1,"value":12.3907,"rate":12.3907};
   function reference(code){return code==='RUB'?rubReference:code==='MOP'?{date:snapshot.date,source:'AMCM / ECB cross rate',url:'https://www.amcm.gov.mo/en/currency/currency-in-circulation-in-macao/coins/currency-in-circulation-in-macao',peg:1.03,baseCurrency:'HKD',baseSourceUrl:snapshot.url}:code==='TWD'?{"date":"2026-10-27","observedAt":"2026-10-27 07:51","source":"Bank of Taiwan / calculated midpoint","url":"https://rate.bot.com.tw/xrt?Lang=zh-TW","buy":4.846,"sell":4.906,"rate":4.8759999999999994}:snapshot}
   function validRate(n){return Number.isFinite(n)&&n>0&&n<=1000000}
   function convert(cny,code,rates=snapshot.rates){if(!codes.includes(code)||!validRate(rates[code])||!Number.isFinite(cny))throw Error('Invalid currency or amount');return cny*rates[code]}
